@@ -19,10 +19,16 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Atascosa,Texas,-98.5272,28.8935,1,local,1.0
 ,Bailey,Texas,-102.8299,34.0686,2,imported,0.0
 ,Bailey,Texas,-102.8299,34.0686,2,local,2.0
+,Bell,Texas,-97.4788,31.0373,1,imported,0.0
+,Bell,Texas,-97.4788,31.0373,1,local,1.0
+,Benton,Arkansas,-94.2561,36.3387,1,imported,0.0
+,Benton,Arkansas,-94.2561,36.3387,1,local,1.0
 ,Bergen,New Jersey,-74.0742,40.9597,3,imported,1.0
 ,Bergen,New Jersey,-74.0742,40.9597,3,local,2.0
 ,Borden,Texas,-101.4317,32.7436,1,imported,0.0
 ,Borden,Texas,-101.4317,32.7436,1,local,1.0
+,Boulder,Colorado,-105.3577,40.0925,1,imported,1.0
+,Boulder,Colorado,-105.3577,40.0925,1,local,0.0
 ,Brazoria,Texas,-95.4521,29.1898,1,imported,0.0
 ,Brazoria,Texas,-95.4521,29.1898,1,local,1.0
 ,Brewster,Texas,-103.2517,29.8119,1,imported,0.0
@@ -57,8 +63,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Dakota,Minnesota,-93.0654,44.6719,1,local,1.0
 ,Dallam,Texas,-102.6022,36.2779,7,imported,0.0
 ,Dallam,Texas,-102.6022,36.2779,7,local,7.0
-,Dawson,Texas,-101.9476,32.7426,27,imported,0.0
-,Dawson,Texas,-101.9476,32.7426,27,local,27.0
+,Dawson,Texas,-101.9476,32.7426,26,imported,0.0
+,Dawson,Texas,-101.9476,32.7426,26,local,26.0
 ,Defiance,Ohio,-84.4905,41.3239,1,imported,1.0
 ,Defiance,Ohio,-84.4905,41.3239,1,local,0.0
 ,Denton,Texas,-97.1168,33.2055,2,imported,0.0
@@ -97,8 +103,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Fresno,California,-119.6493,36.7582,2,local,1.0
 ,Fulton,Georgia,-84.467,33.7902,5,imported,2.0
 ,Fulton,Georgia,-84.467,33.7902,5,local,3.0
-,Gaines,Texas,-102.6352,32.7408,411,imported,0.0
-,Gaines,Texas,-102.6352,32.7408,411,local,411.0
+,Gaines,Texas,-102.6352,32.7408,413,imported,0.0
+,Gaines,Texas,-102.6352,32.7408,413,local,413.0
 ,Gallatin,Montana,-111.1704,45.5404,12,imported,5.0
 ,Gallatin,Montana,-111.1704,45.5404,12,local,7.0
 ,Garza,Texas,-101.2984,33.1799,2,imported,0.0
@@ -115,8 +121,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Harris,Texas,-95.3938,29.8578,3,local,3.0
 ,Harrison,Texas,-94.3715,32.5481,1,imported,0.0
 ,Harrison,Texas,-94.3715,32.5481,1,local,1.0
-,Haskell,Kansas,-100.8712,37.5622,15,imported,0.0
-,Haskell,Kansas,-100.8712,37.5622,15,local,15.0
+,Haskell,Kansas,-100.8712,37.5622,16,imported,0.0
+,Haskell,Kansas,-100.8712,37.5622,16,local,16.0
 ,Hays,Texas,-98.0312,30.0579,1,imported,0.0
 ,Hays,Texas,-98.0312,30.0579,1,local,1.0
 ,Hennepin,Minnesota,-93.477,45.0046,2,imported,2.0
@@ -143,8 +149,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Kiowa,Kansas,-99.2861,37.5582,6,local,6.0
 ,Knox,Ohio,-82.4215,40.3988,14,imported,0.0
 ,Knox,Ohio,-82.4215,40.3988,14,local,14.0
-,Lamar,Texas,-95.5712,33.6673,21,imported,0.0
-,Lamar,Texas,-95.5712,33.6673,21,local,21.0
+,Lamar,Texas,-95.5712,33.6673,23,imported,0.0
+,Lamar,Texas,-95.5712,33.6673,23,local,23.0
 ,Lamb,Texas,-102.3517,34.0686,1,imported,0.0
 ,Lamb,Texas,-102.3517,34.0686,1,local,1.0
 ,Lamoille,Vermont,-72.6419,44.607,1,imported,1.0
@@ -153,6 +159,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Lancaster,Pennsylvania,-76.2477,40.0424,1,local,1.0
 ,Lea,New Mexico,-103.4125,32.7921,67,imported,0.0
 ,Lea,New Mexico,-103.4125,32.7921,67,local,67.0
+,Leon,Florida,-84.2779,30.458,1,imported,1.0
+,Leon,Florida,-84.2779,30.458,1,local,0.0
 ,Los Angeles,California,-118.2247,34.3219,4,imported,4.0
 ,Los Angeles,California,-118.2247,34.3219,4,local,0.0
 ,Lubbock,Texas,-101.8205,33.6102,53,imported,0.0
@@ -165,8 +173,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Marquette,Michigan,-87.6416,46.4313,2,local,2.0
 ,Martin,Texas,-101.9513,32.306,3,imported,0.0
 ,Martin,Texas,-101.9513,32.306,3,local,3.0
-,McLennan,Texas,-97.2018,31.5524,8,imported,0.0
-,McLennan,Texas,-97.2018,31.5524,8,local,8.0
+,McLennan,Texas,-97.2018,31.5524,9,imported,0.0
+,McLennan,Texas,-97.2018,31.5524,9,local,9.0
 ,Meade,South Dakota,-102.7169,44.5668,1,imported,1.0
 ,Meade,South Dakota,-102.7169,44.5668,1,local,0.0
 ,Miami-Dade,Florida,-80.5624,25.615,1,imported,0.0
@@ -257,8 +265,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Travis,Texas,-97.782,30.3344,2,local,2.0
 ,Tuolumne,California,-119.9548,38.0276,2,imported,2.0
 ,Tuolumne,California,-119.9548,38.0276,2,local,0.0
-,Unknown County,Kansas,-96.409286,38.480984,15,imported,0.0
-,Unknown County,Kansas,-96.409286,38.480984,15,local,15.0
+,Unknown County,California,-119.347852,35.491035,2,imported,0.0
+,Unknown County,California,-119.347852,35.491035,2,local,2.0
+,Unknown County,Kansas,-96.409286,38.480984,16,imported,0.0
+,Unknown County,Kansas,-96.409286,38.480984,16,local,16.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,local,1.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0
