@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,97,1104,1201,34
+U.S.,97,1111,1208,41
 "Gaines, Texas",0,413,413,2
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,60,60,1
@@ -15,9 +15,9 @@ U.S.,97,1104,1201,34
 "Unknown County, Kansas",0,16,16,1
 "Williams, North Dakota",1,15,16,0
 "Cochran, Texas",0,14,14,0
+"Gallatin, Montana",5,9,14,3
 "Knox, Ohio",0,14,14,0
 "Ector, Texas",0,12,12,0
-"Gallatin, Montana",5,7,12,1
 "Grand Forks, North Dakota",2,8,10,0
 "McLennan, Texas",0,9,9,1
 "Allen, Indiana",0,8,8,0
@@ -28,13 +28,14 @@ U.S.,97,1104,1201,34
 "Stevens, Kansas",0,7,7,0
 "Cook, Illinois",1,5,6,0
 "Faulkner, Arkansas",1,5,6,0
+"Fulton, Georgia",2,4,6,1
 "Hockley, Texas",0,6,6,0
 "Kiowa, Kansas",0,6,6,0
 "Midland, Texas",0,6,6,1
 "New York, New York",0,6,6,0
 "Sandoval, New Mexico",0,6,6,0
 "Williamson, Texas",0,6,6,0
-"Fulton, Georgia",2,3,5,0
+"Eastern, Iowa",1,4,5,5
 "Hale, Texas",0,5,5,0
 "Parmer, Texas",0,5,5,0
 "Upshur, Texas",0,5,5,0
@@ -62,7 +63,6 @@ U.S.,97,1104,1201,34
 "Bailey, Texas",0,2,2,0
 "Denton, Texas",0,2,2,0
 "Dona Ana, New Mexico",0,2,2,0
-"Eastern, Iowa",1,1,2,2
 "Eastland, Texas",0,2,2,0
 "Flathead, Montana",2,0,2,0
 "Franklin, Kentucky",2,0,2,0
@@ -144,6 +144,7 @@ U.S.,97,1104,1201,34
 "Suffolk, New York",0,1,1,0
 "Taney, Missouri",1,0,1,0
 "Unknown County, California",0,1,1,1
+"Unknown County, Colorado",0,1,1,1
 "Unknown County, Minnesota",0,1,1,1
 "Washington, District of Columbia",1,0,1,1
 "Washington, Minnesota",1,0,1,0

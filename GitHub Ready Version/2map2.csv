@@ -73,8 +73,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 8031.0,Denver,Colorado,-104.8758,39.762,0,local,0.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,0,imported,0.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,0,local,0.0
-,Eastern,Iowa,-91.64545556,41.92909259,2,imported,1.0
-,Eastern,Iowa,-91.64545556,41.92909259,2,local,1.0
+,Eastern,Iowa,-91.64545556,41.92909259,5,imported,1.0
+,Eastern,Iowa,-91.64545556,41.92909259,5,local,4.0
 48133.0,Eastland,Texas,-98.8323,32.3271,0,imported,0.0
 48133.0,Eastland,Texas,-98.8323,32.3271,0,local,0.0
 48135.0,Ector,Texas,-102.5429,31.8692,0,imported,0.0
@@ -101,12 +101,12 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 39049.0,Franklin,Ohio,-83.0093,39.9695,0,local,0.0
 6019.0,Fresno,California,-119.6493,36.7582,0,imported,0.0
 6019.0,Fresno,California,-119.6493,36.7582,0,local,0.0
-13121.0,Fulton,Georgia,-84.467,33.7902,0,imported,0.0
-13121.0,Fulton,Georgia,-84.467,33.7902,0,local,0.0
+13121.0,Fulton,Georgia,-84.467,33.7902,1,imported,0.0
+13121.0,Fulton,Georgia,-84.467,33.7902,1,local,1.0
 48165.0,Gaines,Texas,-102.6352,32.7408,2,imported,0.0
 48165.0,Gaines,Texas,-102.6352,32.7408,2,local,2.0
-30031.0,Gallatin,Montana,-111.1704,45.5404,1,imported,0.0
-30031.0,Gallatin,Montana,-111.1704,45.5404,1,local,1.0
+30031.0,Gallatin,Montana,-111.1704,45.5404,3,imported,0.0
+30031.0,Gallatin,Montana,-111.1704,45.5404,3,local,3.0
 48169.0,Garza,Texas,-101.2984,33.1799,0,imported,0.0
 48169.0,Garza,Texas,-101.2984,33.1799,0,local,0.0
 38035.0,Grand Forks,North Dakota,-97.4569,47.9219,0,imported,0.0
@@ -269,6 +269,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 6109.0,Tuolumne,California,-119.9548,38.0276,0,local,0.0
 ,Unknown County,California,-119.347852,35.491035,1,imported,0.0
 ,Unknown County,California,-119.347852,35.491035,1,local,1.0
+,Unknown County,Colorado,-105.185361,39.534747,1,imported,0.0
+,Unknown County,Colorado,-105.185361,39.534747,1,local,1.0
 ,Unknown County,Kansas,-96.409286,38.480984,1,imported,0.0
 ,Unknown County,Kansas,-96.409286,38.480984,1,local,1.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
