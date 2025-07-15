@@ -123,8 +123,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Grand Forks,North Dakota,-97.4569,47.9219,10,local,8.0
 ,Grand Traverse,Michigan,-85.5605,44.6687,4,imported,0.0
 ,Grand Traverse,Michigan,-85.5605,44.6687,4,local,4.0
-,Gray,Kansas,-100.4379,37.7382,28,imported,0.0
-,Gray,Kansas,-100.4379,37.7382,28,local,28.0
+,Gray,Kansas,-100.4379,37.7382,29,imported,0.0
+,Gray,Kansas,-100.4379,37.7382,29,local,29.0
 ,Guilford,North Carolina,-79.7889,36.0795,1,imported,1.0
 ,Guilford,North Carolina,-79.7889,36.0795,1,local,0.0
 ,Hale,Texas,-101.8269,34.0705,5,imported,0.0
@@ -135,8 +135,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Harris,Texas,-95.3938,29.8578,3,local,3.0
 ,Harrison,Texas,-94.3715,32.5481,1,imported,0.0
 ,Harrison,Texas,-94.3715,32.5481,1,local,1.0
-,Haskell,Kansas,-100.8712,37.5622,20,imported,0.0
-,Haskell,Kansas,-100.8712,37.5622,20,local,20.0
+,Haskell,Kansas,-100.8712,37.5622,21,imported,0.0
+,Haskell,Kansas,-100.8712,37.5622,21,local,21.0
 ,Hays,Texas,-98.0312,30.0579,1,imported,0.0
 ,Hays,Texas,-98.0312,30.0579,1,local,1.0
 ,Hennepin,Minnesota,-93.477,45.0046,2,imported,2.0
