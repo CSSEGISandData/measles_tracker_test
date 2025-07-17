@@ -45,6 +45,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Burke,North Dakota,-102.5182,48.791,1,local,0.0
 ,Carson,Texas,-101.3542,35.4035,1,imported,0.0
 ,Carson,Texas,-101.3542,35.4035,1,local,1.0
+,Cascade,Montana,-111.347,47.308,1,imported,0.0
+,Cascade,Montana,-111.347,47.308,1,local,1.0
 ,Cass,North Dakota,-97.248,46.933,7,imported,2.0
 ,Cass,North Dakota,-97.248,46.933,7,local,5.0
 ,Cedar,Missouri,-93.8566,37.7239,5,imported,0.0
@@ -79,8 +81,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Denver,Colorado,-104.8758,39.762,4,local,1.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,2,imported,0.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,2,local,2.0
-,Eastern,Iowa,-91.64545556,41.92909259,5,imported,1.0
-,Eastern,Iowa,-91.64545556,41.92909259,5,local,4.0
+,Eastern,Iowa,-91.64545556,41.92909259,6,imported,1.0
+,Eastern,Iowa,-91.64545556,41.92909259,6,local,5.0
 ,Eastland,Texas,-98.8323,32.3271,2,imported,0.0
 ,Eastland,Texas,-98.8323,32.3271,2,local,2.0
 ,Ector,Texas,-102.5429,31.8692,12,imported,0.0
@@ -95,8 +97,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Erath,Texas,-98.2179,32.2363,1,local,1.0
 ,Erie,Pennsylvania,-80.0327,41.9925,8,imported,2.0
 ,Erie,Pennsylvania,-80.0327,41.9925,8,local,6.0
-,Fannin,Texas,-96.1069,33.5938,1,imported,0.0
-,Fannin,Texas,-96.1069,33.5938,1,local,1.0
+,Fannin,Texas,-96.1069,33.5938,4,imported,0.0
+,Fannin,Texas,-96.1069,33.5938,4,local,4.0
 ,Faulkner,Arkansas,-92.332,35.147,6,imported,1.0
 ,Faulkner,Arkansas,-92.332,35.147,6,local,5.0
 ,Fayette,Kentucky,-84.4587,38.0423,6,imported,0.0
@@ -131,8 +133,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Hale,Texas,-101.8269,34.0705,5,local,5.0
 ,Hardeman,Texas,-99.7457,34.2902,1,imported,0.0
 ,Hardeman,Texas,-99.7457,34.2902,1,local,1.0
-,Harris,Texas,-95.3938,29.8578,3,imported,0.0
-,Harris,Texas,-95.3938,29.8578,3,local,3.0
+,Harris,Texas,-95.3938,29.8578,4,imported,0.0
+,Harris,Texas,-95.3938,29.8578,4,local,4.0
 ,Harrison,Texas,-94.3715,32.5481,1,imported,0.0
 ,Harrison,Texas,-94.3715,32.5481,1,local,1.0
 ,Haskell,Kansas,-100.8712,37.5622,21,imported,0.0
@@ -153,6 +155,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Howard,Maryland,-76.9312,39.2507,1,local,0.0
 ,Ingham,Michigan,-84.3735,42.5971,1,imported,1.0
 ,Ingham,Michigan,-84.3735,42.5971,1,local,0.0
+,Jefferson,Kentucky,-85.6591,38.1872,1,imported,1.0
+,Jefferson,Kentucky,-85.6591,38.1872,1,local,0.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,1,imported,1.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,1,local,0.0
 ,Kent,Michigan,-85.5493,43.0322,2,imported,0.0
@@ -283,10 +287,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Sheridan,Nebraska,-102.4089,42.5048,1,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,2,imported,2.0
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
-,Southwest Health District,Utah,-113.3625,37.449,2,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,2,local,2.0
-,Stevens,Kansas,-101.3121,37.1923,9,imported,0.0
-,Stevens,Kansas,-101.3121,37.1923,9,local,9.0
+,Southwest Health District,Utah,-113.3625,37.449,3,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,3,local,3.0
+,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
+,Stevens,Kansas,-101.3121,37.1923,10,local,10.0
 ,Suffolk,New York,-72.8456,40.8681,1,imported,0.0
 ,Suffolk,New York,-72.8456,40.8681,1,local,1.0
 ,Taney,Missouri,-93.0411,36.6548,1,imported,1.0
@@ -329,8 +333,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Washington,Minnesota,-92.8838,45.0388,1,local,0.0
 ,Whatcom,Washington,-121.7199,48.8259,2,imported,0.0
 ,Whatcom,Washington,-121.7199,48.8259,2,local,2.0
-,Williams,North Dakota,-103.4802,48.3437,17,imported,1.0
-,Williams,North Dakota,-103.4802,48.3437,17,local,16.0
+,Williams,North Dakota,-103.4802,48.3437,18,imported,1.0
+,Williams,North Dakota,-103.4802,48.3437,18,local,17.0
 ,Williamson,Illinois,-88.9299,37.7303,4,imported,0.0
 ,Williamson,Illinois,-88.9299,37.7303,4,local,4.0
 ,Williamson,Texas,-97.6004,30.6475,6,imported,0.0

@@ -25,8 +25,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Benton,Arkansas,-94.2561,36.3387,0,local,0.0
 ,Bergen,New Jersey,-74.0742,40.9597,0,imported,0.0
 ,Bergen,New Jersey,-74.0742,40.9597,0,local,0.0
-,Bexar,Texas,-98.52,29.4489,1,imported,0.0
-,Bexar,Texas,-98.52,29.4489,1,local,1.0
+,Bexar,Texas,-98.52,29.4489,0,imported,0.0
+,Bexar,Texas,-98.52,29.4489,0,local,0.0
 ,Borden,Texas,-101.4317,32.7436,0,imported,0.0
 ,Borden,Texas,-101.4317,32.7436,0,local,0.0
 ,Boulder,Colorado,-105.3577,40.0925,0,imported,0.0
@@ -45,10 +45,12 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Burke,North Dakota,-102.5182,48.791,0,local,0.0
 ,Carson,Texas,-101.3542,35.4035,0,imported,0.0
 ,Carson,Texas,-101.3542,35.4035,0,local,0.0
+,Cascade,Montana,-111.347,47.308,1,imported,0.0
+,Cascade,Montana,-111.347,47.308,1,local,1.0
 ,Cass,North Dakota,-97.248,46.933,0,imported,0.0
 ,Cass,North Dakota,-97.248,46.933,0,local,0.0
-,Cedar,Missouri,-93.8566,37.7239,4,imported,0.0
-,Cedar,Missouri,-93.8566,37.7239,4,local,4.0
+,Cedar,Missouri,-93.8566,37.7239,0,imported,0.0
+,Cedar,Missouri,-93.8566,37.7239,0,local,0.0
 ,Central,Iowa,-93.40754375,41.84471875,0,imported,0.0
 ,Central,Iowa,-93.40754375,41.84471875,0,local,0.0
 ,Chaves,New Mexico,-104.4669,33.3633,0,imported,0.0
@@ -79,8 +81,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Denver,Colorado,-104.8758,39.762,0,local,0.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,0,imported,0.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,0,local,0.0
-,Eastern,Iowa,-91.64545556,41.92909259,0,imported,0.0
-,Eastern,Iowa,-91.64545556,41.92909259,0,local,0.0
+,Eastern,Iowa,-91.64545556,41.92909259,1,imported,0.0
+,Eastern,Iowa,-91.64545556,41.92909259,1,local,1.0
 ,Eastland,Texas,-98.8323,32.3271,0,imported,0.0
 ,Eastland,Texas,-98.8323,32.3271,0,local,0.0
 ,Ector,Texas,-102.5429,31.8692,0,imported,0.0
@@ -89,14 +91,14 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Eddy,New Mexico,-104.3044,32.4714,0,local,0.0
 ,El Paso,Colorado,-104.5254,38.8321,0,imported,0.0
 ,El Paso,Colorado,-104.5254,38.8321,0,local,0.0
-,El Paso,Texas,-106.2348,31.7686,1,imported,0.0
-,El Paso,Texas,-106.2348,31.7686,1,local,1.0
+,El Paso,Texas,-106.2348,31.7686,0,imported,0.0
+,El Paso,Texas,-106.2348,31.7686,0,local,0.0
 ,Erath,Texas,-98.2179,32.2363,0,imported,0.0
 ,Erath,Texas,-98.2179,32.2363,0,local,0.0
 ,Erie,Pennsylvania,-80.0327,41.9925,0,imported,0.0
 ,Erie,Pennsylvania,-80.0327,41.9925,0,local,0.0
-,Fannin,Texas,-96.1069,33.5938,0,imported,0.0
-,Fannin,Texas,-96.1069,33.5938,0,local,0.0
+,Fannin,Texas,-96.1069,33.5938,4,imported,0.0
+,Fannin,Texas,-96.1069,33.5938,4,local,4.0
 ,Faulkner,Arkansas,-92.332,35.147,0,imported,0.0
 ,Faulkner,Arkansas,-92.332,35.147,0,local,0.0
 ,Fayette,Kentucky,-84.4587,38.0423,5,imported,0.0
@@ -113,30 +115,30 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Fresno,California,-119.6493,36.7582,0,local,0.0
 ,Fulton,Georgia,-84.467,33.7902,0,imported,0.0
 ,Fulton,Georgia,-84.467,33.7902,0,local,0.0
-,Gaines,Texas,-102.6352,32.7408,1,imported,0.0
-,Gaines,Texas,-102.6352,32.7408,1,local,1.0
+,Gaines,Texas,-102.6352,32.7408,0,imported,0.0
+,Gaines,Texas,-102.6352,32.7408,0,local,0.0
 ,Gallatin,Montana,-111.1704,45.5404,0,imported,0.0
 ,Gallatin,Montana,-111.1704,45.5404,0,local,0.0
 ,Garza,Texas,-101.2984,33.1799,0,imported,0.0
 ,Garza,Texas,-101.2984,33.1799,0,local,0.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,0,imported,0.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,0,local,0.0
-,Grand Traverse,Michigan,-85.5605,44.6687,1,imported,0.0
-,Grand Traverse,Michigan,-85.5605,44.6687,1,local,1.0
-,Gray,Kansas,-100.4379,37.7382,3,imported,0.0
-,Gray,Kansas,-100.4379,37.7382,3,local,3.0
+,Grand Traverse,Michigan,-85.5605,44.6687,0,imported,0.0
+,Grand Traverse,Michigan,-85.5605,44.6687,0,local,0.0
+,Gray,Kansas,-100.4379,37.7382,1,imported,0.0
+,Gray,Kansas,-100.4379,37.7382,1,local,1.0
 ,Guilford,North Carolina,-79.7889,36.0795,0,imported,0.0
 ,Guilford,North Carolina,-79.7889,36.0795,0,local,0.0
 ,Hale,Texas,-101.8269,34.0705,0,imported,0.0
 ,Hale,Texas,-101.8269,34.0705,0,local,0.0
 ,Hardeman,Texas,-99.7457,34.2902,0,imported,0.0
 ,Hardeman,Texas,-99.7457,34.2902,0,local,0.0
-,Harris,Texas,-95.3938,29.8578,0,imported,0.0
-,Harris,Texas,-95.3938,29.8578,0,local,0.0
+,Harris,Texas,-95.3938,29.8578,1,imported,0.0
+,Harris,Texas,-95.3938,29.8578,1,local,1.0
 ,Harrison,Texas,-94.3715,32.5481,0,imported,0.0
 ,Harrison,Texas,-94.3715,32.5481,0,local,0.0
-,Haskell,Kansas,-100.8712,37.5622,4,imported,0.0
-,Haskell,Kansas,-100.8712,37.5622,4,local,4.0
+,Haskell,Kansas,-100.8712,37.5622,3,imported,0.0
+,Haskell,Kansas,-100.8712,37.5622,3,local,3.0
 ,Hays,Texas,-98.0312,30.0579,0,imported,0.0
 ,Hays,Texas,-98.0312,30.0579,0,local,0.0
 ,Hennepin,Minnesota,-93.477,45.0046,0,imported,0.0
@@ -153,18 +155,20 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Howard,Maryland,-76.9312,39.2507,0,local,0.0
 ,Ingham,Michigan,-84.3735,42.5971,0,imported,0.0
 ,Ingham,Michigan,-84.3735,42.5971,0,local,0.0
+,Jefferson,Kentucky,-85.6591,38.1872,1,imported,1.0
+,Jefferson,Kentucky,-85.6591,38.1872,1,local,0.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,0,imported,0.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,0,local,0.0
-,Kent,Michigan,-85.5493,43.0322,1,imported,-1.0
-,Kent,Michigan,-85.5493,43.0322,1,local,2.0
+,Kent,Michigan,-85.5493,43.0322,0,imported,0.0
+,Kent,Michigan,-85.5493,43.0322,0,local,0.0
 ,King,Washington,-121.8052,47.4902,0,imported,0.0
 ,King,Washington,-121.8052,47.4902,0,local,0.0
 ,Kiowa,Kansas,-99.2861,37.5582,0,imported,0.0
 ,Kiowa,Kansas,-99.2861,37.5582,0,local,0.0
 ,Knox,Ohio,-82.4215,40.3988,0,imported,0.0
 ,Knox,Ohio,-82.4215,40.3988,0,local,0.0
-,Lamar,Texas,-95.5712,33.6673,5,imported,0.0
-,Lamar,Texas,-95.5712,33.6673,5,local,5.0
+,Lamar,Texas,-95.5712,33.6673,2,imported,0.0
+,Lamar,Texas,-95.5712,33.6673,2,local,2.0
 ,Lamb,Texas,-102.3517,34.0686,0,imported,0.0
 ,Lamb,Texas,-102.3517,34.0686,0,local,0.0
 ,Lamoille,Vermont,-72.6419,44.607,0,imported,0.0
@@ -181,8 +185,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Los Angeles,California,-118.2247,34.3219,0,local,0.0
 ,Lubbock,Texas,-101.8205,33.6102,0,imported,0.0
 ,Lubbock,Texas,-101.8205,33.6102,0,local,0.0
-,Luna,New Mexico,-107.7499,32.1823,9,imported,0.0
-,Luna,New Mexico,-107.7499,32.1823,9,local,9.0
+,Luna,New Mexico,-107.7499,32.1823,0,imported,0.0
+,Luna,New Mexico,-107.7499,32.1823,0,local,0.0
 ,Lynn,Texas,-101.8161,33.1768,0,imported,0.0
 ,Lynn,Texas,-101.8161,33.1768,0,local,0.0
 ,Macomb,Michigan,-82.9323,42.6957,0,imported,0.0
@@ -209,8 +213,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Multnomah,Oregon,-122.4149,45.5468,0,local,0.0
 ,Muskegon,Michigan,-86.152,43.2912,0,imported,0.0
 ,Muskegon,Michigan,-86.152,43.2912,0,local,0.0
-,Natrona,Wyoming,-106.7986,42.9622,1,imported,0.0
-,Natrona,Wyoming,-106.7986,42.9622,1,local,1.0
+,Natrona,Wyoming,-106.7986,42.9622,0,imported,0.0
+,Natrona,Wyoming,-106.7986,42.9622,0,local,0.0
 ,Navajo,Arizona,-110.3214,35.3996,0,imported,0.0
 ,Navajo,Arizona,-110.3214,35.3996,0,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,imported,0.0
@@ -283,10 +287,10 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Sheridan,Nebraska,-102.4089,42.5048,0,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,imported,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,local,0.0
-,Southwest Health District,Utah,-113.3625,37.449,0,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,0,local,0.0
-,Stevens,Kansas,-101.3121,37.1923,2,imported,0.0
-,Stevens,Kansas,-101.3121,37.1923,2,local,2.0
+,Southwest Health District,Utah,-113.3625,37.449,1,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,1,local,1.0
+,Stevens,Kansas,-101.3121,37.1923,3,imported,0.0
+,Stevens,Kansas,-101.3121,37.1923,3,local,3.0
 ,Suffolk,New York,-72.8456,40.8681,0,imported,0.0
 ,Suffolk,New York,-72.8456,40.8681,0,local,0.0
 ,Taney,Missouri,-93.0411,36.6548,0,imported,0.0
@@ -311,8 +315,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Unknown County,Kentucky,-85.261296,37.838308,0,local,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,0,imported,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,0,local,0.0
-,Unknown County,New Jersey,-74.424465,40.438248,1,imported,0.0
-,Unknown County,New Jersey,-74.424465,40.438248,1,local,1.0
+,Unknown County,New Jersey,-74.424465,40.438248,0,imported,0.0
+,Unknown County,New Jersey,-74.424465,40.438248,0,local,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,0,imported,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,0,local,0.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,imported,0.0
@@ -321,8 +325,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Upshur,Texas,-94.9415,32.7363,0,local,0.0
 ,Upstate,South Carolina,-82.32325826,34.77834072,1,imported,1.0
 ,Upstate,South Carolina,-82.32325826,34.77834072,1,local,0.0
-,Utah,Utah,-111.6702,40.1199,2,imported,0.0
-,Utah,Utah,-111.6702,40.1199,2,local,2.0
+,Utah,Utah,-111.6702,40.1199,0,imported,0.0
+,Utah,Utah,-111.6702,40.1199,0,local,0.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,imported,0.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,local,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,imported,0.0
