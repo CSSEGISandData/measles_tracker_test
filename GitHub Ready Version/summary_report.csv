@@ -1,8 +1,8 @@
 Metric,Value
-Total Cases,1311
+Total Cases,1312
 Imported Cases,109
-Local Cases,1202
-Recent Cases (2 weeks),29
+Local Cases,1203
+Recent Cases (2 weeks),22
 Counties with Cases,174
 States with Cases,40
 Counties with Recent Activity,17
@@ -10,4 +10,4 @@ States with Recent Activity,12
 Top State,Texas (796 cases)
 Top County,"Gaines, Texas (414 cases)"
 Import Percentage,8.3%
-Recent Activity Rate,2.2%
+Recent Activity Rate,1.7%

@@ -341,8 +341,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Williamson,Texas,-97.6004,30.6475,6,local,6.0
 ,Woodford,Kentucky,-84.7436,38.0424,3,imported,0.0
 ,Woodford,Kentucky,-84.7436,38.0424,3,local,3.0
-,Yellowstone,Montana,-108.2744,45.9373,2,imported,0.0
-,Yellowstone,Montana,-108.2744,45.9373,2,local,2.0
+,Yellowstone,Montana,-108.2744,45.9373,3,imported,0.0
+,Yellowstone,Montana,-108.2744,45.9373,3,local,3.0
 ,Yoakum,Texas,-102.8278,33.173,20,imported,0.0
 ,Yoakum,Texas,-102.8278,33.173,20,local,20.0
 ,Yolo,California,-121.9011,38.6866,1,imported,0.0

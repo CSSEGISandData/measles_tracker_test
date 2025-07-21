@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,109,1202,1311,29
+U.S.,109,1203,1312,22
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
@@ -8,7 +8,7 @@ U.S.,109,1202,1311,29
 "Gray, Kansas",0,29,29,1
 "Lamar, Texas",0,28,28,2
 "Dawson, Texas",0,26,26,0
-"Haskell, Kansas",0,21,21,3
+"Haskell, Kansas",0,21,21,2
 "Yoakum, Texas",0,20,20,0
 "Williams, North Dakota",1,17,18,1
 "Gallatin, Montana",5,12,17,0
@@ -20,7 +20,7 @@ U.S.,109,1202,1311,29
 "Luna, New Mexico",0,14,14,0
 "Ector, Texas",0,12,12,0
 "Grand Forks, North Dakota",2,8,10,0
-"Stevens, Kansas",0,10,10,3
+"Stevens, Kansas",0,10,10,1
 "McLennan, Texas",0,9,9,0
 "Allen, Indiana",0,8,8,0
 "Erie, Pennsylvania",2,6,8,0
@@ -33,7 +33,7 @@ U.S.,109,1202,1311,29
 "Cook, Illinois",1,5,6,0
 "Eastern, Iowa",1,5,6,1
 "Faulkner, Arkansas",1,5,6,0
-"Fayette, Kentucky",0,6,6,5
+"Fayette, Kentucky",0,6,6,1
 "Fulton, Georgia",2,4,6,0
 "Hockley, Texas",0,6,6,0
 "King, Washington",3,3,6,0
@@ -68,6 +68,7 @@ U.S.,109,1202,1311,29
 "Randall, Texas",0,3,3,0
 "Southwest Health District, Utah",0,3,3,1
 "Woodford, Kentucky",0,3,3,0
+"Yellowstone, Montana",0,3,3,0
 "Anchorage, Alaska",1,1,2,0
 "Bailey, Texas",0,2,2,0
 "Denton, Texas",0,2,2,0
@@ -95,7 +96,6 @@ U.S.,109,1202,1311,29
 "Travis, Texas",0,2,2,0
 "Tuolumne, California",2,0,2,0
 "Whatcom, Washington",0,2,2,0
-"Yellowstone, Montana",0,2,2,0
 "Allegan, Michigan",0,1,1,0
 "Allen, Ohio",1,0,1,0
 "Archuleta, Colorado",0,1,1,0
