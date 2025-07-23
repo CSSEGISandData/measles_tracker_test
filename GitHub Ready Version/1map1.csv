@@ -43,6 +43,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Bucks,Pennsylvania,-75.1069,40.337,1,local,0.0
 ,Burke,North Dakota,-102.5182,48.791,1,imported,1.0
 ,Burke,North Dakota,-102.5182,48.791,1,local,0.0
+,Carbon,Wyoming,-106.9306,41.6944,1,imported,1.0
+,Carbon,Wyoming,-106.9306,41.6944,1,local,0.0
 ,Carson,Texas,-101.3542,35.4035,1,imported,0.0
 ,Carson,Texas,-101.3542,35.4035,1,local,1.0
 ,Cascade,Montana,-111.347,47.308,1,imported,0.0
@@ -279,6 +281,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Sandoval,New Mexico,-106.8659,35.6886,6,local,6.0
 ,Santa Clara,California,-121.6951,37.2318,1,imported,1.0
 ,Santa Clara,California,-121.6951,37.2318,1,local,0.0
+,Santa Fe,New Mexico,-105.9763,35.5069,1,imported,1.0
+,Santa Fe,New Mexico,-105.9763,35.5069,1,local,0.0
 ,Scurry,Texas,-100.9164,32.7463,1,imported,0.0
 ,Scurry,Texas,-100.9164,32.7463,1,local,1.0
 ,Shackelford,Texas,-99.354,32.7359,1,imported,0.0
@@ -287,8 +291,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Sheridan,Nebraska,-102.4089,42.5048,1,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,2,imported,2.0
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
-,Southwest Health District,Utah,-113.3625,37.449,3,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,3,local,3.0
+,Southwest Health District,Utah,-113.3625,37.449,4,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,4,local,4.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,local,10.0
 ,Suffolk,New York,-72.8456,40.8681,1,imported,0.0
@@ -303,6 +307,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Todd,Kentucky,-87.1792,36.8357,1,local,1.0
 ,Travis,Texas,-97.782,30.3344,2,imported,0.0
 ,Travis,Texas,-97.782,30.3344,2,local,2.0
+,Tulare,California,-118.8005,36.2202,1,imported,0.0
+,Tulare,California,-118.8005,36.2202,1,local,1.0
 ,Tuolumne,California,-119.9548,38.0276,2,imported,2.0
 ,Tuolumne,California,-119.9548,38.0276,2,local,0.0
 ,Unknown County,California,-119.347852,35.491035,1,imported,0.0
