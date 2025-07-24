@@ -103,8 +103,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Fannin,Texas,-96.1069,33.5938,4,local,4.0
 ,Faulkner,Arkansas,-92.332,35.147,0,imported,0.0
 ,Faulkner,Arkansas,-92.332,35.147,0,local,0.0
-,Fayette,Kentucky,-84.4587,38.0423,1,imported,0.0
-,Fayette,Kentucky,-84.4587,38.0423,1,local,1.0
+,Fayette,Kentucky,-84.4587,38.0423,0,imported,0.0
+,Fayette,Kentucky,-84.4587,38.0423,0,local,0.0
 ,Flathead,Montana,-114.0497,48.2951,0,imported,0.0
 ,Flathead,Montana,-114.0497,48.2951,0,local,0.0
 ,Fort Bend,Texas,-95.7709,29.5275,0,imported,0.0
@@ -139,8 +139,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Harris,Texas,-95.3938,29.8578,1,local,1.0
 ,Harrison,Texas,-94.3715,32.5481,0,imported,0.0
 ,Harrison,Texas,-94.3715,32.5481,0,local,0.0
-,Haskell,Kansas,-100.8712,37.5622,2,imported,0.0
-,Haskell,Kansas,-100.8712,37.5622,2,local,2.0
+,Haskell,Kansas,-100.8712,37.5622,1,imported,0.0
+,Haskell,Kansas,-100.8712,37.5622,1,local,1.0
 ,Hays,Texas,-98.0312,30.0579,0,imported,0.0
 ,Hays,Texas,-98.0312,30.0579,0,local,0.0
 ,Hennepin,Minnesota,-93.477,45.0046,0,imported,0.0
@@ -161,8 +161,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Jefferson,Kentucky,-85.6591,38.1872,1,local,0.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,0,imported,0.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,0,local,0.0
-,Kent,Michigan,-85.5493,43.0322,0,imported,0.0
-,Kent,Michigan,-85.5493,43.0322,0,local,0.0
+,Kent,Michigan,-85.5493,43.0322,2,imported,0.0
+,Kent,Michigan,-85.5493,43.0322,2,local,2.0
 ,King,Washington,-121.8052,47.4902,0,imported,0.0
 ,King,Washington,-121.8052,47.4902,0,local,0.0
 ,Kiowa,Kansas,-99.2861,37.5582,0,imported,0.0
@@ -229,8 +229,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Northwest Region,Virginia,-78.1659225,38.47988218,0,local,0.0
 ,Oakland,Michigan,-83.3858,42.6604,0,imported,0.0
 ,Oakland,Michigan,-83.3858,42.6604,0,local,0.0
-,Ocean,New Jersey,-74.2814,39.8856,1,imported,0.0
-,Ocean,New Jersey,-74.2814,39.8856,1,local,1.0
+,Ocean,New Jersey,-74.2814,39.8856,0,imported,0.0
+,Ocean,New Jersey,-74.2814,39.8856,0,local,0.0
 ,Ontario,New York,-77.2998,42.8528,0,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,0,local,0.0
 ,Orange,California,-117.7609,33.7031,0,imported,0.0
@@ -239,6 +239,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Orange,New York,-74.3056,41.4022,0,local,0.0
 ,Orleans,Louisiana,-89.9289,30.0687,0,imported,0.0
 ,Orleans,Louisiana,-89.9289,30.0687,0,local,0.0
+,Osceola,Michigan,-85.3252,43.9898,2,imported,0.0
+,Osceola,Michigan,-85.3252,43.9898,2,local,2.0
 ,Parmer,Texas,-102.7845,34.5301,0,imported,0.0
 ,Parmer,Texas,-102.7845,34.5301,0,local,0.0
 ,Pawnee,Kansas,-99.2367,38.1813,0,imported,0.0
@@ -307,8 +309,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Todd,Kentucky,-87.1792,36.8357,0,local,0.0
 ,Travis,Texas,-97.782,30.3344,0,imported,0.0
 ,Travis,Texas,-97.782,30.3344,0,local,0.0
-,Tulare,California,-118.8005,36.2202,1,imported,0.0
-,Tulare,California,-118.8005,36.2202,1,local,1.0
+,Tulare,California,-118.8005,36.2202,2,imported,0.0
+,Tulare,California,-118.8005,36.2202,2,local,2.0
 ,Tuolumne,California,-119.9548,38.0276,0,imported,0.0
 ,Tuolumne,California,-119.9548,38.0276,0,local,0.0
 ,Unknown County,California,-119.347852,35.491035,0,imported,0.0
@@ -329,14 +331,16 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,local,0.0
-,Upstate,South Carolina,-82.32325826,34.77834072,1,imported,1.0
-,Upstate,South Carolina,-82.32325826,34.77834072,1,local,0.0
+,Upstate,South Carolina,-82.32325826,34.77834072,0,imported,0.0
+,Upstate,South Carolina,-82.32325826,34.77834072,0,local,0.0
 ,Utah,Utah,-111.6702,40.1199,0,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,0,local,0.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,imported,0.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,local,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,imported,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,local,0.0
+,Western,Iowa,-95.10435,41.97493056,1,imported,0.0
+,Western,Iowa,-95.10435,41.97493056,1,local,1.0
 ,Whatcom,Washington,-121.7199,48.8259,0,imported,0.0
 ,Whatcom,Washington,-121.7199,48.8259,0,local,0.0
 ,Williams,North Dakota,-103.4802,48.3437,1,imported,0.0

@@ -161,8 +161,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Jefferson,Kentucky,-85.6591,38.1872,1,local,0.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,1,imported,1.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,1,local,0.0
-,Kent,Michigan,-85.5493,43.0322,2,imported,0.0
-,Kent,Michigan,-85.5493,43.0322,2,local,2.0
+,Kent,Michigan,-85.5493,43.0322,4,imported,0.0
+,Kent,Michigan,-85.5493,43.0322,4,local,4.0
 ,King,Washington,-121.8052,47.4902,6,imported,3.0
 ,King,Washington,-121.8052,47.4902,6,local,3.0
 ,Kiowa,Kansas,-99.2861,37.5582,6,imported,0.0
@@ -239,6 +239,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Orange,New York,-74.3056,41.4022,4,local,1.0
 ,Orleans,Louisiana,-89.9289,30.0687,2,imported,1.0
 ,Orleans,Louisiana,-89.9289,30.0687,2,local,1.0
+,Osceola,Michigan,-85.3252,43.9898,2,imported,0.0
+,Osceola,Michigan,-85.3252,43.9898,2,local,2.0
 ,Parmer,Texas,-102.7845,34.5301,5,imported,0.0
 ,Parmer,Texas,-102.7845,34.5301,5,local,5.0
 ,Pawnee,Kansas,-99.2367,38.1813,7,imported,0.0
@@ -307,8 +309,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Todd,Kentucky,-87.1792,36.8357,1,local,1.0
 ,Travis,Texas,-97.782,30.3344,2,imported,0.0
 ,Travis,Texas,-97.782,30.3344,2,local,2.0
-,Tulare,California,-118.8005,36.2202,1,imported,0.0
-,Tulare,California,-118.8005,36.2202,1,local,1.0
+,Tulare,California,-118.8005,36.2202,2,imported,0.0
+,Tulare,California,-118.8005,36.2202,2,local,2.0
 ,Tuolumne,California,-119.9548,38.0276,2,imported,2.0
 ,Tuolumne,California,-119.9548,38.0276,2,local,0.0
 ,Unknown County,California,-119.347852,35.491035,1,imported,0.0
@@ -337,6 +339,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Washington,District of Columbia,-77.0163,38.9047,1,local,0.0
 ,Washington,Minnesota,-92.8838,45.0388,1,imported,1.0
 ,Washington,Minnesota,-92.8838,45.0388,1,local,0.0
+,Western,Iowa,-95.10435,41.97493056,1,imported,0.0
+,Western,Iowa,-95.10435,41.97493056,1,local,1.0
 ,Whatcom,Washington,-121.7199,48.8259,2,imported,0.0
 ,Whatcom,Washington,-121.7199,48.8259,2,local,2.0
 ,Williams,North Dakota,-103.4802,48.3437,18,imported,1.0
