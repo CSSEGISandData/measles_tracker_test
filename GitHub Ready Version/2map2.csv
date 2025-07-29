@@ -83,8 +83,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Denver,Colorado,-104.8758,39.762,0,local,0.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,0,imported,0.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,0,local,0.0
-,Eastern,Iowa,-91.64545556,41.92909259,1,imported,0.0
-,Eastern,Iowa,-91.64545556,41.92909259,1,local,1.0
+,Eastern,Iowa,-91.64545556,41.92909259,0,imported,0.0
+,Eastern,Iowa,-91.64545556,41.92909259,0,local,0.0
 ,Eastland,Texas,-98.8323,32.3271,0,imported,0.0
 ,Eastland,Texas,-98.8323,32.3271,0,local,0.0
 ,Ector,Texas,-102.5429,31.8692,0,imported,0.0
@@ -119,16 +119,16 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Fulton,Georgia,-84.467,33.7902,0,local,0.0
 ,Gaines,Texas,-102.6352,32.7408,0,imported,0.0
 ,Gaines,Texas,-102.6352,32.7408,0,local,0.0
-,Gallatin,Montana,-111.1704,45.5404,0,imported,0.0
-,Gallatin,Montana,-111.1704,45.5404,0,local,0.0
+,Gallatin,Montana,-111.1704,45.5404,2,imported,0.0
+,Gallatin,Montana,-111.1704,45.5404,2,local,2.0
 ,Garza,Texas,-101.2984,33.1799,0,imported,0.0
 ,Garza,Texas,-101.2984,33.1799,0,local,0.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,0,imported,0.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,0,local,0.0
 ,Grand Traverse,Michigan,-85.5605,44.6687,0,imported,0.0
 ,Grand Traverse,Michigan,-85.5605,44.6687,0,local,0.0
-,Gray,Kansas,-100.4379,37.7382,1,imported,0.0
-,Gray,Kansas,-100.4379,37.7382,1,local,1.0
+,Gray,Kansas,-100.4379,37.7382,0,imported,0.0
+,Gray,Kansas,-100.4379,37.7382,0,local,0.0
 ,Guilford,North Carolina,-79.7889,36.0795,0,imported,0.0
 ,Guilford,North Carolina,-79.7889,36.0795,0,local,0.0
 ,Hale,Texas,-101.8269,34.0705,0,imported,0.0
@@ -139,8 +139,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Harris,Texas,-95.3938,29.8578,1,local,1.0
 ,Harrison,Texas,-94.3715,32.5481,0,imported,0.0
 ,Harrison,Texas,-94.3715,32.5481,0,local,0.0
-,Haskell,Kansas,-100.8712,37.5622,1,imported,0.0
-,Haskell,Kansas,-100.8712,37.5622,1,local,1.0
+,Haskell,Kansas,-100.8712,37.5622,0,imported,0.0
+,Haskell,Kansas,-100.8712,37.5622,0,local,0.0
 ,Hays,Texas,-98.0312,30.0579,0,imported,0.0
 ,Hays,Texas,-98.0312,30.0579,0,local,0.0
 ,Hennepin,Minnesota,-93.477,45.0046,0,imported,0.0
@@ -157,8 +157,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Howard,Maryland,-76.9312,39.2507,0,local,0.0
 ,Ingham,Michigan,-84.3735,42.5971,0,imported,0.0
 ,Ingham,Michigan,-84.3735,42.5971,0,local,0.0
-,Jefferson,Kentucky,-85.6591,38.1872,1,imported,1.0
-,Jefferson,Kentucky,-85.6591,38.1872,1,local,0.0
+,Jefferson,Kentucky,-85.6591,38.1872,1,imported,0.0
+,Jefferson,Kentucky,-85.6591,38.1872,1,local,1.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,0,imported,0.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,0,local,0.0
 ,Kent,Michigan,-85.5493,43.0322,2,imported,0.0
@@ -221,10 +221,10 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Navajo,Arizona,-110.3214,35.3996,0,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,local,0.0
-,New York,New York,-73.9668,40.7792,1,imported,0.0
-,New York,New York,-73.9668,40.7792,1,local,1.0
-,Niobrara,Wyoming,-104.4754,43.0564,1,imported,0.0
-,Niobrara,Wyoming,-104.4754,43.0564,1,local,1.0
+,New York,New York,-73.9668,40.7792,0,imported,0.0
+,New York,New York,-73.9668,40.7792,0,local,0.0
+,Niobrara,Wyoming,-104.4754,43.0564,0,imported,0.0
+,Niobrara,Wyoming,-104.4754,43.0564,0,local,0.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,0,imported,0.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,0,local,0.0
 ,Oakland,Michigan,-83.3858,42.6604,0,imported,0.0
@@ -343,16 +343,16 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Western,Iowa,-95.10435,41.97493056,1,local,1.0
 ,Whatcom,Washington,-121.7199,48.8259,0,imported,0.0
 ,Whatcom,Washington,-121.7199,48.8259,0,local,0.0
-,Williams,North Dakota,-103.4802,48.3437,1,imported,0.0
-,Williams,North Dakota,-103.4802,48.3437,1,local,1.0
+,Williams,North Dakota,-103.4802,48.3437,0,imported,0.0
+,Williams,North Dakota,-103.4802,48.3437,0,local,0.0
 ,Williamson,Illinois,-88.9299,37.7303,0,imported,0.0
 ,Williamson,Illinois,-88.9299,37.7303,0,local,0.0
 ,Williamson,Texas,-97.6004,30.6475,0,imported,0.0
 ,Williamson,Texas,-97.6004,30.6475,0,local,0.0
 ,Woodford,Kentucky,-84.7436,38.0424,0,imported,0.0
 ,Woodford,Kentucky,-84.7436,38.0424,0,local,0.0
-,Yellowstone,Montana,-108.2744,45.9373,0,imported,0.0
-,Yellowstone,Montana,-108.2744,45.9373,0,local,0.0
+,Yellowstone,Montana,-108.2744,45.9373,1,imported,0.0
+,Yellowstone,Montana,-108.2744,45.9373,1,local,1.0
 ,Yoakum,Texas,-102.8278,33.173,0,imported,0.0
 ,Yoakum,Texas,-102.8278,33.173,0,local,0.0
 ,Yolo,California,-121.9011,38.6866,0,imported,0.0
