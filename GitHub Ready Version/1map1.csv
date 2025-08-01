@@ -239,8 +239,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Orange,New York,-74.3056,41.4022,4,local,1.0
 ,Orleans,Louisiana,-89.9289,30.0687,2,imported,1.0
 ,Orleans,Louisiana,-89.9289,30.0687,2,local,1.0
-,Osceola,Michigan,-85.3252,43.9898,2,imported,0.0
-,Osceola,Michigan,-85.3252,43.9898,2,local,2.0
+,Osceola,Michigan,-85.3252,43.9898,7,imported,0.0
+,Osceola,Michigan,-85.3252,43.9898,7,local,7.0
 ,Parmer,Texas,-102.7845,34.5301,5,imported,0.0
 ,Parmer,Texas,-102.7845,34.5301,5,local,5.0
 ,Pawnee,Kansas,-99.2367,38.1813,7,imported,0.0

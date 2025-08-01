@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,111,1215,1326,22
+U.S.,111,1220,1331,19
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
@@ -20,7 +20,7 @@ U.S.,111,1215,1326,22
 "Luna, New Mexico",0,14,14,0
 "Ector, Texas",0,12,12,0
 "Grand Forks, North Dakota",2,8,10,0
-"Stevens, Kansas",0,10,10,1
+"Stevens, Kansas",0,10,10,0
 "McLennan, Texas",0,9,9,0
 "Allen, Indiana",0,8,8,0
 "Erie, Pennsylvania",2,6,8,0
@@ -28,6 +28,7 @@ U.S.,111,1215,1326,22
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
 "New York, New York",0,7,7,0
+"Osceola, Michigan",0,7,7,7
 "Pawnee, Kansas",0,7,7,0
 "Utah, Utah",0,7,7,0
 "Cook, Illinois",1,5,6,0
@@ -50,15 +51,15 @@ U.S.,111,1215,1326,22
 "Collin, Texas",0,4,4,0
 "Denver, Colorado",3,1,4,0
 "El Paso, Colorado",4,0,4,0
-"Fannin, Texas",0,4,4,4
+"Fannin, Texas",0,4,4,0
 "Grand Traverse, Michigan",0,4,4,0
-"Harris, Texas",0,4,4,1
+"Harris, Texas",0,4,4,0
 "Hill, Montana",0,4,4,0
 "Kent, Michigan",0,4,4,2
 "Montcalm, Michigan",1,3,4,0
 "Navajo, Arizona",4,0,4,0
 "Orange, New York",3,1,4,0
-"Southwest Health District, Utah",0,4,4,2
+"Southwest Health District, Utah",0,4,4,1
 "Tarrant, Texas",0,4,4,0
 "Upper Cumberland Region, Tennessee",0,4,4,0
 "Williamson, Illinois",0,4,4,0
@@ -88,7 +89,6 @@ U.S.,111,1215,1326,22
 "Meade, South Dakota",1,1,2,0
 "Mid-Cumberland Region, Tennessee",0,2,2,0
 "Orleans, Louisiana",1,1,2,0
-"Osceola, Michigan",0,2,2,2
 "Pennington, South Dakota",1,1,2,0
 "Philadelphia, Pennsylvania",2,0,2,0
 "Prince George's, Maryland",2,0,2,0
@@ -116,7 +116,7 @@ U.S.,111,1215,1326,22
 "Burke, North Dakota",1,0,1,0
 "Carbon, Wyoming",1,0,1,1
 "Carson, Texas",0,1,1,0
-"Cascade, Montana",0,1,1,1
+"Cascade, Montana",0,1,1,0
 "Central, Iowa",0,1,1,0
 "Chaves, New Mexico",0,1,1,0
 "Curry, New Mexico",0,1,1,0
