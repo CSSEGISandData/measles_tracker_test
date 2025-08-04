@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,111,1220,1331,19
+U.S.,123,1223,1346,31
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
@@ -10,7 +10,7 @@ U.S.,111,1220,1331,19
 "Dawson, Texas",0,26,26,0
 "Haskell, Kansas",0,21,21,0
 "Yoakum, Texas",0,20,20,0
-"Gallatin, Montana",5,14,19,2
+"Gallatin, Montana",5,14,19,0
 "Williams, North Dakota",1,17,18,0
 "Unknown County, Kansas",0,17,17,0
 "Unknown County, Oklahoma",0,17,17,0
@@ -22,12 +22,13 @@ U.S.,111,1220,1331,19
 "Grand Forks, North Dakota",2,8,10,0
 "Stevens, Kansas",0,10,10,0
 "McLennan, Texas",0,9,9,0
+"Oconto, Wisconsin",9,0,9,9
 "Allen, Indiana",0,8,8,0
 "Erie, Pennsylvania",2,6,8,0
 "Lincoln, South Dakota",7,1,8,0
+"New York, New York",0,8,8,1
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
-"New York, New York",0,7,7,0
 "Osceola, Michigan",0,7,7,7
 "Pawnee, Kansas",0,7,7,0
 "Utah, Utah",0,7,7,0
@@ -42,6 +43,7 @@ U.S.,111,1220,1331,19
 "Midland, Texas",0,6,6,0
 "Sandoval, New Mexico",0,6,6,0
 "Williamson, Texas",0,6,6,0
+"Carbon, Wyoming",1,4,5,5
 "Cedar, Missouri",0,5,5,0
 "Hale, Texas",0,5,5,0
 "Los Angeles, California",5,0,5,0
@@ -55,7 +57,7 @@ U.S.,111,1220,1331,19
 "Grand Traverse, Michigan",0,4,4,0
 "Harris, Texas",0,4,4,0
 "Hill, Montana",0,4,4,0
-"Kent, Michigan",0,4,4,2
+"Kent, Michigan",2,2,4,2
 "Montcalm, Michigan",1,3,4,0
 "Navajo, Arizona",4,0,4,0
 "Orange, New York",3,1,4,0
@@ -63,7 +65,7 @@ U.S.,111,1220,1331,19
 "Tarrant, Texas",0,4,4,0
 "Upper Cumberland Region, Tennessee",0,4,4,0
 "Williamson, Illinois",0,4,4,0
-"Yellowstone, Montana",0,4,4,1
+"Yellowstone, Montana",0,4,4,0
 "Andrews, Texas",0,3,3,0
 "Bergen, New Jersey",1,2,3,0
 "Eddy, New Mexico",0,3,3,0
@@ -114,7 +116,6 @@ U.S.,111,1220,1331,19
 "Brown, Texas",0,1,1,0
 "Bucks, Pennsylvania",1,0,1,0
 "Burke, North Dakota",1,0,1,0
-"Carbon, Wyoming",1,0,1,1
 "Carson, Texas",0,1,1,0
 "Cascade, Montana",0,1,1,0
 "Central, Iowa",0,1,1,0
@@ -134,6 +135,7 @@ U.S.,111,1220,1331,19
 "Hays, Texas",0,1,1,0
 "Holmes, Ohio",0,1,1,0
 "Howard, Maryland",1,0,1,0
+"Hudson, New Jersey",0,1,1,0
 "Ingham, Michigan",1,0,1,0
 "Kenai Peninsula, Alaska",1,0,1,0
 "Lamb, Texas",0,1,1,0
@@ -150,6 +152,7 @@ U.S.,111,1220,1331,19
 "Ocean, New Jersey",0,1,1,0
 "Ontario, New York",0,1,1,0
 "Orange, California",1,0,1,0
+"Passaic, New Jersey",1,0,1,1
 "Placer, California",1,0,1,0
 "Potter, Texas",0,1,1,0
 "Providence, Rhode Island",1,0,1,0
@@ -173,7 +176,6 @@ U.S.,111,1220,1331,19
 "Unknown County, Colorado",0,1,1,0
 "Unknown County, Kentucky",1,0,1,0
 "Unknown County, Minnesota",0,1,1,0
-"Unknown County, New Jersey",0,1,1,0
 "Upstate, South Carolina",1,0,1,0
 "Washington, District of Columbia",1,0,1,0
 "Washington, Minnesota",1,0,1,0

@@ -43,8 +43,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Bucks,Pennsylvania,-75.1069,40.337,1,local,0.0
 ,Burke,North Dakota,-102.5182,48.791,1,imported,1.0
 ,Burke,North Dakota,-102.5182,48.791,1,local,0.0
-,Carbon,Wyoming,-106.9306,41.6944,1,imported,1.0
-,Carbon,Wyoming,-106.9306,41.6944,1,local,0.0
+,Carbon,Wyoming,-106.9306,41.6944,5,imported,1.0
+,Carbon,Wyoming,-106.9306,41.6944,5,local,4.0
 ,Carson,Texas,-101.3542,35.4035,1,imported,0.0
 ,Carson,Texas,-101.3542,35.4035,1,local,1.0
 ,Cascade,Montana,-111.347,47.308,1,imported,0.0
@@ -155,14 +155,16 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Honolulu,Hawaii,-158.0739,21.4899,2,local,0.0
 ,Howard,Maryland,-76.9312,39.2507,1,imported,1.0
 ,Howard,Maryland,-76.9312,39.2507,1,local,0.0
+,Hudson,New Jersey,-74.0751,40.7408,1,imported,0.0
+,Hudson,New Jersey,-74.0751,40.7408,1,local,1.0
 ,Ingham,Michigan,-84.3735,42.5971,1,imported,1.0
 ,Ingham,Michigan,-84.3735,42.5971,1,local,0.0
 ,Jefferson,Kentucky,-85.6591,38.1872,2,imported,1.0
 ,Jefferson,Kentucky,-85.6591,38.1872,2,local,1.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,1,imported,1.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,1,local,0.0
-,Kent,Michigan,-85.5493,43.0322,4,imported,0.0
-,Kent,Michigan,-85.5493,43.0322,4,local,4.0
+,Kent,Michigan,-85.5493,43.0322,4,imported,2.0
+,Kent,Michigan,-85.5493,43.0322,4,local,2.0
 ,King,Washington,-121.8052,47.4902,6,imported,3.0
 ,King,Washington,-121.8052,47.4902,6,local,3.0
 ,Kiowa,Kansas,-99.2861,37.5582,6,imported,0.0
@@ -221,8 +223,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Navajo,Arizona,-110.3214,35.3996,4,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,local,1.0
-,New York,New York,-73.9668,40.7792,7,imported,0.0
-,New York,New York,-73.9668,40.7792,7,local,7.0
+,New York,New York,-73.9668,40.7792,8,imported,0.0
+,New York,New York,-73.9668,40.7792,8,local,8.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,imported,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,local,1.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,3,imported,2.0
@@ -231,6 +233,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Oakland,Michigan,-83.3858,42.6604,1,local,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,1,imported,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,1,local,1.0
+,Oconto,Wisconsin,-88.2697,45.0264,9,imported,9.0
+,Oconto,Wisconsin,-88.2697,45.0264,9,local,0.0
 ,Ontario,New York,-77.2998,42.8528,1,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,1,local,1.0
 ,Orange,California,-117.7609,33.7031,1,imported,1.0
@@ -243,6 +247,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Osceola,Michigan,-85.3252,43.9898,7,local,7.0
 ,Parmer,Texas,-102.7845,34.5301,5,imported,0.0
 ,Parmer,Texas,-102.7845,34.5301,5,local,5.0
+,Passaic,New Jersey,-74.3009,41.0344,1,imported,1.0
+,Passaic,New Jersey,-74.3009,41.0344,1,local,0.0
 ,Pawnee,Kansas,-99.2367,38.1813,7,imported,0.0
 ,Pawnee,Kansas,-99.2367,38.1813,7,local,7.0
 ,Pennington,South Dakota,-102.8238,44.0037,2,imported,1.0
@@ -323,8 +329,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Unknown County,Kentucky,-85.261296,37.838308,1,local,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,local,1.0
-,Unknown County,New Jersey,-74.424465,40.438248,1,imported,0.0
-,Unknown County,New Jersey,-74.424465,40.438248,1,local,1.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,local,17.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0.0
