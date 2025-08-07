@@ -1,10 +1,10 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,123,1223,1346,31
+U.S.,124,1228,1352,28
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
 "Terry, Texas",0,60,60,0
-"Lubbock, Texas",0,53,53,0
+"Lubbock, Texas",0,52,52,0
 "Gray, Kansas",0,29,29,0
 "Lamar, Texas",0,28,28,0
 "Dawson, Texas",0,26,26,0
@@ -27,9 +27,12 @@ U.S.,123,1223,1346,31
 "Erie, Pennsylvania",2,6,8,0
 "Lincoln, South Dakota",7,1,8,0
 "New York, New York",0,8,8,1
+"Williamson, Texas",0,8,8,2
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
-"Osceola, Michigan",0,7,7,7
+"Hockley, Texas",0,7,7,1
+"Midland, Texas",0,7,7,1
+"Osceola, Michigan",0,7,7,5
 "Pawnee, Kansas",0,7,7,0
 "Utah, Utah",0,7,7,0
 "Cook, Illinois",1,5,6,0
@@ -37,31 +40,28 @@ U.S.,123,1223,1346,31
 "Faulkner, Arkansas",1,5,6,0
 "Fayette, Kentucky",0,6,6,0
 "Fulton, Georgia",2,4,6,0
-"Hockley, Texas",0,6,6,0
 "King, Washington",3,3,6,0
 "Kiowa, Kansas",0,6,6,0
-"Midland, Texas",0,6,6,0
 "Sandoval, New Mexico",0,6,6,0
-"Williamson, Texas",0,6,6,0
-"Carbon, Wyoming",1,4,5,5
+"Arapahoe, Colorado",4,1,5,0
+"Carbon, Wyoming",1,4,5,4
 "Cedar, Missouri",0,5,5,0
 "Hale, Texas",0,5,5,0
+"Harris, Texas",0,5,5,1
 "Los Angeles, California",5,0,5,0
 "Parmer, Texas",0,5,5,0
 "Upshur, Texas",0,5,5,0
-"Arapahoe, Colorado",4,0,4,0
 "Collin, Texas",0,4,4,0
 "Denver, Colorado",3,1,4,0
 "El Paso, Colorado",4,0,4,0
 "Fannin, Texas",0,4,4,0
 "Grand Traverse, Michigan",0,4,4,0
-"Harris, Texas",0,4,4,0
 "Hill, Montana",0,4,4,0
-"Kent, Michigan",2,2,4,2
+"Kent, Michigan",2,2,4,0
 "Montcalm, Michigan",1,3,4,0
 "Navajo, Arizona",4,0,4,0
 "Orange, New York",3,1,4,0
-"Southwest Health District, Utah",0,4,4,1
+"Southwest Health District, Utah",0,4,4,0
 "Tarrant, Texas",0,4,4,0
 "Upper Cumberland Region, Tennessee",0,4,4,0
 "Williamson, Illinois",0,4,4,0
@@ -96,9 +96,10 @@ U.S.,123,1223,1346,31
 "Prince George's, Maryland",2,0,2,0
 "Reeves, Texas",0,2,2,0
 "Rockwall, Texas",0,2,2,0
+"Santa Fe, New Mexico",1,1,2,1
 "Snohomish, Washington",2,0,2,0
 "Travis, Texas",0,2,2,0
-"Tulare, California",0,2,2,2
+"Tulare, California",0,2,2,0
 "Tuolumne, California",2,0,2,0
 "Whatcom, Washington",0,2,2,0
 "Allegan, Michigan",0,1,1,0
@@ -125,6 +126,7 @@ U.S.,123,1223,1346,31
 "Dakota, Minnesota",0,1,1,0
 "Dallas, Texas",0,1,1,0
 "Defiance, Ohio",1,0,1,0
+"Eastern, Idaho",1,0,1,1
 "Erath, Texas",0,1,1,0
 "Fort Bend, Texas",0,1,1,0
 "Franklin, Kentucky",1,0,1,0
@@ -165,7 +167,6 @@ U.S.,123,1223,1346,31
 "San Juan, New Mexico",0,1,1,0
 "San Mateo, California",1,0,1,0
 "Santa Clara, California",1,0,1,0
-"Santa Fe, New Mexico",1,0,1,1
 "Scurry, Texas",0,1,1,0
 "Shackelford, Texas",0,1,1,0
 "Sheridan, Nebraska",1,0,1,0
@@ -173,11 +174,10 @@ U.S.,123,1223,1346,31
 "Taney, Missouri",1,0,1,0
 "Todd, Kentucky",0,1,1,0
 "Unknown County, California",0,1,1,0
-"Unknown County, Colorado",0,1,1,0
 "Unknown County, Kentucky",1,0,1,0
 "Unknown County, Minnesota",0,1,1,0
 "Upstate, South Carolina",1,0,1,0
 "Washington, District of Columbia",1,0,1,0
 "Washington, Minnesota",1,0,1,0
-"Western, Iowa",0,1,1,1
+"Western, Iowa",0,1,1,0
 "Yolo, California",0,1,1,0
