@@ -25,8 +25,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Benton,Arkansas,-94.2561,36.3387,0,local,0.0
 ,Bergen,New Jersey,-74.0742,40.9597,0,imported,0.0
 ,Bergen,New Jersey,-74.0742,40.9597,0,local,0.0
-,Bexar,Texas,-98.52,29.4489,0,imported,0.0
-,Bexar,Texas,-98.52,29.4489,0,local,0.0
+,Bexar,Texas,-98.52,29.4489,1,imported,0.0
+,Bexar,Texas,-98.52,29.4489,1,local,1.0
 ,Borden,Texas,-101.4317,32.7436,0,imported,0.0
 ,Borden,Texas,-101.4317,32.7436,0,local,0.0
 ,Boulder,Colorado,-105.3577,40.0925,0,imported,0.0
@@ -161,8 +161,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Hudson,New Jersey,-74.0751,40.7408,0,local,0.0
 ,Ingham,Michigan,-84.3735,42.5971,0,imported,0.0
 ,Ingham,Michigan,-84.3735,42.5971,0,local,0.0
-,Jefferson,Kentucky,-85.6591,38.1872,1,imported,0.0
-,Jefferson,Kentucky,-85.6591,38.1872,1,local,1.0
+,Jefferson,Kentucky,-85.6591,38.1872,0,imported,0.0
+,Jefferson,Kentucky,-85.6591,38.1872,0,local,0.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,0,imported,0.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,0,local,0.0
 ,Kent,Michigan,-85.5493,43.0322,0,imported,0.0
@@ -173,6 +173,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Kiowa,Kansas,-99.2861,37.5582,0,local,0.0
 ,Knox,Ohio,-82.4215,40.3988,0,imported,0.0
 ,Knox,Ohio,-82.4215,40.3988,0,local,0.0
+,Kootenai,Idaho,-116.7018,47.6744,1,imported,0.0
+,Kootenai,Idaho,-116.7018,47.6744,1,local,1.0
 ,Lamar,Texas,-95.5712,33.6673,0,imported,0.0
 ,Lamar,Texas,-95.5712,33.6673,0,local,0.0
 ,Lamb,Texas,-102.3517,34.0686,0,imported,0.0
@@ -211,6 +213,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,0,local,0.0
 ,Midland,Texas,-102.0316,31.8691,1,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,1,local,1.0
+,Mohave,Arizona,-113.7579,35.7041,1,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,1,local,1.0
 ,Montcalm,Michigan,-85.1525,43.311,0,imported,0.0
 ,Montcalm,Michigan,-85.1525,43.311,0,local,0.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,0,imported,0.0
@@ -283,6 +287,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Sacramento,California,-121.3443,38.4493,0,local,0.0
 ,Saline,Arkansas,-92.6766,34.6466,0,imported,0.0
 ,Saline,Arkansas,-92.6766,34.6466,0,local,0.0
+,San Diego,California,-116.735,33.0343,1,imported,1.0
+,San Diego,California,-116.735,33.0343,1,local,0.0
 ,San Juan,New Mexico,-108.3206,36.5085,0,imported,0.0
 ,San Juan,New Mexico,-108.3206,36.5085,0,local,0.0
 ,San Mateo,California,-122.3291,37.4228,0,imported,0.0
@@ -291,8 +297,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Sandoval,New Mexico,-106.8659,35.6886,0,local,0.0
 ,Santa Clara,California,-121.6951,37.2318,0,imported,0.0
 ,Santa Clara,California,-121.6951,37.2318,0,local,0.0
-,Santa Fe,New Mexico,-105.9763,35.5069,1,imported,0.0
-,Santa Fe,New Mexico,-105.9763,35.5069,1,local,1.0
+,Santa Fe,New Mexico,-105.9763,35.5069,0,imported,0.0
+,Santa Fe,New Mexico,-105.9763,35.5069,0,local,0.0
 ,Scurry,Texas,-100.9164,32.7463,0,imported,0.0
 ,Scurry,Texas,-100.9164,32.7463,0,local,0.0
 ,Shackelford,Texas,-99.354,32.7359,0,imported,0.0

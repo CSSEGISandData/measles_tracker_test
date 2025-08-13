@@ -25,8 +25,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Benton,Arkansas,-94.2561,36.3387,1,local,1.0
 ,Bergen,New Jersey,-74.0742,40.9597,3,imported,1.0
 ,Bergen,New Jersey,-74.0742,40.9597,3,local,2.0
-,Bexar,Texas,-98.52,29.4489,1,imported,0.0
-,Bexar,Texas,-98.52,29.4489,1,local,1.0
+,Bexar,Texas,-98.52,29.4489,2,imported,0.0
+,Bexar,Texas,-98.52,29.4489,2,local,2.0
 ,Borden,Texas,-101.4317,32.7436,1,imported,0.0
 ,Borden,Texas,-101.4317,32.7436,1,local,1.0
 ,Boulder,Colorado,-105.3577,40.0925,1,imported,1.0
@@ -173,6 +173,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Kiowa,Kansas,-99.2861,37.5582,6,local,6.0
 ,Knox,Ohio,-82.4215,40.3988,14,imported,0.0
 ,Knox,Ohio,-82.4215,40.3988,14,local,14.0
+,Kootenai,Idaho,-116.7018,47.6744,1,imported,0.0
+,Kootenai,Idaho,-116.7018,47.6744,1,local,1.0
 ,Lamar,Texas,-95.5712,33.6673,28,imported,0.0
 ,Lamar,Texas,-95.5712,33.6673,28,local,28.0
 ,Lamb,Texas,-102.3517,34.0686,1,imported,0.0
@@ -211,6 +213,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,local,2.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
+,Mohave,Arizona,-113.7579,35.7041,1,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,1,local,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,1,imported,1.0
@@ -283,6 +287,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Sacramento,California,-121.3443,38.4493,1,local,0.0
 ,Saline,Arkansas,-92.6766,34.6466,1,imported,1.0
 ,Saline,Arkansas,-92.6766,34.6466,1,local,0.0
+,San Diego,California,-116.735,33.0343,1,imported,1.0
+,San Diego,California,-116.735,33.0343,1,local,0.0
 ,San Juan,New Mexico,-108.3206,36.5085,1,imported,0.0
 ,San Juan,New Mexico,-108.3206,36.5085,1,local,1.0
 ,San Mateo,California,-122.3291,37.4228,1,imported,1.0

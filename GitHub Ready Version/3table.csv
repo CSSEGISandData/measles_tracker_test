@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,124,1228,1352,28
+U.S.,125,1231,1356,30
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
@@ -75,6 +75,7 @@ U.S.,124,1228,1352,28
 "Woodford, Kentucky",0,3,3,0
 "Anchorage, Alaska",1,1,2,0
 "Bailey, Texas",0,2,2,0
+"Bexar, Texas",0,2,2,1
 "Denton, Texas",0,2,2,0
 "Dona Ana, New Mexico",0,2,2,0
 "Eastland, Texas",0,2,2,0
@@ -83,7 +84,7 @@ U.S.,124,1228,1352,28
 "Garza, Texas",0,2,2,0
 "Hennepin, Minnesota",2,0,2,0
 "Honolulu, Hawaii",2,0,2,0
-"Jefferson, Kentucky",1,1,2,1
+"Jefferson, Kentucky",1,1,2,0
 "Leon, Florida",1,1,2,0
 "Lynn, Texas",0,2,2,0
 "Macomb, Michigan",1,1,2,0
@@ -96,7 +97,7 @@ U.S.,124,1228,1352,28
 "Prince George's, Maryland",2,0,2,0
 "Reeves, Texas",0,2,2,0
 "Rockwall, Texas",0,2,2,0
-"Santa Fe, New Mexico",1,1,2,1
+"Santa Fe, New Mexico",1,1,2,0
 "Snohomish, Washington",2,0,2,0
 "Travis, Texas",0,2,2,0
 "Tulare, California",0,2,2,0
@@ -108,7 +109,6 @@ U.S.,124,1228,1352,28
 "Atascosa, Texas",0,1,1,0
 "Bell, Texas",0,1,1,0
 "Benton, Arkansas",0,1,1,0
-"Bexar, Texas",0,1,1,0
 "Borden, Texas",0,1,1,0
 "Boulder, Colorado",1,0,1,0
 "Brazoria, Texas",0,1,1,0
@@ -140,10 +140,12 @@ U.S.,124,1228,1352,28
 "Hudson, New Jersey",0,1,1,0
 "Ingham, Michigan",1,0,1,0
 "Kenai Peninsula, Alaska",1,0,1,0
+"Kootenai, Idaho",0,1,1,1
 "Lamb, Texas",0,1,1,0
 "Lamoille, Vermont",1,0,1,0
 "Lancaster, Pennsylvania",0,1,1,0
 "Miami-Dade, Florida",0,1,1,0
+"Mohave, Arizona",0,1,1,1
 "Montgomery, Pennsylvania",1,0,1,0
 "Multnomah, Oregon",1,0,1,0
 "Muskegon, Michigan",0,1,1,0
@@ -164,6 +166,7 @@ U.S.,124,1228,1352,28
 "Riverside, California",1,0,1,0
 "Sacramento, California",1,0,1,0
 "Saline, Arkansas",1,0,1,0
+"San Diego, California",1,0,1,1
 "San Juan, New Mexico",0,1,1,0
 "San Mateo, California",1,0,1,0
 "Santa Clara, California",1,0,1,0
