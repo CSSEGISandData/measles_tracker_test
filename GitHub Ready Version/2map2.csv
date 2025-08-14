@@ -1,4 +1,6 @@
 fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
+,Adams,Colorado,-104.3379,39.8736,1,imported,1.0
+,Adams,Colorado,-104.3379,39.8736,1,local,0.0
 ,Allegan,Michigan,-85.8883,42.5913,0,imported,0.0
 ,Allegan,Michigan,-85.8883,42.5913,0,local,0.0
 ,Allen,Indiana,-85.0665,41.0909,0,imported,0.0
@@ -249,8 +251,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Orange,New York,-74.3056,41.4022,0,local,0.0
 ,Orleans,Louisiana,-89.9289,30.0687,0,imported,0.0
 ,Orleans,Louisiana,-89.9289,30.0687,0,local,0.0
-,Osceola,Michigan,-85.3252,43.9898,5,imported,0.0
-,Osceola,Michigan,-85.3252,43.9898,5,local,5.0
+,Osceola,Michigan,-85.3252,43.9898,0,imported,0.0
+,Osceola,Michigan,-85.3252,43.9898,0,local,0.0
 ,Parmer,Texas,-102.7845,34.5301,0,imported,0.0
 ,Parmer,Texas,-102.7845,34.5301,0,local,0.0
 ,Passaic,New Jersey,-74.3009,41.0344,1,imported,1.0
@@ -297,8 +299,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Sandoval,New Mexico,-106.8659,35.6886,0,local,0.0
 ,Santa Clara,California,-121.6951,37.2318,0,imported,0.0
 ,Santa Clara,California,-121.6951,37.2318,0,local,0.0
-,Santa Fe,New Mexico,-105.9763,35.5069,0,imported,0.0
-,Santa Fe,New Mexico,-105.9763,35.5069,0,local,0.0
+,Santa Fe,New Mexico,-105.9763,35.5069,3,imported,0.0
+,Santa Fe,New Mexico,-105.9763,35.5069,3,local,3.0
 ,Scurry,Texas,-100.9164,32.7463,0,imported,0.0
 ,Scurry,Texas,-100.9164,32.7463,0,local,0.0
 ,Shackelford,Texas,-99.354,32.7359,0,imported,0.0

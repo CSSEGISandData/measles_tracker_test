@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,125,1231,1356,30
+U.S.,126,1234,1360,29
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
@@ -32,7 +32,7 @@ U.S.,125,1231,1356,30
 "Dallam, Texas",0,7,7,0
 "Hockley, Texas",0,7,7,1
 "Midland, Texas",0,7,7,1
-"Osceola, Michigan",0,7,7,5
+"Osceola, Michigan",0,7,7,0
 "Pawnee, Kansas",0,7,7,0
 "Utah, Utah",0,7,7,0
 "Cook, Illinois",1,5,6,0
@@ -50,6 +50,7 @@ U.S.,125,1231,1356,30
 "Harris, Texas",0,5,5,1
 "Los Angeles, California",5,0,5,0
 "Parmer, Texas",0,5,5,0
+"Santa Fe, New Mexico",1,4,5,3
 "Upshur, Texas",0,5,5,0
 "Collin, Texas",0,4,4,0
 "Denver, Colorado",3,1,4,0
@@ -97,12 +98,12 @@ U.S.,125,1231,1356,30
 "Prince George's, Maryland",2,0,2,0
 "Reeves, Texas",0,2,2,0
 "Rockwall, Texas",0,2,2,0
-"Santa Fe, New Mexico",1,1,2,0
 "Snohomish, Washington",2,0,2,0
 "Travis, Texas",0,2,2,0
 "Tulare, California",0,2,2,0
 "Tuolumne, California",2,0,2,0
 "Whatcom, Washington",0,2,2,0
+"Adams, Colorado",1,0,1,1
 "Allegan, Michigan",0,1,1,0
 "Allen, Ohio",1,0,1,0
 "Archuleta, Colorado",0,1,1,0
