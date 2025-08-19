@@ -1,6 +1,6 @@
 fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
-,Adams,Colorado,-104.3379,39.8736,1,imported,1.0
-,Adams,Colorado,-104.3379,39.8736,1,local,0.0
+,Adams,Colorado,-104.3379,39.8736,3,imported,1.0
+,Adams,Colorado,-104.3379,39.8736,3,local,2.0
 ,Allegan,Michigan,-85.8883,42.5913,0,imported,0.0
 ,Allegan,Michigan,-85.8883,42.5913,0,local,0.0
 ,Allen,Indiana,-85.0665,41.0909,0,imported,0.0
@@ -45,8 +45,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Bucks,Pennsylvania,-75.1069,40.337,0,local,0.0
 ,Burke,North Dakota,-102.5182,48.791,0,imported,0.0
 ,Burke,North Dakota,-102.5182,48.791,0,local,0.0
-,Carbon,Wyoming,-106.9306,41.6944,4,imported,0.0
-,Carbon,Wyoming,-106.9306,41.6944,4,local,4.0
+,Carbon,Wyoming,-106.9306,41.6944,1,imported,0.0
+,Carbon,Wyoming,-106.9306,41.6944,1,local,1.0
 ,Carson,Texas,-101.3542,35.4035,0,imported,0.0
 ,Carson,Texas,-101.3542,35.4035,0,local,0.0
 ,Cascade,Montana,-111.347,47.308,0,imported,0.0
@@ -189,6 +189,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Lea,New Mexico,-103.4125,32.7921,0,local,0.0
 ,Leon,Florida,-84.2779,30.458,0,imported,0.0
 ,Leon,Florida,-84.2779,30.458,0,local,0.0
+,Lewis and Clark,Montana,-112.3904,47.1224,1,imported,0.0
+,Lewis and Clark,Montana,-112.3904,47.1224,1,local,1.0
 ,Lincoln,South Dakota,-96.7218,43.2789,0,imported,0.0
 ,Lincoln,South Dakota,-96.7218,43.2789,0,local,0.0
 ,Los Angeles,California,-118.2247,34.3219,0,imported,0.0
@@ -209,6 +211,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,McLennan,Texas,-97.2018,31.5524,0,local,0.0
 ,Meade,South Dakota,-102.7169,44.5668,0,imported,0.0
 ,Meade,South Dakota,-102.7169,44.5668,0,local,0.0
+,Mesa,Colorado,-108.4664,39.0183,1,imported,0.0
+,Mesa,Colorado,-108.4664,39.0183,1,local,1.0
 ,Miami-Dade,Florida,-80.5624,25.615,0,imported,0.0
 ,Miami-Dade,Florida,-80.5624,25.615,0,local,0.0
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,0,imported,0.0
@@ -231,8 +235,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Navajo,Arizona,-110.3214,35.3996,0,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,local,0.0
-,New York,New York,-73.9668,40.7792,1,imported,0.0
-,New York,New York,-73.9668,40.7792,1,local,1.0
+,New York,New York,-73.9668,40.7792,0,imported,0.0
+,New York,New York,-73.9668,40.7792,0,local,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,0,imported,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,0,local,0.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,0,imported,0.0
@@ -241,8 +245,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Oakland,Michigan,-83.3858,42.6604,0,local,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,0,imported,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,0,local,0.0
-,Oconto,Wisconsin,-88.2697,45.0264,9,imported,9.0
-,Oconto,Wisconsin,-88.2697,45.0264,9,local,0.0
+,Oconto,Wisconsin,-88.2697,45.0264,0,imported,0.0
+,Oconto,Wisconsin,-88.2697,45.0264,0,local,0.0
 ,Ontario,New York,-77.2998,42.8528,0,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,0,local,0.0
 ,Orange,California,-117.7609,33.7031,0,imported,0.0
@@ -255,8 +259,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Osceola,Michigan,-85.3252,43.9898,0,local,0.0
 ,Parmer,Texas,-102.7845,34.5301,0,imported,0.0
 ,Parmer,Texas,-102.7845,34.5301,0,local,0.0
-,Passaic,New Jersey,-74.3009,41.0344,1,imported,1.0
-,Passaic,New Jersey,-74.3009,41.0344,1,local,0.0
+,Passaic,New Jersey,-74.3009,41.0344,0,imported,0.0
+,Passaic,New Jersey,-74.3009,41.0344,0,local,0.0
 ,Pawnee,Kansas,-99.2367,38.1813,0,imported,0.0
 ,Pawnee,Kansas,-99.2367,38.1813,0,local,0.0
 ,Pennington,South Dakota,-102.8238,44.0037,0,imported,0.0
@@ -331,6 +335,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Tuolumne,California,-119.9548,38.0276,0,local,0.0
 ,Unknown County,California,-119.347852,35.491035,0,imported,0.0
 ,Unknown County,California,-119.347852,35.491035,0,local,0.0
+,Unknown County,Colorado,-105.185361,39.534747,1,imported,0.0
+,Unknown County,Colorado,-105.185361,39.534747,1,local,1.0
 ,Unknown County,Kansas,-96.409286,38.480984,0,imported,0.0
 ,Unknown County,Kansas,-96.409286,38.480984,0,local,0.0
 ,Unknown County,Kentucky,-85.261296,37.838308,0,imported,0.0

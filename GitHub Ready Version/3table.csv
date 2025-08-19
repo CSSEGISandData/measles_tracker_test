@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,126,1234,1360,29
+U.S.,126,1240,1366,20
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
@@ -22,11 +22,11 @@ U.S.,126,1234,1360,29
 "Grand Forks, North Dakota",2,8,10,0
 "Stevens, Kansas",0,10,10,0
 "McLennan, Texas",0,9,9,0
-"Oconto, Wisconsin",9,0,9,9
+"Oconto, Wisconsin",9,0,9,0
 "Allen, Indiana",0,8,8,0
 "Erie, Pennsylvania",2,6,8,0
 "Lincoln, South Dakota",7,1,8,0
-"New York, New York",0,8,8,1
+"New York, New York",0,8,8,0
 "Williamson, Texas",0,8,8,2
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
@@ -35,6 +35,7 @@ U.S.,126,1234,1360,29
 "Osceola, Michigan",0,7,7,0
 "Pawnee, Kansas",0,7,7,0
 "Utah, Utah",0,7,7,0
+"Carbon, Wyoming",1,5,6,1
 "Cook, Illinois",1,5,6,0
 "Eastern, Iowa",1,5,6,0
 "Faulkner, Arkansas",1,5,6,0
@@ -44,7 +45,6 @@ U.S.,126,1234,1360,29
 "Kiowa, Kansas",0,6,6,0
 "Sandoval, New Mexico",0,6,6,0
 "Arapahoe, Colorado",4,1,5,0
-"Carbon, Wyoming",1,4,5,4
 "Cedar, Missouri",0,5,5,0
 "Hale, Texas",0,5,5,0
 "Harris, Texas",0,5,5,1
@@ -67,6 +67,7 @@ U.S.,126,1234,1360,29
 "Upper Cumberland Region, Tennessee",0,4,4,0
 "Williamson, Illinois",0,4,4,0
 "Yellowstone, Montana",0,4,4,0
+"Adams, Colorado",1,2,3,3
 "Andrews, Texas",0,3,3,0
 "Bergen, New Jersey",1,2,3,0
 "Eddy, New Mexico",0,3,3,0
@@ -103,7 +104,6 @@ U.S.,126,1234,1360,29
 "Tulare, California",0,2,2,0
 "Tuolumne, California",2,0,2,0
 "Whatcom, Washington",0,2,2,0
-"Adams, Colorado",1,0,1,1
 "Allegan, Michigan",0,1,1,0
 "Allen, Ohio",1,0,1,0
 "Archuleta, Colorado",0,1,1,0
@@ -145,6 +145,8 @@ U.S.,126,1234,1360,29
 "Lamb, Texas",0,1,1,0
 "Lamoille, Vermont",1,0,1,0
 "Lancaster, Pennsylvania",0,1,1,0
+"Lewis and Clark, Montana",0,1,1,1
+"Mesa, Colorado",0,1,1,1
 "Miami-Dade, Florida",0,1,1,0
 "Mohave, Arizona",0,1,1,1
 "Montgomery, Pennsylvania",1,0,1,0
@@ -157,7 +159,7 @@ U.S.,126,1234,1360,29
 "Ocean, New Jersey",0,1,1,0
 "Ontario, New York",0,1,1,0
 "Orange, California",1,0,1,0
-"Passaic, New Jersey",1,0,1,1
+"Passaic, New Jersey",1,0,1,0
 "Placer, California",1,0,1,0
 "Potter, Texas",0,1,1,0
 "Providence, Rhode Island",1,0,1,0
@@ -178,6 +180,7 @@ U.S.,126,1234,1360,29
 "Taney, Missouri",1,0,1,0
 "Todd, Kentucky",0,1,1,0
 "Unknown County, California",0,1,1,0
+"Unknown County, Colorado",0,1,1,1
 "Unknown County, Kentucky",1,0,1,0
 "Unknown County, Minnesota",0,1,1,0
 "Upstate, South Carolina",1,0,1,0
