@@ -29,6 +29,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Bergen,New Jersey,-74.0742,40.9597,3,local,2.0
 ,Bexar,Texas,-98.52,29.4489,2,imported,0.0
 ,Bexar,Texas,-98.52,29.4489,2,local,2.0
+,Bonner,Idaho,-116.6011,48.3,1,imported,0.0
+,Bonner,Idaho,-116.6011,48.3,1,local,1.0
 ,Borden,Texas,-101.4317,32.7436,1,imported,0.0
 ,Borden,Texas,-101.4317,32.7436,1,local,1.0
 ,Boulder,Colorado,-105.3577,40.0925,1,imported,1.0
@@ -37,8 +39,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Brazoria,Texas,-95.4521,29.1898,1,local,1.0
 ,Brewster,Texas,-103.2517,29.8119,1,imported,0.0
 ,Brewster,Texas,-103.2517,29.8119,1,local,1.0
-,Broward,Florida,-80.4871,26.1523,1,imported,0.0
-,Broward,Florida,-80.4871,26.1523,1,local,1.0
+,Broward,Florida,-80.4871,26.1523,2,imported,0.0
+,Broward,Florida,-80.4871,26.1523,2,local,2.0
 ,Brown,Texas,-98.9998,31.7742,1,imported,0.0
 ,Brown,Texas,-98.9998,31.7742,1,local,1.0
 ,Bucks,Pennsylvania,-75.1069,40.337,1,imported,1.0
@@ -85,6 +87,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Denver,Colorado,-104.8758,39.762,4,local,1.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,2,imported,0.0
 ,Dona Ana,New Mexico,-106.8328,32.3526,2,local,2.0
+,Duval,Florida,-81.6715,30.3313,1,imported,0.0
+,Duval,Florida,-81.6715,30.3313,1,local,1.0
 ,Eastern,Idaho,-111.6148,43.3877,1,imported,1.0
 ,Eastern,Idaho,-111.6148,43.3877,1,local,0.0
 ,Eastern,Iowa,-91.64545556,41.92909259,6,imported,1.0
@@ -211,16 +215,16 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,McLennan,Texas,-97.2018,31.5524,9,local,9.0
 ,Meade,South Dakota,-102.7169,44.5668,2,imported,1.0
 ,Meade,South Dakota,-102.7169,44.5668,2,local,1.0
-,Mesa,Colorado,-108.4664,39.0183,1,imported,0.0
-,Mesa,Colorado,-108.4664,39.0183,1,local,1.0
+,Mesa,Colorado,-108.4664,39.0183,2,imported,0.0
+,Mesa,Colorado,-108.4664,39.0183,2,local,2.0
 ,Miami-Dade,Florida,-80.5624,25.615,1,imported,0.0
 ,Miami-Dade,Florida,-80.5624,25.615,1,local,1.0
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,imported,0.0
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,local,2.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
-,Mohave,Arizona,-113.7579,35.7041,1,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,1,local,1.0
+,Mohave,Arizona,-113.7579,35.7041,9,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,9,local,9.0
 ,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,1,imported,1.0
@@ -235,8 +239,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Navajo,Arizona,-110.3214,35.3996,4,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,local,1.0
-,New York,New York,-73.9668,40.7792,8,imported,0.0
-,New York,New York,-73.9668,40.7792,8,local,8.0
+,New York City,New York,-73.9668,40.7792,9,imported,0.0
+,New York City,New York,-73.9668,40.7792,9,local,9.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,imported,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,local,1.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,3,imported,2.0
@@ -335,8 +339,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Tuolumne,California,-119.9548,38.0276,2,local,0.0
 ,Unknown County,California,-119.347852,35.491035,1,imported,0.0
 ,Unknown County,California,-119.347852,35.491035,1,local,1.0
-,Unknown County,Colorado,-105.185361,39.534747,1,imported,0.0
-,Unknown County,Colorado,-105.185361,39.534747,1,local,1.0
 ,Unknown County,Kansas,-96.409286,38.480984,17,imported,0.0
 ,Unknown County,Kansas,-96.409286,38.480984,17,local,17.0
 ,Unknown County,Kentucky,-85.261296,37.838308,1,imported,1.0

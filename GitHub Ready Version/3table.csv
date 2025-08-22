@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,126,1240,1366,20
+U.S.,126,1252,1378,26
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
@@ -22,16 +22,17 @@ U.S.,126,1240,1366,20
 "Grand Forks, North Dakota",2,8,10,0
 "Stevens, Kansas",0,10,10,0
 "McLennan, Texas",0,9,9,0
+"Mohave, Arizona",0,9,9,9
+"New York City, New York",0,9,9,1
 "Oconto, Wisconsin",9,0,9,0
 "Allen, Indiana",0,8,8,0
 "Erie, Pennsylvania",2,6,8,0
 "Lincoln, South Dakota",7,1,8,0
-"New York, New York",0,8,8,0
-"Williamson, Texas",0,8,8,2
+"Williamson, Texas",0,8,8,0
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
-"Hockley, Texas",0,7,7,1
-"Midland, Texas",0,7,7,1
+"Hockley, Texas",0,7,7,0
+"Midland, Texas",0,7,7,0
 "Osceola, Michigan",0,7,7,0
 "Pawnee, Kansas",0,7,7,0
 "Utah, Utah",0,7,7,0
@@ -47,7 +48,7 @@ U.S.,126,1240,1366,20
 "Arapahoe, Colorado",4,1,5,0
 "Cedar, Missouri",0,5,5,0
 "Hale, Texas",0,5,5,0
-"Harris, Texas",0,5,5,1
+"Harris, Texas",0,5,5,0
 "Los Angeles, California",5,0,5,0
 "Parmer, Texas",0,5,5,0
 "Santa Fe, New Mexico",1,4,5,3
@@ -78,6 +79,7 @@ U.S.,126,1240,1366,20
 "Anchorage, Alaska",1,1,2,0
 "Bailey, Texas",0,2,2,0
 "Bexar, Texas",0,2,2,1
+"Broward, Florida",0,2,2,1
 "Denton, Texas",0,2,2,0
 "Dona Ana, New Mexico",0,2,2,0
 "Eastland, Texas",0,2,2,0
@@ -92,6 +94,7 @@ U.S.,126,1240,1366,20
 "Macomb, Michigan",1,1,2,0
 "Marquette, Michigan",0,2,2,0
 "Meade, South Dakota",1,1,2,0
+"Mesa, Colorado",0,2,2,2
 "Mid-Cumberland Region, Tennessee",0,2,2,0
 "Orleans, Louisiana",1,1,2,0
 "Pennington, South Dakota",1,1,2,0
@@ -110,11 +113,11 @@ U.S.,126,1240,1366,20
 "Atascosa, Texas",0,1,1,0
 "Bell, Texas",0,1,1,0
 "Benton, Arkansas",0,1,1,0
+"Bonner, Idaho",0,1,1,1
 "Borden, Texas",0,1,1,0
 "Boulder, Colorado",1,0,1,0
 "Brazoria, Texas",0,1,1,0
 "Brewster, Texas",0,1,1,0
-"Broward, Florida",0,1,1,0
 "Brown, Texas",0,1,1,0
 "Bucks, Pennsylvania",1,0,1,0
 "Burke, North Dakota",1,0,1,0
@@ -127,7 +130,8 @@ U.S.,126,1240,1366,20
 "Dakota, Minnesota",0,1,1,0
 "Dallas, Texas",0,1,1,0
 "Defiance, Ohio",1,0,1,0
-"Eastern, Idaho",1,0,1,1
+"Duval, Florida",0,1,1,1
+"Eastern, Idaho",1,0,1,0
 "Erath, Texas",0,1,1,0
 "Fort Bend, Texas",0,1,1,0
 "Franklin, Kentucky",1,0,1,0
@@ -146,9 +150,7 @@ U.S.,126,1240,1366,20
 "Lamoille, Vermont",1,0,1,0
 "Lancaster, Pennsylvania",0,1,1,0
 "Lewis and Clark, Montana",0,1,1,1
-"Mesa, Colorado",0,1,1,1
 "Miami-Dade, Florida",0,1,1,0
-"Mohave, Arizona",0,1,1,1
 "Montgomery, Pennsylvania",1,0,1,0
 "Multnomah, Oregon",1,0,1,0
 "Muskegon, Michigan",0,1,1,0
@@ -180,7 +182,6 @@ U.S.,126,1240,1366,20
 "Taney, Missouri",1,0,1,0
 "Todd, Kentucky",0,1,1,0
 "Unknown County, California",0,1,1,0
-"Unknown County, Colorado",0,1,1,1
 "Unknown County, Kentucky",1,0,1,0
 "Unknown County, Minnesota",0,1,1,0
 "Upstate, South Carolina",1,0,1,0
