@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,128,1260,1388,32
+U.S.,128,1273,1401,40
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
@@ -9,6 +9,7 @@ U.S.,128,1260,1388,32
 "Lamar, Texas",0,28,28,0
 "Dawson, Texas",0,26,26,0
 "Haskell, Kansas",0,21,21,0
+"Oconto, Wisconsin",9,12,21,12
 "Yoakum, Texas",0,20,20,0
 "Gallatin, Montana",5,14,19,0
 "Williams, North Dakota",1,17,18,0
@@ -18,25 +19,25 @@ U.S.,128,1260,1388,32
 "Cochran, Texas",0,14,14,0
 "Knox, Ohio",0,14,14,0
 "Luna, New Mexico",0,14,14,0
-"Oconto, Wisconsin",9,5,14,5
 "Ector, Texas",0,12,12,0
+"Mohave, Arizona",0,12,12,11
 "Grand Forks, North Dakota",2,8,10,0
 "Stevens, Kansas",0,10,10,0
 "McLennan, Texas",0,9,9,0
-"Mohave, Arizona",0,9,9,9
 "New York City, New York",0,9,9,1
 "Allen, Indiana",0,8,8,0
 "Erie, Pennsylvania",2,6,8,0
 "Lincoln, South Dakota",7,1,8,0
 "Williamson, Texas",0,8,8,0
+"Carbon, Wyoming",1,6,7,2
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
 "Hockley, Texas",0,7,7,0
 "Midland, Texas",0,7,7,0
 "Osceola, Michigan",0,7,7,0
 "Pawnee, Kansas",0,7,7,0
+"Southwest Health District, Utah",0,7,7,3
 "Utah, Utah",0,7,7,0
-"Carbon, Wyoming",1,5,6,1
 "Cook, Illinois",1,5,6,0
 "Eastern, Iowa",1,5,6,0
 "Faulkner, Arkansas",1,5,6,0
@@ -45,7 +46,6 @@ U.S.,128,1260,1388,32
 "King, Washington",3,3,6,0
 "Kiowa, Kansas",0,6,6,0
 "Sandoval, New Mexico",0,6,6,0
-"Southwest Health District, Utah",0,6,6,2
 "Arapahoe, Colorado",4,1,5,0
 "Cedar, Missouri",0,5,5,0
 "Hale, Texas",0,5,5,0
@@ -68,7 +68,7 @@ U.S.,128,1260,1388,32
 "Upper Cumberland Region, Tennessee",0,4,4,0
 "Williamson, Illinois",0,4,4,0
 "Yellowstone, Montana",0,4,4,0
-"Adams, Colorado",1,2,3,3
+"Adams, Colorado",1,2,3,2
 "Andrews, Texas",0,3,3,0
 "Bergen, New Jersey",1,2,3,0
 "Eddy, New Mexico",0,3,3,0
@@ -78,7 +78,7 @@ U.S.,128,1260,1388,32
 "Woodford, Kentucky",0,3,3,0
 "Anchorage, Alaska",1,1,2,0
 "Bailey, Texas",0,2,2,0
-"Bexar, Texas",0,2,2,1
+"Bexar, Texas",0,2,2,0
 "Broward, Florida",0,2,2,1
 "Denton, Texas",0,2,2,0
 "Dona Ana, New Mexico",0,2,2,0
@@ -145,11 +145,11 @@ U.S.,128,1260,1388,32
 "Howard, Maryland",1,0,1,0
 "Ingham, Michigan",1,0,1,0
 "Kenai Peninsula, Alaska",1,0,1,0
-"Kootenai, Idaho",0,1,1,1
+"Kootenai, Idaho",0,1,1,0
 "Lamb, Texas",0,1,1,0
 "Lamoille, Vermont",1,0,1,0
 "Lancaster, Pennsylvania",0,1,1,0
-"Lewis and Clark, Montana",0,1,1,1
+"Lewis and Clark, Montana",0,1,1,0
 "Miami-Dade, Florida",0,1,1,0
 "Montgomery, Pennsylvania",1,0,1,0
 "Multnomah, Oregon",1,0,1,0
@@ -184,6 +184,7 @@ U.S.,128,1260,1388,32
 "Taney, Missouri",1,0,1,0
 "Todd, Kentucky",0,1,1,0
 "Unknown County, California",0,1,1,0
+"Unknown County, Colorado",0,1,1,1
 "Unknown County, Kentucky",1,0,1,0
 "Unknown County, Minnesota",0,1,1,0
 "Upstate, South Carolina",1,0,1,0
