@@ -1,6 +1,6 @@
 fips,county,state,longitude,latitude,cases_total,type,count
-,Adams,Colorado,-104.3379,39.8736,3,imported,1.0
-,Adams,Colorado,-104.3379,39.8736,3,local,2.0
+,Adams,Colorado,-104.3379,39.8736,4,imported,1.0
+,Adams,Colorado,-104.3379,39.8736,4,local,3.0
 ,Allegan,Michigan,-85.8883,42.5913,1,imported,0.0
 ,Allegan,Michigan,-85.8883,42.5913,1,local,1.0
 ,Allen,Indiana,-85.0665,41.0909,8,imported,0.0
@@ -215,8 +215,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,McLennan,Texas,-97.2018,31.5524,9,local,9.0
 ,Meade,South Dakota,-102.7169,44.5668,2,imported,1.0
 ,Meade,South Dakota,-102.7169,44.5668,2,local,1.0
-,Mesa,Colorado,-108.4664,39.0183,2,imported,0.0
-,Mesa,Colorado,-108.4664,39.0183,2,local,2.0
+,Mesa,Colorado,-108.4664,39.0183,7,imported,0.0
+,Mesa,Colorado,-108.4664,39.0183,7,local,7.0
 ,Miami-Dade,Florida,-80.5624,25.615,1,imported,0.0
 ,Miami-Dade,Florida,-80.5624,25.615,1,local,1.0
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,imported,0.0
@@ -251,8 +251,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Oakland,Michigan,-83.3858,42.6604,1,local,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,1,imported,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,1,local,1.0
-,Oconto,Wisconsin,-88.2697,45.0264,21,imported,9.0
-,Oconto,Wisconsin,-88.2697,45.0264,21,local,12.0
+,Oconto,Wisconsin,-88.2697,45.0264,23,imported,9.0
+,Oconto,Wisconsin,-88.2697,45.0264,23,local,14.0
 ,Ontario,New York,-77.2998,42.8528,1,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,1,local,1.0
 ,Orange,California,-117.7609,33.7031,1,imported,1.0
@@ -343,14 +343,14 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Tuolumne,California,-119.9548,38.0276,2,local,0.0
 ,Unknown County,California,-119.347852,35.491035,1,imported,0.0
 ,Unknown County,California,-119.347852,35.491035,1,local,1.0
-,Unknown County,Colorado,-105.185361,39.534747,1,imported,0.0
-,Unknown County,Colorado,-105.185361,39.534747,1,local,1.0
 ,Unknown County,Kansas,-96.409286,38.480984,17,imported,0.0
 ,Unknown County,Kansas,-96.409286,38.480984,17,local,17.0
 ,Unknown County,Kentucky,-85.261296,37.838308,1,imported,1.0
 ,Unknown County,Kentucky,-85.261296,37.838308,1,local,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,1,local,1.0
+,Unknown County,New Jersey,-74.424465,40.438248,2,imported,2.0
+,Unknown County,New Jersey,-74.424465,40.438248,2,local,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,local,17.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0.0

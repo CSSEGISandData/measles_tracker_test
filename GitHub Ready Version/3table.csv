@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,128,1273,1401,40
+U.S.,130,1280,1410,41
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
@@ -8,8 +8,8 @@ U.S.,128,1273,1401,40
 "Gray, Kansas",0,29,29,0
 "Lamar, Texas",0,28,28,0
 "Dawson, Texas",0,26,26,0
+"Oconto, Wisconsin",9,14,23,14
 "Haskell, Kansas",0,21,21,0
-"Oconto, Wisconsin",9,12,21,12
 "Yoakum, Texas",0,20,20,0
 "Gallatin, Montana",5,14,19,0
 "Williams, North Dakota",1,17,18,0
@@ -24,15 +24,16 @@ U.S.,128,1273,1401,40
 "Grand Forks, North Dakota",2,8,10,0
 "Stevens, Kansas",0,10,10,0
 "McLennan, Texas",0,9,9,0
-"New York City, New York",0,9,9,1
+"New York City, New York",0,9,9,0
 "Allen, Indiana",0,8,8,0
 "Erie, Pennsylvania",2,6,8,0
 "Lincoln, South Dakota",7,1,8,0
 "Williamson, Texas",0,8,8,0
-"Carbon, Wyoming",1,6,7,2
+"Carbon, Wyoming",1,6,7,1
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
 "Hockley, Texas",0,7,7,0
+"Mesa, Colorado",0,7,7,5
 "Midland, Texas",0,7,7,0
 "Osceola, Michigan",0,7,7,0
 "Pawnee, Kansas",0,7,7,0
@@ -54,6 +55,7 @@ U.S.,128,1273,1401,40
 "Parmer, Texas",0,5,5,0
 "Santa Fe, New Mexico",1,4,5,0
 "Upshur, Texas",0,5,5,0
+"Adams, Colorado",1,3,4,1
 "Collin, Texas",0,4,4,0
 "Denver, Colorado",3,1,4,0
 "El Paso, Colorado",4,0,4,0
@@ -68,7 +70,6 @@ U.S.,128,1273,1401,40
 "Upper Cumberland Region, Tennessee",0,4,4,0
 "Williamson, Illinois",0,4,4,0
 "Yellowstone, Montana",0,4,4,0
-"Adams, Colorado",1,2,3,2
 "Andrews, Texas",0,3,3,0
 "Bergen, New Jersey",1,2,3,0
 "Eddy, New Mexico",0,3,3,0
@@ -79,7 +80,7 @@ U.S.,128,1273,1401,40
 "Anchorage, Alaska",1,1,2,0
 "Bailey, Texas",0,2,2,0
 "Bexar, Texas",0,2,2,0
-"Broward, Florida",0,2,2,1
+"Broward, Florida",0,2,2,0
 "Denton, Texas",0,2,2,0
 "Dona Ana, New Mexico",0,2,2,0
 "Eastland, Texas",0,2,2,0
@@ -95,7 +96,6 @@ U.S.,128,1273,1401,40
 "Macomb, Michigan",1,1,2,0
 "Marquette, Michigan",0,2,2,0
 "Meade, South Dakota",1,1,2,0
-"Mesa, Colorado",0,2,2,2
 "Mid-Cumberland Region, Tennessee",0,2,2,0
 "Orleans, Louisiana",1,1,2,0
 "Pennington, South Dakota",1,1,2,0
@@ -107,6 +107,7 @@ U.S.,128,1273,1401,40
 "Travis, Texas",0,2,2,0
 "Tulare, California",0,2,2,0
 "Tuolumne, California",2,0,2,0
+"Unknown County, New Jersey",2,0,2,2
 "Whatcom, Washington",0,2,2,0
 "Allegan, Michigan",0,1,1,0
 "Allen, Ohio",1,0,1,0
@@ -131,7 +132,7 @@ U.S.,128,1273,1401,40
 "Dakota, Minnesota",0,1,1,0
 "Dallas, Texas",0,1,1,0
 "Defiance, Ohio",1,0,1,0
-"Duval, Florida",0,1,1,1
+"Duval, Florida",0,1,1,0
 "Eastern, Idaho",1,0,1,0
 "Erath, Texas",0,1,1,0
 "Fort Bend, Texas",0,1,1,0
@@ -184,7 +185,6 @@ U.S.,128,1273,1401,40
 "Taney, Missouri",1,0,1,0
 "Todd, Kentucky",0,1,1,0
 "Unknown County, California",0,1,1,0
-"Unknown County, Colorado",0,1,1,1
 "Unknown County, Kentucky",1,0,1,0
 "Unknown County, Minnesota",0,1,1,0
 "Upstate, South Carolina",1,0,1,0
