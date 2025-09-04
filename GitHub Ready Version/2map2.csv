@@ -25,12 +25,12 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Bell,Texas,-97.4788,31.0373,0,local,0.0
 ,Benton,Arkansas,-94.2561,36.3387,0,imported,0.0
 ,Benton,Arkansas,-94.2561,36.3387,0,local,0.0
-,Bergen,New Jersey,-74.0742,40.9597,0,imported,0.0
-,Bergen,New Jersey,-74.0742,40.9597,0,local,0.0
+,Bergen,New Jersey,-74.0742,40.9597,1,imported,0.0
+,Bergen,New Jersey,-74.0742,40.9597,1,local,1.0
 ,Bexar,Texas,-98.52,29.4489,0,imported,0.0
 ,Bexar,Texas,-98.52,29.4489,0,local,0.0
-,Bonner,Idaho,-116.6011,48.3,1,imported,0.0
-,Bonner,Idaho,-116.6011,48.3,1,local,1.0
+,Bonner,Idaho,-116.6011,48.3,0,imported,0.0
+,Bonner,Idaho,-116.6011,48.3,0,local,0.0
 ,Borden,Texas,-101.4317,32.7436,0,imported,0.0
 ,Borden,Texas,-101.4317,32.7436,0,local,0.0
 ,Boulder,Colorado,-105.3577,40.0925,0,imported,0.0
@@ -93,6 +93,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Eastern,Idaho,-111.6148,43.3877,0,local,0.0
 ,Eastern,Iowa,-91.64545556,41.92909259,0,imported,0.0
 ,Eastern,Iowa,-91.64545556,41.92909259,0,local,0.0
+,Eastern Region,Virginia,-76.44495462,36.95649803,1,imported,0.0
+,Eastern Region,Virginia,-76.44495462,36.95649803,1,local,1.0
 ,Eastland,Texas,-98.8323,32.3271,0,imported,0.0
 ,Eastland,Texas,-98.8323,32.3271,0,local,0.0
 ,Ector,Texas,-102.5429,31.8692,0,imported,0.0
@@ -223,8 +225,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,0,local,0.0
 ,Midland,Texas,-102.0316,31.8691,0,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,0,local,0.0
-,Mohave,Arizona,-113.7579,35.7041,11,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,11,local,11.0
+,Mohave,Arizona,-113.7579,35.7041,15,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,15,local,15.0
 ,Montcalm,Michigan,-85.1525,43.311,0,imported,0.0
 ,Montcalm,Michigan,-85.1525,43.311,0,local,0.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,0,imported,0.0
@@ -233,6 +235,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Multnomah,Oregon,-122.4149,45.5468,0,local,0.0
 ,Muskegon,Michigan,-86.152,43.2912,0,imported,0.0
 ,Muskegon,Michigan,-86.152,43.2912,0,local,0.0
+,Muskingum,Ohio,-81.9444,39.9654,3,imported,0.0
+,Muskingum,Ohio,-81.9444,39.9654,3,local,3.0
 ,Natrona,Wyoming,-106.7986,42.9622,0,imported,0.0
 ,Natrona,Wyoming,-106.7986,42.9622,0,local,0.0
 ,Navajo,Arizona,-110.3214,35.3996,0,imported,0.0
@@ -251,8 +255,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Oakland,Michigan,-83.3858,42.6604,0,local,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,0,imported,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,0,local,0.0
-,Oconto,Wisconsin,-88.2697,45.0264,14,imported,0.0
-,Oconto,Wisconsin,-88.2697,45.0264,14,local,14.0
+,Oconto,Wisconsin,-88.2697,45.0264,15,imported,0.0
+,Oconto,Wisconsin,-88.2697,45.0264,15,local,15.0
 ,Ontario,New York,-77.2998,42.8528,0,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,0,local,0.0
 ,Orange,California,-117.7609,33.7031,0,imported,0.0
@@ -287,6 +291,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Putnam,Indiana,-86.845,39.6663,0,local,0.0
 ,Putnam,New York,-73.7495,41.4267,0,imported,0.0
 ,Putnam,New York,-73.7495,41.4267,0,local,0.0
+,Rains,Texas,-95.7934,32.8703,1,imported,1.0
+,Rains,Texas,-95.7934,32.8703,1,local,0.0
 ,Randall,Texas,-101.897,34.9659,0,imported,0.0
 ,Randall,Texas,-101.897,34.9659,0,local,0.0
 ,Reeves,Texas,-103.693,31.323,0,imported,0.0
@@ -321,8 +327,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Sheridan,Nebraska,-102.4089,42.5048,0,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,imported,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,local,0.0
-,Southwest Health District,Utah,-113.3625,37.449,3,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,3,local,3.0
+,Southwest Health District,Utah,-113.3625,37.449,6,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,6,local,6.0
 ,Stevens,Kansas,-101.3121,37.1923,0,imported,0.0
 ,Stevens,Kansas,-101.3121,37.1923,0,local,0.0
 ,Suffolk,New York,-72.8456,40.8681,0,imported,0.0

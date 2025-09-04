@@ -25,8 +25,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Bell,Texas,-97.4788,31.0373,1,local,1.0
 ,Benton,Arkansas,-94.2561,36.3387,1,imported,0.0
 ,Benton,Arkansas,-94.2561,36.3387,1,local,1.0
-,Bergen,New Jersey,-74.0742,40.9597,3,imported,1.0
-,Bergen,New Jersey,-74.0742,40.9597,3,local,2.0
+,Bergen,New Jersey,-74.0742,40.9597,4,imported,1.0
+,Bergen,New Jersey,-74.0742,40.9597,4,local,3.0
 ,Bexar,Texas,-98.52,29.4489,2,imported,0.0
 ,Bexar,Texas,-98.52,29.4489,2,local,2.0
 ,Bonner,Idaho,-116.6011,48.3,1,imported,0.0
@@ -93,6 +93,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Eastern,Idaho,-111.6148,43.3877,1,local,0.0
 ,Eastern,Iowa,-91.64545556,41.92909259,6,imported,1.0
 ,Eastern,Iowa,-91.64545556,41.92909259,6,local,5.0
+,Eastern Region,Virginia,-76.44495462,36.95649803,1,imported,0.0
+,Eastern Region,Virginia,-76.44495462,36.95649803,1,local,1.0
 ,Eastland,Texas,-98.8323,32.3271,2,imported,0.0
 ,Eastland,Texas,-98.8323,32.3271,2,local,2.0
 ,Ector,Texas,-102.5429,31.8692,12,imported,0.0
@@ -223,8 +225,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,local,2.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
-,Mohave,Arizona,-113.7579,35.7041,12,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,12,local,12.0
+,Mohave,Arizona,-113.7579,35.7041,24,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,24,local,24.0
 ,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,1,imported,1.0
@@ -233,6 +235,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Multnomah,Oregon,-122.4149,45.5468,1,local,0.0
 ,Muskegon,Michigan,-86.152,43.2912,1,imported,0.0
 ,Muskegon,Michigan,-86.152,43.2912,1,local,1.0
+,Muskingum,Ohio,-81.9444,39.9654,3,imported,0.0
+,Muskingum,Ohio,-81.9444,39.9654,3,local,3.0
 ,Natrona,Wyoming,-106.7986,42.9622,1,imported,0.0
 ,Natrona,Wyoming,-106.7986,42.9622,1,local,1.0
 ,Navajo,Arizona,-110.3214,35.3996,4,imported,4.0
@@ -251,8 +255,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Oakland,Michigan,-83.3858,42.6604,1,local,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,1,imported,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,1,local,1.0
-,Oconto,Wisconsin,-88.2697,45.0264,23,imported,9.0
-,Oconto,Wisconsin,-88.2697,45.0264,23,local,14.0
+,Oconto,Wisconsin,-88.2697,45.0264,24,imported,9.0
+,Oconto,Wisconsin,-88.2697,45.0264,24,local,15.0
 ,Ontario,New York,-77.2998,42.8528,1,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,1,local,1.0
 ,Orange,California,-117.7609,33.7031,1,imported,1.0
@@ -287,6 +291,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Putnam,Indiana,-86.845,39.6663,1,local,1.0
 ,Putnam,New York,-73.7495,41.4267,1,imported,0.0
 ,Putnam,New York,-73.7495,41.4267,1,local,1.0
+,Rains,Texas,-95.7934,32.8703,1,imported,1.0
+,Rains,Texas,-95.7934,32.8703,1,local,0.0
 ,Randall,Texas,-101.897,34.9659,3,imported,0.0
 ,Randall,Texas,-101.897,34.9659,3,local,3.0
 ,Reeves,Texas,-103.693,31.323,2,imported,0.0
@@ -321,8 +327,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Sheridan,Nebraska,-102.4089,42.5048,1,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,2,imported,2.0
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
-,Southwest Health District,Utah,-113.3625,37.449,7,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,7,local,7.0
+,Southwest Health District,Utah,-113.3625,37.449,10,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,10,local,10.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,local,10.0
 ,Suffolk,New York,-72.8456,40.8681,1,imported,0.0

@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,130,1280,1410,41
+U.S.,131,1301,1432,54
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
@@ -8,7 +8,8 @@ U.S.,130,1280,1410,41
 "Gray, Kansas",0,29,29,0
 "Lamar, Texas",0,28,28,0
 "Dawson, Texas",0,26,26,0
-"Oconto, Wisconsin",9,14,23,14
+"Mohave, Arizona",0,24,24,15
+"Oconto, Wisconsin",9,15,24,15
 "Haskell, Kansas",0,21,21,0
 "Yoakum, Texas",0,20,20,0
 "Gallatin, Montana",5,14,19,0
@@ -20,8 +21,8 @@ U.S.,130,1280,1410,41
 "Knox, Ohio",0,14,14,0
 "Luna, New Mexico",0,14,14,0
 "Ector, Texas",0,12,12,0
-"Mohave, Arizona",0,12,12,11
 "Grand Forks, North Dakota",2,8,10,0
+"Southwest Health District, Utah",0,10,10,6
 "Stevens, Kansas",0,10,10,0
 "McLennan, Texas",0,9,9,0
 "New York City, New York",0,9,9,0
@@ -37,7 +38,6 @@ U.S.,130,1280,1410,41
 "Midland, Texas",0,7,7,0
 "Osceola, Michigan",0,7,7,0
 "Pawnee, Kansas",0,7,7,0
-"Southwest Health District, Utah",0,7,7,3
 "Utah, Utah",0,7,7,0
 "Cook, Illinois",1,5,6,0
 "Eastern, Iowa",1,5,6,0
@@ -56,6 +56,7 @@ U.S.,130,1280,1410,41
 "Santa Fe, New Mexico",1,4,5,0
 "Upshur, Texas",0,5,5,0
 "Adams, Colorado",1,3,4,1
+"Bergen, New Jersey",1,3,4,1
 "Collin, Texas",0,4,4,0
 "Denver, Colorado",3,1,4,0
 "El Paso, Colorado",4,0,4,0
@@ -71,9 +72,9 @@ U.S.,130,1280,1410,41
 "Williamson, Illinois",0,4,4,0
 "Yellowstone, Montana",0,4,4,0
 "Andrews, Texas",0,3,3,0
-"Bergen, New Jersey",1,2,3,0
 "Eddy, New Mexico",0,3,3,0
 "Martin, Texas",0,3,3,0
+"Muskingum, Ohio",0,3,3,3
 "Northwest Region, Virginia",2,1,3,0
 "Randall, Texas",0,3,3,0
 "Woodford, Kentucky",0,3,3,0
@@ -115,7 +116,7 @@ U.S.,130,1280,1410,41
 "Atascosa, Texas",0,1,1,0
 "Bell, Texas",0,1,1,0
 "Benton, Arkansas",0,1,1,0
-"Bonner, Idaho",0,1,1,1
+"Bonner, Idaho",0,1,1,0
 "Borden, Texas",0,1,1,0
 "Boulder, Colorado",1,0,1,0
 "Brazoria, Texas",0,1,1,0
@@ -133,6 +134,7 @@ U.S.,130,1280,1410,41
 "Dallas, Texas",0,1,1,0
 "Defiance, Ohio",1,0,1,0
 "Duval, Florida",0,1,1,0
+"Eastern Region, Virginia",0,1,1,1
 "Eastern, Idaho",1,0,1,0
 "Erath, Texas",0,1,1,0
 "Fort Bend, Texas",0,1,1,0
@@ -170,6 +172,7 @@ U.S.,130,1280,1410,41
 "Pueblo, Colorado",1,0,1,0
 "Putnam, Indiana",0,1,1,0
 "Putnam, New York",0,1,1,0
+"Rains, Texas",1,0,1,1
 "Riverside, California",1,0,1,0
 "Rockland, New York",1,0,1,1
 "Sacramento, California",1,0,1,0
