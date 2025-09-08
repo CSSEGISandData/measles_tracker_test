@@ -165,8 +165,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Honolulu,Hawaii,-158.0739,21.4899,0,local,0.0
 ,Howard,Maryland,-76.9312,39.2507,0,imported,0.0
 ,Howard,Maryland,-76.9312,39.2507,0,local,0.0
-,Hudson,New Jersey,-74.0751,40.7408,1,imported,0.0
-,Hudson,New Jersey,-74.0751,40.7408,1,local,1.0
+,Hudson,New Jersey,-74.0751,40.7408,0,imported,0.0
+,Hudson,New Jersey,-74.0751,40.7408,0,local,0.0
 ,Ingham,Michigan,-84.3735,42.5971,0,imported,0.0
 ,Ingham,Michigan,-84.3735,42.5971,0,local,0.0
 ,Jefferson,Kentucky,-85.6591,38.1872,0,imported,0.0
@@ -247,16 +247,16 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,New York City,New York,-73.9668,40.7792,0,local,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,0,imported,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,0,local,0.0
-,North,Alabama,-86.8529,34.4535,1,imported,1.0
-,North,Alabama,-86.8529,34.4535,1,local,0.0
+,North,Alabama,-86.8529,34.4535,0,imported,0.0
+,North,Alabama,-86.8529,34.4535,0,local,0.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,0,imported,0.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,0,local,0.0
 ,Oakland,Michigan,-83.3858,42.6604,0,imported,0.0
 ,Oakland,Michigan,-83.3858,42.6604,0,local,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,0,imported,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,0,local,0.0
-,Oconto,Wisconsin,-88.2697,45.0264,15,imported,0.0
-,Oconto,Wisconsin,-88.2697,45.0264,15,local,15.0
+,Oconto,Wisconsin,-88.2697,45.0264,10,imported,0.0
+,Oconto,Wisconsin,-88.2697,45.0264,10,local,10.0
 ,Ontario,New York,-77.2998,42.8528,0,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,0,local,0.0
 ,Orange,California,-117.7609,33.7031,0,imported,0.0
@@ -299,8 +299,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Reeves,Texas,-103.693,31.323,0,local,0.0
 ,Riverside,California,-115.9938,33.7436,0,imported,0.0
 ,Riverside,California,-115.9938,33.7436,0,local,0.0
-,Rockland,New York,-74.0242,41.1525,1,imported,1.0
-,Rockland,New York,-74.0242,41.1525,1,local,0.0
+,Rockland,New York,-74.0242,41.1525,0,imported,0.0
+,Rockland,New York,-74.0242,41.1525,0,local,0.0
 ,Rockwall,Texas,-96.4079,32.8978,0,imported,0.0
 ,Rockwall,Texas,-96.4079,32.8978,0,local,0.0
 ,Sacramento,California,-121.3443,38.4493,0,imported,0.0
@@ -327,8 +327,10 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Sheridan,Nebraska,-102.4089,42.5048,0,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,imported,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,local,0.0
-,Southwest Health District,Utah,-113.3625,37.449,6,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,6,local,6.0
+,Southeast Health District,Utah,-110.3702,39.3252,1,imported,0.0
+,Southeast Health District,Utah,-110.3702,39.3252,1,local,1.0
+,Southwest Health District,Utah,-113.3625,37.449,8,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,8,local,8.0
 ,Stevens,Kansas,-101.3121,37.1923,0,imported,0.0
 ,Stevens,Kansas,-101.3121,37.1923,0,local,0.0
 ,Suffolk,New York,-72.8456,40.8681,0,imported,0.0
@@ -363,8 +365,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,local,0.0
-,Upstate,South Carolina,-82.32325826,34.77834072,0,imported,0.0
-,Upstate,South Carolina,-82.32325826,34.77834072,0,local,0.0
+,Upstate,South Carolina,-82.32325826,34.77834072,2,imported,1.0
+,Upstate,South Carolina,-82.32325826,34.77834072,2,local,1.0
 ,Utah,Utah,-111.6702,40.1199,0,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,0,local,0.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,imported,0.0

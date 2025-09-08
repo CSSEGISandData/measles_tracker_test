@@ -327,8 +327,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Sheridan,Nebraska,-102.4089,42.5048,1,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,2,imported,2.0
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
-,Southwest Health District,Utah,-113.3625,37.449,10,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,10,local,10.0
+,Southeast Health District,Utah,-110.3702,39.3252,1,imported,0.0
+,Southeast Health District,Utah,-110.3702,39.3252,1,local,1.0
+,Southwest Health District,Utah,-113.3625,37.449,14,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,14,local,14.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,local,10.0
 ,Suffolk,New York,-72.8456,40.8681,1,imported,0.0
@@ -363,8 +365,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,1,imported,1.0
-,Upstate,South Carolina,-82.32325826,34.77834072,1,local,0.0
+,Upstate,South Carolina,-82.32325826,34.77834072,3,imported,2.0
+,Upstate,South Carolina,-82.32325826,34.77834072,3,local,1.0
 ,Utah,Utah,-111.6702,40.1199,7,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,7,local,7.0
 ,Washington,District of Columbia,-77.0163,38.9047,1,imported,1.0
