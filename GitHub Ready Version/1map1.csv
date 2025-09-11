@@ -225,8 +225,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,local,2.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
-,Mohave,Arizona,-113.7579,35.7041,24,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,24,local,24.0
+,Mohave,Arizona,-113.7579,35.7041,30,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,30,local,30.0
 ,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,1,imported,1.0
@@ -243,8 +243,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Navajo,Arizona,-110.3214,35.3996,4,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,local,1.0
-,New York City,New York,-73.9668,40.7792,9,imported,0.0
-,New York City,New York,-73.9668,40.7792,9,local,9.0
+,New York City,New York,-73.9668,40.7792,12,imported,0.0
+,New York City,New York,-73.9668,40.7792,12,local,12.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,imported,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,local,1.0
 ,North,Alabama,-86.8529,34.4535,1,imported,1.0
@@ -255,8 +255,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Oakland,Michigan,-83.3858,42.6604,1,local,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,1,imported,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,1,local,1.0
-,Oconto,Wisconsin,-88.2697,45.0264,24,imported,9.0
-,Oconto,Wisconsin,-88.2697,45.0264,24,local,15.0
+,Oconto,Wisconsin,-88.2697,45.0264,25,imported,9.0
+,Oconto,Wisconsin,-88.2697,45.0264,25,local,16.0
 ,Ontario,New York,-77.2998,42.8528,1,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,1,local,1.0
 ,Orange,California,-117.7609,33.7031,1,imported,1.0
@@ -327,10 +327,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Sheridan,Nebraska,-102.4089,42.5048,1,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,2,imported,2.0
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
-,Southeast Health District,Utah,-110.3702,39.3252,1,imported,0.0
-,Southeast Health District,Utah,-110.3702,39.3252,1,local,1.0
-,Southwest Health District,Utah,-113.3625,37.449,14,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,14,local,14.0
+,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
+,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
+,Southwest Health District,Utah,-113.3625,37.449,15,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,15,local,15.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,local,10.0
 ,Suffolk,New York,-72.8456,40.8681,1,imported,0.0
