@@ -31,6 +31,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Bexar,Texas,-98.52,29.4489,2,local,2.0
 ,Bonner,Idaho,-116.6011,48.3,1,imported,0.0
 ,Bonner,Idaho,-116.6011,48.3,1,local,1.0
+,Bonneville,Idaho,-111.6148,43.3877,5,imported,1.0
+,Bonneville,Idaho,-111.6148,43.3877,5,local,4.0
 ,Borden,Texas,-101.4317,32.7436,1,imported,0.0
 ,Borden,Texas,-101.4317,32.7436,1,local,1.0
 ,Boulder,Colorado,-105.3577,40.0925,1,imported,1.0
@@ -89,8 +91,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Dona Ana,New Mexico,-106.8328,32.3526,2,local,2.0
 ,Duval,Florida,-81.6715,30.3313,1,imported,0.0
 ,Duval,Florida,-81.6715,30.3313,1,local,1.0
-,Eastern,Idaho,-111.6148,43.3877,1,imported,1.0
-,Eastern,Idaho,-111.6148,43.3877,1,local,0.0
 ,Eastern,Iowa,-91.64545556,41.92909259,6,imported,1.0
 ,Eastern,Iowa,-91.64545556,41.92909259,6,local,5.0
 ,Eastern Region,Virginia,-76.44495462,36.95649803,1,imported,0.0
@@ -175,8 +175,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,1,local,0.0
 ,Kent,Michigan,-85.5493,43.0322,4,imported,2.0
 ,Kent,Michigan,-85.5493,43.0322,4,local,2.0
-,King,Washington,-121.8052,47.4902,6,imported,3.0
-,King,Washington,-121.8052,47.4902,6,local,3.0
+,King,Washington,-121.8052,47.4902,6,imported,5.0
+,King,Washington,-121.8052,47.4902,6,local,1.0
 ,Kiowa,Kansas,-99.2861,37.5582,6,imported,0.0
 ,Kiowa,Kansas,-99.2861,37.5582,6,local,6.0
 ,Knox,Ohio,-82.4215,40.3988,14,imported,0.0
@@ -243,8 +243,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Navajo,Arizona,-110.3214,35.3996,4,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,local,1.0
-,New York City,New York,-73.9668,40.7792,12,imported,0.0
-,New York City,New York,-73.9668,40.7792,12,local,12.0
+,New York City,New York,-73.9668,40.7792,13,imported,0.0
+,New York City,New York,-73.9668,40.7792,13,local,13.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,imported,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,local,1.0
 ,North,Alabama,-86.8529,34.4535,1,imported,1.0
@@ -255,8 +255,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Oakland,Michigan,-83.3858,42.6604,1,local,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,1,imported,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,1,local,1.0
-,Oconto,Wisconsin,-88.2697,45.0264,25,imported,9.0
-,Oconto,Wisconsin,-88.2697,45.0264,25,local,16.0
+,Oconto,Wisconsin,-88.2697,45.0264,36,imported,9.0
+,Oconto,Wisconsin,-88.2697,45.0264,36,local,27.0
 ,Ontario,New York,-77.2998,42.8528,1,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,1,local,1.0
 ,Orange,California,-117.7609,33.7031,1,imported,1.0
@@ -329,8 +329,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
-,Southwest Health District,Utah,-113.3625,37.449,15,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,15,local,15.0
+,Southwest Health District,Utah,-113.3625,37.449,20,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,20,local,20.0
+,Spokane,Washington,-117.404,47.6207,1,imported,1.0
+,Spokane,Washington,-117.404,47.6207,1,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,local,10.0
 ,Suffolk,New York,-72.8456,40.8681,1,imported,0.0
@@ -375,8 +377,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Washington,Minnesota,-92.8838,45.0388,1,local,0.0
 ,Western,Iowa,-95.10435,41.97493056,1,imported,0.0
 ,Western,Iowa,-95.10435,41.97493056,1,local,1.0
-,Whatcom,Washington,-121.7199,48.8259,2,imported,0.0
-,Whatcom,Washington,-121.7199,48.8259,2,local,2.0
+,Whatcom,Washington,-121.7199,48.8259,2,imported,2.0
+,Whatcom,Washington,-121.7199,48.8259,2,local,0.0
 ,Williams,North Dakota,-103.4802,48.3437,18,imported,1.0
 ,Williams,North Dakota,-103.4802,48.3437,18,local,17.0
 ,Williamson,Illinois,-88.9299,37.7303,4,imported,0.0

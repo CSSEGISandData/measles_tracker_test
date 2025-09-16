@@ -1,28 +1,28 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,132,1320,1452,51
+U.S.,137,1337,1474,48
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
 "Terry, Texas",0,60,60,0
 "Lubbock, Texas",0,52,52,0
+"Oconto, Wisconsin",9,27,36,1
 "Mohave, Arizona",0,30,30,18
 "Gray, Kansas",0,29,29,0
 "Lamar, Texas",0,28,28,0
 "Dawson, Texas",0,26,26,0
-"Oconto, Wisconsin",9,16,25,4
 "Haskell, Kansas",0,21,21,0
+"Southwest Health District, Utah",0,20,20,13
 "Yoakum, Texas",0,20,20,0
 "Gallatin, Montana",5,14,19,0
 "Williams, North Dakota",1,17,18,0
 "Unknown County, Kansas",0,17,17,0
 "Unknown County, Oklahoma",0,17,17,0
 "Ashtabula, Ohio",3,13,16,0
-"Southwest Health District, Utah",0,15,15,8
 "Cochran, Texas",0,14,14,0
 "Knox, Ohio",0,14,14,0
 "Luna, New Mexico",0,14,14,0
+"New York City, New York",0,13,13,4
 "Ector, Texas",0,12,12,0
-"New York City, New York",0,12,12,3
 "Grand Forks, North Dakota",2,8,10,0
 "Stevens, Kansas",0,10,10,0
 "McLennan, Texas",0,9,9,0
@@ -34,7 +34,7 @@ U.S.,132,1320,1452,51
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
 "Hockley, Texas",0,7,7,0
-"Mesa, Colorado",0,7,7,5
+"Mesa, Colorado",0,7,7,0
 "Midland, Texas",0,7,7,0
 "Osceola, Michigan",0,7,7,0
 "Pawnee, Kansas",0,7,7,0
@@ -44,10 +44,11 @@ U.S.,132,1320,1452,51
 "Faulkner, Arkansas",1,5,6,0
 "Fayette, Kentucky",0,6,6,0
 "Fulton, Georgia",2,4,6,0
-"King, Washington",3,3,6,0
+"King, Washington",5,1,6,0
 "Kiowa, Kansas",0,6,6,0
 "Sandoval, New Mexico",0,6,6,0
 "Arapahoe, Colorado",4,1,5,0
+"Bonneville, Idaho",1,4,5,4
 "Cedar, Missouri",0,5,5,0
 "Hale, Texas",0,5,5,0
 "Harris, Texas",0,5,5,0
@@ -74,7 +75,7 @@ U.S.,132,1320,1452,51
 "Andrews, Texas",0,3,3,0
 "Eddy, New Mexico",0,3,3,0
 "Martin, Texas",0,3,3,0
-"Muskingum, Ohio",0,3,3,3
+"Muskingum, Ohio",0,3,3,0
 "Northwest Region, Virginia",2,1,3,0
 "Randall, Texas",0,3,3,0
 "Southeast Health District, Utah",0,3,3,3
@@ -110,8 +111,8 @@ U.S.,132,1320,1452,51
 "Travis, Texas",0,2,2,0
 "Tulare, California",0,2,2,0
 "Tuolumne, California",2,0,2,0
-"Unknown County, New Jersey",2,0,2,2
-"Whatcom, Washington",0,2,2,0
+"Unknown County, New Jersey",2,0,2,0
+"Whatcom, Washington",2,0,2,0
 "Allegan, Michigan",0,1,1,0
 "Allen, Ohio",1,0,1,0
 "Archuleta, Colorado",0,1,1,0
@@ -137,7 +138,6 @@ U.S.,132,1320,1452,51
 "Defiance, Ohio",1,0,1,0
 "Duval, Florida",0,1,1,0
 "Eastern Region, Virginia",0,1,1,1
-"Eastern, Idaho",1,0,1,0
 "Erath, Texas",0,1,1,0
 "Fort Bend, Texas",0,1,1,0
 "Franklin, Kentucky",1,0,1,0
@@ -186,6 +186,7 @@ U.S.,132,1320,1452,51
 "Scurry, Texas",0,1,1,0
 "Shackelford, Texas",0,1,1,0
 "Sheridan, Nebraska",1,0,1,0
+"Spokane, Washington",1,0,1,0
 "Suffolk, New York",0,1,1,0
 "Taney, Missouri",1,0,1,0
 "Todd, Kentucky",0,1,1,0
