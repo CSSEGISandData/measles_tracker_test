@@ -31,8 +31,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Bexar,Texas,-98.52,29.4489,2,local,2.0
 ,Bonner,Idaho,-116.6011,48.3,1,imported,0.0
 ,Bonner,Idaho,-116.6011,48.3,1,local,1.0
-,Bonneville,Idaho,-111.6148,43.3877,5,imported,1.0
-,Bonneville,Idaho,-111.6148,43.3877,5,local,4.0
+,Bonneville,Idaho,-111.6148,43.3877,6,imported,2.0
+,Bonneville,Idaho,-111.6148,43.3877,6,local,4.0
 ,Borden,Texas,-101.4317,32.7436,1,imported,0.0
 ,Borden,Texas,-101.4317,32.7436,1,local,1.0
 ,Boulder,Colorado,-105.3577,40.0925,1,imported,1.0
@@ -57,6 +57,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Cascade,Montana,-111.347,47.308,1,local,1.0
 ,Cass,North Dakota,-97.248,46.933,7,imported,2.0
 ,Cass,North Dakota,-97.248,46.933,7,local,5.0
+,Cassia,Idaho,-113.6001,42.2839,1,imported,1.0
+,Cassia,Idaho,-113.6001,42.2839,1,local,0.0
 ,Cedar,Missouri,-93.8566,37.7239,5,imported,0.0
 ,Cedar,Missouri,-93.8566,37.7239,5,local,5.0
 ,Central,Iowa,-93.40754375,41.84471875,1,imported,0.0
@@ -67,8 +69,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Cochran,Texas,-102.8285,33.6042,14,local,14.0
 ,Collin,Texas,-96.5724,33.188,4,imported,0.0
 ,Collin,Texas,-96.5724,33.188,4,local,4.0
-,Cook,Illinois,-87.8168,41.8401,6,imported,1.0
-,Cook,Illinois,-87.8168,41.8401,6,local,5.0
+,Cook,Illinois,-87.8168,41.8401,7,imported,2.0
+,Cook,Illinois,-87.8168,41.8401,7,local,5.0
 ,Curry,New Mexico,-103.347,34.5742,1,imported,0.0
 ,Curry,New Mexico,-103.347,34.5742,1,local,1.0
 ,Cuyahoga,Ohio,-81.6586,41.4243,1,imported,1.0
@@ -125,8 +127,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Franklin,Ohio,-83.0093,39.9695,1,local,1.0
 ,Fresno,California,-119.6493,36.7582,2,imported,1.0
 ,Fresno,California,-119.6493,36.7582,2,local,1.0
-,Fulton,Georgia,-84.467,33.7902,6,imported,2.0
-,Fulton,Georgia,-84.467,33.7902,6,local,4.0
+,Fulton,Georgia,-84.467,33.7902,7,imported,2.0
+,Fulton,Georgia,-84.467,33.7902,7,local,5.0
 ,Gaines,Texas,-102.6352,32.7408,414,imported,0.0
 ,Gaines,Texas,-102.6352,32.7408,414,local,414.0
 ,Gallatin,Montana,-111.1704,45.5404,19,imported,5.0
@@ -225,8 +227,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,local,2.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
-,Mohave,Arizona,-113.7579,35.7041,30,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,30,local,30.0
+,Mohave,Arizona,-113.7579,35.7041,42,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,42,local,42.0
 ,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,1,imported,1.0
@@ -329,8 +331,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
-,Southwest Health District,Utah,-113.3625,37.449,20,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,20,local,20.0
+,Southwest Health District,Utah,-113.3625,37.449,21,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,21,local,21.0
 ,Spokane,Washington,-117.404,47.6207,1,imported,1.0
 ,Spokane,Washington,-117.404,47.6207,1,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
