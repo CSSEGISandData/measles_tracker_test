@@ -21,6 +21,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Atascosa,Texas,-98.5272,28.8935,0,local,0.0
 ,Bailey,Texas,-102.8299,34.0686,0,imported,0.0
 ,Bailey,Texas,-102.8299,34.0686,0,local,0.0
+,Bear River,Utah,-112.1381,41.661,1,imported,0.0
+,Bear River,Utah,-112.1381,41.661,1,local,1.0
 ,Bell,Texas,-97.4788,31.0373,0,imported,0.0
 ,Bell,Texas,-97.4788,31.0373,0,local,0.0
 ,Benton,Arkansas,-94.2561,36.3387,0,imported,0.0
@@ -245,8 +247,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Navajo,Arizona,-110.3214,35.3996,0,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,local,0.0
-,New York City,New York,-73.9668,40.7792,4,imported,0.0
-,New York City,New York,-73.9668,40.7792,4,local,4.0
+,New York City,New York,-73.9668,40.7792,3,imported,0.0
+,New York City,New York,-73.9668,40.7792,3,local,3.0
 ,Niobrara,Wyoming,-104.4754,43.0564,0,imported,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,0,local,0.0
 ,North,Alabama,-86.8529,34.4535,0,imported,0.0
@@ -257,8 +259,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Oakland,Michigan,-83.3858,42.6604,0,local,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,0,imported,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,0,local,0.0
-,Oconto,Wisconsin,-88.2697,45.0264,1,imported,0.0
-,Oconto,Wisconsin,-88.2697,45.0264,1,local,1.0
+,Oconto,Wisconsin,-88.2697,45.0264,0,imported,0.0
+,Oconto,Wisconsin,-88.2697,45.0264,0,local,0.0
 ,Ontario,New York,-77.2998,42.8528,0,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,0,local,0.0
 ,Orange,California,-117.7609,33.7031,0,imported,0.0
@@ -329,8 +331,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Sheridan,Nebraska,-102.4089,42.5048,0,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,imported,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,local,0.0
-,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
-,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
+,Southeast Health District,Utah,-110.3702,39.3252,2,imported,0.0
+,Southeast Health District,Utah,-110.3702,39.3252,2,local,2.0
 ,Southwest Health District,Utah,-113.3625,37.449,11,imported,0.0
 ,Southwest Health District,Utah,-113.3625,37.449,11,local,11.0
 ,Spokane,Washington,-117.404,47.6207,0,imported,0.0
@@ -369,8 +371,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,local,0.0
-,Upstate,South Carolina,-82.32325826,34.77834072,2,imported,1.0
-,Upstate,South Carolina,-82.32325826,34.77834072,2,local,1.0
+,Upstate,South Carolina,-82.32325826,34.77834072,0,imported,0.0
+,Upstate,South Carolina,-82.32325826,34.77834072,0,local,0.0
 ,Utah,Utah,-111.6702,40.1199,0,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,0,local,0.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,imported,0.0

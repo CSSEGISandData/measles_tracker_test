@@ -21,6 +21,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Atascosa,Texas,-98.5272,28.8935,1,local,1.0
 ,Bailey,Texas,-102.8299,34.0686,2,imported,0.0
 ,Bailey,Texas,-102.8299,34.0686,2,local,2.0
+,Bear River,Utah,-112.1381,41.661,1,imported,0.0
+,Bear River,Utah,-112.1381,41.661,1,local,1.0
 ,Bell,Texas,-97.4788,31.0373,1,imported,0.0
 ,Bell,Texas,-97.4788,31.0373,1,local,1.0
 ,Benton,Arkansas,-94.2561,36.3387,1,imported,0.0
@@ -197,8 +199,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Lea,New Mexico,-103.4125,32.7921,67,local,67.0
 ,Leon,Florida,-84.2779,30.458,2,imported,1.0
 ,Leon,Florida,-84.2779,30.458,2,local,1.0
-,Lewis and Clark,Montana,-112.3904,47.1224,1,imported,0.0
-,Lewis and Clark,Montana,-112.3904,47.1224,1,local,1.0
+,Lewis and Clark,Montana,-112.3904,47.1224,2,imported,0.0
+,Lewis and Clark,Montana,-112.3904,47.1224,2,local,2.0
 ,Lincoln,South Dakota,-96.7218,43.2789,8,imported,7.0
 ,Lincoln,South Dakota,-96.7218,43.2789,8,local,1.0
 ,Los Angeles,California,-118.2247,34.3219,5,imported,5.0
@@ -223,8 +225,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Mesa,Colorado,-108.4664,39.0183,7,local,7.0
 ,Miami-Dade,Florida,-80.5624,25.615,1,imported,0.0
 ,Miami-Dade,Florida,-80.5624,25.615,1,local,1.0
-,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,imported,0.0
-,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,2,local,2.0
+,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,3,imported,0.0
+,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,3,local,3.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
 ,Mohave,Arizona,-113.7579,35.7041,42,imported,0.0
@@ -245,8 +247,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Navajo,Arizona,-110.3214,35.3996,4,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,local,1.0
-,New York City,New York,-73.9668,40.7792,13,imported,0.0
-,New York City,New York,-73.9668,40.7792,13,local,13.0
+,New York City,New York,-73.9668,40.7792,15,imported,0.0
+,New York City,New York,-73.9668,40.7792,15,local,15.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,imported,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,local,1.0
 ,North,Alabama,-86.8529,34.4535,1,imported,1.0
@@ -331,8 +333,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
-,Southwest Health District,Utah,-113.3625,37.449,21,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,21,local,21.0
+,Southwest Health District,Utah,-113.3625,37.449,25,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,25,local,25.0
 ,Spokane,Washington,-117.404,47.6207,1,imported,1.0
 ,Spokane,Washington,-117.404,47.6207,1,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0

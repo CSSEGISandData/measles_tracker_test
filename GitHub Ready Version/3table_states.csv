@@ -1,17 +1,17 @@
 State,Imported,Local,Total,Recent 2 Weeks
-U.S.,140,1351,1491,45
+U.S.,140,1360,1500,41
 Texas,1,801,802,0
 New Mexico,1,99,100,0
 Kansas,0,90,90,0
 Arizona,4,42,46,18
 Ohio,6,32,38,0
 North Dakota,6,30,36,0
-Wisconsin,9,27,36,1
-Montana,7,24,31,0
-Utah,0,31,31,14
+Utah,0,36,36,14
+Wisconsin,9,27,36,0
+Montana,7,25,32,0
 Colorado,14,13,27,0
 Michigan,6,21,27,0
-New York,4,17,21,4
+New York,4,19,23,3
 California,15,5,20,0
 Oklahoma,0,17,17,0
 Kentucky,3,11,14,0
@@ -27,13 +27,13 @@ Arkansas,2,6,8,0
 Iowa,1,7,8,0
 Georgia,2,5,7,1
 Missouri,1,6,7,0
+Tennessee,0,7,7,0
 Florida,1,5,6,0
-Tennessee,0,6,6,0
 Minnesota,3,2,5,0
 Virginia,2,2,4,0
 Alaska,2,1,3,0
 Maryland,3,0,3,0
-South Carolina,2,1,3,2
+South Carolina,2,1,3,0
 Hawaii,2,0,2,0
 Louisiana,1,1,2,0
 Alabama,1,0,1,0
