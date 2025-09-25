@@ -21,8 +21,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Atascosa,Texas,-98.5272,28.8935,0,local,0.0
 ,Bailey,Texas,-102.8299,34.0686,0,imported,0.0
 ,Bailey,Texas,-102.8299,34.0686,0,local,0.0
-,Bear River,Utah,-112.1381,41.661,1,imported,0.0
-,Bear River,Utah,-112.1381,41.661,1,local,1.0
+,Bear River,Utah,-112.1381,41.661,4,imported,0.0
+,Bear River,Utah,-112.1381,41.661,4,local,4.0
 ,Bell,Texas,-97.4788,31.0373,0,imported,0.0
 ,Bell,Texas,-97.4788,31.0373,0,local,0.0
 ,Benton,Arkansas,-94.2561,36.3387,0,imported,0.0
@@ -129,8 +129,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Franklin,Ohio,-83.0093,39.9695,0,local,0.0
 ,Fresno,California,-119.6493,36.7582,0,imported,0.0
 ,Fresno,California,-119.6493,36.7582,0,local,0.0
-,Fulton,Georgia,-84.467,33.7902,1,imported,0.0
-,Fulton,Georgia,-84.467,33.7902,1,local,1.0
+,Fulton,Georgia,-84.467,33.7902,4,imported,0.0
+,Fulton,Georgia,-84.467,33.7902,4,local,4.0
 ,Gaines,Texas,-102.6352,32.7408,0,imported,0.0
 ,Gaines,Texas,-102.6352,32.7408,0,local,0.0
 ,Gallatin,Montana,-111.1704,45.5404,0,imported,0.0
@@ -331,10 +331,10 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Sheridan,Nebraska,-102.4089,42.5048,0,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,imported,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,local,0.0
-,Southeast Health District,Utah,-110.3702,39.3252,2,imported,0.0
-,Southeast Health District,Utah,-110.3702,39.3252,2,local,2.0
-,Southwest Health District,Utah,-113.3625,37.449,11,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,11,local,11.0
+,Southeast Health District,Utah,-110.3702,39.3252,0,imported,0.0
+,Southeast Health District,Utah,-110.3702,39.3252,0,local,0.0
+,Southwest Health District,Utah,-113.3625,37.449,15,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,15,local,15.0
 ,Spokane,Washington,-117.404,47.6207,0,imported,0.0
 ,Spokane,Washington,-117.404,47.6207,0,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,0,imported,0.0
@@ -361,8 +361,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Unknown County,Kansas,-96.409286,38.480984,0,local,0.0
 ,Unknown County,Kentucky,-85.261296,37.838308,0,imported,0.0
 ,Unknown County,Kentucky,-85.261296,37.838308,0,local,0.0
-,Unknown County,Minnesota,-93.558751,45.18999,0,imported,0.0
-,Unknown County,Minnesota,-93.558751,45.18999,0,local,0.0
+,Unknown County,Minnesota,-93.558751,45.18999,3,imported,0.0
+,Unknown County,Minnesota,-93.558751,45.18999,3,local,3.0
 ,Unknown County,New Jersey,-74.424465,40.438248,0,imported,0.0
 ,Unknown County,New Jersey,-74.424465,40.438248,0,local,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,0,imported,0.0

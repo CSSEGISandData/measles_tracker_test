@@ -21,8 +21,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Atascosa,Texas,-98.5272,28.8935,1,local,1.0
 ,Bailey,Texas,-102.8299,34.0686,2,imported,0.0
 ,Bailey,Texas,-102.8299,34.0686,2,local,2.0
-,Bear River,Utah,-112.1381,41.661,1,imported,0.0
-,Bear River,Utah,-112.1381,41.661,1,local,1.0
+,Bear River,Utah,-112.1381,41.661,4,imported,0.0
+,Bear River,Utah,-112.1381,41.661,4,local,4.0
 ,Bell,Texas,-97.4788,31.0373,1,imported,0.0
 ,Bell,Texas,-97.4788,31.0373,1,local,1.0
 ,Benton,Arkansas,-94.2561,36.3387,1,imported,0.0
@@ -129,8 +129,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Franklin,Ohio,-83.0093,39.9695,1,local,1.0
 ,Fresno,California,-119.6493,36.7582,2,imported,1.0
 ,Fresno,California,-119.6493,36.7582,2,local,1.0
-,Fulton,Georgia,-84.467,33.7902,7,imported,2.0
-,Fulton,Georgia,-84.467,33.7902,7,local,5.0
+,Fulton,Georgia,-84.467,33.7902,10,imported,2.0
+,Fulton,Georgia,-84.467,33.7902,10,local,8.0
 ,Gaines,Texas,-102.6352,32.7408,414,imported,0.0
 ,Gaines,Texas,-102.6352,32.7408,414,local,414.0
 ,Gallatin,Montana,-111.1704,45.5404,19,imported,5.0
@@ -229,8 +229,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,3,local,3.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
-,Mohave,Arizona,-113.7579,35.7041,42,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,42,local,42.0
+,Mohave,Arizona,-113.7579,35.7041,48,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,48,local,48.0
 ,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,1,imported,1.0
@@ -333,8 +333,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
-,Southwest Health District,Utah,-113.3625,37.449,25,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,25,local,25.0
+,Southwest Health District,Utah,-113.3625,37.449,30,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,30,local,30.0
 ,Spokane,Washington,-117.404,47.6207,1,imported,1.0
 ,Spokane,Washington,-117.404,47.6207,1,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
@@ -361,8 +361,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Unknown County,Kansas,-96.409286,38.480984,17,local,17.0
 ,Unknown County,Kentucky,-85.261296,37.838308,1,imported,1.0
 ,Unknown County,Kentucky,-85.261296,37.838308,1,local,0.0
-,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
-,Unknown County,Minnesota,-93.558751,45.18999,1,local,1.0
+,Unknown County,Minnesota,-93.558751,45.18999,4,imported,0.0
+,Unknown County,Minnesota,-93.558751,45.18999,4,local,4.0
 ,Unknown County,New Jersey,-74.424465,40.438248,2,imported,2.0
 ,Unknown County,New Jersey,-74.424465,40.438248,2,local,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0
