@@ -247,8 +247,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Navajo,Arizona,-110.3214,35.3996,4,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,local,1.0
-,New York City,New York,-73.9668,40.7792,15,imported,0.0
-,New York City,New York,-73.9668,40.7792,15,local,15.0
+,New York City,New York,-73.9668,40.7792,16,imported,0.0
+,New York City,New York,-73.9668,40.7792,16,local,16.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,imported,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,local,1.0
 ,North,Alabama,-86.8529,34.4535,1,imported,1.0
@@ -371,8 +371,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,3,imported,2.0
-,Upstate,South Carolina,-82.32325826,34.77834072,3,local,1.0
+,Upstate,South Carolina,-82.32325826,34.77834072,4,imported,2.0
+,Upstate,South Carolina,-82.32325826,34.77834072,4,local,2.0
 ,Utah,Utah,-111.6702,40.1199,7,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,7,local,7.0
 ,Washington,District of Columbia,-77.0163,38.9047,1,imported,1.0
