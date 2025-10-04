@@ -1,13 +1,13 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,140,1382,1522,43
+U.S.,155,1394,1549,54
 "Gaines, Texas",0,414,414,0
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
 "Terry, Texas",0,60,60,0
+"Mohave, Arizona",0,55,55,13
 "Lubbock, Texas",0,52,52,0
-"Mohave, Arizona",0,48,48,18
 "Oconto, Wisconsin",9,27,36,0
-"Southwest Health District, Utah",0,30,30,10
+"Southwest Health District, Utah",0,33,33,12
 "Gray, Kansas",0,29,29,0
 "Lamar, Texas",0,28,28,0
 "Dawson, Texas",0,26,26,0
@@ -18,7 +18,7 @@ U.S.,140,1382,1522,43
 "Unknown County, Kansas",0,17,17,0
 "Unknown County, Oklahoma",0,17,17,0
 "Ashtabula, Ohio",3,13,16,0
-"New York City, New York",0,16,16,3
+"New York City, New York",0,16,16,1
 "Cochran, Texas",0,14,14,0
 "Knox, Ohio",0,14,14,0
 "Luna, New Mexico",0,14,14,0
@@ -26,14 +26,16 @@ U.S.,140,1382,1522,43
 "Fulton, Georgia",2,8,10,3
 "Grand Forks, North Dakota",2,8,10,0
 "Stevens, Kansas",0,10,10,0
+"Twin Cities Metro Area, Minnesota",10,0,10,10
 "McLennan, Texas",0,9,9,0
 "Allen, Indiana",0,8,8,0
+"Cook, Illinois",2,6,8,1
 "Erie, Pennsylvania",2,6,8,0
 "Lincoln, South Dakota",7,1,8,0
+"Upstate, South Carolina",6,2,8,5
 "Williamson, Texas",0,8,8,0
 "Carbon, Wyoming",1,6,7,0
 "Cass, North Dakota",2,5,7,0
-"Cook, Illinois",2,5,7,1
 "Dallam, Texas",0,7,7,0
 "Hockley, Texas",0,7,7,0
 "Mesa, Colorado",0,7,7,0
@@ -72,7 +74,6 @@ U.S.,140,1382,1522,43
 "Tarrant, Texas",0,4,4,0
 "Unknown County, Minnesota",0,4,4,3
 "Upper Cumberland Region, Tennessee",0,4,4,0
-"Upstate, South Carolina",2,2,4,1
 "Williamson, Illinois",0,4,4,0
 "Yellowstone, Montana",0,4,4,0
 "Andrews, Texas",0,3,3,0
@@ -92,6 +93,7 @@ U.S.,140,1382,1522,43
 "Dona Ana, New Mexico",0,2,2,0
 "Eastland, Texas",0,2,2,0
 "Flathead, Montana",2,0,2,0
+"Franklin, Ohio",0,2,2,1
 "Fresno, California",1,1,2,0
 "Garza, Texas",0,2,2,0
 "Hennepin, Minnesota",2,0,2,0
@@ -104,6 +106,7 @@ U.S.,140,1382,1522,43
 "Macomb, Michigan",1,1,2,0
 "Marquette, Michigan",0,2,2,0
 "Meade, South Dakota",1,1,2,0
+"Orange, California",2,0,2,1
 "Orleans, Louisiana",1,1,2,0
 "Pennington, South Dakota",1,1,2,0
 "Philadelphia, Pennsylvania",2,0,2,0
@@ -145,7 +148,6 @@ U.S.,140,1382,1522,43
 "Erath, Texas",0,1,1,0
 "Fort Bend, Texas",0,1,1,0
 "Franklin, Kentucky",1,0,1,0
-"Franklin, Ohio",0,1,1,0
 "Guilford, North Carolina",1,0,1,0
 "Hardeman, Texas",0,1,1,0
 "Harrison, Texas",0,1,1,0
@@ -169,7 +171,6 @@ U.S.,140,1382,1522,43
 "Oakland, Michigan",1,0,1,0
 "Ocean, New Jersey",0,1,1,0
 "Ontario, New York",0,1,1,0
-"Orange, California",1,0,1,0
 "Passaic, New Jersey",1,0,1,0
 "Placer, California",1,0,1,0
 "Potter, Texas",0,1,1,0

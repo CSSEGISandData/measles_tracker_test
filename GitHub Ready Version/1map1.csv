@@ -71,8 +71,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Cochran,Texas,-102.8285,33.6042,14,local,14.0
 ,Collin,Texas,-96.5724,33.188,4,imported,0.0
 ,Collin,Texas,-96.5724,33.188,4,local,4.0
-,Cook,Illinois,-87.8168,41.8401,7,imported,2.0
-,Cook,Illinois,-87.8168,41.8401,7,local,5.0
+,Cook,Illinois,-87.8168,41.8401,8,imported,2.0
+,Cook,Illinois,-87.8168,41.8401,8,local,6.0
 ,Curry,New Mexico,-103.347,34.5742,1,imported,0.0
 ,Curry,New Mexico,-103.347,34.5742,1,local,1.0
 ,Cuyahoga,Ohio,-81.6586,41.4243,1,imported,1.0
@@ -125,8 +125,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Fort Bend,Texas,-95.7709,29.5275,1,local,1.0
 ,Franklin,Kentucky,-84.877,38.2392,1,imported,1.0
 ,Franklin,Kentucky,-84.877,38.2392,1,local,0.0
-,Franklin,Ohio,-83.0093,39.9695,1,imported,0.0
-,Franklin,Ohio,-83.0093,39.9695,1,local,1.0
+,Franklin,Ohio,-83.0093,39.9695,2,imported,0.0
+,Franklin,Ohio,-83.0093,39.9695,2,local,2.0
 ,Fresno,California,-119.6493,36.7582,2,imported,1.0
 ,Fresno,California,-119.6493,36.7582,2,local,1.0
 ,Fulton,Georgia,-84.467,33.7902,10,imported,2.0
@@ -229,8 +229,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,3,local,3.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
-,Mohave,Arizona,-113.7579,35.7041,48,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,48,local,48.0
+,Mohave,Arizona,-113.7579,35.7041,55,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,55,local,55.0
 ,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,1,imported,1.0
@@ -263,8 +263,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Oconto,Wisconsin,-88.2697,45.0264,36,local,27.0
 ,Ontario,New York,-77.2998,42.8528,1,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,1,local,1.0
-,Orange,California,-117.7609,33.7031,1,imported,1.0
-,Orange,California,-117.7609,33.7031,1,local,0.0
+,Orange,California,-117.7609,33.7031,2,imported,2.0
+,Orange,California,-117.7609,33.7031,2,local,0.0
 ,Orange,New York,-74.3056,41.4022,4,imported,3.0
 ,Orange,New York,-74.3056,41.4022,4,local,1.0
 ,Orleans,Louisiana,-89.9289,30.0687,2,imported,1.0
@@ -333,8 +333,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
-,Southwest Health District,Utah,-113.3625,37.449,30,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,30,local,30.0
+,Southwest Health District,Utah,-113.3625,37.449,33,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,33,local,33.0
 ,Spokane,Washington,-117.404,47.6207,1,imported,1.0
 ,Spokane,Washington,-117.404,47.6207,1,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
@@ -355,6 +355,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Tulare,California,-118.8005,36.2202,2,local,2.0
 ,Tuolumne,California,-119.9548,38.0276,2,imported,2.0
 ,Tuolumne,California,-119.9548,38.0276,2,local,0.0
+,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,10,imported,10.0
+,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,10,local,0.0
 ,Unknown County,California,-119.347852,35.491035,1,imported,0.0
 ,Unknown County,California,-119.347852,35.491035,1,local,1.0
 ,Unknown County,Kansas,-96.409286,38.480984,17,imported,0.0
@@ -371,8 +373,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,4,imported,2.0
-,Upstate,South Carolina,-82.32325826,34.77834072,4,local,2.0
+,Upstate,South Carolina,-82.32325826,34.77834072,8,imported,6.0
+,Upstate,South Carolina,-82.32325826,34.77834072,8,local,2.0
 ,Utah,Utah,-111.6702,40.1199,7,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,7,local,7.0
 ,Washington,District of Columbia,-77.0163,38.9047,1,imported,1.0
