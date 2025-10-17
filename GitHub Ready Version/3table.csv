@@ -1,12 +1,12 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,155,1414,1569,45
+U.S.,155,1448,1603,48
 "Gaines, Texas",0,414,414,0
+"Mohave, Arizona",0,73,73,18
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
 "Terry, Texas",0,60,60,0
-"Mohave, Arizona",0,59,59,11
 "Lubbock, Texas",0,52,52,0
-"Southwest Health District, Utah",0,40,40,10
+"Southwest Health District, Utah",0,43,43,7
 "Oconto, Wisconsin",9,27,36,0
 "Gray, Kansas",0,29,29,0
 "Lamar, Texas",0,28,28,0
@@ -14,31 +14,31 @@ U.S.,155,1414,1569,45
 "Haskell, Kansas",0,21,21,0
 "Yoakum, Texas",0,20,20,0
 "Gallatin, Montana",5,14,19,0
+"New York City, New York",0,18,18,2
 "Williams, North Dakota",1,17,18,0
 "Unknown County, Kansas",0,17,17,0
 "Unknown County, Oklahoma",0,17,17,0
 "Ashtabula, Ohio",3,13,16,0
-"New York City, New York",0,16,16,0
+"Spartanburg, South Carolina",5,10,15,9
 "Cochran, Texas",0,14,14,0
 "Knox, Ohio",0,14,14,0
 "Luna, New Mexico",0,14,14,0
 "Ector, Texas",0,12,12,0
+"Mesa, Colorado",0,11,11,4
 "Fulton, Georgia",2,8,10,0
 "Grand Forks, North Dakota",2,8,10,0
 "Stevens, Kansas",0,10,10,0
-"Twin Cities Metro Area, Minnesota",10,0,10,10
+"Twin Cities Metro Area, Minnesota",10,0,10,0
 "McLennan, Texas",0,9,9,0
 "Allen, Indiana",0,8,8,0
-"Cook, Illinois",2,6,8,1
+"Cook, Illinois",2,6,8,0
 "Erie, Pennsylvania",2,6,8,0
 "Lincoln, South Dakota",7,1,8,0
-"Spartanburg, South Carolina",5,3,8,6
 "Williamson, Texas",0,8,8,0
 "Carbon, Wyoming",1,6,7,0
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
 "Hockley, Texas",0,7,7,0
-"Mesa, Colorado",0,7,7,0
 "Midland, Texas",0,7,7,0
 "Osceola, Michigan",0,7,7,0
 "Pawnee, Kansas",0,7,7,0
@@ -47,13 +47,13 @@ U.S.,155,1414,1569,45
 "Eastern, Iowa",1,5,6,0
 "Faulkner, Arkansas",1,5,6,0
 "Fayette, Kentucky",0,6,6,0
+"Franklin, Ohio",0,6,6,1
 "King, Washington",5,1,6,0
 "Kiowa, Kansas",0,6,6,0
 "Sandoval, New Mexico",0,6,6,0
 "Unknown County, Minnesota",0,6,6,2
 "Arapahoe, Colorado",4,1,5,0
 "Cedar, Missouri",0,5,5,0
-"Franklin, Ohio",0,5,5,2
 "Hale, Texas",0,5,5,0
 "Harris, Texas",0,5,5,0
 "Los Angeles, California",5,0,5,0
@@ -107,7 +107,7 @@ U.S.,155,1414,1569,45
 "Marquette, Michigan",0,2,2,0
 "Meade, South Dakota",1,1,2,0
 "Muskegon, Michigan",0,2,2,1
-"Orange, California",2,0,2,1
+"Orange, California",2,0,2,0
 "Orleans, Louisiana",1,1,2,0
 "Pennington, South Dakota",1,1,2,0
 "Philadelphia, Pennsylvania",2,0,2,0
@@ -118,6 +118,7 @@ U.S.,155,1414,1569,45
 "Travis, Texas",0,2,2,0
 "Tulare, California",0,2,2,0
 "Tuolumne, California",2,0,2,0
+"Unknown County, California",0,2,2,1
 "Unknown County, New Jersey",2,0,2,0
 "Upstate, South Carolina",1,1,2,0
 "Whatcom, Washington",2,0,2,0
@@ -160,6 +161,7 @@ U.S.,155,1414,1569,45
 "Ingham, Michigan",1,0,1,0
 "Kenai Peninsula, Alaska",1,0,1,0
 "Kootenai, Idaho",0,1,1,0
+"Lake, Indiana",0,1,1,1
 "Lamb, Texas",0,1,1,0
 "Lamoille, Vermont",1,0,1,0
 "Lancaster, Pennsylvania",0,1,1,0
@@ -196,8 +198,8 @@ U.S.,155,1414,1569,45
 "Suffolk, New York",0,1,1,0
 "Taney, Missouri",1,0,1,0
 "Todd, Kentucky",0,1,1,0
-"Unknown County, California",0,1,1,0
 "Unknown County, Kentucky",1,0,1,0
+"Unknown County, South Carolina",0,1,1,1
 "Washington, District of Columbia",1,0,1,0
 "Washington, Minnesota",1,0,1,0
 "Western, Iowa",0,1,1,0
