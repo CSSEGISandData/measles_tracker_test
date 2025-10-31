@@ -125,8 +125,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Fort Bend,Texas,-95.7709,29.5275,0,local,0.0
 ,Franklin,Kentucky,-84.877,38.2392,0,imported,0.0
 ,Franklin,Kentucky,-84.877,38.2392,0,local,0.0
-,Franklin,Ohio,-83.0093,39.9695,0,imported,0.0
-,Franklin,Ohio,-83.0093,39.9695,0,local,0.0
+,Franklin,Ohio,-83.0093,39.9695,1,imported,0.0
+,Franklin,Ohio,-83.0093,39.9695,1,local,1.0
 ,Fresno,California,-119.6493,36.7582,0,imported,0.0
 ,Fresno,California,-119.6493,36.7582,0,local,0.0
 ,Fulton,Georgia,-84.467,33.7902,0,imported,0.0
@@ -181,8 +181,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,0,local,0.0
 ,Kent,Michigan,-85.5493,43.0322,0,imported,0.0
 ,Kent,Michigan,-85.5493,43.0322,0,local,0.0
-,King,Washington,-121.8052,47.4902,0,imported,0.0
-,King,Washington,-121.8052,47.4902,0,local,0.0
+,King,Washington,-121.8052,47.4902,1,imported,1.0
+,King,Washington,-121.8052,47.4902,1,local,0.0
 ,Kiowa,Kansas,-99.2861,37.5582,0,imported,0.0
 ,Kiowa,Kansas,-99.2861,37.5582,0,local,0.0
 ,Knox,Ohio,-82.4215,40.3988,0,imported,0.0
@@ -225,16 +225,16 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,McLennan,Texas,-97.2018,31.5524,0,local,0.0
 ,Meade,South Dakota,-102.7169,44.5668,0,imported,0.0
 ,Meade,South Dakota,-102.7169,44.5668,0,local,0.0
-,Mesa,Colorado,-108.4664,39.0183,4,imported,0.0
-,Mesa,Colorado,-108.4664,39.0183,4,local,4.0
+,Mesa,Colorado,-108.4664,39.0183,0,imported,0.0
+,Mesa,Colorado,-108.4664,39.0183,0,local,0.0
 ,Miami-Dade,Florida,-80.5624,25.615,0,imported,0.0
 ,Miami-Dade,Florida,-80.5624,25.615,0,local,0.0
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,0,imported,0.0
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,0,local,0.0
 ,Midland,Texas,-102.0316,31.8691,0,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,0,local,0.0
-,Mohave,Arizona,-113.7579,35.7041,21,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,21,local,21.0
+,Mohave,Arizona,-113.7579,35.7041,20,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,20,local,20.0
 ,Montcalm,Michigan,-85.1525,43.311,0,imported,0.0
 ,Montcalm,Michigan,-85.1525,43.311,0,local,0.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,0,imported,0.0
@@ -251,8 +251,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Navajo,Arizona,-110.3214,35.3996,0,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,0,local,0.0
-,New York City,New York,-73.9668,40.7792,2,imported,0.0
-,New York City,New York,-73.9668,40.7792,2,local,2.0
+,New York City,New York,-73.9668,40.7792,0,imported,0.0
+,New York City,New York,-73.9668,40.7792,0,local,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,0,imported,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,0,local,0.0
 ,North,Alabama,-86.8529,34.4535,0,imported,0.0
@@ -265,8 +265,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Ocean,New Jersey,-74.2814,39.8856,0,local,0.0
 ,Oconto,Wisconsin,-88.2697,45.0264,0,imported,0.0
 ,Oconto,Wisconsin,-88.2697,45.0264,0,local,0.0
-,Olmsted,Minnesota,-92.4018,44.0038,1,imported,1.0
-,Olmsted,Minnesota,-92.4018,44.0038,1,local,0.0
+,Olmsted,Minnesota,-92.4018,44.0038,0,imported,0.0
+,Olmsted,Minnesota,-92.4018,44.0038,0,local,0.0
 ,Ontario,New York,-77.2998,42.8528,0,imported,0.0
 ,Ontario,New York,-77.2998,42.8528,0,local,0.0
 ,Orange,California,-117.7609,33.7031,0,imported,0.0
@@ -309,8 +309,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Reeves,Texas,-103.693,31.323,0,local,0.0
 ,Riverside,California,-115.9938,33.7436,0,imported,0.0
 ,Riverside,California,-115.9938,33.7436,0,local,0.0
-,Rockland,New York,-74.0242,41.1525,0,imported,0.0
-,Rockland,New York,-74.0242,41.1525,0,local,0.0
+,Rockland,New York,-74.0242,41.1525,1,imported,1.0
+,Rockland,New York,-74.0242,41.1525,1,local,0.0
 ,Rockwall,Texas,-96.4079,32.8978,0,imported,0.0
 ,Rockwall,Texas,-96.4079,32.8978,0,local,0.0
 ,Sacramento,California,-121.3443,38.4493,0,imported,0.0
@@ -339,10 +339,10 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Snohomish,Washington,-121.6972,48.0474,0,local,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,0,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,0,local,0.0
-,Southwest Health District,Utah,-113.3625,37.449,1,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,1,local,1.0
-,Spartanburg,South Carolina,-81.9908,34.9309,13,imported,0.0
-,Spartanburg,South Carolina,-81.9908,34.9309,13,local,13.0
+,Southwest Health District,Utah,-113.3625,37.449,6,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,6,local,6.0
+,Spartanburg,South Carolina,-81.9908,34.9309,18,imported,0.0
+,Spartanburg,South Carolina,-81.9908,34.9309,18,local,18.0
 ,Spokane,Washington,-117.404,47.6207,0,imported,0.0
 ,Spokane,Washington,-117.404,47.6207,0,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,0,imported,0.0
@@ -365,30 +365,30 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Tuolumne,California,-119.9548,38.0276,0,local,0.0
 ,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,0,imported,0.0
 ,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,0,local,0.0
-,Unknown County,California,-119.347852,35.491035,1,imported,0.0
-,Unknown County,California,-119.347852,35.491035,1,local,1.0
+,Unknown County,California,-119.347852,35.491035,0,imported,0.0
+,Unknown County,California,-119.347852,35.491035,0,local,0.0
 ,Unknown County,Illinois,-88.372974,41.312077,2,imported,0.0
 ,Unknown County,Illinois,-88.372974,41.312077,2,local,2.0
 ,Unknown County,Kansas,-96.409286,38.480984,0,imported,0.0
 ,Unknown County,Kansas,-96.409286,38.480984,0,local,0.0
 ,Unknown County,Kentucky,-85.261296,37.838308,0,imported,0.0
 ,Unknown County,Kentucky,-85.261296,37.838308,0,local,0.0
-,Unknown County,Minnesota,-93.558751,45.18999,0,imported,0.0
-,Unknown County,Minnesota,-93.558751,45.18999,0,local,0.0
-,Unknown County,New Jersey,-74.424465,40.438248,0,imported,0.0
-,Unknown County,New Jersey,-74.424465,40.438248,0,local,0.0
+,Unknown County,Minnesota,-93.558751,45.18999,2,imported,0.0
+,Unknown County,Minnesota,-93.558751,45.18999,2,local,2.0
+,Unknown County,New Jersey,-74.424465,40.438248,1,imported,0.0
+,Unknown County,New Jersey,-74.424465,40.438248,1,local,1.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,0,imported,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,0,local,0.0
-,Unknown County,South Carolina,-80.996482,34.022471,1,imported,0.0
-,Unknown County,South Carolina,-80.996482,34.022471,1,local,1.0
+,Unknown County,South Carolina,-80.996482,34.022471,0,imported,0.0
+,Unknown County,South Carolina,-80.996482,34.022471,0,local,0.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,imported,0.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,local,0.0
 ,Upstate,South Carolina,-82.32325826,34.77834072,0,imported,0.0
 ,Upstate,South Carolina,-82.32325826,34.77834072,0,local,0.0
-,Utah,Utah,-111.6702,40.1199,0,imported,0.0
-,Utah,Utah,-111.6702,40.1199,0,local,0.0
+,Utah,Utah,-111.6702,40.1199,1,imported,0.0
+,Utah,Utah,-111.6702,40.1199,1,local,1.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,imported,0.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,local,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,imported,0.0
