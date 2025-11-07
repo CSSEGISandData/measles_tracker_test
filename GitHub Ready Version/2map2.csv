@@ -39,6 +39,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Borden,Texas,-101.4317,32.7436,0,local,0.0
 ,Boulder,Colorado,-105.3577,40.0925,0,imported,0.0
 ,Boulder,Colorado,-105.3577,40.0925,0,local,0.0
+,Boundary,Idaho,-116.4629,48.7669,1,imported,1.0
+,Boundary,Idaho,-116.4629,48.7669,1,local,0.0
 ,Brazoria,Texas,-95.4521,29.1898,0,imported,0.0
 ,Brazoria,Texas,-95.4521,29.1898,0,local,0.0
 ,Brewster,Texas,-103.2517,29.8119,0,imported,0.0
@@ -67,6 +69,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Central,Iowa,-93.40754375,41.84471875,0,local,0.0
 ,Chaves,New Mexico,-104.4669,33.3633,0,imported,0.0
 ,Chaves,New Mexico,-104.4669,33.3633,0,local,0.0
+,Clark,Nevada,-115.0135,36.2152,1,imported,0.0
+,Clark,Nevada,-115.0135,36.2152,1,local,1.0
 ,Cochran,Texas,-102.8285,33.6042,0,imported,0.0
 ,Cochran,Texas,-102.8285,33.6042,0,local,0.0
 ,Collin,Texas,-96.5724,33.188,0,imported,0.0
@@ -125,8 +129,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Fort Bend,Texas,-95.7709,29.5275,0,local,0.0
 ,Franklin,Kentucky,-84.877,38.2392,0,imported,0.0
 ,Franklin,Kentucky,-84.877,38.2392,0,local,0.0
-,Franklin,Ohio,-83.0093,39.9695,1,imported,0.0
-,Franklin,Ohio,-83.0093,39.9695,1,local,1.0
+,Franklin,Ohio,-83.0093,39.9695,0,imported,0.0
+,Franklin,Ohio,-83.0093,39.9695,0,local,0.0
 ,Fresno,California,-119.6493,36.7582,0,imported,0.0
 ,Fresno,California,-119.6493,36.7582,0,local,0.0
 ,Fulton,Georgia,-84.467,33.7902,0,imported,0.0
@@ -233,18 +237,20 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,0,local,0.0
 ,Midland,Texas,-102.0316,31.8691,0,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,0,local,0.0
-,Mohave,Arizona,-113.7579,35.7041,20,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,20,local,20.0
+,Mohave,Arizona,-113.7579,35.7041,27,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,27,local,27.0
 ,Montcalm,Michigan,-85.1525,43.311,0,imported,0.0
 ,Montcalm,Michigan,-85.1525,43.311,0,local,0.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,0,imported,0.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,0,local,0.0
 ,Multnomah,Oregon,-122.4149,45.5468,0,imported,0.0
 ,Multnomah,Oregon,-122.4149,45.5468,0,local,0.0
-,Muskegon,Michigan,-86.152,43.2912,1,imported,0.0
-,Muskegon,Michigan,-86.152,43.2912,1,local,1.0
+,Muskegon,Michigan,-86.152,43.2912,0,imported,0.0
+,Muskegon,Michigan,-86.152,43.2912,0,local,0.0
 ,Muskingum,Ohio,-81.9444,39.9654,0,imported,0.0
 ,Muskingum,Ohio,-81.9444,39.9654,0,local,0.0
+,Nashville-Davidson County Region,Tennessee,-86.7816,36.1627,1,imported,0.0
+,Nashville-Davidson County Region,Tennessee,-86.7816,36.1627,1,local,1.0
 ,Natrona,Wyoming,-106.7986,42.9622,0,imported,0.0
 ,Natrona,Wyoming,-106.7986,42.9622,0,local,0.0
 ,Navajo,Arizona,-110.3214,35.3996,0,imported,0.0
@@ -309,8 +315,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Reeves,Texas,-103.693,31.323,0,local,0.0
 ,Riverside,California,-115.9938,33.7436,0,imported,0.0
 ,Riverside,California,-115.9938,33.7436,0,local,0.0
-,Rockland,New York,-74.0242,41.1525,1,imported,1.0
-,Rockland,New York,-74.0242,41.1525,1,local,0.0
+,Rockland,New York,-74.0242,41.1525,1,imported,0.0
+,Rockland,New York,-74.0242,41.1525,1,local,1.0
 ,Rockwall,Texas,-96.4079,32.8978,0,imported,0.0
 ,Rockwall,Texas,-96.4079,32.8978,0,local,0.0
 ,Sacramento,California,-121.3443,38.4493,0,imported,0.0
@@ -339,10 +345,10 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Snohomish,Washington,-121.6972,48.0474,0,local,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,0,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,0,local,0.0
-,Southwest Health District,Utah,-113.3625,37.449,6,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,6,local,6.0
-,Spartanburg,South Carolina,-81.9908,34.9309,18,imported,0.0
-,Spartanburg,South Carolina,-81.9908,34.9309,18,local,18.0
+,Southwest Health District,Utah,-113.3625,37.449,7,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,7,local,7.0
+,Spartanburg,South Carolina,-81.9908,34.9309,13,imported,0.0
+,Spartanburg,South Carolina,-81.9908,34.9309,13,local,13.0
 ,Spokane,Washington,-117.404,47.6207,0,imported,0.0
 ,Spokane,Washington,-117.404,47.6207,0,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,0,imported,0.0
@@ -367,8 +373,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,0,local,0.0
 ,Unknown County,California,-119.347852,35.491035,0,imported,0.0
 ,Unknown County,California,-119.347852,35.491035,0,local,0.0
-,Unknown County,Illinois,-88.372974,41.312077,2,imported,0.0
-,Unknown County,Illinois,-88.372974,41.312077,2,local,2.0
+,Unknown County,Illinois,-88.372974,41.312077,0,imported,0.0
+,Unknown County,Illinois,-88.372974,41.312077,0,local,0.0
 ,Unknown County,Kansas,-96.409286,38.480984,0,imported,0.0
 ,Unknown County,Kansas,-96.409286,38.480984,0,local,0.0
 ,Unknown County,Kentucky,-85.261296,37.838308,0,imported,0.0
@@ -387,8 +393,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Upshur,Texas,-94.9415,32.7363,0,local,0.0
 ,Upstate,South Carolina,-82.32325826,34.77834072,0,imported,0.0
 ,Upstate,South Carolina,-82.32325826,34.77834072,0,local,0.0
-,Utah,Utah,-111.6702,40.1199,1,imported,0.0
-,Utah,Utah,-111.6702,40.1199,1,local,1.0
+,Utah,Utah,-111.6702,40.1199,2,imported,0.0
+,Utah,Utah,-111.6702,40.1199,2,local,2.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,imported,0.0
 ,Washington,District of Columbia,-77.0163,38.9047,0,local,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,imported,0.0

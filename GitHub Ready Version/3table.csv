@@ -1,14 +1,14 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,158,1501,1659,55
+U.S.,159,1522,1681,58
 "Gaines, Texas",0,414,414,0
-"Mohave, Arizona",0,93,93,20
+"Mohave, Arizona",0,107,107,27
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
 "Terry, Texas",0,60,60,0
 "Lubbock, Texas",0,52,52,0
-"Southwest Health District, Utah",0,49,49,6
+"Southwest Health District, Utah",0,51,51,7
 "Oconto, Wisconsin",9,27,36,0
-"Spartanburg, South Carolina",5,28,33,18
+"Spartanburg, South Carolina",5,29,34,13
 "Gray, Kansas",0,29,29,0
 "Lamar, Texas",0,28,28,0
 "Dawson, Texas",0,26,26,0
@@ -30,17 +30,17 @@ U.S.,158,1501,1659,55
 "Stevens, Kansas",0,10,10,0
 "Twin Cities Metro Area, Minnesota",10,0,10,0
 "McLennan, Texas",0,9,9,0
+"Utah, Utah",0,9,9,2
 "Allen, Indiana",0,8,8,0
 "Cook, Illinois",2,6,8,0
 "Erie, Pennsylvania",2,6,8,0
 "Lincoln, South Dakota",7,1,8,0
 "Unknown County, Minnesota",0,8,8,2
-"Utah, Utah",0,8,8,1
 "Williamson, Texas",0,8,8,0
 "Carbon, Wyoming",1,6,7,0
 "Cass, North Dakota",2,5,7,0
 "Dallam, Texas",0,7,7,0
-"Franklin, Ohio",0,7,7,1
+"Franklin, Ohio",0,7,7,0
 "Hockley, Texas",0,7,7,0
 "King, Washington",6,1,7,1
 "Midland, Texas",0,7,7,0
@@ -81,10 +81,11 @@ U.S.,158,1501,1659,55
 "Eddy, New Mexico",0,3,3,0
 "Martin, Texas",0,3,3,0
 "Mid-Cumberland Region, Tennessee",0,3,3,0
-"Muskegon, Michigan",0,3,3,1
+"Muskegon, Michigan",0,3,3,0
 "Muskingum, Ohio",0,3,3,0
 "Northwest Region, Virginia",2,1,3,0
 "Randall, Texas",0,3,3,0
+"Rockland, New York",2,1,3,1
 "Southeast Health District, Utah",0,3,3,0
 "Unknown County, New Jersey",2,1,3,1
 "Woodford, Kentucky",0,3,3,0
@@ -115,14 +116,13 @@ U.S.,158,1501,1659,55
 "Philadelphia, Pennsylvania",2,0,2,0
 "Prince George's, Maryland",2,0,2,0
 "Reeves, Texas",0,2,2,0
-"Rockland, New York",2,0,2,1
 "Rockwall, Texas",0,2,2,0
 "Snohomish, Washington",2,0,2,0
 "Travis, Texas",0,2,2,0
 "Tulare, California",0,2,2,0
 "Tuolumne, California",2,0,2,0
 "Unknown County, California",0,2,2,0
-"Unknown County, Illinois",0,2,2,2
+"Unknown County, Illinois",0,2,2,0
 "Upstate, South Carolina",1,1,2,0
 "Whatcom, Washington",2,0,2,0
 "Allegan, Michigan",0,1,1,0
@@ -134,6 +134,7 @@ U.S.,158,1501,1659,55
 "Bonner, Idaho",0,1,1,0
 "Borden, Texas",0,1,1,0
 "Boulder, Colorado",1,0,1,0
+"Boundary, Idaho",1,0,1,1
 "Brazoria, Texas",0,1,1,0
 "Brewster, Texas",0,1,1,0
 "Brown, Texas",0,1,1,0
@@ -144,6 +145,7 @@ U.S.,158,1501,1659,55
 "Cassia, Idaho",1,0,1,0
 "Central, Iowa",0,1,1,0
 "Chaves, New Mexico",0,1,1,0
+"Clark, Nevada",0,1,1,1
 "Curry, New Mexico",0,1,1,0
 "Cuyahoga, Ohio",1,0,1,0
 "Dakota, Minnesota",0,1,1,0
@@ -170,6 +172,7 @@ U.S.,158,1501,1659,55
 "Miami-Dade, Florida",0,1,1,0
 "Montgomery, Pennsylvania",1,0,1,0
 "Multnomah, Oregon",1,0,1,0
+"Nashville-Davidson County Region, Tennessee",0,1,1,1
 "Natrona, Wyoming",0,1,1,0
 "New Madrid, Missouri",0,1,1,0
 "Niobrara, Wyoming",0,1,1,0
