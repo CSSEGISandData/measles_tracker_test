@@ -1,10 +1,10 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,158,1642,1800,79
+U.S.,158,1679,1837,83
 "Gaines, Texas",0,414,414,0
-"Mohave, Arizona",0,149,149,25
-"Southwest Health District, Utah",0,74,74,16
+"Mohave, Arizona",0,151,151,18
+"Upstate, South Carolina",5,79,84,32
+"Southwest Health District, Utah",0,76,76,8
 "Lea, New Mexico",0,67,67,0
-"Upstate, South Carolina",5,57,62,18
 "El Paso, Texas",0,61,61,0
 "Terry, Texas",0,60,60,0
 "Lubbock, Texas",0,52,52,0
@@ -12,26 +12,26 @@ U.S.,158,1642,1800,79
 "Gray, Kansas",0,29,29,0
 "Lamar, Texas",0,28,28,0
 "Dawson, Texas",0,26,26,0
+"Gallatin, Montana",5,17,22,3
+"New York City, New York",0,20,20,2
 "Unknown County, Kansas",0,20,20,0
 "Yoakum, Texas",0,20,20,0
-"Gallatin, Montana",5,14,19,0
 "Haskell, Kansas",0,19,19,0
-"New York City, New York",0,19,19,1
 "Williams, North Dakota",1,17,18,0
 "Unknown County, Oklahoma",0,17,17,0
 "Ashtabula, Ohio",3,13,16,0
 "Cochran, Texas",0,14,14,0
 "Knox, Ohio",0,14,14,0
 "Luna, New Mexico",0,14,14,0
+"Rockland, New York",2,11,13,5
 "Ector, Texas",0,12,12,0
 "Mesa, Colorado",0,11,11,0
+"Unknown County, Minnesota",0,11,11,2
 "Fulton, Georgia",2,8,10,0
 "Grand Forks, North Dakota",2,8,10,0
 "Stevens, Kansas",0,10,10,0
 "Twin Cities Metro Area, Minnesota",10,0,10,0
 "McLennan, Texas",0,9,9,0
-"Rockland, New York",2,7,9,4
-"Unknown County, Minnesota",0,9,9,0
 "Utah, Utah",0,9,9,0
 "Allen, Indiana",0,8,8,0
 "Cook, Illinois",2,6,8,0
@@ -96,7 +96,7 @@ U.S.,158,1642,1800,79
 "Bailey, Texas",0,2,2,0
 "Bexar, Texas",0,2,2,0
 "Broward, Florida",0,2,2,0
-"Central, Utah",0,2,2,2
+"Central, Utah",0,2,2,0
 "Denton, Texas",0,2,2,0
 "Dona Ana, New Mexico",0,2,2,0
 "Eastland, Texas",0,2,2,0
@@ -121,7 +121,7 @@ U.S.,158,1642,1800,79
 "Reeves, Texas",0,2,2,0
 "Region 1, Louisiana",1,1,2,0
 "Rockwall, Texas",0,2,2,0
-"Salt Lake, Utah",0,2,2,2
+"Salt Lake, Utah",0,2,2,1
 "Snohomish, Washington",2,0,2,0
 "Travis, Texas",0,2,2,0
 "Tulare, California",0,2,2,0
@@ -152,6 +152,7 @@ U.S.,158,1642,1800,79
 "Cuyahoga, Ohio",1,0,1,0
 "Dakota, Minnesota",0,1,1,0
 "Dallas, Texas",0,1,1,0
+"Davis, Utah",0,1,1,1
 "Defiance, Ohio",1,0,1,0
 "Duval, Florida",0,1,1,0
 "Eastern Region, Virginia",0,1,1,0

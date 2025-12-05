@@ -87,6 +87,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Dallam,Texas,-102.6022,36.2779,7,local,7.0
 ,Dallas,Texas,-96.7778,32.7666,1,imported,0.0
 ,Dallas,Texas,-96.7778,32.7666,1,local,1.0
+,Davis,Utah,-112.1115,40.99,1,imported,0.0
+,Davis,Utah,-112.1115,40.99,1,local,1.0
 ,Dawson,Texas,-101.9476,32.7426,26,imported,0.0
 ,Dawson,Texas,-101.9476,32.7426,26,local,26.0
 ,Defiance,Ohio,-84.4905,41.3239,1,imported,1.0
@@ -137,8 +139,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Fulton,Georgia,-84.467,33.7902,10,local,8.0
 ,Gaines,Texas,-102.6352,32.7408,414,imported,0.0
 ,Gaines,Texas,-102.6352,32.7408,414,local,414.0
-,Gallatin,Montana,-111.1704,45.5404,19,imported,5.0
-,Gallatin,Montana,-111.1704,45.5404,19,local,14.0
+,Gallatin,Montana,-111.1704,45.5404,22,imported,5.0
+,Gallatin,Montana,-111.1704,45.5404,22,local,17.0
 ,Garza,Texas,-101.2984,33.1799,2,imported,0.0
 ,Garza,Texas,-101.2984,33.1799,2,local,2.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,10,imported,2.0
@@ -235,8 +237,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,3,local,3.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
-,Mohave,Arizona,-113.7579,35.7041,149,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,149,local,149.0
+,Mohave,Arizona,-113.7579,35.7041,151,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,151,local,151.0
 ,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 ,Montezuma,Colorado,-108.5966,37.3386,1,imported,0.0
@@ -257,8 +259,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Navajo,Arizona,-110.3214,35.3996,4,local,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,imported,0.0
 ,New Madrid,Missouri,-89.6517,36.5946,1,local,1.0
-,New York City,New York,-73.9668,40.7792,19,imported,0.0
-,New York City,New York,-73.9668,40.7792,19,local,19.0
+,New York City,New York,-73.9668,40.7792,20,imported,0.0
+,New York City,New York,-73.9668,40.7792,20,local,20.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,imported,0.0
 ,Niobrara,Wyoming,-104.4754,43.0564,1,local,1.0
 ,North,Alabama,-86.8529,34.4535,1,imported,1.0
@@ -319,8 +321,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Region 9,Louisiana,-90.262548,30.506128,1,local,0.0
 ,Riverside,California,-115.9938,33.7436,1,imported,1.0
 ,Riverside,California,-115.9938,33.7436,1,local,0.0
-,Rockland,New York,-74.0242,41.1525,9,imported,2.0
-,Rockland,New York,-74.0242,41.1525,9,local,7.0
+,Rockland,New York,-74.0242,41.1525,13,imported,2.0
+,Rockland,New York,-74.0242,41.1525,13,local,11.0
 ,Rockwall,Texas,-96.4079,32.8978,2,imported,0.0
 ,Rockwall,Texas,-96.4079,32.8978,2,local,2.0
 ,Sacramento,California,-121.3443,38.4493,1,imported,1.0
@@ -351,8 +353,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
-,Southwest Health District,Utah,-113.3625,37.449,74,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,74,local,74.0
+,Southwest Health District,Utah,-113.3625,37.449,76,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,76,local,76.0
 ,Spokane,Washington,-117.404,47.6207,1,imported,1.0
 ,Spokane,Washington,-117.404,47.6207,1,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
@@ -383,8 +385,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Unknown County,Kansas,-96.409286,38.480984,20,local,20.0
 ,Unknown County,Kentucky,-85.261296,37.838308,1,imported,1.0
 ,Unknown County,Kentucky,-85.261296,37.838308,1,local,0.0
-,Unknown County,Minnesota,-93.558751,45.18999,9,imported,0.0
-,Unknown County,Minnesota,-93.558751,45.18999,9,local,9.0
+,Unknown County,Minnesota,-93.558751,45.18999,11,imported,0.0
+,Unknown County,Minnesota,-93.558751,45.18999,11,local,11.0
 ,Unknown County,New Jersey,-74.424465,40.438248,3,imported,2.0
 ,Unknown County,New Jersey,-74.424465,40.438248,3,local,1.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0
@@ -395,8 +397,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,62,imported,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,62,local,57.0
+,Upstate,South Carolina,-82.32325826,34.77834072,84,imported,5.0
+,Upstate,South Carolina,-82.32325826,34.77834072,84,local,79.0
 ,Utah,Utah,-111.6702,40.1199,9,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,9,local,9.0
 ,Wasatch,Utah,-111.1682,40.3308,8,imported,0.0
