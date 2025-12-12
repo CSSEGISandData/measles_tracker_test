@@ -1,9 +1,9 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,158,1679,1837,83
+U.S.,158,1758,1916,115
 "Gaines, Texas",0,414,414,0
-"Mohave, Arizona",0,151,151,18
-"Upstate, South Carolina",5,79,84,32
-"Southwest Health District, Utah",0,76,76,8
+"Mohave, Arizona",0,172,172,23
+"Upstate, South Carolina",5,121,126,64
+"Southwest Health District, Utah",0,82,82,8
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
 "Terry, Texas",0,60,60,0
@@ -12,18 +12,18 @@ U.S.,158,1679,1837,83
 "Gray, Kansas",0,29,29,0
 "Lamar, Texas",0,28,28,0
 "Dawson, Texas",0,26,26,0
-"Gallatin, Montana",5,17,22,3
-"New York City, New York",0,20,20,2
+"Gallatin, Montana",5,17,22,2
+"New York City, New York",0,20,20,1
 "Unknown County, Kansas",0,20,20,0
 "Yoakum, Texas",0,20,20,0
 "Haskell, Kansas",0,19,19,0
 "Williams, North Dakota",1,17,18,0
+"Rockland, New York",2,15,17,8
 "Unknown County, Oklahoma",0,17,17,0
 "Ashtabula, Ohio",3,13,16,0
 "Cochran, Texas",0,14,14,0
 "Knox, Ohio",0,14,14,0
 "Luna, New Mexico",0,14,14,0
-"Rockland, New York",2,11,13,5
 "Ector, Texas",0,12,12,0
 "Mesa, Colorado",0,11,11,0
 "Unknown County, Minnesota",0,11,11,2
@@ -31,13 +31,13 @@ U.S.,158,1679,1837,83
 "Grand Forks, North Dakota",2,8,10,0
 "Stevens, Kansas",0,10,10,0
 "Twin Cities Metro Area, Minnesota",10,0,10,0
+"Utah, Utah",0,10,10,1
 "McLennan, Texas",0,9,9,0
-"Utah, Utah",0,9,9,0
+"Wasatch, Utah",0,9,9,1
 "Allen, Indiana",0,8,8,0
 "Cook, Illinois",2,6,8,0
 "Erie, Pennsylvania",2,6,8,0
 "Lincoln, South Dakota",7,1,8,0
-"Wasatch, Utah",0,8,8,8
 "Williamson, Texas",0,8,8,0
 "Carbon, Wyoming",1,6,7,0
 "Cass, North Dakota",2,5,7,0
@@ -88,15 +88,18 @@ U.S.,158,1679,1837,83
 "Muskingum, Ohio",0,3,3,0
 "Northwest Region, Virginia",2,1,3,0
 "Randall, Texas",0,3,3,0
+"Salt Lake, Utah",0,3,3,1
 "Southeast Health District, Utah",0,3,3,0
+"Unknown County, California",0,3,3,1
 "Unknown County, New Jersey",2,1,3,0
-"Unknown County, South Carolina",0,3,3,3
+"Unknown County, South Carolina",0,3,3,0
 "Woodford, Kentucky",0,3,3,0
 "Anchorage, Alaska",1,1,2,0
 "Bailey, Texas",0,2,2,0
 "Bexar, Texas",0,2,2,0
 "Broward, Florida",0,2,2,0
 "Central, Utah",0,2,2,0
+"Davis, Utah",0,2,2,2
 "Denton, Texas",0,2,2,0
 "Dona Ana, New Mexico",0,2,2,0
 "Eastland, Texas",0,2,2,0
@@ -114,6 +117,7 @@ U.S.,158,1679,1837,83
 "Macomb, Michigan",1,1,2,0
 "Marquette, Michigan",0,2,2,0
 "Meade, South Dakota",1,1,2,0
+"Montezuma, Colorado",0,2,2,1
 "Orange, California",2,0,2,0
 "Pennington, South Dakota",1,1,2,0
 "Philadelphia, Pennsylvania",2,0,2,0
@@ -121,12 +125,10 @@ U.S.,158,1679,1837,83
 "Reeves, Texas",0,2,2,0
 "Region 1, Louisiana",1,1,2,0
 "Rockwall, Texas",0,2,2,0
-"Salt Lake, Utah",0,2,2,1
 "Snohomish, Washington",2,0,2,0
 "Travis, Texas",0,2,2,0
 "Tulare, California",0,2,2,0
 "Tuolumne, California",2,0,2,0
-"Unknown County, California",0,2,2,0
 "Unknown County, Illinois",0,2,2,0
 "Whatcom, Washington",2,0,2,0
 "Allegan, Michigan",0,1,1,0
@@ -152,7 +154,6 @@ U.S.,158,1679,1837,83
 "Cuyahoga, Ohio",1,0,1,0
 "Dakota, Minnesota",0,1,1,0
 "Dallas, Texas",0,1,1,0
-"Davis, Utah",0,1,1,1
 "Defiance, Ohio",1,0,1,0
 "Duval, Florida",0,1,1,0
 "Eastern Region, Virginia",0,1,1,0
@@ -172,7 +173,6 @@ U.S.,158,1679,1837,83
 "Lamoille, Vermont",1,0,1,0
 "Lancaster, Pennsylvania",0,1,1,0
 "Miami-Dade, Florida",0,1,1,0
-"Montezuma, Colorado",0,1,1,0
 "Montgomery, Pennsylvania",1,0,1,0
 "Multnomah, Oregon",1,0,1,0
 "Nashville-Davidson County Region, Tennessee",0,1,1,0

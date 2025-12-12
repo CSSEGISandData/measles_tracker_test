@@ -87,8 +87,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Dallam,Texas,-102.6022,36.2779,7,local,7.0
 ,Dallas,Texas,-96.7778,32.7666,1,imported,0.0
 ,Dallas,Texas,-96.7778,32.7666,1,local,1.0
-,Davis,Utah,-112.1115,40.99,1,imported,0.0
-,Davis,Utah,-112.1115,40.99,1,local,1.0
+,Davis,Utah,-112.1115,40.99,2,imported,0.0
+,Davis,Utah,-112.1115,40.99,2,local,2.0
 ,Dawson,Texas,-101.9476,32.7426,26,imported,0.0
 ,Dawson,Texas,-101.9476,32.7426,26,local,26.0
 ,Defiance,Ohio,-84.4905,41.3239,1,imported,1.0
@@ -237,12 +237,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,3,local,3.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
-,Mohave,Arizona,-113.7579,35.7041,151,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,151,local,151.0
+,Mohave,Arizona,-113.7579,35.7041,172,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,172,local,172.0
 ,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
-,Montezuma,Colorado,-108.5966,37.3386,1,imported,0.0
-,Montezuma,Colorado,-108.5966,37.3386,1,local,1.0
+,Montezuma,Colorado,-108.5966,37.3386,2,imported,0.0
+,Montezuma,Colorado,-108.5966,37.3386,2,local,2.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,1,imported,1.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,1,local,0.0
 ,Multnomah,Oregon,-122.4149,45.5468,1,imported,1.0
@@ -321,16 +321,16 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Region 9,Louisiana,-90.262548,30.506128,1,local,0.0
 ,Riverside,California,-115.9938,33.7436,1,imported,1.0
 ,Riverside,California,-115.9938,33.7436,1,local,0.0
-,Rockland,New York,-74.0242,41.1525,13,imported,2.0
-,Rockland,New York,-74.0242,41.1525,13,local,11.0
+,Rockland,New York,-74.0242,41.1525,17,imported,2.0
+,Rockland,New York,-74.0242,41.1525,17,local,15.0
 ,Rockwall,Texas,-96.4079,32.8978,2,imported,0.0
 ,Rockwall,Texas,-96.4079,32.8978,2,local,2.0
 ,Sacramento,California,-121.3443,38.4493,1,imported,1.0
 ,Sacramento,California,-121.3443,38.4493,1,local,0.0
 ,Saline,Arkansas,-92.6766,34.6466,1,imported,1.0
 ,Saline,Arkansas,-92.6766,34.6466,1,local,0.0
-,Salt Lake,Utah,-111.9236,40.6673,2,imported,0.0
-,Salt Lake,Utah,-111.9236,40.6673,2,local,2.0
+,Salt Lake,Utah,-111.9236,40.6673,3,imported,0.0
+,Salt Lake,Utah,-111.9236,40.6673,3,local,3.0
 ,San Diego,California,-116.735,33.0343,1,imported,1.0
 ,San Diego,California,-116.735,33.0343,1,local,0.0
 ,San Juan,New Mexico,-108.3206,36.5085,1,imported,0.0
@@ -353,8 +353,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
-,Southwest Health District,Utah,-113.3625,37.449,76,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,76,local,76.0
+,Southwest Health District,Utah,-113.3625,37.449,82,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,82,local,82.0
 ,Spokane,Washington,-117.404,47.6207,1,imported,1.0
 ,Spokane,Washington,-117.404,47.6207,1,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
@@ -377,8 +377,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Tuolumne,California,-119.9548,38.0276,2,local,0.0
 ,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,10,imported,10.0
 ,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,10,local,0.0
-,Unknown County,California,-119.347852,35.491035,2,imported,0.0
-,Unknown County,California,-119.347852,35.491035,2,local,2.0
+,Unknown County,California,-119.347852,35.491035,3,imported,0.0
+,Unknown County,California,-119.347852,35.491035,3,local,3.0
 ,Unknown County,Illinois,-88.372974,41.312077,2,imported,0.0
 ,Unknown County,Illinois,-88.372974,41.312077,2,local,2.0
 ,Unknown County,Kansas,-96.409286,38.480984,20,imported,0.0
@@ -397,12 +397,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,84,imported,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,84,local,79.0
-,Utah,Utah,-111.6702,40.1199,9,imported,0.0
-,Utah,Utah,-111.6702,40.1199,9,local,9.0
-,Wasatch,Utah,-111.1682,40.3308,8,imported,0.0
-,Wasatch,Utah,-111.1682,40.3308,8,local,8.0
+,Upstate,South Carolina,-82.32325826,34.77834072,126,imported,5.0
+,Upstate,South Carolina,-82.32325826,34.77834072,126,local,121.0
+,Utah,Utah,-111.6702,40.1199,10,imported,0.0
+,Utah,Utah,-111.6702,40.1199,10,local,10.0
+,Wasatch,Utah,-111.1682,40.3308,9,imported,0.0
+,Wasatch,Utah,-111.1682,40.3308,9,local,9.0
 ,Washington,District of Columbia,-77.0163,38.9047,1,imported,1.0
 ,Washington,District of Columbia,-77.0163,38.9047,1,local,0.0
 ,Washington,Minnesota,-92.8838,45.0388,1,imported,1.0
