@@ -1,9 +1,9 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,158,1758,1916,115
+U.S.,158,1796,1954,146
 "Gaines, Texas",0,414,414,0
-"Mohave, Arizona",0,172,172,23
-"Upstate, South Carolina",5,121,126,64
-"Southwest Health District, Utah",0,82,82,8
+"Mohave, Arizona",0,186,186,35
+"Upstate, South Carolina",5,130,135,73
+"Southwest Health District, Utah",0,91,91,15
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
 "Terry, Texas",0,60,60,0
@@ -12,13 +12,13 @@ U.S.,158,1758,1916,115
 "Gray, Kansas",0,29,29,0
 "Lamar, Texas",0,28,28,0
 "Dawson, Texas",0,26,26,0
-"Gallatin, Montana",5,17,22,2
+"Gallatin, Montana",5,17,22,0
 "New York City, New York",0,20,20,1
 "Unknown County, Kansas",0,20,20,0
 "Yoakum, Texas",0,20,20,0
 "Haskell, Kansas",0,19,19,0
+"Rockland, New York",2,16,18,9
 "Williams, North Dakota",1,17,18,0
-"Rockland, New York",2,15,17,8
 "Unknown County, Oklahoma",0,17,17,0
 "Ashtabula, Ohio",3,13,16,0
 "Cochran, Texas",0,14,14,0
@@ -74,6 +74,7 @@ U.S.,158,1758,1916,115
 "Hill, Montana",0,4,4,0
 "Kent, Michigan",2,2,4,0
 "Montcalm, Michigan",1,3,4,0
+"Montezuma, Colorado",0,4,4,3
 "Navajo, Arizona",4,0,4,0
 "Orange, New York",3,1,4,0
 "Tarrant, Texas",0,4,4,0
@@ -81,6 +82,7 @@ U.S.,158,1758,1916,115
 "Williamson, Illinois",0,4,4,0
 "Yellowstone, Montana",0,4,4,0
 "Andrews, Texas",0,3,3,0
+"Central, Utah",0,3,3,1
 "Eddy, New Mexico",0,3,3,0
 "Martin, Texas",0,3,3,0
 "Mid-Cumberland Region, Tennessee",0,3,3,0
@@ -98,8 +100,7 @@ U.S.,158,1758,1916,115
 "Bailey, Texas",0,2,2,0
 "Bexar, Texas",0,2,2,0
 "Broward, Florida",0,2,2,0
-"Central, Utah",0,2,2,0
-"Davis, Utah",0,2,2,2
+"Davis, Utah",0,2,2,1
 "Denton, Texas",0,2,2,0
 "Dona Ana, New Mexico",0,2,2,0
 "Eastland, Texas",0,2,2,0
@@ -117,7 +118,7 @@ U.S.,158,1758,1916,115
 "Macomb, Michigan",1,1,2,0
 "Marquette, Michigan",0,2,2,0
 "Meade, South Dakota",1,1,2,0
-"Montezuma, Colorado",0,2,2,1
+"Oakland, Michigan",1,1,2,1
 "Orange, California",2,0,2,0
 "Pennington, South Dakota",1,1,2,0
 "Philadelphia, Pennsylvania",2,0,2,0
@@ -180,7 +181,6 @@ U.S.,158,1758,1916,115
 "New Madrid, Missouri",0,1,1,0
 "Niobrara, Wyoming",0,1,1,0
 "North, Alabama",1,0,1,0
-"Oakland, Michigan",1,0,1,0
 "Ocean, New Jersey",0,1,1,0
 "Okaloosa, Florida",1,0,1,0
 "Olmsted, Minnesota",1,0,1,0
@@ -211,5 +211,6 @@ U.S.,158,1758,1916,115
 "Unknown County, Kentucky",1,0,1,0
 "Washington, District of Columbia",1,0,1,0
 "Washington, Minnesota",1,0,1,0
+"Weld, Colorado",0,1,1,1
 "Western, Iowa",0,1,1,0
 "Yolo, California",0,1,1,0

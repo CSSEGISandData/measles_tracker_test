@@ -65,8 +65,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Cedar,Missouri,-93.8566,37.7239,0,local,0.0
 ,Central,Iowa,-93.40754375,41.84471875,0,imported,0.0
 ,Central,Iowa,-93.40754375,41.84471875,0,local,0.0
-,Central,Utah,-111.948021,40.385835,0,imported,0.0
-,Central,Utah,-111.948021,40.385835,0,local,0.0
+,Central,Utah,-111.948021,40.385835,1,imported,0.0
+,Central,Utah,-111.948021,40.385835,1,local,1.0
 ,Chaves,New Mexico,-104.4669,33.3633,0,imported,0.0
 ,Chaves,New Mexico,-104.4669,33.3633,0,local,0.0
 ,Clark,Nevada,-115.0135,36.2152,0,imported,0.0
@@ -87,8 +87,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Dallam,Texas,-102.6022,36.2779,0,local,0.0
 ,Dallas,Texas,-96.7778,32.7666,0,imported,0.0
 ,Dallas,Texas,-96.7778,32.7666,0,local,0.0
-,Davis,Utah,-112.1115,40.99,2,imported,0.0
-,Davis,Utah,-112.1115,40.99,2,local,2.0
+,Davis,Utah,-112.1115,40.99,1,imported,0.0
+,Davis,Utah,-112.1115,40.99,1,local,1.0
 ,Dawson,Texas,-101.9476,32.7426,0,imported,0.0
 ,Dawson,Texas,-101.9476,32.7426,0,local,0.0
 ,Defiance,Ohio,-84.4905,41.3239,0,imported,0.0
@@ -139,8 +139,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Fulton,Georgia,-84.467,33.7902,0,local,0.0
 ,Gaines,Texas,-102.6352,32.7408,0,imported,0.0
 ,Gaines,Texas,-102.6352,32.7408,0,local,0.0
-,Gallatin,Montana,-111.1704,45.5404,2,imported,0.0
-,Gallatin,Montana,-111.1704,45.5404,2,local,2.0
+,Gallatin,Montana,-111.1704,45.5404,0,imported,0.0
+,Gallatin,Montana,-111.1704,45.5404,0,local,0.0
 ,Garza,Texas,-101.2984,33.1799,0,imported,0.0
 ,Garza,Texas,-101.2984,33.1799,0,local,0.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,0,imported,0.0
@@ -237,12 +237,12 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,0,local,0.0
 ,Midland,Texas,-102.0316,31.8691,0,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,0,local,0.0
-,Mohave,Arizona,-113.7579,35.7041,23,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,23,local,23.0
+,Mohave,Arizona,-113.7579,35.7041,35,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,35,local,35.0
 ,Montcalm,Michigan,-85.1525,43.311,0,imported,0.0
 ,Montcalm,Michigan,-85.1525,43.311,0,local,0.0
-,Montezuma,Colorado,-108.5966,37.3386,1,imported,0.0
-,Montezuma,Colorado,-108.5966,37.3386,1,local,1.0
+,Montezuma,Colorado,-108.5966,37.3386,3,imported,0.0
+,Montezuma,Colorado,-108.5966,37.3386,3,local,3.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,0,imported,0.0
 ,Montgomery,Pennsylvania,-75.3673,40.2108,0,local,0.0
 ,Multnomah,Oregon,-122.4149,45.5468,0,imported,0.0
@@ -267,8 +267,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,North,Alabama,-86.8529,34.4535,0,local,0.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,0,imported,0.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,0,local,0.0
-,Oakland,Michigan,-83.3858,42.6604,0,imported,0.0
-,Oakland,Michigan,-83.3858,42.6604,0,local,0.0
+,Oakland,Michigan,-83.3858,42.6604,1,imported,0.0
+,Oakland,Michigan,-83.3858,42.6604,1,local,1.0
 ,Ocean,New Jersey,-74.2814,39.8856,0,imported,0.0
 ,Ocean,New Jersey,-74.2814,39.8856,0,local,0.0
 ,Oconto,Wisconsin,-88.2697,45.0264,0,imported,0.0
@@ -321,8 +321,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Region 9,Louisiana,-90.262548,30.506128,0,local,0.0
 ,Riverside,California,-115.9938,33.7436,0,imported,0.0
 ,Riverside,California,-115.9938,33.7436,0,local,0.0
-,Rockland,New York,-74.0242,41.1525,8,imported,0.0
-,Rockland,New York,-74.0242,41.1525,8,local,8.0
+,Rockland,New York,-74.0242,41.1525,9,imported,0.0
+,Rockland,New York,-74.0242,41.1525,9,local,9.0
 ,Rockwall,Texas,-96.4079,32.8978,0,imported,0.0
 ,Rockwall,Texas,-96.4079,32.8978,0,local,0.0
 ,Sacramento,California,-121.3443,38.4493,0,imported,0.0
@@ -353,8 +353,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Snohomish,Washington,-121.6972,48.0474,0,local,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,0,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,0,local,0.0
-,Southwest Health District,Utah,-113.3625,37.449,8,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,8,local,8.0
+,Southwest Health District,Utah,-113.3625,37.449,15,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,15,local,15.0
 ,Spokane,Washington,-117.404,47.6207,0,imported,0.0
 ,Spokane,Washington,-117.404,47.6207,0,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,0,imported,0.0
@@ -397,8 +397,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,local,0.0
-,Upstate,South Carolina,-82.32325826,34.77834072,64,imported,0.0
-,Upstate,South Carolina,-82.32325826,34.77834072,64,local,64.0
+,Upstate,South Carolina,-82.32325826,34.77834072,73,imported,0.0
+,Upstate,South Carolina,-82.32325826,34.77834072,73,local,73.0
 ,Utah,Utah,-111.6702,40.1199,1,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,1,local,1.0
 ,Wasatch,Utah,-111.1682,40.3308,1,imported,0.0
@@ -407,6 +407,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Washington,District of Columbia,-77.0163,38.9047,0,local,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,imported,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,local,0.0
+,Weld,Colorado,-104.3925,40.5548,1,imported,0.0
+,Weld,Colorado,-104.3925,40.5548,1,local,1.0
 ,Western,Iowa,-95.10435,41.97493056,0,imported,0.0
 ,Western,Iowa,-95.10435,41.97493056,0,local,0.0
 ,Whatcom,Washington,-121.7199,48.8259,0,imported,0.0
