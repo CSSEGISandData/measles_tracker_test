@@ -1,8 +1,8 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,158,1796,1954,146
+U.S.,162,1816,1976,137
 "Gaines, Texas",0,414,414,0
 "Mohave, Arizona",0,186,186,35
-"Upstate, South Carolina",5,130,135,73
+"Upstate, South Carolina",5,141,144,60
 "Southwest Health District, Utah",0,91,91,15
 "Lea, New Mexico",0,67,67,0
 "El Paso, Texas",0,61,61,0
@@ -12,12 +12,12 @@ U.S.,158,1796,1954,146
 "Gray, Kansas",0,29,29,0
 "Lamar, Texas",0,28,28,0
 "Dawson, Texas",0,26,26,0
-"Gallatin, Montana",5,17,22,0
-"New York City, New York",0,20,20,1
+"Gallatin, Montana",5,18,23,1
+"Rockland, New York",2,19,21,8
+"New York City, New York",0,20,20,0
 "Unknown County, Kansas",0,20,20,0
 "Yoakum, Texas",0,20,20,0
 "Haskell, Kansas",0,19,19,0
-"Rockland, New York",2,16,18,9
 "Williams, North Dakota",1,17,18,0
 "Unknown County, Oklahoma",0,17,17,0
 "Ashtabula, Ohio",3,13,16,0
@@ -26,7 +26,7 @@ U.S.,158,1796,1954,146
 "Luna, New Mexico",0,14,14,0
 "Ector, Texas",0,12,12,0
 "Mesa, Colorado",0,11,11,0
-"Unknown County, Minnesota",0,11,11,2
+"Unknown County, Minnesota",0,11,11,0
 "Fulton, Georgia",2,8,10,0
 "Grand Forks, North Dakota",2,8,10,0
 "Stevens, Kansas",0,10,10,0
@@ -57,6 +57,7 @@ U.S.,158,1796,1954,146
 "Arapahoe, Colorado",4,1,5,0
 "Bonneville, Idaho",2,3,5,0
 "Cedar, Missouri",0,5,5,0
+"Fremont, Wyoming",0,5,5,5
 "Hale, Texas",0,5,5,0
 "Harris, Texas",0,5,5,0
 "Los Angeles, California",5,0,5,0
@@ -74,7 +75,7 @@ U.S.,158,1796,1954,146
 "Hill, Montana",0,4,4,0
 "Kent, Michigan",2,2,4,0
 "Montcalm, Michigan",1,3,4,0
-"Montezuma, Colorado",0,4,4,3
+"Montezuma, Colorado",0,4,4,2
 "Navajo, Arizona",4,0,4,0
 "Orange, New York",3,1,4,0
 "Tarrant, Texas",0,4,4,0
@@ -82,6 +83,7 @@ U.S.,158,1796,1954,146
 "Williamson, Illinois",0,4,4,0
 "Yellowstone, Montana",0,4,4,0
 "Andrews, Texas",0,3,3,0
+"Butte, South Dakota",3,0,3,2
 "Central, Utah",0,3,3,1
 "Eddy, New Mexico",0,3,3,0
 "Martin, Texas",0,3,3,0
@@ -100,6 +102,7 @@ U.S.,158,1796,1954,146
 "Bailey, Texas",0,2,2,0
 "Bexar, Texas",0,2,2,0
 "Broward, Florida",0,2,2,0
+"Central, Iowa",1,1,2,1
 "Davis, Utah",0,2,2,1
 "Denton, Texas",0,2,2,0
 "Dona Ana, New Mexico",0,2,2,0
@@ -148,7 +151,6 @@ U.S.,158,1796,1954,146
 "Burke, North Dakota",1,0,1,0
 "Carson, Texas",0,1,1,0
 "Cascade, Montana",0,1,1,0
-"Central, Iowa",0,1,1,0
 "Chaves, New Mexico",0,1,1,0
 "Clark, Nevada",0,1,1,0
 "Curry, New Mexico",0,1,1,0

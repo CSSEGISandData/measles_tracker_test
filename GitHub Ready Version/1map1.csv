@@ -53,6 +53,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Bucks,Pennsylvania,-75.1069,40.337,1,local,0.0
 ,Burke,North Dakota,-102.5182,48.791,1,imported,1.0
 ,Burke,North Dakota,-102.5182,48.791,1,local,0.0
+,Butte,South Dakota,-103.5079,44.9058,3,imported,3.0
+,Butte,South Dakota,-103.5079,44.9058,3,local,0.0
 ,Carbon,Wyoming,-106.9306,41.6944,7,imported,1.0
 ,Carbon,Wyoming,-106.9306,41.6944,7,local,6.0
 ,Carson,Texas,-101.3542,35.4035,1,imported,0.0
@@ -63,8 +65,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Cass,North Dakota,-97.248,46.933,7,local,5.0
 ,Cedar,Missouri,-93.8566,37.7239,5,imported,0.0
 ,Cedar,Missouri,-93.8566,37.7239,5,local,5.0
-,Central,Iowa,-93.40754375,41.84471875,1,imported,0.0
-,Central,Iowa,-93.40754375,41.84471875,1,local,1.0
+,Central,Iowa,-93.40754375,41.84471875,2,imported,1.0
+,Central,Iowa,-93.40754375,41.84471875,2,local,1.0
 ,Central,Utah,-111.948021,40.385835,3,imported,0.0
 ,Central,Utah,-111.948021,40.385835,3,local,3.0
 ,Chaves,New Mexico,-104.4669,33.3633,1,imported,0.0
@@ -133,14 +135,16 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Franklin,Kentucky,-84.877,38.2392,1,local,0.0
 ,Franklin,Ohio,-83.0093,39.9695,7,imported,0.0
 ,Franklin,Ohio,-83.0093,39.9695,7,local,7.0
+,Fremont,Wyoming,-108.6304,43.0405,5,imported,0.0
+,Fremont,Wyoming,-108.6304,43.0405,5,local,5.0
 ,Fresno,California,-119.6493,36.7582,2,imported,1.0
 ,Fresno,California,-119.6493,36.7582,2,local,1.0
 ,Fulton,Georgia,-84.467,33.7902,10,imported,2.0
 ,Fulton,Georgia,-84.467,33.7902,10,local,8.0
 ,Gaines,Texas,-102.6352,32.7408,414,imported,0.0
 ,Gaines,Texas,-102.6352,32.7408,414,local,414.0
-,Gallatin,Montana,-111.1704,45.5404,22,imported,5.0
-,Gallatin,Montana,-111.1704,45.5404,22,local,17.0
+,Gallatin,Montana,-111.1704,45.5404,23,imported,5.0
+,Gallatin,Montana,-111.1704,45.5404,23,local,18.0
 ,Garza,Texas,-101.2984,33.1799,2,imported,0.0
 ,Garza,Texas,-101.2984,33.1799,2,local,2.0
 ,Grand Forks,North Dakota,-97.4569,47.9219,10,imported,2.0
@@ -321,8 +325,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Region 9,Louisiana,-90.262548,30.506128,1,local,0.0
 ,Riverside,California,-115.9938,33.7436,1,imported,1.0
 ,Riverside,California,-115.9938,33.7436,1,local,0.0
-,Rockland,New York,-74.0242,41.1525,18,imported,2.0
-,Rockland,New York,-74.0242,41.1525,18,local,16.0
+,Rockland,New York,-74.0242,41.1525,21,imported,2.0
+,Rockland,New York,-74.0242,41.1525,21,local,19.0
 ,Rockwall,Texas,-96.4079,32.8978,2,imported,0.0
 ,Rockwall,Texas,-96.4079,32.8978,2,local,2.0
 ,Sacramento,California,-121.3443,38.4493,1,imported,1.0
@@ -397,8 +401,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,135,imported,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,135,local,130.0
+,Upstate,South Carolina,-82.32325826,34.77834072,144,imported,5.0
+,Upstate,South Carolina,-82.32325826,34.77834072,144,local,141.0
 ,Utah,Utah,-111.6702,40.1199,10,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,10,local,10.0
 ,Wasatch,Utah,-111.1682,40.3308,9,imported,0.0
