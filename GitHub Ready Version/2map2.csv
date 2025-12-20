@@ -402,7 +402,7 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,local,0.0
 ,Upstate,South Carolina,-82.32325826,34.77834072,60,imported,0.0
-,Upstate,South Carolina,-82.32325826,34.77834072,60,local,62.0
+,Upstate,South Carolina,-82.32325826,34.77834072,60,local,60.0
 ,Utah,Utah,-111.6702,40.1199,1,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,1,local,1.0
 ,Wasatch,Utah,-111.1682,40.3308,1,imported,0.0
