@@ -243,8 +243,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,0,local,0.0
 ,Midland,Texas,-102.0316,31.8691,0,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,0,local,0.0
-,Mohave,Arizona,-113.7579,35.7041,14,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,14,local,14.0
+,Mohave,Arizona,-113.7579,35.7041,19,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,19,local,19.0
 ,Montcalm,Michigan,-85.1525,43.311,0,imported,0.0
 ,Montcalm,Michigan,-85.1525,43.311,0,local,0.0
 ,Montezuma,Colorado,-108.5966,37.3386,2,imported,0.0
