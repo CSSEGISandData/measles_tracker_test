@@ -411,8 +411,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,144,imported,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,144,local,139.0
+,Upstate,South Carolina,-82.32325826,34.77834072,153,imported,5.0
+,Upstate,South Carolina,-82.32325826,34.77834072,153,local,148.0
 ,Utah,Utah,-111.6702,40.1199,16,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,16,local,16.0
 ,Wasatch,Utah,-111.1682,40.3308,9,imported,0.0
