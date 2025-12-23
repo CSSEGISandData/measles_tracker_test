@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,165,1850,2015,112
+U.S.,165,1851,2016,112
 "Gaines, Texas",0,414,414,0
 "Mohave, Arizona",0,191,191,19
 "Upstate, South Carolina",5,148,153,42
@@ -216,6 +216,7 @@ U.S.,165,1850,2015,112
 "Todd, Kentucky",0,1,1,0
 "Unknown County, Kentucky",1,0,1,0
 "Unknown County, Pennsylvania",1,0,1,0
+"Unknown County, Vermont",0,1,1,0
 "Washington, District of Columbia",1,0,1,0
 "Washington, Minnesota",1,0,1,0
 "Weld, Colorado",0,1,1,1

@@ -407,6 +407,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Unknown County,Pennsylvania,-76.965232,40.443486,0,local,0.0
 ,Unknown County,South Carolina,-80.996482,34.022471,0,imported,0.0
 ,Unknown County,South Carolina,-80.996482,34.022471,0,local,0.0
+,Unknown County,Vermont,-72.82424,44.101952,0,imported,0.0
+,Unknown County,Vermont,-72.82424,44.101952,0,local,0.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,imported,0.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
