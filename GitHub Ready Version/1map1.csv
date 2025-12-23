@@ -7,8 +7,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Allen,Indiana,-85.0665,41.0909,8,local,8.0
 ,Allen,Ohio,-84.1058,40.7715,1,imported,1.0
 ,Allen,Ohio,-84.1058,40.7715,1,local,0.0
-,Anchorage,Alaska,-149.1082,61.1498,2,imported,1.0
-,Anchorage,Alaska,-149.1082,61.1498,2,local,1.0
+,Anchorage,Alaska,-149.1082,61.1498,3,imported,2.0
+,Anchorage,Alaska,-149.1082,61.1498,3,local,1.0
 ,Andrews,Texas,-102.6377,32.305,3,imported,0.0
 ,Andrews,Texas,-102.6377,32.305,3,local,3.0
 ,Arapahoe,Colorado,-104.3393,39.6498,5,imported,4.0
@@ -79,6 +79,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Collin,Texas,-96.5724,33.188,4,local,4.0
 ,Cook,Illinois,-87.8168,41.8401,8,imported,2.0
 ,Cook,Illinois,-87.8168,41.8401,8,local,6.0
+,Cumberland,Pennsylvania,-77.2655,40.1636,2,imported,0.0
+,Cumberland,Pennsylvania,-77.2655,40.1636,2,local,2.0
 ,Curry,New Mexico,-103.347,34.5742,1,imported,0.0
 ,Curry,New Mexico,-103.347,34.5742,1,local,1.0
 ,Cuyahoga,Ohio,-81.6586,41.4243,1,imported,1.0
@@ -289,6 +291,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Orange,New York,-74.3056,41.4022,4,local,1.0
 ,Osceola,Michigan,-85.3252,43.9898,7,imported,0.0
 ,Osceola,Michigan,-85.3252,43.9898,7,local,7.0
+,Park,Wyoming,-109.5879,44.5205,1,imported,1.0
+,Park,Wyoming,-109.5879,44.5205,1,local,0.0
 ,Parmer,Texas,-102.7845,34.5301,5,imported,0.0
 ,Parmer,Texas,-102.7845,34.5301,5,local,5.0
 ,Passaic,New Jersey,-74.3009,41.0344,1,imported,1.0
@@ -333,8 +337,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Sacramento,California,-121.3443,38.4493,1,local,0.0
 ,Saline,Arkansas,-92.6766,34.6466,1,imported,1.0
 ,Saline,Arkansas,-92.6766,34.6466,1,local,0.0
-,Salt Lake,Utah,-111.9236,40.6673,3,imported,0.0
-,Salt Lake,Utah,-111.9236,40.6673,3,local,3.0
+,Salt Lake,Utah,-111.9236,40.6673,4,imported,0.0
+,Salt Lake,Utah,-111.9236,40.6673,4,local,4.0
 ,San Diego,California,-116.735,33.0343,1,imported,1.0
 ,San Diego,California,-116.735,33.0343,1,local,0.0
 ,San Juan,New Mexico,-108.3206,36.5085,1,imported,0.0
@@ -355,10 +359,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Sheridan,Nebraska,-102.4089,42.5048,1,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,2,imported,2.0
 ,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
+,South Central Connecticut,Connecticut,-72.8445,41.3613,1,imported,0.0
+,South Central Connecticut,Connecticut,-72.8445,41.3613,1,local,1.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
-,Southwest Health District,Utah,-113.3625,37.449,91,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,91,local,91.0
+,Southwest Health District,Utah,-113.3625,37.449,101,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,101,local,101.0
 ,Spokane,Washington,-117.404,47.6207,1,imported,1.0
 ,Spokane,Washington,-117.404,47.6207,1,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
@@ -383,6 +389,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,10,local,0.0
 ,Unknown County,California,-119.347852,35.491035,3,imported,0.0
 ,Unknown County,California,-119.347852,35.491035,3,local,3.0
+,Unknown County,Idaho,-115.22461,44.220476,2,imported,0.0
+,Unknown County,Idaho,-115.22461,44.220476,2,local,2.0
 ,Unknown County,Illinois,-88.372974,41.312077,2,imported,0.0
 ,Unknown County,Illinois,-88.372974,41.312077,2,local,2.0
 ,Unknown County,Kansas,-96.409286,38.480984,20,imported,0.0
@@ -395,6 +403,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Unknown County,New Jersey,-74.424465,40.438248,3,local,1.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,local,17.0
+,Unknown County,Pennsylvania,-76.965232,40.443486,1,imported,1.0
+,Unknown County,Pennsylvania,-76.965232,40.443486,1,local,0.0
 ,Unknown County,South Carolina,-80.996482,34.022471,3,imported,0.0
 ,Unknown County,South Carolina,-80.996482,34.022471,3,local,3.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0.0
@@ -403,8 +413,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
 ,Upstate,South Carolina,-82.32325826,34.77834072,144,imported,5.0
 ,Upstate,South Carolina,-82.32325826,34.77834072,144,local,139.0
-,Utah,Utah,-111.6702,40.1199,10,imported,0.0
-,Utah,Utah,-111.6702,40.1199,10,local,10.0
+,Utah,Utah,-111.6702,40.1199,16,imported,0.0
+,Utah,Utah,-111.6702,40.1199,16,local,16.0
 ,Wasatch,Utah,-111.1682,40.3308,9,imported,0.0
 ,Wasatch,Utah,-111.1682,40.3308,9,local,9.0
 ,Washington,District of Columbia,-77.0163,38.9047,1,imported,1.0
