@@ -407,6 +407,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Unknown County,Pennsylvania,-76.965232,40.443486,1,local,0.0
 ,Unknown County,South Carolina,-80.996482,34.022471,3,imported,0.0
 ,Unknown County,South Carolina,-80.996482,34.022471,3,local,3.0
+,Unknown County,Texas,-97.328656,30.909581,1,imported,0.0
+,Unknown County,Texas,-97.328656,30.909581,1,local,1.0
 ,Unknown County,Vermont,-72.82424,44.101952,1,imported,0.0
 ,Unknown County,Vermont,-72.82424,44.101952,1,local,1.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0.0
