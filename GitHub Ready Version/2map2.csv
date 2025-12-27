@@ -53,8 +53,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Bucks,Pennsylvania,-75.1069,40.337,0,local,0.0
 ,Burke,North Dakota,-102.5182,48.791,0,imported,0.0
 ,Burke,North Dakota,-102.5182,48.791,0,local,0.0
-,Butte,South Dakota,-103.5079,44.9058,2,imported,2.0
-,Butte,South Dakota,-103.5079,44.9058,2,local,0.0
+,Butte,South Dakota,-103.5079,44.9058,3,imported,3.0
+,Butte,South Dakota,-103.5079,44.9058,3,local,0.0
 ,Carbon,Wyoming,-106.9306,41.6944,0,imported,0.0
 ,Carbon,Wyoming,-106.9306,41.6944,0,local,0.0
 ,Carson,Texas,-101.3542,35.4035,0,imported,0.0
@@ -69,6 +69,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Central,Iowa,-93.40754375,41.84471875,1,local,0.0
 ,Central,Utah,-111.948021,40.385835,1,imported,0.0
 ,Central,Utah,-111.948021,40.385835,1,local,1.0
+,Central Region,Virginia,-78.21679447,37.4025616,1,imported,0.0
+,Central Region,Virginia,-78.21679447,37.4025616,1,local,1.0
 ,Chaves,New Mexico,-104.4669,33.3633,0,imported,0.0
 ,Chaves,New Mexico,-104.4669,33.3633,0,local,0.0
 ,Clark,Nevada,-115.0135,36.2152,0,imported,0.0
@@ -329,8 +331,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Region 9,Louisiana,-90.262548,30.506128,0,local,0.0
 ,Riverside,California,-115.9938,33.7436,0,imported,0.0
 ,Riverside,California,-115.9938,33.7436,0,local,0.0
-,Rockland,New York,-74.0242,41.1525,8,imported,0.0
-,Rockland,New York,-74.0242,41.1525,8,local,8.0
+,Rockland,New York,-74.0242,41.1525,4,imported,0.0
+,Rockland,New York,-74.0242,41.1525,4,local,4.0
 ,Rockwall,Texas,-96.4079,32.8978,0,imported,0.0
 ,Rockwall,Texas,-96.4079,32.8978,0,local,0.0
 ,Sacramento,California,-121.3443,38.4493,0,imported,0.0
@@ -343,6 +345,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,San Diego,California,-116.735,33.0343,0,local,0.0
 ,San Juan,New Mexico,-108.3206,36.5085,0,imported,0.0
 ,San Juan,New Mexico,-108.3206,36.5085,0,local,0.0
+,San Luis Obispo,California,-120.4043,35.3871,1,imported,0.0
+,San Luis Obispo,California,-120.4043,35.3871,1,local,1.0
 ,San Mateo,California,-122.3291,37.4228,0,imported,0.0
 ,San Mateo,California,-122.3291,37.4228,0,local,0.0
 ,Sandoval,New Mexico,-106.8659,35.6886,0,imported,0.0
@@ -359,8 +363,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Sheridan,Nebraska,-102.4089,42.5048,0,local,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,imported,0.0
 ,Snohomish,Washington,-121.6972,48.0474,0,local,0.0
-,South Central Connecticut,Connecticut,-72.8445,41.3613,1,imported,0.0
-,South Central Connecticut,Connecticut,-72.8445,41.3613,1,local,1.0
+,South Central Connecticut,Connecticut,-72.8445,41.3613,0,imported,0.0
+,South Central Connecticut,Connecticut,-72.8445,41.3613,0,local,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,0,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,0,local,0.0
 ,Southwest Health District,Utah,-113.3625,37.449,19,imported,0.0
@@ -415,8 +419,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,local,0.0
-,Upstate,South Carolina,-82.32325826,34.77834072,42,imported,0.0
-,Upstate,South Carolina,-82.32325826,34.77834072,42,local,42.0
+,Upstate,South Carolina,-82.32325826,34.77834072,30,imported,0.0
+,Upstate,South Carolina,-82.32325826,34.77834072,30,local,30.0
 ,Utah,Utah,-111.6702,40.1199,6,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,6,local,6.0
 ,Wasatch,Utah,-111.1682,40.3308,0,imported,0.0
