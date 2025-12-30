@@ -77,6 +77,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Clark,Nevada,-115.0135,36.2152,1,local,1.0
 ,Cochran,Texas,-102.8285,33.6042,14,imported,0.0
 ,Cochran,Texas,-102.8285,33.6042,14,local,14.0
+,Coconino,Arizona,-111.7705,35.8387,1,imported,0.0
+,Coconino,Arizona,-111.7705,35.8387,1,local,1.0
 ,Collin,Texas,-96.5724,33.188,4,imported,0.0
 ,Collin,Texas,-96.5724,33.188,4,local,4.0
 ,Cook,Illinois,-87.8168,41.8401,8,imported,2.0
@@ -245,8 +247,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,3,local,3.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
-,Mohave,Arizona,-113.7579,35.7041,191,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,191,local,191.0
+,Mohave,Arizona,-113.7579,35.7041,200,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,200,local,200.0
 ,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 ,Montezuma,Colorado,-108.5966,37.3386,4,imported,0.0
@@ -339,8 +341,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Sacramento,California,-121.3443,38.4493,1,local,0.0
 ,Saline,Arkansas,-92.6766,34.6466,1,imported,1.0
 ,Saline,Arkansas,-92.6766,34.6466,1,local,0.0
-,Salt Lake,Utah,-111.9236,40.6673,4,imported,0.0
-,Salt Lake,Utah,-111.9236,40.6673,4,local,4.0
+,Salt Lake,Utah,-111.9236,40.6673,5,imported,0.0
+,Salt Lake,Utah,-111.9236,40.6673,5,local,5.0
 ,San Diego,California,-116.735,33.0343,1,imported,1.0
 ,San Diego,California,-116.735,33.0343,1,local,0.0
 ,San Juan,New Mexico,-108.3206,36.5085,1,imported,0.0
@@ -367,8 +369,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,South Central Connecticut,Connecticut,-72.8445,41.3613,1,local,1.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
-,Southwest Health District,Utah,-113.3625,37.449,101,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,101,local,101.0
+,Southwest Health District,Utah,-113.3625,37.449,114,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,114,local,114.0
 ,Spokane,Washington,-117.404,47.6207,1,imported,1.0
 ,Spokane,Washington,-117.404,47.6207,1,local,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
@@ -419,8 +421,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,156,imported,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,156,local,151.0
+,Upstate,South Carolina,-82.32325826,34.77834072,176,imported,5.0
+,Upstate,South Carolina,-82.32325826,34.77834072,176,local,171.0
 ,Utah,Utah,-111.6702,40.1199,16,imported,0.0
 ,Utah,Utah,-111.6702,40.1199,16,local,16.0
 ,Wasatch,Utah,-111.1682,40.3308,9,imported,0.0
