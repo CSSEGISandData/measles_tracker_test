@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks
-U.S.,166,1901,2067,103
+U.S.,167,1904,2071,104
 "Gaines, Texas",0,414,414,0
 "Mohave, Arizona",0,200,200,14
 "Upstate, South Carolina",5,171,176,41
@@ -68,7 +68,7 @@ U.S.,166,1901,2067,103
 "Adams, Colorado",1,3,4,0
 "Bear River, Utah",0,4,4,0
 "Bergen, New Jersey",1,3,4,0
-"Butte, South Dakota",4,0,4,3
+"Butte, South Dakota",4,0,4,1
 "Collin, Texas",0,4,4,0
 "Denver, Colorado",3,1,4,0
 "El Paso, Colorado",4,0,4,0
@@ -157,6 +157,7 @@ U.S.,166,1901,2067,103
 "Chaves, New Mexico",0,1,1,0
 "Clark, Nevada",0,1,1,0
 "Coconino, Arizona",0,1,1,1
+"Contra Costa, California",0,1,1,1
 "Curry, New Mexico",0,1,1,0
 "Cuyahoga, Ohio",1,0,1,0
 "Dakota, Minnesota",0,1,1,0
@@ -194,6 +195,7 @@ U.S.,166,1901,2067,103
 "Park, Wyoming",1,0,1,1
 "Passaic, New Jersey",1,0,1,0
 "Placer, California",1,0,1,0
+"Platte, Nebraska",1,0,1,1
 "Potter, Texas",0,1,1,0
 "Providence, Rhode Island",1,0,1,0
 "Pueblo, Colorado",1,0,1,0
@@ -206,7 +208,7 @@ U.S.,166,1901,2067,103
 "Saline, Arkansas",1,0,1,0
 "San Diego, California",1,0,1,0
 "San Juan, New Mexico",0,1,1,0
-"San Luis Obispo, California",0,1,1,1
+"San Luis Obispo, California",0,1,1,0
 "San Mateo, California",1,0,1,0
 "Santa Clara, California",1,0,1,0
 "Scurry, Texas",0,1,1,0
@@ -218,11 +220,13 @@ U.S.,166,1901,2067,103
 "Taney, Missouri",1,0,1,0
 "Todd, Kentucky",0,1,1,0
 "Unknown County, Kentucky",1,0,1,0
+"Unknown County, Nebraska",0,1,1,1
 "Unknown County, Pennsylvania",1,0,1,0
 "Unknown County, Texas",0,1,1,0
 "Unknown County, Vermont",0,1,1,0
 "Washington, District of Columbia",1,0,1,0
 "Washington, Minnesota",1,0,1,0
+"Washoe, Nevada",0,1,1,1
 "Weld, Colorado",0,1,1,0
 "Western, Iowa",0,1,1,0
 "Yolo, California",0,1,1,0

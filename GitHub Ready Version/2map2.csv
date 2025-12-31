@@ -53,8 +53,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Bucks,Pennsylvania,-75.1069,40.337,0,local,0.0
 ,Burke,North Dakota,-102.5182,48.791,0,imported,0.0
 ,Burke,North Dakota,-102.5182,48.791,0,local,0.0
-,Butte,South Dakota,-103.5079,44.9058,3,imported,3.0
-,Butte,South Dakota,-103.5079,44.9058,3,local,0.0
+,Butte,South Dakota,-103.5079,44.9058,1,imported,1.0
+,Butte,South Dakota,-103.5079,44.9058,1,local,0.0
 ,Carbon,Wyoming,-106.9306,41.6944,0,imported,0.0
 ,Carbon,Wyoming,-106.9306,41.6944,0,local,0.0
 ,Carson,Texas,-101.3542,35.4035,0,imported,0.0
@@ -81,6 +81,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Coconino,Arizona,-111.7705,35.8387,1,local,1.0
 ,Collin,Texas,-96.5724,33.188,0,imported,0.0
 ,Collin,Texas,-96.5724,33.188,0,local,0.0
+,Contra Costa,California,-121.9275,37.9192,1,imported,0.0
+,Contra Costa,California,-121.9275,37.9192,1,local,1.0
 ,Cook,Illinois,-87.8168,41.8401,0,imported,0.0
 ,Cook,Illinois,-87.8168,41.8401,0,local,0.0
 ,Cumberland,Pennsylvania,-77.2655,40.1636,2,imported,0.0
@@ -309,6 +311,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Philadelphia,Pennsylvania,-75.1339,40.0077,0,local,0.0
 ,Placer,California,-120.7177,39.0634,0,imported,0.0
 ,Placer,California,-120.7177,39.0634,0,local,0.0
+,Platte,Nebraska,-97.5211,41.5713,1,imported,1.0
+,Platte,Nebraska,-97.5211,41.5713,1,local,0.0
 ,Potter,Texas,-101.8939,35.4013,0,imported,0.0
 ,Potter,Texas,-101.8939,35.4013,0,local,0.0
 ,Prince George's,Maryland,-76.8473,38.8295,0,imported,0.0
@@ -347,8 +351,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,San Diego,California,-116.735,33.0343,0,local,0.0
 ,San Juan,New Mexico,-108.3206,36.5085,0,imported,0.0
 ,San Juan,New Mexico,-108.3206,36.5085,0,local,0.0
-,San Luis Obispo,California,-120.4043,35.3871,1,imported,0.0
-,San Luis Obispo,California,-120.4043,35.3871,1,local,1.0
+,San Luis Obispo,California,-120.4043,35.3871,0,imported,0.0
+,San Luis Obispo,California,-120.4043,35.3871,0,local,0.0
 ,San Mateo,California,-122.3291,37.4228,0,imported,0.0
 ,San Mateo,California,-122.3291,37.4228,0,local,0.0
 ,Sandoval,New Mexico,-106.8659,35.6886,0,imported,0.0
@@ -405,6 +409,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Unknown County,Kentucky,-85.261296,37.838308,0,local,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,0,imported,0.0
 ,Unknown County,Minnesota,-93.558751,45.18999,0,local,0.0
+,Unknown County,Nebraska,-97.222143,41.167883,1,imported,0.0
+,Unknown County,Nebraska,-97.222143,41.167883,1,local,1.0
 ,Unknown County,New Jersey,-74.424465,40.438248,0,imported,0.0
 ,Unknown County,New Jersey,-74.424465,40.438248,0,local,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,0,imported,0.0
@@ -431,6 +437,8 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Washington,District of Columbia,-77.0163,38.9047,0,local,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,imported,0.0
 ,Washington,Minnesota,-92.8838,45.0388,0,local,0.0
+,Washoe,Nevada,-119.6643,40.6655,1,imported,0.0
+,Washoe,Nevada,-119.6643,40.6655,1,local,1.0
 ,Weld,Colorado,-104.3925,40.5548,0,imported,0.0
 ,Weld,Colorado,-104.3925,40.5548,0,local,0.0
 ,Western,Iowa,-95.10435,41.97493056,0,imported,0.0
