@@ -1,25 +1,25 @@
 State,Imported,Local,Total,Recent 2 Weeks
-U.S.,167,1904,2071,104
+U.S.,171,1976,2147,123
 Texas,1,802,803,0
-Arizona,4,201,205,15
-South Carolina,5,174,179,41
-Utah,0,156,156,31
+Arizona,4,210,214,19
+South Carolina,5,209,214,55
+Utah,0,176,176,34
 New Mexico,1,99,100,0
 Kansas,0,91,91,0
-New York,5,43,48,3
-Ohio,6,38,44,0
+New York,5,43,48,0
+Ohio,6,41,47,3
 Colorado,14,22,36,0
 Montana,7,29,36,0
 North Dakota,6,30,36,0
 Wisconsin,9,27,36,0
 Michigan,6,24,30,0
+California,16,10,26,1
 Minnesota,14,12,26,0
-California,16,9,25,1
 Oklahoma,0,17,17,0
-Pennsylvania,7,9,16,2
-South Dakota,13,3,16,1
-Idaho,2,13,15,0
-Wyoming,2,13,15,6
+Idaho,2,14,16,1
+Pennsylvania,7,9,16,0
+South Dakota,13,3,16,0
+Wyoming,2,13,15,0
 Illinois,2,12,14,0
 Kentucky,3,11,14,0
 Washington,11,1,12,0
@@ -31,17 +31,17 @@ Arkansas,2,6,8,0
 Tennessee,0,8,8,0
 Florida,2,5,7,0
 Missouri,1,6,7,0
-Virginia,2,3,5,1
+Virginia,2,4,6,1
+Nebraska,2,3,5,4
+North Carolina,5,0,5,4
 Alaska,3,1,4,0
 Louisiana,2,1,3,0
 Maryland,3,0,3,0
-Nebraska,2,1,3,2
 Hawaii,2,0,2,0
 Nevada,0,2,2,1
 Vermont,1,1,2,0
 Alabama,1,0,1,0
 Connecticut,0,1,1,0
 District of Columbia,1,0,1,0
-North Carolina,1,0,1,0
 Oregon,1,0,1,0
 Rhode Island,1,0,1,0
