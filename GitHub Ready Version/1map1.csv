@@ -51,8 +51,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Brown,Texas,-98.9998,31.7742,1,local,1.0
 ,Bucks,Pennsylvania,-75.1069,40.337,1,imported,1.0
 ,Bucks,Pennsylvania,-75.1069,40.337,1,local,0.0
-,Buncombe,North Carolina,-82.5301,35.6112,3,imported,3.0
-,Buncombe,North Carolina,-82.5301,35.6112,3,local,0.0
+,Buncombe,North Carolina,-82.5301,35.6112,5,imported,3.0
+,Buncombe,North Carolina,-82.5301,35.6112,5,local,2.0
 ,Burke,North Dakota,-102.5182,48.791,1,imported,1.0
 ,Burke,North Dakota,-102.5182,48.791,1,local,0.0
 ,Butte,South Dakota,-103.5079,44.9058,4,imported,4.0
@@ -91,8 +91,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Cumberland,Pennsylvania,-77.2655,40.1636,2,local,2.0
 ,Curry,New Mexico,-103.347,34.5742,1,imported,0.0
 ,Curry,New Mexico,-103.347,34.5742,1,local,1.0
-,Cuyahoga,Ohio,-81.6586,41.4243,4,imported,1.0
-,Cuyahoga,Ohio,-81.6586,41.4243,4,local,3.0
+,Cuyahoga,Ohio,-81.6586,41.4243,5,imported,2.0
+,Cuyahoga,Ohio,-81.6586,41.4243,5,local,3.0
 ,Dakota,Minnesota,-93.0654,44.6719,1,imported,0.0
 ,Dakota,Minnesota,-93.0654,44.6719,1,local,1.0
 ,Dallam,Texas,-102.6022,36.2779,7,imported,0.0
@@ -181,6 +181,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Hennepin,Minnesota,-93.477,45.0046,2,local,0.0
 ,Hill,Montana,-110.1112,48.6282,4,imported,0.0
 ,Hill,Montana,-110.1112,48.6282,4,local,4.0
+,Hillsborough,Florida,-82.3088,27.9292,1,imported,0.0
+,Hillsborough,Florida,-82.3088,27.9292,1,local,1.0
 ,Hockley,Texas,-102.3432,33.6076,7,imported,0.0
 ,Hockley,Texas,-102.3432,33.6076,7,local,7.0
 ,Holmes,Ohio,-81.9293,40.5612,1,imported,0.0
@@ -195,6 +197,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Ingham,Michigan,-84.3735,42.5971,1,local,0.0
 ,Jefferson,Kentucky,-85.6591,38.1872,2,imported,1.0
 ,Jefferson,Kentucky,-85.6591,38.1872,2,local,1.0
+,Jessamine,Kentucky,-84.5809,37.872,1,imported,0.0
+,Jessamine,Kentucky,-84.5809,37.872,1,local,1.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,1,imported,1.0
 ,Kenai Peninsula,Alaska,-151.5651,60.2654,1,local,0.0
 ,Kent,Michigan,-85.5493,43.0322,4,imported,2.0
@@ -237,6 +241,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Macomb,Michigan,-82.9323,42.6957,2,local,1.0
 ,Madison,Idaho,-111.6592,43.7841,1,imported,0.0
 ,Madison,Idaho,-111.6592,43.7841,1,local,1.0
+,Manatee,Florida,-82.3153,27.4719,1,imported,1.0
+,Manatee,Florida,-82.3153,27.4719,1,local,0.0
 ,Marquette,Michigan,-87.6416,46.4313,2,imported,0.0
 ,Marquette,Michigan,-87.6416,46.4313,2,local,2.0
 ,Martin,Texas,-101.9513,32.306,3,imported,0.0
@@ -253,8 +259,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,3,local,3.0
 ,Midland,Texas,-102.0316,31.8691,7,imported,0.0
 ,Midland,Texas,-102.0316,31.8691,7,local,7.0
-,Mohave,Arizona,-113.7579,35.7041,208,imported,0.0
-,Mohave,Arizona,-113.7579,35.7041,208,local,208.0
+,Mohave,Arizona,-113.7579,35.7041,217,imported,0.0
+,Mohave,Arizona,-113.7579,35.7041,217,local,217.0
 ,Montcalm,Michigan,-85.1525,43.311,4,imported,1.0
 ,Montcalm,Michigan,-85.1525,43.311,4,local,3.0
 ,Montezuma,Colorado,-108.5966,37.3386,4,imported,0.0
@@ -281,6 +287,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Niobrara,Wyoming,-104.4754,43.0564,1,local,1.0
 ,North,Alabama,-86.8529,34.4535,1,imported,1.0
 ,North,Alabama,-86.8529,34.4535,1,local,0.0
+,Northern Region,Virginia,-77.35213021,38.85513733,1,imported,0.0
+,Northern Region,Virginia,-77.35213021,38.85513733,1,local,1.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,3,imported,2.0
 ,Northwest Region,Virginia,-78.1659225,38.47988218,3,local,1.0
 ,Oakland,Michigan,-83.3858,42.6604,2,imported,1.0
@@ -329,8 +337,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Providence,Rhode Island,-71.58,41.8721,1,local,0.0
 ,Pueblo,Colorado,-104.5127,38.1735,1,imported,1.0
 ,Pueblo,Colorado,-104.5127,38.1735,1,local,0.0
-,Putnam,Indiana,-86.845,39.6663,1,imported,0.0
-,Putnam,Indiana,-86.845,39.6663,1,local,1.0
+,Putnam,Indiana,-86.845,39.6663,1,imported,1.0
+,Putnam,Indiana,-86.845,39.6663,1,local,0.0
 ,Putnam,New York,-73.7495,41.4267,1,imported,0.0
 ,Putnam,New York,-73.7495,41.4267,1,local,1.0
 ,Rains,Texas,-95.7934,32.8703,1,imported,1.0
@@ -375,20 +383,24 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Shackelford,Texas,-99.354,32.7359,1,local,1.0
 ,Sheridan,Nebraska,-102.4089,42.5048,1,imported,1.0
 ,Sheridan,Nebraska,-102.4089,42.5048,1,local,0.0
-,Snohomish,Washington,-121.6972,48.0474,2,imported,2.0
-,Snohomish,Washington,-121.6972,48.0474,2,local,0.0
+,Snohomish,Washington,-121.6972,48.0474,5,imported,5.0
+,Snohomish,Washington,-121.6972,48.0474,5,local,0.0
 ,South Central Connecticut,Connecticut,-72.8445,41.3613,1,imported,0.0
 ,South Central Connecticut,Connecticut,-72.8445,41.3613,1,local,1.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,imported,0.0
 ,Southeast Health District,Utah,-110.3702,39.3252,3,local,3.0
-,Southwest Health District,Utah,-113.3625,37.449,129,imported,0.0
-,Southwest Health District,Utah,-113.3625,37.449,129,local,129.0
+,Southwest Health District,Utah,-113.3625,37.449,147,imported,0.0
+,Southwest Health District,Utah,-113.3625,37.449,147,local,147.0
 ,Spokane,Washington,-117.404,47.6207,1,imported,1.0
 ,Spokane,Washington,-117.404,47.6207,1,local,0.0
+,St. Johns,Florida,-81.4407,29.9016,1,imported,0.0
+,St. Johns,Florida,-81.4407,29.9016,1,local,1.0
 ,Stevens,Kansas,-101.3121,37.1923,10,imported,0.0
 ,Stevens,Kansas,-101.3121,37.1923,10,local,10.0
 ,Suffolk,New York,-72.8456,40.8681,1,imported,0.0
 ,Suffolk,New York,-72.8456,40.8681,1,local,1.0
+,Summit,Utah,-110.9557,40.8683,1,imported,0.0
+,Summit,Utah,-110.9557,40.8683,1,local,1.0
 ,Taney,Missouri,-93.0411,36.6548,1,imported,1.0
 ,Taney,Missouri,-93.0411,36.6548,1,local,0.0
 ,Tarrant,Texas,-97.2911,32.7719,4,imported,0.0
@@ -423,6 +435,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Unknown County,New Jersey,-74.424465,40.438248,3,local,1.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,imported,0.0
 ,Unknown County,Oklahoma,-96.854171,35.606866,17,local,17.0
+,Unknown County,Oregon,-122.588257,44.753509,2,imported,0.0
+,Unknown County,Oregon,-122.588257,44.753509,2,local,2.0
 ,Unknown County,Pennsylvania,-76.965232,40.443486,1,imported,1.0
 ,Unknown County,Pennsylvania,-76.965232,40.443486,1,local,0.0
 ,Unknown County,South Carolina,-80.996482,34.022471,3,imported,0.0
@@ -435,10 +449,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4.0
 ,Upshur,Texas,-94.9415,32.7363,5,imported,0.0
 ,Upshur,Texas,-94.9415,32.7363,5,local,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,310,imported,5.0
-,Upstate,South Carolina,-82.32325826,34.77834072,310,local,305.0
-,Utah,Utah,-111.6702,40.1199,19,imported,0.0
-,Utah,Utah,-111.6702,40.1199,19,local,19.0
+,Upstate,South Carolina,-82.32325826,34.77834072,434,imported,5.0
+,Upstate,South Carolina,-82.32325826,34.77834072,434,local,429.0
+,Utah,Utah,-111.6702,40.1199,24,imported,0.0
+,Utah,Utah,-111.6702,40.1199,24,local,24.0
 ,Wasatch,Utah,-111.1682,40.3308,9,imported,0.0
 ,Wasatch,Utah,-111.1682,40.3308,9,local,9.0
 ,Washington,District of Columbia,-77.0163,38.9047,1,imported,1.0
