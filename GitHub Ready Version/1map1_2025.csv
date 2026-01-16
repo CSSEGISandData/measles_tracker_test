@@ -23,8 +23,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 0.0,Unknown County,South Carolina,-80.996482,34.022471,3,local,3
 0.0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0
 0.0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4
-0.0,Upstate,South Carolina,-82.32325826,34.77834072,221,imported,5
-0.0,Upstate,South Carolina,-82.32325826,34.77834072,221,local,216
+0.0,Upstate,South Carolina,-82.32325826,34.77834072,299,imported,5
+0.0,Upstate,South Carolina,-82.32325826,34.77834072,299,local,294
 1.0,North,Alabama,-86.8529,34.4535,1,imported,1
 1.0,North,Alabama,-86.8529,34.4535,1,local,0
 6.0,Unknown County,California,-119.347852,35.491035,3,imported,0
@@ -61,8 +61,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 2122.0,Kenai Peninsula,Alaska,-151.5651,60.2654,1,local,0
 4005.0,Coconino,Arizona,-111.7705,35.8387,1,imported,0
 4005.0,Coconino,Arizona,-111.7705,35.8387,1,local,1
-4015.0,Mohave,Arizona,-113.7579,35.7041,200,imported,0
-4015.0,Mohave,Arizona,-113.7579,35.7041,200,local,200
+4015.0,Mohave,Arizona,-113.7579,35.7041,214,imported,0
+4015.0,Mohave,Arizona,-113.7579,35.7041,214,local,214
 4017.0,Navajo,Arizona,-110.3214,35.3996,4,imported,4
 4017.0,Navajo,Arizona,-110.3214,35.3996,4,local,0
 5007.0,Benton,Arkansas,-94.2561,36.3387,1,imported,0
@@ -155,8 +155,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 18003.0,Allen,Indiana,-85.0665,41.0909,8,local,8
 18089.0,Lake,Indiana,-87.3821,41.4167,2,imported,0
 18089.0,Lake,Indiana,-87.3821,41.4167,2,local,2
-18133.0,Putnam,Indiana,-86.845,39.6663,1,imported,0
-18133.0,Putnam,Indiana,-86.845,39.6663,1,local,1
+18133.0,Putnam,Indiana,-86.845,39.6663,1,imported,1
+18133.0,Putnam,Indiana,-86.845,39.6663,1,local,0
 20069.0,Gray,Kansas,-100.4379,37.7382,29,imported,0
 20069.0,Gray,Kansas,-100.4379,37.7382,29,local,29
 20081.0,Haskell,Kansas,-100.8712,37.5622,19,imported,0
@@ -173,6 +173,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 21073.0,Franklin,Kentucky,-84.877,38.2392,1,local,0
 21111.0,Jefferson,Kentucky,-85.6591,38.1872,2,imported,1
 21111.0,Jefferson,Kentucky,-85.6591,38.1872,2,local,1
+21113.0,Jessamine,Kentucky,-84.5809,37.872,1,imported,0
+21113.0,Jessamine,Kentucky,-84.5809,37.872,1,local,1
 21219.0,Todd,Kentucky,-87.1792,36.8357,1,imported,0
 21219.0,Todd,Kentucky,-87.1792,36.8357,1,local,1
 21239.0,Woodford,Kentucky,-84.7436,38.0424,3,imported,0

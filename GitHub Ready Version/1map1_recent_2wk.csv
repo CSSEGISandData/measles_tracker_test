@@ -3,33 +3,35 @@ fips,county,state,longitude,latitude,cases_total,type,count
 0.0,Central,Utah,-111.948021,40.385835,2,local,2
 0.0,Central Region,Virginia,-78.21679447,37.4025616,1,imported,0
 0.0,Central Region,Virginia,-78.21679447,37.4025616,1,local,1
-0.0,Southwest Health District,Utah,-113.3625,37.449,28,imported,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,28,local,28
-0.0,Upstate,South Carolina,-82.32325826,34.77834072,154,imported,0
-0.0,Upstate,South Carolina,-82.32325826,34.77834072,154,local,154
+0.0,Northern Region,Virginia,-77.35213021,38.85513733,1,imported,0
+0.0,Northern Region,Virginia,-77.35213021,38.85513733,1,local,1
+0.0,Southwest Health District,Utah,-113.3625,37.449,33,imported,0
+0.0,Southwest Health District,Utah,-113.3625,37.449,33,local,33
+0.0,Upstate,South Carolina,-82.32325826,34.77834072,259,imported,0
+0.0,Upstate,South Carolina,-82.32325826,34.77834072,259,local,259
 6.0,Unknown County,California,-119.347852,35.491035,1,imported,0
 6.0,Unknown County,California,-119.347852,35.491035,1,local,1
-31.0,Unknown County,Nebraska,-97.222143,41.167883,3,imported,0
-31.0,Unknown County,Nebraska,-97.222143,41.167883,3,local,3
-4005.0,Coconino,Arizona,-111.7705,35.8387,1,imported,0
-4005.0,Coconino,Arizona,-111.7705,35.8387,1,local,1
-4015.0,Mohave,Arizona,-113.7579,35.7041,17,imported,0
-4015.0,Mohave,Arizona,-113.7579,35.7041,17,local,17
+31.0,Unknown County,Nebraska,-97.222143,41.167883,2,imported,0
+31.0,Unknown County,Nebraska,-97.222143,41.167883,2,local,2
+41.0,Unknown County,Oregon,-122.588257,44.753509,2,imported,0
+41.0,Unknown County,Oregon,-122.588257,44.753509,2,local,2
+4015.0,Mohave,Arizona,-113.7579,35.7041,3,imported,0
+4015.0,Mohave,Arizona,-113.7579,35.7041,3,local,3
 4019.0,Pima,Arizona,-111.7899,32.0974,1,imported,0
 4019.0,Pima,Arizona,-111.7899,32.0974,1,local,1
-16065.0,Madison,Idaho,-111.6592,43.7841,1,imported,0
-16065.0,Madison,Idaho,-111.6592,43.7841,1,local,1
-31141.0,Platte,Nebraska,-97.5211,41.5713,1,imported,1
-31141.0,Platte,Nebraska,-97.5211,41.5713,1,local,0
-32031.0,Washoe,Nevada,-119.6643,40.6655,1,imported,0
-32031.0,Washoe,Nevada,-119.6643,40.6655,1,local,1
-37021.0,Buncombe,North Carolina,-82.5301,35.6112,3,imported,3
-37021.0,Buncombe,North Carolina,-82.5301,35.6112,3,local,0
-37149.0,Polk,North Carolina,-82.1697,35.2793,1,imported,1
-37149.0,Polk,North Carolina,-82.1697,35.2793,1,local,0
-39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,imported,0
-39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,local,3
-49035.0,Salt Lake,Utah,-111.9236,40.6673,1,imported,0
-49035.0,Salt Lake,Utah,-111.9236,40.6673,1,local,1
-49049.0,Utah,Utah,-111.6702,40.1199,3,imported,0
-49049.0,Utah,Utah,-111.6702,40.1199,3,local,3
+12057.0,Hillsborough,Florida,-82.3088,27.9292,1,imported,0
+12057.0,Hillsborough,Florida,-82.3088,27.9292,1,local,1
+12081.0,Manatee,Florida,-82.3153,27.4719,1,imported,1
+12081.0,Manatee,Florida,-82.3153,27.4719,1,local,0
+12109.0,St. Johns,Florida,-81.4407,29.9016,1,imported,0
+12109.0,St. Johns,Florida,-81.4407,29.9016,1,local,1
+37021.0,Buncombe,North Carolina,-82.5301,35.6112,5,imported,3
+37021.0,Buncombe,North Carolina,-82.5301,35.6112,5,local,2
+39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,imported,1
+39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,local,2
+49043.0,Summit,Utah,-110.9557,40.8683,1,imported,0
+49043.0,Summit,Utah,-110.9557,40.8683,1,local,1
+49049.0,Utah,Utah,-111.6702,40.1199,8,imported,0
+49049.0,Utah,Utah,-111.6702,40.1199,8,local,8
+53061.0,Snohomish,Washington,-121.6972,48.0474,3,imported,3
+53061.0,Snohomish,Washington,-121.6972,48.0474,3,local,0
