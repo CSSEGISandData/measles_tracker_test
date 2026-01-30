@@ -193,8 +193,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 26065.0,Ingham,Michigan,-84.3735,42.5971,1,local,0
 21111.0,Jefferson,Kentucky,-85.6591,38.1872,2,imported,1
 21111.0,Jefferson,Kentucky,-85.6591,38.1872,2,local,1
-21113.0,Jessamine,Kentucky,-84.5809,37.872,1,imported,0
-21113.0,Jessamine,Kentucky,-84.5809,37.872,1,local,1
 2122.0,Kenai Peninsula,Alaska,-151.5651,60.2654,1,imported,1
 2122.0,Kenai Peninsula,Alaska,-151.5651,60.2654,1,local,0
 26081.0,Kent,Michigan,-85.5493,43.0322,4,imported,2

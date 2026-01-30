@@ -3,42 +3,62 @@ fips,county,state,longitude,latitude,cases_total,type,count
 37021.0,Buncombe,North Carolina,-82.5301,35.6112,6,local,3
 37025.0,Cabarrus,North Carolina,-80.5519,35.3868,2,imported,0
 37025.0,Cabarrus,North Carolina,-80.5519,35.3868,2,local,2
+16027.0,Canyon,Idaho,-116.7093,43.6251,5,imported,0
+16027.0,Canyon,Idaho,-116.7093,43.6251,5,local,5
 0.0,Central,Utah,-111.948021,40.385835,2,imported,0
 0.0,Central,Utah,-111.948021,40.385835,2,local,2
 0.0,Central Region,Virginia,-78.21679447,37.4025616,1,imported,0
 0.0,Central Region,Virginia,-78.21679447,37.4025616,1,local,1
+41005.0,Clackamas,Oregon,-122.2208,45.188,1,imported,0
+41005.0,Clackamas,Oregon,-122.2208,45.188,1,local,1
+53011.0,Clark,Washington,-122.4825,45.7792,1,imported,1
+53011.0,Clark,Washington,-122.4825,45.7792,1,local,0
+13.0,Coastal Health District,Georgia,-81.37,31.81,1,imported,1
+13.0,Coastal Health District,Georgia,-81.37,31.81,1,local,0
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,imported,1
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,local,2
+46051.0,Grant,South Dakota,-96.7677,45.1719,5,imported,5
+46051.0,Grant,South Dakota,-96.7677,45.1719,5,local,0
 12057.0,Hillsborough,Florida,-82.3088,27.9292,1,imported,0
 12057.0,Hillsborough,Florida,-82.3088,27.9292,1,local,1
+21113.0,Jessamine,Kentucky,-84.5809,37.872,4,imported,0
+21113.0,Jessamine,Kentucky,-84.5809,37.872,4,local,4
 53037.0,Kittitas,Washington,-120.6798,47.1244,1,imported,0
 53037.0,Kittitas,Washington,-120.6798,47.1244,1,local,1
+31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,imported,0
+31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,local,1
+41043.0,Linn,Oregon,-122.5343,44.4887,2,imported,0
+41043.0,Linn,Oregon,-122.5343,44.4887,2,local,2
 16065.0,Madison,Idaho,-111.6592,43.7841,2,imported,0
 16065.0,Madison,Idaho,-111.6592,43.7841,2,local,2
 12081.0,Manatee,Florida,-82.3153,27.4719,1,imported,1
 12081.0,Manatee,Florida,-82.3153,27.4719,1,local,0
 4013.0,Maricopa,Arizona,-112.4915,33.349,1,imported,0
 4013.0,Maricopa,Arizona,-112.4915,33.349,1,local,1
-37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,2,imported,0
-37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,2,local,2
-4015.0,Mohave,Arizona,-113.7579,35.7041,8,imported,0
-4015.0,Mohave,Arizona,-113.7579,35.7041,8,local,8
+37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,3,imported,0
+37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,3,local,3
+4015.0,Mohave,Arizona,-113.7579,35.7041,17,imported,0
+4015.0,Mohave,Arizona,-113.7579,35.7041,17,local,17
 6055.0,Napa,California,-122.3306,38.507,1,imported,1
 6055.0,Napa,California,-122.3306,38.507,1,local,0
+37127.0,Nash,North Carolina,-77.9864,35.9673,1,imported,0
+37127.0,Nash,North Carolina,-77.9864,35.9673,1,local,1
 0.0,Northern Region,Virginia,-77.35213021,38.85513733,3,imported,0
 0.0,Northern Region,Virginia,-77.35213021,38.85513733,3,local,3
+6059.0,Orange,California,-117.7609,33.7031,1,imported,1
+6059.0,Orange,California,-117.7609,33.7031,1,local,0
 4019.0,Pima,Arizona,-111.7899,32.0974,1,imported,0
 4019.0,Pima,Arizona,-111.7899,32.0974,1,local,1
-4021.0,Pinal,Arizona,-111.3448,32.9044,2,imported,0
-4021.0,Pinal,Arizona,-111.3448,32.9044,2,local,2
+4021.0,Pinal,Arizona,-111.3448,32.9044,3,imported,0
+4021.0,Pinal,Arizona,-111.3448,32.9044,3,local,3
 37149.0,Polk,North Carolina,-82.1697,35.2793,1,imported,0
 37149.0,Polk,North Carolina,-82.1697,35.2793,1,local,1
-49035.0,Salt Lake,Utah,-111.9236,40.6673,3,imported,0
-49035.0,Salt Lake,Utah,-111.9236,40.6673,3,local,3
-53061.0,Snohomish,Washington,-121.6972,48.0474,5,imported,5
-53061.0,Snohomish,Washington,-121.6972,48.0474,5,local,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,40,imported,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,40,local,40
+49035.0,Salt Lake,Utah,-111.9236,40.6673,13,imported,0
+49035.0,Salt Lake,Utah,-111.9236,40.6673,13,local,13
+53061.0,Snohomish,Washington,-121.6972,48.0474,6,imported,5
+53061.0,Snohomish,Washington,-121.6972,48.0474,6,local,1
+0.0,Southwest Health District,Utah,-113.3625,37.449,44,imported,0
+0.0,Southwest Health District,Utah,-113.3625,37.449,44,local,44
 12109.0,St. Johns,Florida,-81.4407,29.9016,1,imported,0
 12109.0,St. Johns,Florida,-81.4407,29.9016,1,local,1
 49043.0,Summit,Utah,-110.9557,40.8683,1,imported,0
@@ -49,11 +69,13 @@ fips,county,state,longitude,latitude,cases_total,type,count
 27.0,Unknown County,Minnesota,-93.558751,45.18999,1,local,1
 31.0,Unknown County,Nebraska,-97.222143,41.167883,2,imported,0
 31.0,Unknown County,Nebraska,-97.222143,41.167883,2,local,2
-41.0,Unknown County,Oregon,-122.588257,44.753509,3,imported,0
-41.0,Unknown County,Oregon,-122.588257,44.753509,3,local,3
-0.0,Upstate,South Carolina,-82.32325826,34.77834072,401,imported,0
-0.0,Upstate,South Carolina,-82.32325826,34.77834072,401,local,401
-49049.0,Utah,Utah,-111.6702,40.1199,12,imported,0
-49049.0,Utah,Utah,-111.6702,40.1199,12,local,12
+41.0,Unknown County,Oregon,-122.588257,44.753509,2,imported,0
+41.0,Unknown County,Oregon,-122.588257,44.753509,2,local,2
+0.0,Upstate,South Carolina,-82.32325826,34.77834072,548,imported,0
+0.0,Upstate,South Carolina,-82.32325826,34.77834072,548,local,548
+49049.0,Utah,Utah,-111.6702,40.1199,19,imported,0
+49049.0,Utah,Utah,-111.6702,40.1199,19,local,19
+55133.0,Waukesha,Wisconsin,-88.3045,43.0182,1,imported,0
+55133.0,Waukesha,Wisconsin,-88.3045,43.0182,1,local,1
 49057.0,Weber-Morgan,Utah,-111.9134,41.2698,2,imported,0
 49057.0,Weber-Morgan,Utah,-111.9134,41.2698,2,local,2
