@@ -389,6 +389,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 20189.0,Stevens,Kansas,-101.3121,37.1923,10,local,10
 36103.0,Suffolk,New York,-72.8456,40.8681,1,imported,0
 36103.0,Suffolk,New York,-72.8456,40.8681,1,local,1
+45085.0,Sumter,South Carolina,-80.3822,33.9162,3,imported,0
+45085.0,Sumter,South Carolina,-80.3822,33.9162,3,local,3
 29213.0,Taney,Missouri,-93.0411,36.6548,1,imported,1
 29213.0,Taney,Missouri,-93.0411,36.6548,1,local,0
 48439.0,Tarrant,Texas,-97.2911,32.7719,4,imported,0
@@ -425,8 +427,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,17,local,17
 42.0,Unknown County,Pennsylvania,-76.965232,40.443486,1,imported,1
 42.0,Unknown County,Pennsylvania,-76.965232,40.443486,1,local,0
-0.0,Unknown County,South Carolina,-80.996482,34.022471,3,imported,0
-0.0,Unknown County,South Carolina,-80.996482,34.022471,3,local,3
 48.0,Unknown County,Texas,-97.328656,30.909581,1,imported,0
 48.0,Unknown County,Texas,-97.328656,30.909581,1,local,1
 ,Unknown County,Vermont,-72.82424,44.101952,1,imported,0
