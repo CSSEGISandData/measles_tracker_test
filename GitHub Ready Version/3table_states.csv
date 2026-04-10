@@ -1,32 +1,32 @@
 State,Imported,Local,Total,Recent 2 Weeks,2025,2026
-U.S.,218,3763,3981,195,2213,1768
+U.S.,219,3796,4015,138,2213,1802
 South Carolina,5,995,1000,0,302,698
-Texas,3,974,977,28,803,174
-Utah,0,559,559,116,156,403
-Arizona,4,287,291,13,220,71
-Florida,11,140,151,4,7,144
-New Mexico,1,115,116,3,100,16
+Texas,3,975,978,6,803,175
+Utah,0,583,583,97,156,427
+Arizona,4,288,292,12,220,72
+Florida,11,140,151,2,7,144
+New Mexico,1,115,116,0,100,16
 Kansas,0,91,91,0,91,0
-North Dakota,6,61,67,5,36,31
-California,26,33,59,5,25,34
-New York,5,51,56,1,48,8
+North Dakota,6,62,68,5,36,32
+California,26,34,60,2,25,35
+New York,5,51,56,0,48,8
 Ohio,8,48,56,0,45,11
-Colorado,14,35,49,1,36,13
-Washington,17,26,43,3,12,31
+Colorado,14,37,51,3,36,15
+Washington,17,28,45,4,12,33
 Minnesota,14,27,41,1,26,15
-Montana,7,34,41,2,36,5
-Michigan,7,31,38,5,30,8
+Montana,7,34,41,0,36,5
+Michigan,7,31,38,1,30,8
 Wisconsin,11,27,38,0,36,2
 Pennsylvania,8,20,28,0,16,12
 Idaho,2,23,25,0,16,9
 North Carolina,5,20,25,0,3,22
 South Dakota,19,5,24,0,16,8
-Virginia,2,20,22,3,5,17
+Virginia,2,20,22,0,5,17
 Illinois,3,15,18,2,14,4
 Kentucky,3,15,18,0,14,4
 Oklahoma,0,18,18,0,17,1
+Oregon,1,14,15,3,1,14
 Wyoming,2,13,15,0,15,0
-Oregon,1,13,14,3,1,13
 Georgia,4,8,12,0,10,2
 Indiana,1,10,11,0,11,0
 New Jersey,4,7,11,0,11,0
@@ -37,10 +37,10 @@ Tennessee,0,8,8,0,8,0
 Nebraska,2,4,6,0,3,3
 Maine,1,4,5,0,0,5
 Alaska,3,1,4,0,4,0
+Hawaii,3,0,3,0,2,1
 Louisiana,2,1,3,0,3,0
 Maryland,3,0,3,0,3,0
 Vermont,2,1,3,0,2,1
-Hawaii,2,0,2,0,2,0
 Massachusetts,2,0,2,0,0,2
 Nevada,0,2,2,0,2,0
 Alabama,1,0,1,0,1,0

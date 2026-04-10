@@ -1,65 +1,53 @@
 fips,county,state,longitude,latitude,cases_total,type,count
-0.0,Bear River,Utah,-112.1381,41.661,2,imported,0
-0.0,Bear River,Utah,-112.1381,41.661,2,local,2
-0.0,Central,Utah,-111.948021,40.385835,17,imported,0
-0.0,Central,Utah,-111.948021,40.385835,17,local,17
-4005.0,Coconino,Arizona,-111.7705,35.8387,2,imported,0
-4005.0,Coconino,Arizona,-111.7705,35.8387,2,local,2
+0.0,Bear River,Utah,-112.1381,41.661,1,imported,0
+0.0,Bear River,Utah,-112.1381,41.661,1,local,1
+0.0,Central,Utah,-111.948021,40.385835,14,imported,0
+0.0,Central,Utah,-111.948021,40.385835,14,local,14
+4005.0,Coconino,Arizona,-111.7705,35.8387,1,imported,0
+4005.0,Coconino,Arizona,-111.7705,35.8387,1,local,1
 12021.0,Collier,Florida,-81.3474,26.1108,2,imported,0
 12021.0,Collier,Florida,-81.3474,26.1108,2,local,2
-49011.0,Davis,Utah,-112.1115,40.99,3,imported,0
-49011.0,Davis,Utah,-112.1115,40.99,3,local,3
-0.0,Eastern Region,Virginia,-76.44495462,36.95649803,1,imported,0
-0.0,Eastern Region,Virginia,-76.44495462,36.95649803,1,local,1
-48141.0,El Paso,Texas,-106.2348,31.7686,1,imported,0
-48141.0,El Paso,Texas,-106.2348,31.7686,1,local,1
-48229.0,Hudspeth,Texas,-105.3865,31.4562,27,imported,0
-48229.0,Hudspeth,Texas,-105.3865,31.4562,27,local,27
+49011.0,Davis,Utah,-112.1115,40.99,2,imported,0
+49011.0,Davis,Utah,-112.1115,40.99,2,local,2
+48229.0,Hudspeth,Texas,-105.3865,31.4562,6,imported,0
+48229.0,Hudspeth,Texas,-105.3865,31.4562,6,local,6
 53033.0,King,Washington,-121.8052,47.4902,2,imported,0
 53033.0,King,Washington,-121.8052,47.4902,2,local,2
-30049.0,Lewis and Clark,Montana,-112.3904,47.1224,2,imported,0
-30049.0,Lewis and Clark,Montana,-112.3904,47.1224,2,local,2
-35029.0,Luna,New Mexico,-107.7499,32.1823,3,imported,0
-35029.0,Luna,New Mexico,-107.7499,32.1823,3,local,3
+53037.0,Kittitas,Washington,-120.6798,47.1244,1,imported,0
+53037.0,Kittitas,Washington,-120.6798,47.1244,1,local,1
 4015.0,Mohave,Arizona,-113.7579,35.7041,11,imported,0
 4015.0,Mohave,Arizona,-113.7579,35.7041,11,local,11
 26115.0,Monroe,Michigan,-83.5394,41.9291,1,imported,0
 26115.0,Monroe,Michigan,-83.5394,41.9291,1,local,1
 36061.0,New York City,New York,-73.9668,40.7792,1,imported,0
 36061.0,New York City,New York,-73.9668,40.7792,1,local,1
-12101.0,Pasco,Florida,-82.392,28.3092,2,imported,0
-12101.0,Pasco,Florida,-82.392,28.3092,2,local,2
-6061.0,Placer,California,-120.7177,39.0634,4,imported,0
-6061.0,Placer,California,-120.7177,39.0634,4,local,4
 38073.0,Ransom,North Dakota,-97.6574,46.4562,5,imported,0
 38073.0,Ransom,North Dakota,-97.6574,46.4562,5,local,5
+6067.0,Sacramento,California,-121.3443,38.4493,2,imported,0
+6067.0,Sacramento,California,-121.3443,38.4493,2,local,2
 8109.0,Saguache,Colorado,-106.2815,38.0805,1,imported,0
 8109.0,Saguache,Colorado,-106.2815,38.0805,1,local,1
-49035.0,Salt Lake,Utah,-111.9236,40.6673,8,imported,0
-49035.0,Salt Lake,Utah,-111.9236,40.6673,8,local,8
-6089.0,Shasta,California,-122.0405,40.7637,1,imported,0
-6089.0,Shasta,California,-122.0405,40.7637,1,local,1
-0.0,Southeast Health District,Utah,-110.3702,39.3252,1,imported,0
-0.0,Southeast Health District,Utah,-110.3702,39.3252,1,local,1
-0.0,Southwest Health District,Utah,-113.3625,37.449,23,imported,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,23,local,23
-,Southwest Region,Virginia,-81.21939124,37.03794692,2,imported,0
-,Southwest Region,Virginia,-81.21939124,37.03794692,2,local,2
+49035.0,Salt Lake,Utah,-111.9236,40.6673,9,imported,0
+49035.0,Salt Lake,Utah,-111.9236,40.6673,9,local,9
+0.0,Southwest Health District,Utah,-113.3625,37.449,16,imported,0
+0.0,Southwest Health District,Utah,-113.3625,37.449,16,local,16
 53063.0,Spokane,Washington,-117.404,47.6207,1,imported,0
 53063.0,Spokane,Washington,-117.404,47.6207,1,local,1
 49043.0,Summit,Utah,-110.9557,40.8683,2,imported,0
 49043.0,Summit,Utah,-110.9557,40.8683,2,local,2
-49045.0,Tooele,Utah,-113.1311,40.4487,5,imported,0
-49045.0,Tooele,Utah,-113.1311,40.4487,5,local,5
-0.0,Tricounty,Utah,-109.8491,40.1599,43,imported,0
-0.0,Tricounty,Utah,-109.8491,40.1599,43,local,43
+49045.0,Tooele,Utah,-113.1311,40.4487,2,imported,0
+49045.0,Tooele,Utah,-113.1311,40.4487,2,local,2
+0.0,Tricounty,Utah,-109.8491,40.1599,36,imported,0
+0.0,Tricounty,Utah,-109.8491,40.1599,36,local,36
 17.0,Unknown County,Illinois,-88.372974,41.312077,2,imported,0
 17.0,Unknown County,Illinois,-88.372974,41.312077,2,local,2
 27.0,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0
 27.0,Unknown County,Minnesota,-93.558751,45.18999,1,local,1
 41.0,Unknown County,Oregon,-122.588257,44.753509,3,imported,0
 41.0,Unknown County,Oregon,-122.588257,44.753509,3,local,3
-49049.0,Utah,Utah,-111.6702,40.1199,12,imported,0
-49049.0,Utah,Utah,-111.6702,40.1199,12,local,12
-26161.0,Washtenaw,Michigan,-83.8388,42.2532,4,imported,0
-26161.0,Washtenaw,Michigan,-83.8388,42.2532,4,local,4
+49049.0,Utah,Utah,-111.6702,40.1199,15,imported,0
+49049.0,Utah,Utah,-111.6702,40.1199,15,local,15
+53071.0,Walla Walla,Washington,-118.4784,46.2298,1,imported,0
+53071.0,Walla Walla,Washington,-118.4784,46.2298,1,local,1
+8123.0,Weld,Colorado,-104.3925,40.5548,2,imported,0
+8123.0,Weld,Colorado,-104.3925,40.5548,2,local,2
