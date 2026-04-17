@@ -13,8 +13,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48003.0,Andrews,Texas,-102.6377,32.305,3,local,3
 8005.0,Arapahoe,Colorado,-104.3393,39.6498,6,imported,4
 8005.0,Arapahoe,Colorado,-104.3393,39.6498,6,local,2
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,16,imported,3
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,16,local,13
 48013.0,Atascosa,Texas,-98.5272,28.8935,1,imported,0
 48013.0,Atascosa,Texas,-98.5272,28.8935,1,local,1
 48017.0,Bailey,Texas,-102.8299,34.0686,2,imported,0
@@ -95,8 +93,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48079.0,Cochran,Texas,-102.8285,33.6042,14,local,14
 4005.0,Coconino,Arizona,-111.7705,35.8387,3,imported,0
 4005.0,Coconino,Arizona,-111.7705,35.8387,3,local,3
-12021.0,Collier,Florida,-81.3474,26.1108,106,imported,3
-12021.0,Collier,Florida,-81.3474,26.1108,106,local,103
+12021.0,Collier,Florida,-81.3474,26.1108,107,imported,3
+12021.0,Collier,Florida,-81.3474,26.1108,107,local,104
 48085.0,Collin,Texas,-96.5724,33.188,4,imported,0
 48085.0,Collin,Texas,-96.5724,33.188,4,local,4
 6013.0,Contra Costa,California,-121.9275,37.9192,1,imported,0
@@ -119,8 +117,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 49011.0,Davis,Utah,-112.1115,40.99,15,local,15
 48115.0,Dawson,Texas,-101.9476,32.7426,26,imported,0
 48115.0,Dawson,Texas,-101.9476,32.7426,26,local,26
-39039.0,Defiance,Ohio,-84.4905,41.3239,1,imported,1
-39039.0,Defiance,Ohio,-84.4905,41.3239,1,local,0
 48121.0,Denton,Texas,-97.1168,33.2055,2,imported,0
 48121.0,Denton,Texas,-97.1168,33.2055,2,local,2
 8031.0,Denver,Colorado,-104.8758,39.762,4,imported,3
@@ -167,8 +163,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48165.0,Gaines,Texas,-102.6352,32.7408,414,local,414
 30031.0,Gallatin,Montana,-111.1704,45.5404,23,imported,5
 30031.0,Gallatin,Montana,-111.1704,45.5404,23,local,18
-38035.0,Grand Forks,North Dakota,-97.4569,47.9219,10,imported,2
-38035.0,Grand Forks,North Dakota,-97.4569,47.9219,10,local,8
+38035.0,Grand Forks,North Dakota,-97.4569,47.9219,11,imported,2
+38035.0,Grand Forks,North Dakota,-97.4569,47.9219,11,local,9
 26055.0,Grand Traverse,Michigan,-85.5605,44.6687,4,imported,0
 26055.0,Grand Traverse,Michigan,-85.5605,44.6687,4,local,4
 46051.0,Grant,South Dakota,-96.7677,45.1719,6,imported,5
@@ -183,8 +179,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 37081.0,Guilford,North Carolina,-79.7889,36.0795,1,local,0
 48197.0,Hardeman,Texas,-99.7457,34.2902,1,imported,0
 48197.0,Hardeman,Texas,-99.7457,34.2902,1,local,1
-48201.0,Harris,Texas,-95.3938,29.8578,5,imported,0
-48201.0,Harris,Texas,-95.3938,29.8578,5,local,5
+48201.0,Harris,Texas,-95.3938,29.8578,9,imported,0
+48201.0,Harris,Texas,-95.3938,29.8578,9,local,9
 48203.0,Harrison,Texas,-94.3715,32.5481,1,imported,0
 48203.0,Harrison,Texas,-94.3715,32.5481,1,local,1
 20081.0,Haskell,Kansas,-100.8712,37.5622,19,imported,0
@@ -207,8 +203,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 34017.0,Hudson,New Jersey,-74.0751,40.7408,2,local,2
 48229.0,Hudspeth,Texas,-105.3865,31.4562,136,imported,0
 48229.0,Hudspeth,Texas,-105.3865,31.4562,136,local,136
-26065.0,Ingham,Michigan,-84.3735,42.5971,1,imported,1
-26065.0,Ingham,Michigan,-84.3735,42.5971,1,local,0
 29095.0,Jackson,Missouri,-94.3461,39.0085,1,imported,0
 29095.0,Jackson,Missouri,-94.3461,39.0085,1,local,1
 21111.0,Jefferson,Kentucky,-85.6591,38.1872,2,imported,1
@@ -221,10 +215,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48259.0,Kendall,Texas,-98.7115,29.9447,1,local,1
 26081.0,Kent,Michigan,-85.5493,43.0322,4,imported,2
 26081.0,Kent,Michigan,-85.5493,43.0322,4,local,2
-53033.0,King,Washington,-121.8052,47.4902,9,imported,6
-53033.0,King,Washington,-121.8052,47.4902,9,local,3
-53037.0,Kittitas,Washington,-120.6798,47.1244,2,imported,0
-53037.0,Kittitas,Washington,-120.6798,47.1244,2,local,2
+53033.0,King,Washington,-121.8052,47.4902,10,imported,6
+53033.0,King,Washington,-121.8052,47.4902,10,local,4
+53037.0,Kittitas,Washington,-120.6798,47.1244,5,imported,0
+53037.0,Kittitas,Washington,-120.6798,47.1244,5,local,5
 16055.0,Kootenai,Idaho,-116.7018,47.6744,2,imported,0
 16055.0,Kootenai,Idaho,-116.7018,47.6744,2,local,2
 18089.0,Lake,Indiana,-87.3821,41.4167,2,imported,0
@@ -261,8 +255,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 16065.0,Madison,Idaho,-111.6592,43.7841,3,local,3
 12081.0,Manatee,Florida,-82.3153,27.4719,3,imported,1
 12081.0,Manatee,Florida,-82.3153,27.4719,3,local,2
-4013.0,Maricopa,Arizona,-112.4915,33.349,4,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,4,local,4
+4013.0,Maricopa,Arizona,-112.4915,33.349,5,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,5,local,5
 26103.0,Marquette,Michigan,-87.6416,46.4313,2,imported,0
 26103.0,Marquette,Michigan,-87.6416,46.4313,2,local,2
 48309.0,McLennan,Texas,-97.2018,31.5524,9,imported,0
@@ -281,8 +275,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 0.0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,3,local,3
 48329.0,Midland,Texas,-102.0316,31.8691,7,imported,0
 48329.0,Midland,Texas,-102.0316,31.8691,7,local,7
-4015.0,Mohave,Arizona,-113.7579,35.7041,275,imported,0
-4015.0,Mohave,Arizona,-113.7579,35.7041,275,local,275
+4015.0,Mohave,Arizona,-113.7579,35.7041,281,imported,0
+4015.0,Mohave,Arizona,-113.7579,35.7041,281,local,281
 26115.0,Monroe,Michigan,-83.5394,41.9291,1,imported,0
 26115.0,Monroe,Michigan,-83.5394,41.9291,1,local,1
 26117.0,Montcalm,Michigan,-85.1525,43.311,4,imported,1
@@ -357,8 +351,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 46103.0,Pennington,South Dakota,-102.8238,44.0037,2,local,1
 23019.0,Penobscot,Maine,-68.6495,45.4006,5,imported,1
 23019.0,Penobscot,Maine,-68.6495,45.4006,5,local,4
-42101.0,Philadelphia,Pennsylvania,-75.1339,40.0077,2,imported,2
-42101.0,Philadelphia,Pennsylvania,-75.1339,40.0077,2,local,0
 4019.0,Pima,Arizona,-111.7899,32.0974,3,imported,0
 4019.0,Pima,Arizona,-111.7899,32.0974,3,local,3
 4021.0,Pinal,Arizona,-111.3448,32.9044,3,imported,0
@@ -395,14 +387,14 @@ fips,county,state,longitude,latitude,cases_total,type,count
 36087.0,Rockland,New York,-74.0242,41.1525,25,local,23
 48397.0,Rockwall,Texas,-96.4079,32.8978,8,imported,0
 48397.0,Rockwall,Texas,-96.4079,32.8978,8,local,8
-6067.0,Sacramento,California,-121.3443,38.4493,5,imported,2
-6067.0,Sacramento,California,-121.3443,38.4493,5,local,3
+6067.0,Sacramento,California,-121.3443,38.4493,9,imported,2
+6067.0,Sacramento,California,-121.3443,38.4493,9,local,7
 8109.0,Saguache,Colorado,-106.2815,38.0805,1,imported,0
 8109.0,Saguache,Colorado,-106.2815,38.0805,1,local,1
-5125.0,Saline,Arkansas,-92.6766,34.6466,1,imported,1
-5125.0,Saline,Arkansas,-92.6766,34.6466,1,local,0
 49035.0,Salt Lake,Utah,-111.9236,40.6673,62,imported,0
 49035.0,Salt Lake,Utah,-111.9236,40.6673,62,local,62
+45081.0,Saluda,South Carolina,-81.7268,34.0061,1,imported,1
+45081.0,Saluda,South Carolina,-81.7268,34.0061,1,local,0
 6073.0,San Diego,California,-116.735,33.0343,1,imported,1
 6073.0,San Diego,California,-116.735,33.0343,1,local,0
 35045.0,San Juan,New Mexico,-108.3206,36.5085,1,imported,0
@@ -433,8 +425,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 9170.0,South Central Connecticut,Connecticut,-72.8445,41.3613,1,local,1
 0.0,Southeast Health District,Utah,-110.3702,39.3252,5,imported,0
 0.0,Southeast Health District,Utah,-110.3702,39.3252,5,local,5
-0.0,Southwest Health District,Utah,-113.3625,37.449,249,imported,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,249,local,249
+0.0,Southwest Health District,Utah,-113.3625,37.449,256,imported,0
+0.0,Southwest Health District,Utah,-113.3625,37.449,256,local,256
 ,Southwest Region,Virginia,-81.21939124,37.03794692,6,imported,0
 ,Southwest Region,Virginia,-81.21939124,37.03794692,6,local,6
 53063.0,Spokane,Washington,-117.404,47.6207,2,imported,1
@@ -463,8 +455,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 38097.0,Traill,North Dakota,-97.1616,47.4542,1,local,1
 48453.0,Travis,Texas,-97.782,30.3344,2,imported,0
 48453.0,Travis,Texas,-97.782,30.3344,2,local,2
-0.0,Tricounty,Utah,-109.8491,40.1599,59,imported,0
-0.0,Tricounty,Utah,-109.8491,40.1599,59,local,59
+0.0,Tricounty,Utah,-109.8491,40.1599,69,imported,0
+0.0,Tricounty,Utah,-109.8491,40.1599,69,local,69
 6107.0,Tulare,California,-118.8005,36.2202,2,imported,0
 6107.0,Tulare,California,-118.8005,36.2202,2,local,2
 27.0,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,10,imported,10
@@ -483,30 +475,28 @@ fips,county,state,longitude,latitude,cases_total,type,count
 21.0,Unknown County,Kentucky,-85.261296,37.838308,1,local,0
 25.0,Unknown County,Massachusetts,-71.350366,42.273659,1,imported,1
 25.0,Unknown County,Massachusetts,-71.350366,42.273659,1,local,0
-27.0,Unknown County,Minnesota,-93.558751,45.18999,26,imported,0
-27.0,Unknown County,Minnesota,-93.558751,45.18999,26,local,26
+27.0,Unknown County,Minnesota,-93.558751,45.18999,27,imported,0
+27.0,Unknown County,Minnesota,-93.558751,45.18999,27,local,27
 31.0,Unknown County,Nebraska,-97.222143,41.167883,3,imported,0
 31.0,Unknown County,Nebraska,-97.222143,41.167883,3,local,3
 34.0,Unknown County,New Jersey,-74.424465,40.438248,3,imported,2
 34.0,Unknown County,New Jersey,-74.424465,40.438248,3,local,1
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,18,imported,0
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,18,local,18
-41.0,Unknown County,Oregon,-122.588257,44.753509,10,imported,0
-41.0,Unknown County,Oregon,-122.588257,44.753509,10,local,10
+41.0,Unknown County,Oregon,-122.588257,44.753509,16,imported,0
+41.0,Unknown County,Oregon,-122.588257,44.753509,16,local,16
 42.0,Unknown County,Pennsylvania,-76.965232,40.443486,1,imported,1
 42.0,Unknown County,Pennsylvania,-76.965232,40.443486,1,local,0
 48.0,Unknown County,Texas,-97.328656,30.909581,1,imported,0
 48.0,Unknown County,Texas,-97.328656,30.909581,1,local,1
 ,Unknown County,Vermont,-72.82424,44.101952,1,imported,0
 ,Unknown County,Vermont,-72.82424,44.101952,1,local,1
-0.0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,imported,0
-0.0,Upper Cumberland Region,Tennessee,-85.5394,36.1541,4,local,4
 48459.0,Upshur,Texas,-94.9415,32.7363,5,imported,0
 48459.0,Upshur,Texas,-94.9415,32.7363,5,local,5
 0.0,Upstate,South Carolina,-82.32325826,34.77834072,997,imported,5
 0.0,Upstate,South Carolina,-82.32325826,34.77834072,997,local,992
-49049.0,Utah,Utah,-111.6702,40.1199,93,imported,0
-49049.0,Utah,Utah,-111.6702,40.1199,93,local,93
+49049.0,Utah,Utah,-111.6702,40.1199,95,imported,0
+49049.0,Utah,Utah,-111.6702,40.1199,95,local,95
 53071.0,Walla Walla,Washington,-118.4784,46.2298,1,imported,0
 53071.0,Walla Walla,Washington,-118.4784,46.2298,1,local,1
 38099.0,Walsh,North Dakota,-97.7213,48.3695,1,imported,0
@@ -527,8 +517,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 55133.0,Waukesha,Wisconsin,-88.3045,43.0182,1,local,0
 49057.0,Weber-Morgan,Utah,-111.9134,41.2698,2,imported,0
 49057.0,Weber-Morgan,Utah,-111.9134,41.2698,2,local,2
-8123.0,Weld,Colorado,-104.3925,40.5548,5,imported,0
-8123.0,Weld,Colorado,-104.3925,40.5548,5,local,5
+8123.0,Weld,Colorado,-104.3925,40.5548,6,imported,0
+8123.0,Weld,Colorado,-104.3925,40.5548,6,local,6
 19.0,Western,Iowa,-95.10435,41.97493056,1,imported,0
 19.0,Western,Iowa,-95.10435,41.97493056,1,local,1
 53073.0,Whatcom,Washington,-121.7199,48.8259,2,imported,2
