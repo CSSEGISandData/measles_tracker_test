@@ -23,6 +23,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48013.0,Atascosa,Texas,-98.5272,28.8935,1,local,1
 48017.0,Bailey,Texas,-102.8299,34.0686,2,imported,0
 48017.0,Bailey,Texas,-102.8299,34.0686,2,local,2
+24510.0,Baltimore,Maryland,-76.6144,39.3051,1,imported,1
+24510.0,Baltimore,Maryland,-76.6144,39.3051,1,local,0
 48019.0,Bandera,Texas,-99.2463,29.7472,5,imported,0
 48019.0,Bandera,Texas,-99.2463,29.7472,5,local,5
 0.0,Bear River,Utah,-112.1381,41.661,13,imported,0
@@ -33,8 +35,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 5007.0,Benton,Arkansas,-94.2561,36.3387,1,local,1
 34003.0,Bergen,New Jersey,-74.0742,40.9597,4,imported,1
 34003.0,Bergen,New Jersey,-74.0742,40.9597,4,local,3
-48029.0,Bexar,Texas,-98.52,29.4489,2,imported,1
-48029.0,Bexar,Texas,-98.52,29.4489,2,local,1
+48029.0,Bexar,Texas,-98.52,29.4489,3,imported,0
+48029.0,Bexar,Texas,-98.52,29.4489,3,local,3
 16017.0,Bonner,Idaho,-116.6011,48.3,1,imported,0
 16017.0,Bonner,Idaho,-116.6011,48.3,1,local,1
 16019.0,Bonneville,Idaho,-111.6148,43.3877,5,imported,2
@@ -87,8 +89,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 29039.0,Cedar,Missouri,-93.8566,37.7239,5,local,5
 19.0,Central,Iowa,-93.40754375,41.84471875,2,imported,1
 19.0,Central,Iowa,-93.40754375,41.84471875,2,local,1
-0.0,Central,Utah,-111.948021,40.385835,50,imported,0
-0.0,Central,Utah,-111.948021,40.385835,50,local,50
+0.0,Central,Utah,-111.948021,40.385835,52,imported,0
+0.0,Central,Utah,-111.948021,40.385835,52,local,52
 0.0,Central Region,Virginia,-78.21679447,37.4025616,2,imported,0
 0.0,Central Region,Virginia,-78.21679447,37.4025616,2,local,2
 35005.0,Chaves,New Mexico,-104.4669,33.3633,1,imported,0
@@ -105,8 +107,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 13.0,Coastal Health District,Georgia,-81.37,31.81,1,local,0
 48079.0,Cochran,Texas,-102.8285,33.6042,14,imported,0
 48079.0,Cochran,Texas,-102.8285,33.6042,14,local,14
-4005.0,Coconino,Arizona,-111.7705,35.8387,3,imported,0
-4005.0,Coconino,Arizona,-111.7705,35.8387,3,local,3
+4005.0,Coconino,Arizona,-111.7705,35.8387,5,imported,0
+4005.0,Coconino,Arizona,-111.7705,35.8387,5,local,5
 12021.0,Collier,Florida,-81.3474,26.1108,107,imported,3
 12021.0,Collier,Florida,-81.3474,26.1108,107,local,104
 48085.0,Collin,Texas,-96.5724,33.188,4,imported,0
@@ -191,8 +193,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 30031.0,Gallatin,Montana,-111.1704,45.5404,23,local,18
 48169.0,Garza,Texas,-101.2984,33.1799,2,imported,0
 48169.0,Garza,Texas,-101.2984,33.1799,2,local,2
-38035.0,Grand Forks,North Dakota,-97.4569,47.9219,11,imported,2
-38035.0,Grand Forks,North Dakota,-97.4569,47.9219,11,local,9
+38035.0,Grand Forks,North Dakota,-97.4569,47.9219,12,imported,2
+38035.0,Grand Forks,North Dakota,-97.4569,47.9219,12,local,10
 26055.0,Grand Traverse,Michigan,-85.5605,44.6687,4,imported,0
 26055.0,Grand Traverse,Michigan,-85.5605,44.6687,4,local,4
 46051.0,Grant,South Dakota,-96.7677,45.1719,6,imported,5
@@ -233,8 +235,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 15003.0,Honolulu,Hawaii,-158.0739,21.4899,3,local,0
 24027.0,Howard,Maryland,-76.9312,39.2507,1,imported,1
 24027.0,Howard,Maryland,-76.9312,39.2507,1,local,0
-34017.0,Hudson,New Jersey,-74.0751,40.7408,2,imported,0
-34017.0,Hudson,New Jersey,-74.0751,40.7408,2,local,2
+34017.0,Hudson,New Jersey,-74.0751,40.7408,3,imported,1
+34017.0,Hudson,New Jersey,-74.0751,40.7408,3,local,2
 48229.0,Hudspeth,Texas,-105.3865,31.4562,136,imported,0
 48229.0,Hudspeth,Texas,-105.3865,31.4562,136,local,136
 26065.0,Ingham,Michigan,-84.3735,42.5971,1,imported,1
@@ -263,6 +265,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 39083.0,Knox,Ohio,-82.4215,40.3988,14,local,14
 16055.0,Kootenai,Idaho,-116.7018,47.6744,2,imported,0
 16055.0,Kootenai,Idaho,-116.7018,47.6744,2,local,2
+8065.0,Lake,Colorado,-106.3448,39.2025,1,imported,0
+8065.0,Lake,Colorado,-106.3448,39.2025,1,local,1
 18089.0,Lake,Indiana,-87.3821,41.4167,2,imported,0
 18089.0,Lake,Indiana,-87.3821,41.4167,2,local,2
 48277.0,Lamar,Texas,-95.5712,33.6673,28,imported,0
@@ -297,14 +301,14 @@ fips,county,state,longitude,latitude,cases_total,type,count
 35029.0,Luna,New Mexico,-107.7499,32.1823,25,local,25
 48305.0,Lynn,Texas,-101.8161,33.1768,2,imported,0
 48305.0,Lynn,Texas,-101.8161,33.1768,2,local,2
-26099.0,Macomb,Michigan,-82.9323,42.6957,2,imported,1
-26099.0,Macomb,Michigan,-82.9323,42.6957,2,local,1
+26099.0,Macomb,Michigan,-82.9323,42.6957,3,imported,1
+26099.0,Macomb,Michigan,-82.9323,42.6957,3,local,2
 16065.0,Madison,Idaho,-111.6592,43.7841,3,imported,0
 16065.0,Madison,Idaho,-111.6592,43.7841,3,local,3
 12081.0,Manatee,Florida,-82.3153,27.4719,3,imported,1
 12081.0,Manatee,Florida,-82.3153,27.4719,3,local,2
-4013.0,Maricopa,Arizona,-112.4915,33.349,5,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,5,local,5
+4013.0,Maricopa,Arizona,-112.4915,33.349,9,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,9,local,9
 26103.0,Marquette,Michigan,-87.6416,46.4313,2,imported,0
 26103.0,Marquette,Michigan,-87.6416,46.4313,2,local,2
 48317.0,Martin,Texas,-101.9513,32.306,3,imported,0
@@ -325,8 +329,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 0.0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,3,local,3
 48329.0,Midland,Texas,-102.0316,31.8691,7,imported,0
 48329.0,Midland,Texas,-102.0316,31.8691,7,local,7
-4015.0,Mohave,Arizona,-113.7579,35.7041,281,imported,0
-4015.0,Mohave,Arizona,-113.7579,35.7041,281,local,281
+4015.0,Mohave,Arizona,-113.7579,35.7041,282,imported,0
+4015.0,Mohave,Arizona,-113.7579,35.7041,282,local,282
 26115.0,Monroe,Michigan,-83.5394,41.9291,1,imported,0
 26115.0,Monroe,Michigan,-83.5394,41.9291,1,local,1
 26117.0,Montcalm,Michigan,-85.1525,43.311,4,imported,1
@@ -361,8 +365,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 1.0,North,Alabama,-86.8529,34.4535,1,local,0
 0.0,Northern Region,Virginia,-77.35213021,38.85513733,9,imported,0
 0.0,Northern Region,Virginia,-77.35213021,38.85513733,9,local,9
-0.0,Northwest Region,Virginia,-78.1659225,38.47988218,3,imported,2
-0.0,Northwest Region,Virginia,-78.1659225,38.47988218,3,local,1
+0.0,Northwest Region,Virginia,-78.1659225,38.47988218,5,imported,2
+0.0,Northwest Region,Virginia,-78.1659225,38.47988218,5,local,3
 26125.0,Oakland,Michigan,-83.3858,42.6604,2,imported,1
 26125.0,Oakland,Michigan,-83.3858,42.6604,2,local,1
 34029.0,Ocean,New Jersey,-74.2814,39.8856,1,imported,0
@@ -383,6 +387,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 12097.0,Osceola,Florida,-81.1495,28.0626,1,local,0
 26133.0,Osceola,Michigan,-85.3252,43.9898,7,imported,0
 26133.0,Osceola,Michigan,-85.3252,43.9898,7,local,7
+26139.0,Ottawa,Michigan,-85.996,42.9599,1,imported,1
+26139.0,Ottawa,Michigan,-85.996,42.9599,1,local,0
 39123.0,Ottawa,Ohio,-83.1435,41.5379,1,imported,1
 39123.0,Ottawa,Ohio,-83.1435,41.5379,1,local,0
 56029.0,Park,Wyoming,-109.5879,44.5205,1,imported,1
@@ -435,8 +441,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 38073.0,Ransom,North Dakota,-97.6574,46.4562,6,local,6
 48389.0,Reeves,Texas,-103.693,31.323,2,imported,0
 48389.0,Reeves,Texas,-103.693,31.323,2,local,2
-22071.0,Region 1,Louisiana,-89.999761,29.903565,2,imported,1
-22071.0,Region 1,Louisiana,-89.999761,29.903565,2,local,1
+22071.0,Region 1,Louisiana,-89.999761,29.903565,3,imported,2
+22071.0,Region 1,Louisiana,-89.999761,29.903565,3,local,1
 0.0,Region 9,Louisiana,-90.262548,30.506128,1,imported,1
 0.0,Region 9,Louisiana,-90.262548,30.506128,1,local,0
 6065.0,Riverside,California,-115.9938,33.7436,4,imported,1
@@ -447,8 +453,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48397.0,Rockwall,Texas,-96.4079,32.8978,8,local,8
 37161.0,Rutherford,North Carolina,-81.9198,35.4026,1,imported,0
 37161.0,Rutherford,North Carolina,-81.9198,35.4026,1,local,1
-6067.0,Sacramento,California,-121.3443,38.4493,9,imported,2
-6067.0,Sacramento,California,-121.3443,38.4493,9,local,7
+6067.0,Sacramento,California,-121.3443,38.4493,12,imported,2
+6067.0,Sacramento,California,-121.3443,38.4493,12,local,10
 8109.0,Saguache,Colorado,-106.2815,38.0805,1,imported,0
 8109.0,Saguache,Colorado,-106.2815,38.0805,1,local,1
 5125.0,Saline,Arkansas,-92.6766,34.6466,1,imported,1
@@ -459,6 +465,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 45081.0,Saluda,South Carolina,-81.7268,34.0061,1,local,0
 6073.0,San Diego,California,-116.735,33.0343,1,imported,1
 6073.0,San Diego,California,-116.735,33.0343,1,local,0
+6075.0,San Francisco,California,-122.445,37.7556,1,imported,1
+6075.0,San Francisco,California,-122.445,37.7556,1,local,0
 35045.0,San Juan,New Mexico,-108.3206,36.5085,1,imported,0
 35045.0,San Juan,New Mexico,-108.3206,36.5085,1,local,1
 49037.0,San Juan,Utah,-109.8046,37.626,3,imported,0
@@ -487,8 +495,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 9170.0,South Central Connecticut,Connecticut,-72.8445,41.3613,1,local,1
 0.0,Southeast Health District,Utah,-110.3702,39.3252,5,imported,0
 0.0,Southeast Health District,Utah,-110.3702,39.3252,5,local,5
-0.0,Southwest Health District,Utah,-113.3625,37.449,256,imported,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,256,local,256
+0.0,Southwest Health District,Utah,-113.3625,37.449,258,imported,0
+0.0,Southwest Health District,Utah,-113.3625,37.449,258,local,258
 ,Southwest Region,Virginia,-81.21939124,37.03794692,6,imported,0
 ,Southwest Region,Virginia,-81.21939124,37.03794692,6,local,6
 53063.0,Spokane,Washington,-117.404,47.6207,2,imported,1
@@ -519,8 +527,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 38097.0,Traill,North Dakota,-97.1616,47.4542,1,local,1
 48453.0,Travis,Texas,-97.782,30.3344,2,imported,0
 48453.0,Travis,Texas,-97.782,30.3344,2,local,2
-0.0,Tricounty,Utah,-109.8491,40.1599,69,imported,0
-0.0,Tricounty,Utah,-109.8491,40.1599,69,local,69
+0.0,Tricounty,Utah,-109.8491,40.1599,70,imported,0
+0.0,Tricounty,Utah,-109.8491,40.1599,70,local,70
 6107.0,Tulare,California,-118.8005,36.2202,2,imported,0
 6107.0,Tulare,California,-118.8005,36.2202,2,local,2
 6109.0,Tuolumne,California,-119.9548,38.0276,2,imported,2

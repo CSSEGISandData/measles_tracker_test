@@ -1,41 +1,51 @@
 fips,county,state,longitude,latitude,cases_total,type,count
-0.0,Central,Utah,-111.948021,40.385835,4,imported,0
-0.0,Central,Utah,-111.948021,40.385835,4,local,4
+24510.0,Baltimore,Maryland,-76.6144,39.3051,1,imported,1
+24510.0,Baltimore,Maryland,-76.6144,39.3051,1,local,0
+0.0,Central,Utah,-111.948021,40.385835,2,imported,0
+0.0,Central,Utah,-111.948021,40.385835,2,local,2
+4005.0,Coconino,Arizona,-111.7705,35.8387,2,imported,0
+4005.0,Coconino,Arizona,-111.7705,35.8387,2,local,2
 12021.0,Collier,Florida,-81.3474,26.1108,1,imported,0
 12021.0,Collier,Florida,-81.3474,26.1108,1,local,1
-38035.0,Grand Forks,North Dakota,-97.4569,47.9219,1,imported,0
-38035.0,Grand Forks,North Dakota,-97.4569,47.9219,1,local,1
+38035.0,Grand Forks,North Dakota,-97.4569,47.9219,2,imported,0
+38035.0,Grand Forks,North Dakota,-97.4569,47.9219,2,local,2
 48201.0,Harris,Texas,-95.3938,29.8578,4,imported,0
 48201.0,Harris,Texas,-95.3938,29.8578,4,local,4
-48229.0,Hudspeth,Texas,-105.3865,31.4562,1,imported,0
-48229.0,Hudspeth,Texas,-105.3865,31.4562,1,local,1
+34017.0,Hudson,New Jersey,-74.0751,40.7408,1,imported,1
+34017.0,Hudson,New Jersey,-74.0751,40.7408,1,local,0
 53033.0,King,Washington,-121.8052,47.4902,1,imported,0
 53033.0,King,Washington,-121.8052,47.4902,1,local,1
 53037.0,Kittitas,Washington,-120.6798,47.1244,3,imported,0
 53037.0,Kittitas,Washington,-120.6798,47.1244,3,local,3
-4013.0,Maricopa,Arizona,-112.4915,33.349,1,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,1,local,1
+8065.0,Lake,Colorado,-106.3448,39.2025,1,imported,0
+8065.0,Lake,Colorado,-106.3448,39.2025,1,local,1
+26099.0,Macomb,Michigan,-82.9323,42.6957,1,imported,0
+26099.0,Macomb,Michigan,-82.9323,42.6957,1,local,1
+4013.0,Maricopa,Arizona,-112.4915,33.349,5,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,5,local,5
 4015.0,Mohave,Arizona,-113.7579,35.7041,7,imported,0
 4015.0,Mohave,Arizona,-113.7579,35.7041,7,local,7
-6067.0,Sacramento,California,-121.3443,38.4493,6,imported,0
-6067.0,Sacramento,California,-121.3443,38.4493,6,local,6
-49035.0,Salt Lake,Utah,-111.9236,40.6673,2,imported,0
-49035.0,Salt Lake,Utah,-111.9236,40.6673,2,local,2
+0.0,Northwest Region,Virginia,-78.1659225,38.47988218,2,imported,0
+0.0,Northwest Region,Virginia,-78.1659225,38.47988218,2,local,2
+26139.0,Ottawa,Michigan,-85.996,42.9599,1,imported,1
+26139.0,Ottawa,Michigan,-85.996,42.9599,1,local,0
+22071.0,Region 1,Louisiana,-89.999761,29.903565,1,imported,1
+22071.0,Region 1,Louisiana,-89.999761,29.903565,1,local,0
+6067.0,Sacramento,California,-121.3443,38.4493,7,imported,0
+6067.0,Sacramento,California,-121.3443,38.4493,7,local,7
 45081.0,Saluda,South Carolina,-81.7268,34.0061,1,imported,1
 45081.0,Saluda,South Carolina,-81.7268,34.0061,1,local,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,14,imported,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,14,local,14
-49045.0,Tooele,Utah,-113.1311,40.4487,2,imported,0
-49045.0,Tooele,Utah,-113.1311,40.4487,2,local,2
-0.0,Tricounty,Utah,-109.8491,40.1599,13,imported,0
-0.0,Tricounty,Utah,-109.8491,40.1599,13,local,13
+6075.0,San Francisco,California,-122.445,37.7556,1,imported,1
+6075.0,San Francisco,California,-122.445,37.7556,1,local,0
+0.0,Southwest Health District,Utah,-113.3625,37.449,9,imported,0
+0.0,Southwest Health District,Utah,-113.3625,37.449,9,local,9
+0.0,Tricounty,Utah,-109.8491,40.1599,11,imported,0
+0.0,Tricounty,Utah,-109.8491,40.1599,11,local,11
 27.0,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0
 27.0,Unknown County,Minnesota,-93.558751,45.18999,1,local,1
-41.0,Unknown County,Oregon,-122.588257,44.753509,7,imported,0
-41.0,Unknown County,Oregon,-122.588257,44.753509,7,local,7
-49049.0,Utah,Utah,-111.6702,40.1199,8,imported,0
-49049.0,Utah,Utah,-111.6702,40.1199,8,local,8
-53071.0,Walla Walla,Washington,-118.4784,46.2298,1,imported,0
-53071.0,Walla Walla,Washington,-118.4784,46.2298,1,local,1
-8123.0,Weld,Colorado,-104.3925,40.5548,3,imported,0
-8123.0,Weld,Colorado,-104.3925,40.5548,3,local,3
+41.0,Unknown County,Oregon,-122.588257,44.753509,6,imported,0
+41.0,Unknown County,Oregon,-122.588257,44.753509,6,local,6
+49049.0,Utah,Utah,-111.6702,40.1199,2,imported,0
+49049.0,Utah,Utah,-111.6702,40.1199,2,local,2
+8123.0,Weld,Colorado,-104.3925,40.5548,1,imported,0
+8123.0,Weld,Colorado,-104.3925,40.5548,1,local,1
