@@ -383,8 +383,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 0.0,Southeast Health District,Utah,-110.3702,39.3252,3,local,3
 0.0,Southwest Health District,Utah,-113.3625,37.449,114,imported,0
 0.0,Southwest Health District,Utah,-113.3625,37.449,114,local,114
-0.0,Spartanburg,South Carolina,-81.9908,34.9309,299,imported,5
-0.0,Spartanburg,South Carolina,-81.9908,34.9309,299,local,294
+45083.0,Spartanburg,South Carolina,-81.9908,34.9309,299,imported,5
+45083.0,Spartanburg,South Carolina,-81.9908,34.9309,299,local,294
 53063.0,Spokane,Washington,-117.404,47.6207,1,imported,1
 53063.0,Spokane,Washington,-117.404,47.6207,1,local,0
 20189.0,Stevens,Kansas,-101.3121,37.1923,10,imported,0
