@@ -1,59 +1,43 @@
 fips,county,state,longitude,latitude,cases_total,type,count
-12011.0,Broward,Florida,-80.4871,26.1523,2,imported,2
-12011.0,Broward,Florida,-80.4871,26.1523,2,local,0
+38017.0,Cass,North Dakota,-97.248,46.933,1,imported,0
+38017.0,Cass,North Dakota,-97.248,46.933,1,local,1
 0.0,Central,Utah,-111.948021,40.385835,18,imported,0
 0.0,Central,Utah,-111.948021,40.385835,18,local,18
-38025.0,Dunn,North Dakota,-102.6182,47.3568,1,imported,0
-38025.0,Dunn,North Dakota,-102.6182,47.3568,1,local,1
+0.0,Central Region,Virginia,-78.21679447,37.4025616,12,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,12,local,12
 56013.0,Fremont,Wyoming,-108.6304,43.0405,1,imported,0
 56013.0,Fremont,Wyoming,-108.6304,43.0405,1,local,1
-48201.0,Harris,Texas,-95.3938,29.8578,1,imported,0
-48201.0,Harris,Texas,-95.3938,29.8578,1,local,1
-12057.0,Hillsborough,Florida,-82.3088,27.9292,1,imported,0
-12057.0,Hillsborough,Florida,-82.3088,27.9292,1,local,1
-53037.0,Kittitas,Washington,-120.6798,47.1244,2,imported,0
-53037.0,Kittitas,Washington,-120.6798,47.1244,2,local,2
+38035.0,Grand Forks,North Dakota,-97.4569,47.9219,1,imported,0
+38035.0,Grand Forks,North Dakota,-97.4569,47.9219,1,local,1
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,11,imported,0
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,11,local,11
 26099.0,Macomb,Michigan,-82.9323,42.6957,1,imported,0
 26099.0,Macomb,Michigan,-82.9323,42.6957,1,local,1
-4013.0,Maricopa,Arizona,-112.4915,33.349,1,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,1,local,1
+4013.0,Maricopa,Arizona,-112.4915,33.349,4,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,4,local,4
 4015.0,Mohave,Arizona,-113.7579,35.7041,3,imported,0
 4015.0,Mohave,Arizona,-113.7579,35.7041,3,local,3
 36061.0,New York City,New York,-73.9668,40.7792,2,imported,0
 36061.0,New York City,New York,-73.9668,40.7792,2,local,2
-0.0,Northwest Region,Virginia,-78.1659225,38.47988218,4,imported,0
-0.0,Northwest Region,Virginia,-78.1659225,38.47988218,4,local,4
-6059.0,Orange,California,-117.7609,33.7031,1,imported,1
-6059.0,Orange,California,-117.7609,33.7031,1,local,0
+0.0,Northwest Region,Virginia,-78.1659225,38.47988218,2,imported,0
+0.0,Northwest Region,Virginia,-78.1659225,38.47988218,2,local,2
 26139.0,Ottawa,Michigan,-85.996,42.9599,2,imported,0
 26139.0,Ottawa,Michigan,-85.996,42.9599,2,local,2
-12099.0,Palm Beach,Florida,-80.4655,26.6476,2,imported,0
-12099.0,Palm Beach,Florida,-80.4655,26.6476,2,local,2
-4021.0,Pinal,Arizona,-111.3448,32.9044,1,imported,0
-4021.0,Pinal,Arizona,-111.3448,32.9044,1,local,1
-44007.0,Providence,Rhode Island,-71.58,41.8721,1,imported,1
-44007.0,Providence,Rhode Island,-71.58,41.8721,1,local,0
-6065.0,Riverside,California,-115.9938,33.7436,2,imported,0
-6065.0,Riverside,California,-115.9938,33.7436,2,local,2
-6067.0,Sacramento,California,-121.3443,38.4493,1,imported,0
-6067.0,Sacramento,California,-121.3443,38.4493,1,local,1
-0.0,Southwest Health District,Utah,-113.3625,37.449,4,imported,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,4,local,4
+12099.0,Palm Beach,Florida,-80.4655,26.6476,1,imported,0
+12099.0,Palm Beach,Florida,-80.4655,26.6476,1,local,1
+0.0,Southwest Health District,Utah,-113.3625,37.449,3,imported,0
+0.0,Southwest Health District,Utah,-113.3625,37.449,3,local,3
 49045.0,Tooele,Utah,-113.1311,40.4487,1,imported,0
 49045.0,Tooele,Utah,-113.1311,40.4487,1,local,1
-0.0,Tricounty,Utah,-109.8491,40.1599,3,imported,0
-0.0,Tricounty,Utah,-109.8491,40.1599,3,local,3
+0.0,Tricounty,Utah,-109.8491,40.1599,2,imported,0
+0.0,Tricounty,Utah,-109.8491,40.1599,2,local,2
 6.0,Unknown County,California,-119.347852,35.491035,1,imported,0
 6.0,Unknown County,California,-119.347852,35.491035,1,local,1
-27.0,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0
-27.0,Unknown County,Minnesota,-93.558751,45.18999,1,local,1
 36.0,Unknown County,New York,-74.590827,41.471783,1,imported,0
 36.0,Unknown County,New York,-74.590827,41.471783,1,local,1
-41.0,Unknown County,Oregon,-122.588257,44.753509,2,imported,0
-41.0,Unknown County,Oregon,-122.588257,44.753509,2,local,2
-49049.0,Utah,Utah,-111.6702,40.1199,4,imported,0
-49049.0,Utah,Utah,-111.6702,40.1199,4,local,4
+49049.0,Utah,Utah,-111.6702,40.1199,12,imported,0
+49049.0,Utah,Utah,-111.6702,40.1199,12,local,12
 53071.0,Walla Walla,Washington,-118.4784,46.2298,4,imported,0
 53071.0,Walla Walla,Washington,-118.4784,46.2298,4,local,4
+49051.0,Wasatch,Utah,-111.1682,40.3308,1,imported,0
+49051.0,Wasatch,Utah,-111.1682,40.3308,1,local,1

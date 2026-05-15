@@ -31,10 +31,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 37025.0,Cabarrus,North Carolina,-80.5519,35.3868,2,local,2
 16027.0,Canyon,Idaho,-116.7093,43.6251,6,imported,0
 16027.0,Canyon,Idaho,-116.7093,43.6251,6,local,6
-0.0,Central,Utah,-111.948021,40.385835,67,imported,0
-0.0,Central,Utah,-111.948021,40.385835,67,local,67
-0.0,Central Region,Virginia,-78.21679447,37.4025616,1,imported,0
-0.0,Central Region,Virginia,-78.21679447,37.4025616,1,local,1
+38017.0,Cass,North Dakota,-97.248,46.933,1,imported,0
+38017.0,Cass,North Dakota,-97.248,46.933,1,local,1
+0.0,Central,Utah,-111.948021,40.385835,80,imported,0
+0.0,Central,Utah,-111.948021,40.385835,80,local,80
+0.0,Central Region,Virginia,-78.21679447,37.4025616,13,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,13,local,13
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,imported,0
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,local,36
 42029.0,Chester,Pennsylvania,-75.7484,39.9731,1,imported,1
@@ -73,8 +75,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 56013.0,Fremont,Wyoming,-108.6304,43.0405,1,local,1
 48163.0,Frio,Texas,-99.1082,28.8678,2,imported,0
 48163.0,Frio,Texas,-99.1082,28.8678,2,local,2
-38035.0,Grand Forks,North Dakota,-97.4569,47.9219,3,imported,0
-38035.0,Grand Forks,North Dakota,-97.4569,47.9219,3,local,3
+38035.0,Grand Forks,North Dakota,-97.4569,47.9219,4,imported,0
+38035.0,Grand Forks,North Dakota,-97.4569,47.9219,4,local,4
 46051.0,Grant,South Dakota,-96.7677,45.1719,6,imported,5
 46051.0,Grant,South Dakota,-96.7677,45.1719,6,local,1
 53025.0,Grant,Washington,-119.4518,47.2057,2,imported,0
@@ -137,8 +139,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 16065.0,Madison,Idaho,-111.6592,43.7841,2,local,2
 12081.0,Manatee,Florida,-82.3153,27.4719,3,imported,1
 12081.0,Manatee,Florida,-82.3153,27.4719,3,local,2
-4013.0,Maricopa,Arizona,-112.4915,33.349,10,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,10,local,10
+4013.0,Maricopa,Arizona,-112.4915,33.349,14,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,14,local,14
 37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,3,imported,0
 37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,3,local,3
 17.0,Metro East ,Illinois,-89.9167,38.65,1,imported,1
@@ -223,8 +225,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 53061.0,Snohomish,Washington,-121.6972,48.0474,14,local,9
 0.0,Southeast Health District,Utah,-110.3702,39.3252,2,imported,0
 0.0,Southeast Health District,Utah,-110.3702,39.3252,2,local,2
-0.0,Southwest Health District,Utah,-113.3625,37.449,148,imported,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,148,local,148
+0.0,Southwest Health District,Utah,-113.3625,37.449,149,imported,0
+0.0,Southwest Health District,Utah,-113.3625,37.449,149,local,149
 ,Southwest Region,Virginia,-81.21939124,37.03794692,6,imported,0
 ,Southwest Region,Virginia,-81.21939124,37.03794692,6,local,6
 45083.0,Spartanburg,South Carolina,-81.9908,34.9309,641,imported,0
@@ -263,12 +265,14 @@ fips,county,state,longitude,latitude,cases_total,type,count
 41.0,Unknown County,Oregon,-122.588257,44.753509,18,local,18
 45.0,Unknown County,South Carolina,-80.996482,34.022471,7,imported,0
 45.0,Unknown County,South Carolina,-80.996482,34.022471,7,local,7
-49049.0,Utah,Utah,-111.6702,40.1199,83,imported,0
-49049.0,Utah,Utah,-111.6702,40.1199,83,local,83
-53071.0,Walla Walla,Washington,-118.4784,46.2298,5,imported,0
-53071.0,Walla Walla,Washington,-118.4784,46.2298,5,local,5
+49049.0,Utah,Utah,-111.6702,40.1199,93,imported,0
+49049.0,Utah,Utah,-111.6702,40.1199,93,local,93
+53071.0,Walla Walla,Washington,-118.4784,46.2298,6,imported,0
+53071.0,Walla Walla,Washington,-118.4784,46.2298,6,local,6
 38099.0,Walsh,North Dakota,-97.7213,48.3695,1,imported,0
 38099.0,Walsh,North Dakota,-97.7213,48.3695,1,local,1
+49051.0,Wasatch,Utah,-111.1682,40.3308,1,imported,0
+49051.0,Wasatch,Utah,-111.1682,40.3308,1,local,1
 50023.0,Washington,Vermont,-72.6148,44.2736,1,imported,1
 50023.0,Washington,Vermont,-72.6148,44.2736,1,local,0
 26161.0,Washtenaw,Michigan,-83.8388,42.2532,7,imported,1
