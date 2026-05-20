@@ -2725,29 +2725,29 @@
 54105,Wirt,WV,
 54107,Wood,WV,
 54109,Wyoming,WV,
-56001,Albany,WY,
-56003,Big Horn,WY,
-56005,Campbell,WY,
-56007,Carbon,WY,
-56009,Converse,WY,
-56011,Crook,WY,
-56013,Fremont,WY,
-56015,Goshen,WY,
-56017,Hot Springs,WY,
-56019,Johnson,WY,
-56021,Laramie,WY,
-56023,Lincoln,WY,
-56025,Natrona,WY,
-56027,Niobrara,WY,
-56029,Park,WY,
-56031,Platte,WY,
-56033,Sheridan,WY,
-56035,Sublette,WY,
-56037,Sweetwater,WY,
-56039,Teton,WY,
-56041,Uinta,WY,
-56043,Washakie,WY,
-56045,Weston,WY,
+56001,Albany,WY,0.94
+56003,Big Horn,WY,0.89
+56005,Campbell,WY,0.94
+56007,Carbon,WY,0.94
+56009,Converse,WY,0.93
+56011,Crook,WY,0.91
+56013,Fremont,WY,0.91
+56015,Goshen,WY,0.93
+56017,Hot Springs,WY,0.95
+56019,Johnson,WY,0.96
+56021,Laramie,WY,0.86
+56023,Lincoln,WY,0.92
+56025,Natrona,WY,0.94
+56027,Niobrara,WY,0.57
+56029,Park,WY,0.9
+56031,Platte,WY,0.8
+56033,Sheridan,WY,0.9
+56035,Sublette,WY,0.92
+56037,Sweetwater,WY,0.96
+56039,Teton,WY,0.95
+56041,Uinta,WY,0.92
+56043,Washakie,WY,0.9
+56045,Weston,WY,0.63
 33001,Belknap,NH,0.935
 33003,Carroll,NH,0.904
 33005,Cheshire,NH,0.905
