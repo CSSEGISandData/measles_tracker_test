@@ -1,41 +1,33 @@
 fips,county,state,longitude,latitude,cases_total,type,count
-0.0,Bear River,Utah,-112.1381,41.661,1,imported,0
-0.0,Bear River,Utah,-112.1381,41.661,1,local,1
+42011.0,Berks,Pennsylvania,-75.926,40.4163,1,imported,0
+42011.0,Berks,Pennsylvania,-75.926,40.4163,1,local,1
 42017.0,Bucks,Pennsylvania,-75.1069,40.337,1,imported,0
 42017.0,Bucks,Pennsylvania,-75.1069,40.337,1,local,1
-0.0,Central,Utah,-111.948021,40.385835,4,imported,0
-0.0,Central,Utah,-111.948021,40.385835,4,local,4
-0.0,Central Region,Virginia,-78.21679447,37.4025616,29,imported,0
-0.0,Central Region,Virginia,-78.21679447,37.4025616,29,local,29
-42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,1,imported,0
-42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,1,local,1
-13121.0,Fulton,Georgia,-84.467,33.7902,3,imported,3
-13121.0,Fulton,Georgia,-84.467,33.7902,3,local,0
-8065.0,Lake,Colorado,-106.3448,39.2025,2,imported,0
-8065.0,Lake,Colorado,-106.3448,39.2025,2,local,2
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,10,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,10,local,10
-42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,3,imported,0
-42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,3,local,3
-6037.0,Los Angeles,California,-118.2247,34.3219,1,imported,0
-6037.0,Los Angeles,California,-118.2247,34.3219,1,local,1
-4013.0,Maricopa,Arizona,-112.4915,33.349,1,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,1,local,1
-12095.0,Orange,Florida,-81.3235,28.5144,3,imported,0
-12095.0,Orange,Florida,-81.3235,28.5144,3,local,3
-26139.0,Ottawa,Michigan,-85.996,42.9599,1,imported,0
-26139.0,Ottawa,Michigan,-85.996,42.9599,1,local,1
+0.0,Central,Utah,-111.948021,40.385835,1,imported,0
+0.0,Central,Utah,-111.948021,40.385835,1,local,1
+0.0,Central Region,Virginia,-78.21679447,37.4025616,51,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,51,local,51
+42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,2,imported,0
+42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,2,local,2
+8029.0,Delta,Colorado,-107.8629,38.8614,1,imported,0
+8029.0,Delta,Colorado,-107.8629,38.8614,1,local,1
+36029.0,Erie,New York,-78.7323,42.7639,1,imported,1
+36029.0,Erie,New York,-78.7323,42.7639,1,local,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,26,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,26,local,26
+42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,8,imported,0
+42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,8,local,8
+35029.0,Luna,New Mexico,-107.7499,32.1823,1,imported,0
+35029.0,Luna,New Mexico,-107.7499,32.1823,1,local,1
+12095.0,Orange,Florida,-81.3235,28.5144,1,imported,0
+12095.0,Orange,Florida,-81.3235,28.5144,1,local,1
 4021.0,Pinal,Arizona,-111.3448,32.9044,1,imported,0
 4021.0,Pinal,Arizona,-111.3448,32.9044,1,local,1
-0.0,Southwest Health District,Utah,-113.3625,37.449,2,imported,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,2,local,2
-48453.0,Travis,Texas,-97.782,30.3344,1,imported,0
-48453.0,Travis,Texas,-97.782,30.3344,1,local,1
-41.0,Unknown County,Oregon,-122.588257,44.753509,1,imported,0
-41.0,Unknown County,Oregon,-122.588257,44.753509,1,local,1
-49049.0,Utah,Utah,-111.6702,40.1199,2,imported,0
-49049.0,Utah,Utah,-111.6702,40.1199,2,local,2
-53071.0,Walla Walla,Washington,-118.4784,46.2298,1,imported,0
-53071.0,Walla Walla,Washington,-118.4784,46.2298,1,local,1
-49051.0,Wasatch,Utah,-111.1682,40.3308,2,imported,0
-49051.0,Wasatch,Utah,-111.1682,40.3308,2,local,2
+0.0,Southwest Health District,Utah,-113.3625,37.449,1,imported,0
+0.0,Southwest Health District,Utah,-113.3625,37.449,1,local,1
+0.0,Tricounty,Utah,-109.8491,40.1599,1,imported,0
+0.0,Tricounty,Utah,-109.8491,40.1599,1,local,1
+49049.0,Utah,Utah,-111.6702,40.1199,1,imported,0
+49049.0,Utah,Utah,-111.6702,40.1199,1,local,1
+49051.0,Wasatch,Utah,-111.1682,40.3308,1,imported,0
+49051.0,Wasatch,Utah,-111.1682,40.3308,1,local,1

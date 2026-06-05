@@ -11,6 +11,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48019.0,Bandera,Texas,-99.2463,29.7472,5,local,5
 0.0,Bear River,Utah,-112.1381,41.661,10,imported,0
 0.0,Bear River,Utah,-112.1381,41.661,10,local,10
+42011.0,Berks,Pennsylvania,-75.926,40.4163,1,imported,0
+42011.0,Berks,Pennsylvania,-75.926,40.4163,1,local,1
 48029.0,Bexar,Texas,-98.52,29.4489,1,imported,0
 48029.0,Bexar,Texas,-98.52,29.4489,1,local,1
 46011.0,Brookings,South Dakota,-96.7904,44.3697,1,imported,0
@@ -35,10 +37,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 16027.0,Canyon,Idaho,-116.7093,43.6251,6,local,6
 38017.0,Cass,North Dakota,-97.248,46.933,1,imported,0
 38017.0,Cass,North Dakota,-97.248,46.933,1,local,1
-0.0,Central,Utah,-111.948021,40.385835,84,imported,0
-0.0,Central,Utah,-111.948021,40.385835,84,local,84
-0.0,Central Region,Virginia,-78.21679447,37.4025616,42,imported,0
-0.0,Central Region,Virginia,-78.21679447,37.4025616,42,local,42
+0.0,Central,Utah,-111.948021,40.385835,85,imported,0
+0.0,Central,Utah,-111.948021,40.385835,85,local,85
+0.0,Central Region,Virginia,-78.21679447,37.4025616,69,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,69,local,69
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,imported,0
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,local,36
 42029.0,Chester,Pennsylvania,-75.7484,39.9731,1,imported,1
@@ -57,10 +59,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,local,2
 55025.0,Dane,Wisconsin,-89.4181,43.0673,1,imported,1
 55025.0,Dane,Wisconsin,-89.4181,43.0673,1,local,0
-42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,1,imported,0
-42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,1,local,1
+42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,2,imported,0
+42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,2,local,2
 49011.0,Davis,Utah,-112.1115,40.99,13,imported,0
 49011.0,Davis,Utah,-112.1115,40.99,13,local,13
+8029.0,Delta,Colorado,-107.8629,38.8614,1,imported,0
+8029.0,Delta,Colorado,-107.8629,38.8614,1,local,1
 35013.0,Dona Ana,New Mexico,-106.8328,32.3526,3,imported,0
 35013.0,Dona Ana,New Mexico,-106.8328,32.3526,3,local,3
 38025.0,Dunn,North Dakota,-102.6182,47.3568,1,imported,0
@@ -71,6 +75,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 0.0,Eastern Region,Virginia,-76.44495462,36.95649803,1,local,1
 48141.0,El Paso,Texas,-106.2348,31.7686,24,imported,0
 48141.0,El Paso,Texas,-106.2348,31.7686,24,local,24
+36029.0,Erie,New York,-78.7323,42.7639,1,imported,1
+36029.0,Erie,New York,-78.7323,42.7639,1,local,0
 12033.0,Escambia,Florida,-87.363,30.669,5,imported,1
 12033.0,Escambia,Florida,-87.363,30.669,5,local,4
 39049.0,Franklin,Ohio,-83.0093,39.9695,7,imported,0
@@ -121,10 +127,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8065.0,Lake,Colorado,-106.3448,39.2025,6,local,6
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,imported,0
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,local,1
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,18,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,18,local,18
-42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,14,imported,0
-42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,14,local,14
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,34,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,34,local,34
+42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,19,imported,0
+42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,19,local,19
 12071.0,Lee,Florida,-81.8332,26.578,3,imported,0
 12071.0,Lee,Florida,-81.8332,26.578,3,local,3
 30049.0,Lewis and Clark,Montana,-112.3904,47.1224,5,imported,0
@@ -137,8 +143,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 6037.0,Los Angeles,California,-118.2247,34.3219,5,local,1
 48303.0,Lubbock,Texas,-101.8205,33.6102,1,imported,1
 48303.0,Lubbock,Texas,-101.8205,33.6102,1,local,0
-35029.0,Luna,New Mexico,-107.7499,32.1823,11,imported,0
-35029.0,Luna,New Mexico,-107.7499,32.1823,11,local,11
+35029.0,Luna,New Mexico,-107.7499,32.1823,12,imported,0
+35029.0,Luna,New Mexico,-107.7499,32.1823,12,local,12
 26099.0,Macomb,Michigan,-82.9323,42.6957,2,imported,0
 26099.0,Macomb,Michigan,-82.9323,42.6957,2,local,2
 16065.0,Madison,Idaho,-111.6592,43.7841,2,imported,0
@@ -253,8 +259,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 38097.0,Traill,North Dakota,-97.1616,47.4542,1,local,1
 48453.0,Travis,Texas,-97.782,30.3344,1,imported,0
 48453.0,Travis,Texas,-97.782,30.3344,1,local,1
-0.0,Tricounty,Utah,-109.8491,40.1599,73,imported,0
-0.0,Tricounty,Utah,-109.8491,40.1599,73,local,73
+0.0,Tricounty,Utah,-109.8491,40.1599,74,imported,0
+0.0,Tricounty,Utah,-109.8491,40.1599,74,local,74
 37179.0,Union,North Carolina,-80.5307,34.9884,2,imported,0
 37179.0,Union,North Carolina,-80.5307,34.9884,2,local,2
 6.0,Unknown County,California,-119.347852,35.491035,1,imported,0
