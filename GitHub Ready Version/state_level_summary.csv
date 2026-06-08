@@ -1,9 +1,9 @@
 state,cases_total,imported,local,recent_two_weeks_cases_total,counties_affected
-South Carolina,1001,6.0,1000,0,
+South Carolina,1001,6.0,995,0,
 Texas,985,2.0,983,0,
 Utah,675,0.0,675,5,
 Arizona,317,4.0,313,1,
-Florida,161,13.0,148,1,
+Florida,161,13.0,148,0,
 New Mexico,117,1.0,116,1,
 Virginia,96,2.0,94,51,
 Kansas,91,0.0,91,0,

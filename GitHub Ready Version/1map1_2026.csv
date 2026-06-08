@@ -244,7 +244,7 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Southwest Region,Virginia,-81.21939124,37.03794692,6,imported,0
 ,Southwest Region,Virginia,-81.21939124,37.03794692,6,local,6
 45083.0,Spartanburg,South Carolina,-81.9908,34.9309,641,imported,0
-45083.0,Spartanburg,South Carolina,-81.9908,34.9309,641,local,646
+45083.0,Spartanburg,South Carolina,-81.9908,34.9309,641,local,641
 53063.0,Spokane,Washington,-117.404,47.6207,1,imported,0
 53063.0,Spokane,Washington,-117.404,47.6207,1,local,1
 12109.0,St. Johns,Florida,-81.4407,29.9016,3,imported,0

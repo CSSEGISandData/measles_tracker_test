@@ -1,6 +1,6 @@
 County,Imported,Local,Total,Recent 2 Weeks,2025,2026
-U.S.,235,4116,4346,99,2214,2132
-"Spartanburg, South Carolina",5,940,940,0,299,641
+U.S.,235,4111,4346,98,2214,2132
+"Spartanburg, South Carolina",5,935,940,0,299,641
 "Gaines, Texas",0,414,414,0,414,0
 "Mohave, Arizona",0,285,285,0,215,70
 "Southwest Health District, Utah",0,265,265,1,114,151
@@ -157,7 +157,7 @@ U.S.,235,4116,4346,99,2214,2132
 "Mid-Cumberland Region, Tennessee",0,3,3,0,3,0
 "Muskegon, Michigan",0,3,3,0,3,0
 "Muskingum, Ohio",0,3,3,0,3,0
-"Orange, Florida",0,3,3,1,0,3
+"Orange, Florida",0,3,3,0,0,3
 "Palm Beach, Florida",0,3,3,0,0,3
 "Pasco, Florida",0,3,3,0,0,3
 "Pima, Arizona",0,3,3,0,1,2
