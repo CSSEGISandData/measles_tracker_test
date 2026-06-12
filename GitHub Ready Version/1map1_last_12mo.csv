@@ -3,8 +3,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8001.0,Adams,Colorado,-104.3379,39.8736,9,local,8
 12001.0,Alachua,Florida,-82.3577,29.6747,2,imported,1
 12001.0,Alachua,Florida,-82.3577,29.6747,2,local,1
-26005.0,Allegan,Michigan,-85.8883,42.5913,1,imported,0
-26005.0,Allegan,Michigan,-85.8883,42.5913,1,local,1
 2020.0,Anchorage,Alaska,-149.1082,61.1498,3,imported,2
 2020.0,Anchorage,Alaska,-149.1082,61.1498,3,local,1
 8005.0,Arapahoe,Colorado,-104.3393,39.6498,6,imported,4
@@ -33,8 +31,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8013.0,Boulder,Colorado,-105.3577,40.0925,1,local,0
 16021.0,Boundary,Idaho,-116.4629,48.7669,6,imported,0
 16021.0,Boundary,Idaho,-116.4629,48.7669,6,local,6
-46011.0,Brookings,South Dakota,-96.7904,44.3697,1,imported,0
-46011.0,Brookings,South Dakota,-96.7904,44.3697,1,local,1
+46011.0,Brookings,South Dakota,-96.7904,44.3697,3,imported,0
+46011.0,Brookings,South Dakota,-96.7904,44.3697,3,local,3
 8014.0,Broomfield,Colorado,-105.0527,39.9541,4,imported,0
 8014.0,Broomfield,Colorado,-105.0527,39.9541,4,local,4
 12011.0,Broward,Florida,-80.4871,26.1523,7,imported,4
@@ -43,8 +41,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 46013.0,Brown,South Dakota,-98.3516,45.5898,1,local,0
 13029.0,Bryan,Georgia,-81.4436,32.0145,1,imported,1
 13029.0,Bryan,Georgia,-81.4436,32.0145,1,local,0
-42017.0,Bucks,Pennsylvania,-75.1069,40.337,2,imported,1
-42017.0,Bucks,Pennsylvania,-75.1069,40.337,2,local,1
 37021.0,Buncombe,North Carolina,-82.5301,35.6112,7,imported,3
 37021.0,Buncombe,North Carolina,-82.5301,35.6112,7,local,4
 37023.0,Burke,North Carolina,-81.7048,35.7496,1,imported,0
@@ -65,10 +61,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 29039.0,Cedar,Missouri,-93.8566,37.7239,5,local,5
 19.0,Central,Iowa,-93.40754375,41.84471875,2,imported,1
 19.0,Central,Iowa,-93.40754375,41.84471875,2,local,1
-0.0,Central,Utah,-111.948021,40.385835,88,imported,0
-0.0,Central,Utah,-111.948021,40.385835,88,local,88
-0.0,Central Region,Virginia,-78.21679447,37.4025616,70,imported,0
-0.0,Central Region,Virginia,-78.21679447,37.4025616,70,local,70
+0.0,Central,Utah,-111.948021,40.385835,89,imported,0
+0.0,Central,Utah,-111.948021,40.385835,89,local,89
+0.0,Central Region,Virginia,-78.21679447,37.4025616,90,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,90,local,90
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,imported,0
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,local,36
 42029.0,Chester,Pennsylvania,-75.7484,39.9731,1,imported,1
@@ -113,12 +109,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 19.0,Eastern,Iowa,-91.64545556,41.92909259,6,local,5
 0.0,Eastern Region,Virginia,-76.44495462,36.95649803,2,imported,0
 0.0,Eastern Region,Virginia,-76.44495462,36.95649803,2,local,2
-8041.0,El Paso,Colorado,-104.5254,38.8321,4,imported,4
-8041.0,El Paso,Colorado,-104.5254,38.8321,4,local,0
 48141.0,El Paso,Texas,-106.2348,31.7686,85,imported,0
 48141.0,El Paso,Texas,-106.2348,31.7686,85,local,85
-36029.0,Erie,New York,-78.7323,42.7639,1,imported,1
-36029.0,Erie,New York,-78.7323,42.7639,1,local,0
+36029.0,Erie,New York,-78.7323,42.7639,2,imported,1
+36029.0,Erie,New York,-78.7323,42.7639,2,local,1
 12033.0,Escambia,Florida,-87.363,30.669,5,imported,1
 12033.0,Escambia,Florida,-87.363,30.669,5,local,4
 48147.0,Fannin,Texas,-96.1069,33.5938,4,imported,0
@@ -159,8 +153,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 20081.0,Haskell,Kansas,-100.8712,37.5622,19,local,19
 35023.0,Hidalgo,New Mexico,-108.7148,31.914,2,imported,0
 35023.0,Hidalgo,New Mexico,-108.7148,31.914,2,local,2
-30041.0,Hill,Montana,-110.1112,48.6282,4,imported,0
-30041.0,Hill,Montana,-110.1112,48.6282,4,local,4
 12057.0,Hillsborough,Florida,-82.3088,27.9292,3,imported,0
 12057.0,Hillsborough,Florida,-82.3088,27.9292,3,local,3
 48219.0,Hockley,Texas,-102.3432,33.6076,7,imported,0
@@ -197,8 +189,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48277.0,Lamar,Texas,-95.5712,33.6673,28,local,28
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,imported,0
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,local,1
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,35,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,35,local,35
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,39,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,39,local,39
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,19,imported,0
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,19,local,19
 12071.0,Lee,Florida,-81.8332,26.578,3,imported,0
@@ -265,8 +257,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 0.0,Nashville-Davidson County Region,Tennessee,-86.7816,36.1627,1,local,1
 56025.0,Natrona,Wyoming,-106.7986,42.9622,1,imported,0
 56025.0,Natrona,Wyoming,-106.7986,42.9622,1,local,1
-4017.0,Navajo,Arizona,-110.3214,35.3996,4,imported,4
-4017.0,Navajo,Arizona,-110.3214,35.3996,4,local,0
 36061.0,New York City,New York,-73.9668,40.7792,26,imported,0
 36061.0,New York City,New York,-73.9668,40.7792,26,local,26
 56027.0,Niobrara,Wyoming,-104.4754,43.0564,1,imported,0
@@ -309,8 +299,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 34031.0,Passaic,New Jersey,-74.3009,41.0344,1,local,0
 38067.0,Pembina,North Dakota,-97.5518,48.7675,23,imported,0
 38067.0,Pembina,North Dakota,-97.5518,48.7675,23,local,23
-46103.0,Pennington,South Dakota,-102.8238,44.0037,2,imported,1
-46103.0,Pennington,South Dakota,-102.8238,44.0037,2,local,1
 23019.0,Penobscot,Maine,-68.6495,45.4006,5,imported,1
 23019.0,Penobscot,Maine,-68.6495,45.4006,5,local,4
 45077.0,Pickens,South Carolina,-82.7253,34.8873,6,imported,0
@@ -325,6 +313,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 6061.0,Placer,California,-120.7177,39.0634,9,local,8
 31141.0,Platte,Nebraska,-97.5211,41.5713,1,imported,1
 31141.0,Platte,Nebraska,-97.5211,41.5713,1,local,0
+12105.0,Polk,Florida,-81.6976,27.9489,1,imported,0
+12105.0,Polk,Florida,-81.6976,27.9489,1,local,1
 37149.0,Polk,North Carolina,-82.1697,35.2793,5,imported,1
 37149.0,Polk,North Carolina,-82.1697,35.2793,5,local,4
 44007.0,Providence,Rhode Island,-71.58,41.8721,3,imported,3
@@ -441,8 +431,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48.0,Unknown County,Texas,-97.328656,30.909581,1,local,1
 ,Unknown County,Vermont,-72.82424,44.101952,1,imported,0
 ,Unknown County,Vermont,-72.82424,44.101952,1,local,1
-49049.0,Utah,Utah,-111.6702,40.1199,111,imported,0
-49049.0,Utah,Utah,-111.6702,40.1199,111,local,111
+49049.0,Utah,Utah,-111.6702,40.1199,114,imported,0
+49049.0,Utah,Utah,-111.6702,40.1199,114,local,114
 53071.0,Walla Walla,Washington,-118.4784,46.2298,7,imported,0
 53071.0,Walla Walla,Washington,-118.4784,46.2298,7,local,7
 38099.0,Walsh,North Dakota,-97.7213,48.3695,1,imported,0
@@ -475,5 +465,3 @@ fips,county,state,longitude,latitude,cases_total,type,count
 21239.0,Woodford,Kentucky,-84.7436,38.0424,3,local,3
 30111.0,Yellowstone,Montana,-108.2744,45.9373,4,imported,0
 30111.0,Yellowstone,Montana,-108.2744,45.9373,4,local,4
-6113.0,Yolo,California,-121.9011,38.6866,1,imported,0
-6113.0,Yolo,California,-121.9011,38.6866,1,local,1

@@ -15,8 +15,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42011.0,Berks,Pennsylvania,-75.926,40.4163,1,local,1
 48029.0,Bexar,Texas,-98.52,29.4489,1,imported,0
 48029.0,Bexar,Texas,-98.52,29.4489,1,local,1
-46011.0,Brookings,South Dakota,-96.7904,44.3697,1,imported,0
-46011.0,Brookings,South Dakota,-96.7904,44.3697,1,local,1
+46011.0,Brookings,South Dakota,-96.7904,44.3697,3,imported,0
+46011.0,Brookings,South Dakota,-96.7904,44.3697,3,local,3
 8014.0,Broomfield,Colorado,-105.0527,39.9541,4,imported,0
 8014.0,Broomfield,Colorado,-105.0527,39.9541,4,local,4
 12011.0,Broward,Florida,-80.4871,26.1523,5,imported,4
@@ -25,8 +25,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 46013.0,Brown,South Dakota,-98.3516,45.5898,1,local,0
 13029.0,Bryan,Georgia,-81.4436,32.0145,1,imported,1
 13029.0,Bryan,Georgia,-81.4436,32.0145,1,local,0
-42017.0,Bucks,Pennsylvania,-75.1069,40.337,1,imported,0
-42017.0,Bucks,Pennsylvania,-75.1069,40.337,1,local,1
 37021.0,Buncombe,North Carolina,-82.5301,35.6112,7,imported,3
 37021.0,Buncombe,North Carolina,-82.5301,35.6112,7,local,4
 37023.0,Burke,North Carolina,-81.7048,35.7496,1,imported,0
@@ -37,10 +35,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 16027.0,Canyon,Idaho,-116.7093,43.6251,6,local,6
 38017.0,Cass,North Dakota,-97.248,46.933,1,imported,0
 38017.0,Cass,North Dakota,-97.248,46.933,1,local,1
-0.0,Central,Utah,-111.948021,40.385835,85,imported,0
-0.0,Central,Utah,-111.948021,40.385835,85,local,85
-0.0,Central Region,Virginia,-78.21679447,37.4025616,69,imported,0
-0.0,Central Region,Virginia,-78.21679447,37.4025616,69,local,69
+0.0,Central,Utah,-111.948021,40.385835,86,imported,0
+0.0,Central,Utah,-111.948021,40.385835,86,local,86
+0.0,Central Region,Virginia,-78.21679447,37.4025616,89,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,89,local,89
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,imported,0
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,local,36
 42029.0,Chester,Pennsylvania,-75.7484,39.9731,1,imported,1
@@ -75,8 +73,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 0.0,Eastern Region,Virginia,-76.44495462,36.95649803,1,local,1
 48141.0,El Paso,Texas,-106.2348,31.7686,24,imported,0
 48141.0,El Paso,Texas,-106.2348,31.7686,24,local,24
-36029.0,Erie,New York,-78.7323,42.7639,1,imported,1
-36029.0,Erie,New York,-78.7323,42.7639,1,local,0
+36029.0,Erie,New York,-78.7323,42.7639,2,imported,1
+36029.0,Erie,New York,-78.7323,42.7639,2,local,1
 12033.0,Escambia,Florida,-87.363,30.669,5,imported,1
 12033.0,Escambia,Florida,-87.363,30.669,5,local,4
 39049.0,Franklin,Ohio,-83.0093,39.9695,7,imported,0
@@ -127,8 +125,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8065.0,Lake,Colorado,-106.3448,39.2025,6,local,6
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,imported,0
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,local,1
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,34,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,34,local,34
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,38,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,38,local,38
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,19,imported,0
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,19,local,19
 12071.0,Lee,Florida,-81.8332,26.578,3,imported,0
@@ -203,6 +201,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 12103.0,Pinellas,Florida,-82.7255,27.9198,6,local,6
 6061.0,Placer,California,-120.7177,39.0634,8,imported,0
 6061.0,Placer,California,-120.7177,39.0634,8,local,8
+12105.0,Polk,Florida,-81.6976,27.9489,1,imported,0
+12105.0,Polk,Florida,-81.6976,27.9489,1,local,1
 37149.0,Polk,North Carolina,-82.1697,35.2793,4,imported,0
 37149.0,Polk,North Carolina,-82.1697,35.2793,4,local,4
 44007.0,Providence,Rhode Island,-71.58,41.8721,2,imported,2
@@ -281,8 +281,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 41.0,Unknown County,Oregon,-122.588257,44.753509,19,local,19
 45.0,Unknown County,South Carolina,-80.996482,34.022471,7,imported,0
 45.0,Unknown County,South Carolina,-80.996482,34.022471,7,local,7
-49049.0,Utah,Utah,-111.6702,40.1199,95,imported,0
-49049.0,Utah,Utah,-111.6702,40.1199,95,local,95
+49049.0,Utah,Utah,-111.6702,40.1199,98,imported,0
+49049.0,Utah,Utah,-111.6702,40.1199,98,local,98
 53071.0,Walla Walla,Washington,-118.4784,46.2298,7,imported,0
 53071.0,Walla Walla,Washington,-118.4784,46.2298,7,local,7
 38099.0,Walsh,North Dakota,-97.7213,48.3695,1,imported,0
