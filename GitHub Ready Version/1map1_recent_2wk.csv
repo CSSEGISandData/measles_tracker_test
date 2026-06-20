@@ -1,25 +1,25 @@
 fips,county,state,longitude,latitude,cases_total,type,count
+45013.0,Beaufort,South Carolina,-80.7306,32.3857,1,imported,0
+45013.0,Beaufort,South Carolina,-80.7306,32.3857,1,local,1
 42011.0,Berks,Pennsylvania,-75.926,40.4163,1,imported,0
 42011.0,Berks,Pennsylvania,-75.926,40.4163,1,local,1
-46011.0,Brookings,South Dakota,-96.7904,44.3697,2,imported,0
-46011.0,Brookings,South Dakota,-96.7904,44.3697,2,local,2
-0.0,Central,Utah,-111.948021,40.385835,2,imported,0
-0.0,Central,Utah,-111.948021,40.385835,2,local,2
-0.0,Central Region,Virginia,-78.21679447,37.4025616,47,imported,0
-0.0,Central Region,Virginia,-78.21679447,37.4025616,47,local,47
+0.0,Central,Utah,-111.948021,40.385835,9,imported,0
+0.0,Central,Utah,-111.948021,40.385835,9,local,9
+0.0,Central Region,Virginia,-78.21679447,37.4025616,38,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,38,local,38
 42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,1,imported,0
 42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,1,local,1
-8029.0,Delta,Colorado,-107.8629,38.8614,1,imported,0
-8029.0,Delta,Colorado,-107.8629,38.8614,1,local,1
-36029.0,Erie,New York,-78.7323,42.7639,2,imported,1
-36029.0,Erie,New York,-78.7323,42.7639,2,local,1
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,20,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,20,local,20
-42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,5,imported,0
-42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,5,local,5
+36029.0,Erie,New York,-78.7323,42.7639,1,imported,0
+36029.0,Erie,New York,-78.7323,42.7639,1,local,1
+9003.0,Hartford,Connecticut,-72.572,41.8185,1,imported,1
+9003.0,Hartford,Connecticut,-72.572,41.8185,1,local,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,22,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,22,local,22
+42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,6,imported,0
+42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,6,local,6
 12105.0,Polk,Florida,-81.6976,27.9489,1,imported,0
 12105.0,Polk,Florida,-81.6976,27.9489,1,local,1
-0.0,Tricounty,Utah,-109.8491,40.1599,1,imported,0
-0.0,Tricounty,Utah,-109.8491,40.1599,1,local,1
+6085.0,Santa Clara,California,-121.6951,37.2318,1,imported,0
+6085.0,Santa Clara,California,-121.6951,37.2318,1,local,1
 49049.0,Utah,Utah,-111.6702,40.1199,3,imported,0
 49049.0,Utah,Utah,-111.6702,40.1199,3,local,3
