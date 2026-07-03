@@ -37,14 +37,14 @@ fips,county,state,longitude,latitude,cases_total,type,count
 16027.0,Canyon,Idaho,-116.7093,43.6251,6,local,6
 38017.0,Cass,North Dakota,-97.248,46.933,1,imported,0
 38017.0,Cass,North Dakota,-97.248,46.933,1,local,1
-0.0,Central,Utah,-111.948021,40.385835,102,imported,0
-0.0,Central,Utah,-111.948021,40.385835,102,local,102
-0.0,Central Region,Virginia,-78.21679447,37.4025616,107,imported,0
-0.0,Central Region,Virginia,-78.21679447,37.4025616,107,local,107
+0.0,Central,Utah,-111.948021,40.385835,103,imported,0
+0.0,Central,Utah,-111.948021,40.385835,103,local,103
+0.0,Central Region,Virginia,-78.21679447,37.4025616,123,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,123,local,123
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,imported,0
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,local,36
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,1,imported,1
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,1,local,0
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,3,imported,1
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,3,local,2
 41005.0,Clackamas,Oregon,-122.2208,45.188,2,imported,0
 41005.0,Clackamas,Oregon,-122.2208,45.188,2,local,2
 53011.0,Clark,Washington,-122.4825,45.7792,8,imported,1
@@ -101,8 +101,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 45049.0,Hampton,South Carolina,-81.1407,32.7763,1,local,0
 48201.0,Harris,Texas,-95.3938,29.8578,5,imported,0
 48201.0,Harris,Texas,-95.3938,29.8578,5,local,5
-9003.0,Hartford,Connecticut,-72.572,41.8185,1,imported,1
-9003.0,Hartford,Connecticut,-72.572,41.8185,1,local,0
+9003.0,Hartford,Connecticut,-72.572,41.8185,2,imported,1
+9003.0,Hartford,Connecticut,-72.572,41.8185,2,local,1
 35023.0,Hidalgo,New Mexico,-108.7148,31.914,2,imported,0
 35023.0,Hidalgo,New Mexico,-108.7148,31.914,2,local,2
 12057.0,Hillsborough,Florida,-82.3088,27.9292,3,imported,0
@@ -131,8 +131,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8065.0,Lake,Colorado,-106.3448,39.2025,6,local,6
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,imported,0
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,local,1
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,49,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,49,local,49
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,51,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,51,local,51
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,20,imported,0
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,20,local,20
 12071.0,Lee,Florida,-81.8332,26.578,3,imported,0
@@ -205,8 +205,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 45077.0,Pickens,South Carolina,-82.7253,34.8873,6,local,6
 4019.0,Pima,Arizona,-111.7899,32.0974,2,imported,0
 4019.0,Pima,Arizona,-111.7899,32.0974,2,local,2
-4021.0,Pinal,Arizona,-111.3448,32.9044,6,imported,0
-4021.0,Pinal,Arizona,-111.3448,32.9044,6,local,6
+4021.0,Pinal,Arizona,-111.3448,32.9044,9,imported,0
+4021.0,Pinal,Arizona,-111.3448,32.9044,9,local,9
 12103.0,Pinellas,Florida,-82.7255,27.9198,6,imported,0
 12103.0,Pinellas,Florida,-82.7255,27.9198,6,local,6
 6061.0,Placer,California,-120.7177,39.0634,8,imported,0
@@ -231,8 +231,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 6067.0,Sacramento,California,-121.3443,38.4493,12,local,11
 8109.0,Saguache,Colorado,-106.2815,38.0805,1,imported,0
 8109.0,Saguache,Colorado,-106.2815,38.0805,1,local,1
-49035.0,Salt Lake,Utah,-111.9236,40.6673,57,imported,0
-49035.0,Salt Lake,Utah,-111.9236,40.6673,57,local,57
+49035.0,Salt Lake,Utah,-111.9236,40.6673,58,imported,0
+49035.0,Salt Lake,Utah,-111.9236,40.6673,58,local,58
 45081.0,Saluda,South Carolina,-81.7268,34.0061,1,imported,1
 45081.0,Saluda,South Carolina,-81.7268,34.0061,1,local,0
 6075.0,San Francisco,California,-122.445,37.7556,1,imported,1
@@ -249,12 +249,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 53061.0,Snohomish,Washington,-121.6972,48.0474,14,local,9
 0.0,Southeast Health District,Utah,-110.3702,39.3252,2,imported,0
 0.0,Southeast Health District,Utah,-110.3702,39.3252,2,local,2
-0.0,Southwest Health District,Utah,-113.3625,37.449,152,imported,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,152,local,152
+0.0,Southwest Health District,Utah,-113.3625,37.449,111,imported,0
+0.0,Southwest Health District,Utah,-113.3625,37.449,111,local,111
 ,Southwest Region,Virginia,-81.21939124,37.03794692,6,imported,0
 ,Southwest Region,Virginia,-81.21939124,37.03794692,6,local,6
-45083.0,Spartanburg,South Carolina,-81.9908,34.9309,641,imported,0
-45083.0,Spartanburg,South Carolina,-81.9908,34.9309,641,local,641
+45083.0,Spartanburg,South Carolina,-81.9908,34.9309,610,imported,0
+45083.0,Spartanburg,South Carolina,-81.9908,34.9309,610,local,610
 53063.0,Spokane,Washington,-117.404,47.6207,1,imported,0
 53063.0,Spokane,Washington,-117.404,47.6207,1,local,1
 12109.0,St. Johns,Florida,-81.4407,29.9016,3,imported,0
@@ -263,6 +263,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 53065.0,Stevens,Washington,-117.8552,48.3991,3,local,3
 49043.0,Summit,Utah,-110.9557,40.8683,5,imported,0
 49043.0,Summit,Utah,-110.9557,40.8683,5,local,5
+56039.0,Teton,Wyoming,-110.5898,43.9346,1,imported,0
+56039.0,Teton,Wyoming,-110.5898,43.9346,1,local,1
 49045.0,Tooele,Utah,-113.1311,40.4487,19,imported,0
 49045.0,Tooele,Utah,-113.1311,40.4487,19,local,19
 38097.0,Traill,North Dakota,-97.1616,47.4542,1,imported,0
@@ -311,5 +313,5 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8123.0,Weld,Colorado,-104.3925,40.5548,5,local,5
 38105.0,Williams,North Dakota,-103.4802,48.3437,1,imported,0
 38105.0,Williams,North Dakota,-103.4802,48.3437,1,local,1
-42133.0,York,Pennsylvania,-76.7265,39.92,1,imported,0
-42133.0,York,Pennsylvania,-76.7265,39.92,1,local,1
+42133.0,York,Pennsylvania,-76.7265,39.92,2,imported,0
+42133.0,York,Pennsylvania,-76.7265,39.92,2,local,2

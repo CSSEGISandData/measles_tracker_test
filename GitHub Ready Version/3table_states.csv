@@ -1,13 +1,13 @@
 State,Imported,Local,Total,Recent 2 Weeks,2025,2026
-U.S.,239,4203,4442,62,2214,2228
-South Carolina,7,996,1003,0,302,701
+U.S.,239,4231,4470,60,2286,2184
+South Carolina,7,996,1003,0,333,670
 Texas,2,983,985,0,803,182
-Utah,0,696,696,17,156,540
-Arizona,4,315,319,2,221,98
+Utah,0,698,698,11,197,501
+Arizona,4,318,322,5,221,101
 Florida,13,149,162,0,7,155
-Virginia,2,132,134,18,5,129
+Virginia,2,148,150,16,5,145
 New Mexico,1,116,117,0,100,17
-Pennsylvania,8,92,100,20,16,84
+Pennsylvania,8,97,105,22,16,89
 Kansas,0,91,91,0,91,0
 California,29,47,76,1,25,51
 North Dakota,6,68,74,0,36,38
@@ -26,7 +26,7 @@ Oregon,1,24,25,1,1,24
 Illinois,3,15,18,0,14,4
 Kentucky,3,15,18,0,14,4
 Oklahoma,0,18,18,0,17,1
-Wyoming,2,14,16,0,15,1
+Wyoming,2,15,17,1,15,2
 Georgia,7,8,15,0,10,5
 New Jersey,5,7,12,0,11,1
 Indiana,1,10,11,0,11,0
@@ -39,10 +39,10 @@ Nebraska,2,4,6,0,3,3
 Maine,1,4,5,0,0,5
 Alaska,3,1,4,0,4,0
 Louisiana,3,1,4,0,3,1
+Connecticut,1,2,3,1,1,2
 Hawaii,3,0,3,0,2,1
 Rhode Island,3,0,3,0,1,2
 Vermont,2,1,3,0,2,1
-Connecticut,1,1,2,1,1,1
 Massachusetts,2,0,2,0,0,2
 Nevada,0,2,2,0,2,0
 Alabama,1,0,1,0,1,0

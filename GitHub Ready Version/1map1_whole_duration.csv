@@ -93,16 +93,16 @@ fips,county,state,longitude,latitude,cases_total,type,count
 29039.0,Cedar,Missouri,-93.8566,37.7239,5,local,5
 19.0,Central,Iowa,-93.40754375,41.84471875,2,imported,1
 19.0,Central,Iowa,-93.40754375,41.84471875,2,local,1
-0.0,Central,Utah,-111.948021,40.385835,105,imported,0
-0.0,Central,Utah,-111.948021,40.385835,105,local,105
-0.0,Central Region,Virginia,-78.21679447,37.4025616,108,imported,0
-0.0,Central Region,Virginia,-78.21679447,37.4025616,108,local,108
+0.0,Central,Utah,-111.948021,40.385835,106,imported,0
+0.0,Central,Utah,-111.948021,40.385835,106,local,106
+0.0,Central Region,Virginia,-78.21679447,37.4025616,124,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,124,local,124
 35005.0,Chaves,New Mexico,-104.4669,33.3633,1,imported,0
 35005.0,Chaves,New Mexico,-104.4669,33.3633,1,local,1
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,imported,0
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,local,36
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,1,imported,1
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,1,local,0
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,3,imported,1
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,3,local,2
 41005.0,Clackamas,Oregon,-122.2208,45.188,2,imported,0
 41005.0,Clackamas,Oregon,-122.2208,45.188,2,local,2
 32003.0,Clark,Nevada,-115.0135,36.2152,1,imported,0
@@ -233,8 +233,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48201.0,Harris,Texas,-95.3938,29.8578,10,local,10
 48203.0,Harrison,Texas,-94.3715,32.5481,1,imported,0
 48203.0,Harrison,Texas,-94.3715,32.5481,1,local,1
-9003.0,Hartford,Connecticut,-72.572,41.8185,1,imported,1
-9003.0,Hartford,Connecticut,-72.572,41.8185,1,local,0
+9003.0,Hartford,Connecticut,-72.572,41.8185,2,imported,1
+9003.0,Hartford,Connecticut,-72.572,41.8185,2,local,1
 20081.0,Haskell,Kansas,-100.8712,37.5622,19,imported,0
 20081.0,Haskell,Kansas,-100.8712,37.5622,19,local,19
 48209.0,Hays,Texas,-98.0312,30.0579,1,imported,0
@@ -297,8 +297,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 50015.0,Lamoille,Vermont,-72.6419,44.607,1,local,0
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,imported,0
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,local,1
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,50,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,50,local,50
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,52,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,52,local,52
 35025.0,Lea,New Mexico,-103.4125,32.7921,67,imported,0
 35025.0,Lea,New Mexico,-103.4125,32.7921,67,local,67
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,20,imported,0
@@ -443,8 +443,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 45077.0,Pickens,South Carolina,-82.7253,34.8873,6,local,6
 4019.0,Pima,Arizona,-111.7899,32.0974,3,imported,0
 4019.0,Pima,Arizona,-111.7899,32.0974,3,local,3
-4021.0,Pinal,Arizona,-111.3448,32.9044,6,imported,0
-4021.0,Pinal,Arizona,-111.3448,32.9044,6,local,6
+4021.0,Pinal,Arizona,-111.3448,32.9044,9,imported,0
+4021.0,Pinal,Arizona,-111.3448,32.9044,9,local,9
 12103.0,Pinellas,Florida,-82.7255,27.9198,6,imported,0
 12103.0,Pinellas,Florida,-82.7255,27.9198,6,local,6
 6061.0,Placer,California,-120.7177,39.0634,9,imported,1
@@ -493,8 +493,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8109.0,Saguache,Colorado,-106.2815,38.0805,1,local,1
 5125.0,Saline,Arkansas,-92.6766,34.6466,1,imported,1
 5125.0,Saline,Arkansas,-92.6766,34.6466,1,local,0
-49035.0,Salt Lake,Utah,-111.9236,40.6673,62,imported,0
-49035.0,Salt Lake,Utah,-111.9236,40.6673,62,local,62
+49035.0,Salt Lake,Utah,-111.9236,40.6673,63,imported,0
+49035.0,Salt Lake,Utah,-111.9236,40.6673,63,local,63
 45081.0,Saluda,South Carolina,-81.7268,34.0061,1,imported,1
 45081.0,Saluda,South Carolina,-81.7268,34.0061,1,local,0
 6073.0,San Diego,California,-116.735,33.0343,1,imported,1
@@ -555,6 +555,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48439.0,Tarrant,Texas,-97.2911,32.7719,4,local,4
 48445.0,Terry,Texas,-102.3352,33.1738,60,imported,0
 48445.0,Terry,Texas,-102.3352,33.1738,60,local,60
+56039.0,Teton,Wyoming,-110.5898,43.9346,1,imported,0
+56039.0,Teton,Wyoming,-110.5898,43.9346,1,local,1
 21219.0,Todd,Kentucky,-87.1792,36.8357,1,imported,0
 21219.0,Todd,Kentucky,-87.1792,36.8357,1,local,1
 49045.0,Tooele,Utah,-113.1311,40.4487,19,imported,0
@@ -651,5 +653,5 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48501.0,Yoakum,Texas,-102.8278,33.173,20,local,20
 6113.0,Yolo,California,-121.9011,38.6866,1,imported,0
 6113.0,Yolo,California,-121.9011,38.6866,1,local,1
-42133.0,York,Pennsylvania,-76.7265,39.92,1,imported,0
-42133.0,York,Pennsylvania,-76.7265,39.92,1,local,1
+42133.0,York,Pennsylvania,-76.7265,39.92,2,imported,0
+42133.0,York,Pennsylvania,-76.7265,39.92,2,local,2

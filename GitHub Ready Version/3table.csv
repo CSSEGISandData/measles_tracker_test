@@ -1,21 +1,21 @@
 County,Imported,Local,Total,Recent 2 Weeks,2025,2026
-U.S.,239,4203,4442,62,2214,2228
-"Spartanburg, South Carolina",5,935,940,0,299,641
+U.S.,239,4231,4470,60,2286,2184
+"Spartanburg, South Carolina",5,935,940,0,330,610
 "Gaines, Texas",0,414,414,0,414,0
 "Mohave, Arizona",0,285,285,0,215,70
-"Southwest Health District, Utah",0,266,266,1,114,152
+"Southwest Health District, Utah",0,266,266,1,155,111
 "Hudspeth, Texas",0,136,136,0,0,136
+"Central Region, Virginia",0,124,124,16,1,123
 "Utah, Utah",0,114,114,0,16,98
-"Central Region, Virginia",0,108,108,18,1,107
 "Collier, Florida",3,104,107,0,0,107
-"Central, Utah",0,105,105,16,3,102
+"Central, Utah",0,106,106,9,3,103
 "El Paso, Texas",0,85,85,0,61,24
 "Tricounty, Utah",0,74,74,0,0,74
 "Lea, New Mexico",0,67,67,0,67,0
-"Salt Lake, Utah",0,62,62,0,5,57
+"Salt Lake, Utah",0,63,63,1,5,58
 "Terry, Texas",0,60,60,0,60,0
 "Lubbock, Texas",1,52,53,0,52,1
-"Lancaster, Pennsylvania",0,50,50,11,1,49
+"Lancaster, Pennsylvania",0,52,52,11,1,51
 "Cherokee, South Carolina",0,36,36,0,0,36
 "Oconto, Wisconsin",9,27,36,0,36,0
 "Gray, Kansas",0,29,29,0,29,0
@@ -27,7 +27,7 @@ U.S.,239,4203,4442,62,2214,2228
 "Rockland, New York",2,23,25,0,21,4
 "Gallatin, Montana",5,18,23,0,23,0
 "Pembina, North Dakota",0,23,23,0,0,23
-"Lebanon, Pennsylvania",0,20,20,1,0,20
+"Lebanon, Pennsylvania",0,20,20,0,0,20
 "Unknown County, Kansas",0,20,20,0,20,0
 "Unknown County, Oregon",0,20,20,1,0,20
 "Yoakum, Texas",0,20,20,0,20,0
@@ -59,6 +59,7 @@ U.S.,239,4203,4442,62,2214,2228
 "McLennan, Texas",0,9,9,0,9,0
 "Northern Region, Virginia",0,9,9,0,0,9
 "Northwest Region, Virginia",2,7,9,0,3,6
+"Pinal, Arizona",0,9,9,4,0,9
 "Placer, California",1,8,9,0,1,8
 "Allen, Indiana",0,8,8,0,8,0
 "Cass, North Dakota",2,6,8,0,7,1
@@ -95,7 +96,6 @@ U.S.,239,4203,4442,62,2214,2228
 "Lake, Colorado",0,6,6,0,0,6
 "Northumberland, Pennsylvania",0,6,6,6,0,6
 "Pickens, South Carolina",0,6,6,0,0,6
-"Pinal, Arizona",0,6,6,1,0,6
 "Pinellas, Florida",0,6,6,0,0,6
 "Ransom, North Dakota",0,6,6,0,0,6
 "Riverside, California",1,5,6,0,1,5
@@ -147,6 +147,7 @@ U.S.,239,4203,4442,62,2214,2228
 "Baltimore, Maryland",3,0,3,0,0,3
 "Bexar, Texas",0,3,3,0,2,1
 "Brookings, South Dakota",0,3,3,0,0,3
+"Chester, Pennsylvania",1,2,3,2,0,3
 "Eddy, New Mexico",0,3,3,0,3,0
 "Hillsborough, Florida",0,3,3,0,0,3
 "Honolulu, Hawaii",3,0,3,0,2,1
@@ -193,6 +194,7 @@ U.S.,239,4203,4442,62,2214,2228
 "Frio, Texas",0,2,2,0,0,2
 "Garza, Texas",0,2,2,0,2,0
 "Grant, Washington",0,2,2,0,0,2
+"Hartford, Connecticut",1,1,2,1,0,2
 "Hennepin, Minnesota",2,0,2,0,2,0
 "Hidalgo, New Mexico",0,2,2,0,0,2
 "Jefferson, Kentucky",1,1,2,0,2,0
@@ -217,6 +219,7 @@ U.S.,239,4203,4442,62,2214,2228
 "Unknown County, New York",0,2,2,1,0,2
 "Weber-Morgan, Utah",0,2,2,0,0,2
 "Whatcom, Washington",2,0,2,0,2,0
+"York, Pennsylvania",0,2,2,2,0,2
 "Allegan, Michigan",0,1,1,0,1,0
 "Allen, Ohio",1,0,1,0,1,0
 "Archuleta, Colorado",0,1,1,0,1,0
@@ -238,7 +241,6 @@ U.S.,239,4203,4442,62,2214,2228
 "Carson, Texas",0,1,1,0,1,0
 "Cascade, Montana",0,1,1,0,1,0
 "Chaves, New Mexico",0,1,1,0,1,0
-"Chester, Pennsylvania",1,0,1,0,0,1
 "Clark, Nevada",0,1,1,0,1,0
 "Coastal Health District, Georgia",1,0,1,0,0,1
 "Contra Costa, California",0,1,1,0,1,0
@@ -257,7 +259,6 @@ U.S.,239,4203,4442,62,2214,2228
 "Hampton, South Carolina",1,0,1,0,0,1
 "Hardeman, Texas",0,1,1,0,1,0
 "Harrison, Texas",0,1,1,0,1,0
-"Hartford, Connecticut",1,0,1,1,0,1
 "Hays, Texas",0,1,1,0,1,0
 "Holmes, Ohio",0,1,1,0,1,0
 "Howard, Maryland",1,0,1,0,1,0
@@ -311,6 +312,7 @@ U.S.,239,4203,4442,62,2214,2228
 "South Central Connecticut, Connecticut",0,1,1,0,1,0
 "Suffolk, New York",0,1,1,0,1,0
 "Taney, Missouri",1,0,1,0,1,0
+"Teton, Wyoming",0,1,1,1,0,1
 "Todd, Kentucky",0,1,1,0,1,0
 "Traill, North Dakota",0,1,1,0,0,1
 "Unknown County, Kentucky",1,0,1,0,1,0
@@ -326,4 +328,3 @@ U.S.,239,4203,4442,62,2214,2228
 "Waukesha, Wisconsin",1,0,1,0,0,1
 "Western, Iowa",0,1,1,0,1,0
 "Yolo, California",0,1,1,0,1,0
-"York, Pennsylvania",0,1,1,1,0,1
