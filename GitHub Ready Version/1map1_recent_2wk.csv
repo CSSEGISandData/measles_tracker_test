@@ -1,35 +1,35 @@
 fips,county,state,longitude,latitude,cases_total,type,count
 42011.0,Berks,Pennsylvania,-75.926,40.4163,1,imported,0
 42011.0,Berks,Pennsylvania,-75.926,40.4163,1,local,1
-0.0,Central,Utah,-111.948021,40.385835,9,imported,0
-0.0,Central,Utah,-111.948021,40.385835,9,local,9
-0.0,Central Region,Virginia,-78.21679447,37.4025616,16,imported,0
-0.0,Central Region,Virginia,-78.21679447,37.4025616,16,local,16
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,2,imported,0
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,2,local,2
+19.0,Central,Iowa,-93.40754375,41.84471875,1,imported,1
+19.0,Central,Iowa,-93.40754375,41.84471875,1,local,0
+0.0,Central,Utah,-111.948021,40.385835,1,imported,0
+0.0,Central,Utah,-111.948021,40.385835,1,local,1
+0.0,Central Region,Virginia,-78.21679447,37.4025616,48,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,48,local,48
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,4,imported,0
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,4,local,4
+46045.0,Edmunds,South Dakota,-99.2153,45.4188,1,imported,0
+46045.0,Edmunds,South Dakota,-99.2153,45.4188,1,local,1
 9003.0,Hartford,Connecticut,-72.572,41.8185,1,imported,0
 9003.0,Hartford,Connecticut,-72.572,41.8185,1,local,1
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,11,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,11,local,11
-6037.0,Los Angeles,California,-118.2247,34.3219,1,imported,1
-6037.0,Los Angeles,California,-118.2247,34.3219,1,local,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,14,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,14,local,14
+8069.0,Larimer,Colorado,-105.4611,40.6664,1,imported,0
+8069.0,Larimer,Colorado,-105.4611,40.6664,1,local,1
 4013.0,Maricopa,Arizona,-112.4915,33.349,1,imported,0
 4013.0,Maricopa,Arizona,-112.4915,33.349,1,local,1
-24.0,National Capital Region,Maryland,-77.0322,38.99,1,imported,1
-24.0,National Capital Region,Maryland,-77.0322,38.99,1,local,0
-42097.0,Northumberland,Pennsylvania,-76.7095,40.852,6,imported,0
-42097.0,Northumberland,Pennsylvania,-76.7095,40.852,6,local,6
-4021.0,Pinal,Arizona,-111.3448,32.9044,4,imported,0
-4021.0,Pinal,Arizona,-111.3448,32.9044,4,local,4
-49035.0,Salt Lake,Utah,-111.9236,40.6673,1,imported,0
-49035.0,Salt Lake,Utah,-111.9236,40.6673,1,local,1
-0.0,Southwest Health District,Utah,-113.3625,37.449,1,imported,0
-0.0,Southwest Health District,Utah,-113.3625,37.449,1,local,1
+0.0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,1,imported,0
+0.0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,1,local,1
+0.0,Nashville-Davidson County Region,Tennessee,-86.7816,36.1627,1,imported,0
+0.0,Nashville-Davidson County Region,Tennessee,-86.7816,36.1627,1,local,1
+4021.0,Pinal,Arizona,-111.3448,32.9044,10,imported,0
+4021.0,Pinal,Arizona,-111.3448,32.9044,10,local,10
+49035.0,Salt Lake,Utah,-111.9236,40.6673,2,imported,0
+49035.0,Salt Lake,Utah,-111.9236,40.6673,2,local,2
 56039.0,Teton,Wyoming,-110.5898,43.9346,1,imported,0
 56039.0,Teton,Wyoming,-110.5898,43.9346,1,local,1
-36.0,Unknown County,New York,-74.590827,41.471783,1,imported,0
-36.0,Unknown County,New York,-74.590827,41.471783,1,local,1
-41.0,Unknown County,Oregon,-122.588257,44.753509,1,imported,0
-41.0,Unknown County,Oregon,-122.588257,44.753509,1,local,1
-42133.0,York,Pennsylvania,-76.7265,39.92,2,imported,0
-42133.0,York,Pennsylvania,-76.7265,39.92,2,local,2
+0.0,Tricounty,Utah,-109.8491,40.1599,4,imported,0
+0.0,Tricounty,Utah,-109.8491,40.1599,4,local,4
+42133.0,York,Pennsylvania,-76.7265,39.92,1,imported,0
+42133.0,York,Pennsylvania,-76.7265,39.92,1,local,1

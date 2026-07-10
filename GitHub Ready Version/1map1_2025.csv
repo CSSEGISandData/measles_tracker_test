@@ -233,8 +233,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48305.0,Lynn,Texas,-101.8161,33.1768,2,local,2
 26099.0,Macomb,Michigan,-82.9323,42.6957,2,imported,1
 26099.0,Macomb,Michigan,-82.9323,42.6957,2,local,1
-16065.0,Madison,Idaho,-111.6592,43.7841,1,imported,0
-16065.0,Madison,Idaho,-111.6592,43.7841,1,local,1
 26103.0,Marquette,Michigan,-87.6416,46.4313,2,imported,0
 26103.0,Marquette,Michigan,-87.6416,46.4313,2,local,2
 48317.0,Martin,Texas,-101.9513,32.306,3,imported,0
@@ -251,8 +249,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 0.0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,3,local,3
 48329.0,Midland,Texas,-102.0316,31.8691,7,imported,0
 48329.0,Midland,Texas,-102.0316,31.8691,7,local,7
-4015.0,Mohave,Arizona,-113.7579,35.7041,215,imported,0
-4015.0,Mohave,Arizona,-113.7579,35.7041,215,local,215
+4015.0,Mohave,Arizona,-113.7579,35.7041,216,imported,0
+4015.0,Mohave,Arizona,-113.7579,35.7041,216,local,216
 26117.0,Montcalm,Michigan,-85.1525,43.311,4,imported,1
 26117.0,Montcalm,Michigan,-85.1525,43.311,4,local,3
 8083.0,Montezuma,Colorado,-108.5966,37.3386,4,imported,0
