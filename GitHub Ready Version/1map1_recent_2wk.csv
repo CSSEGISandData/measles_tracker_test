@@ -1,35 +1,35 @@
 fips,county,state,longitude,latitude,cases_total,type,count
 42011.0,Berks,Pennsylvania,-75.926,40.4163,1,imported,0
 42011.0,Berks,Pennsylvania,-75.926,40.4163,1,local,1
-19.0,Central,Iowa,-93.40754375,41.84471875,1,imported,1
-19.0,Central,Iowa,-93.40754375,41.84471875,1,local,0
-0.0,Central,Utah,-111.948021,40.385835,1,imported,0
-0.0,Central,Utah,-111.948021,40.385835,1,local,1
-0.0,Central Region,Virginia,-78.21679447,37.4025616,48,imported,0
-0.0,Central Region,Virginia,-78.21679447,37.4025616,48,local,48
+24.0,Central Region,Maryland,-76.6389,39.2764,5,imported,5
+24.0,Central Region,Maryland,-76.6389,39.2764,5,local,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,32,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,32,local,32
 42029.0,Chester,Pennsylvania,-75.7484,39.9731,4,imported,0
 42029.0,Chester,Pennsylvania,-75.7484,39.9731,4,local,4
-46045.0,Edmunds,South Dakota,-99.2153,45.4188,1,imported,0
-46045.0,Edmunds,South Dakota,-99.2153,45.4188,1,local,1
-9003.0,Hartford,Connecticut,-72.572,41.8185,1,imported,0
-9003.0,Hartford,Connecticut,-72.572,41.8185,1,local,1
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,14,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,14,local,14
-8069.0,Larimer,Colorado,-105.4611,40.6664,1,imported,0
-8069.0,Larimer,Colorado,-105.4611,40.6664,1,local,1
-4013.0,Maricopa,Arizona,-112.4915,33.349,1,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,1,local,1
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,17,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,17,local,17
+6037.0,Los Angeles,California,-118.2247,34.3219,1,imported,1
+6037.0,Los Angeles,California,-118.2247,34.3219,1,local,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,2,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,2,local,2
 0.0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,1,imported,0
 0.0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,1,local,1
 0.0,Nashville-Davidson County Region,Tennessee,-86.7816,36.1627,1,imported,0
 0.0,Nashville-Davidson County Region,Tennessee,-86.7816,36.1627,1,local,1
-4021.0,Pinal,Arizona,-111.3448,32.9044,10,imported,0
-4021.0,Pinal,Arizona,-111.3448,32.9044,10,local,10
+4021.0,Pinal,Arizona,-111.3448,32.9044,8,imported,0
+4021.0,Pinal,Arizona,-111.3448,32.9044,8,local,8
 49035.0,Salt Lake,Utah,-111.9236,40.6673,2,imported,0
 49035.0,Salt Lake,Utah,-111.9236,40.6673,2,local,2
-56039.0,Teton,Wyoming,-110.5898,43.9346,1,imported,0
-56039.0,Teton,Wyoming,-110.5898,43.9346,1,local,1
+16081.0,Teton,Idaho,-111.2076,43.7594,1,imported,0
+16081.0,Teton,Idaho,-111.2076,43.7594,1,local,1
+56039.0,Teton,Wyoming,-110.5898,43.9346,4,imported,0
+56039.0,Teton,Wyoming,-110.5898,43.9346,4,local,4
 0.0,Tricounty,Utah,-109.8491,40.1599,4,imported,0
 0.0,Tricounty,Utah,-109.8491,40.1599,4,local,4
-42133.0,York,Pennsylvania,-76.7265,39.92,1,imported,0
-42133.0,York,Pennsylvania,-76.7265,39.92,1,local,1
+41.0,Unknown County,Oregon,-122.588257,44.753509,6,imported,0
+41.0,Unknown County,Oregon,-122.588257,44.753509,6,local,6
+49049.0,Utah,Utah,-111.6702,40.1199,2,imported,0
+49049.0,Utah,Utah,-111.6702,40.1199,2,local,2
+49057.0,Weber-Morgan,Utah,-111.9134,41.2698,1,imported,0
+49057.0,Weber-Morgan,Utah,-111.9134,41.2698,1,local,1
