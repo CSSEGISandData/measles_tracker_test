@@ -335,8 +335,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 16065.0,Madison,Idaho,-111.6592,43.7841,3,local,3
 12081.0,Manatee,Florida,-82.3153,27.4719,3,imported,1
 12081.0,Manatee,Florida,-82.3153,27.4719,3,local,2
-4013.0,Maricopa,Arizona,-112.4915,33.349,18,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,18,local,18
+4013.0,Maricopa,Arizona,-112.4915,33.349,21,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,21,local,21
 26103.0,Marquette,Michigan,-87.6416,46.4313,2,imported,0
 26103.0,Marquette,Michigan,-87.6416,46.4313,2,local,2
 48317.0,Martin,Texas,-101.9513,32.306,3,imported,0
@@ -475,8 +475,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 36079.0,Putnam,New York,-73.7495,41.4267,1,local,1
 48379.0,Rains,Texas,-95.7934,32.8703,1,imported,1
 48379.0,Rains,Texas,-95.7934,32.8703,1,local,0
-48381.0,Randall,Texas,-101.897,34.9659,3,imported,0
-48381.0,Randall,Texas,-101.897,34.9659,3,local,3
+48381.0,Randall,Texas,-101.897,34.9659,4,imported,0
+48381.0,Randall,Texas,-101.897,34.9659,4,local,4
 38073.0,Ransom,North Dakota,-97.6574,46.4562,6,imported,0
 38073.0,Ransom,North Dakota,-97.6574,46.4562,6,local,6
 48389.0,Reeves,Texas,-103.693,31.323,2,imported,0
@@ -501,8 +501,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 5125.0,Saline,Arkansas,-92.6766,34.6466,1,local,0
 49035.0,Salt Lake,Utah,-111.9236,40.6673,65,imported,0
 49035.0,Salt Lake,Utah,-111.9236,40.6673,65,local,65
-45081.0,Saluda,South Carolina,-81.7268,34.0061,1,imported,1
-45081.0,Saluda,South Carolina,-81.7268,34.0061,1,local,0
+45081.0,Saluda,South Carolina,-81.7268,34.0061,2,imported,1
+45081.0,Saluda,South Carolina,-81.7268,34.0061,2,local,1
 6073.0,San Diego,California,-116.735,33.0343,1,imported,1
 6073.0,San Diego,California,-116.735,33.0343,1,local,0
 6075.0,San Francisco,California,-122.445,37.7556,1,imported,1
@@ -601,8 +601,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 31.0,Unknown County,Nebraska,-97.222143,41.167883,3,local,3
 34.0,Unknown County,New Jersey,-74.424465,40.438248,3,imported,2
 34.0,Unknown County,New Jersey,-74.424465,40.438248,3,local,1
-36.0,Unknown County,New York,-74.590827,41.471783,2,imported,0
-36.0,Unknown County,New York,-74.590827,41.471783,2,local,2
+36.0,Unknown County,New York,-74.590827,41.471783,3,imported,0
+36.0,Unknown County,New York,-74.590827,41.471783,3,local,3
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,18,imported,0
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,18,local,18
 41.0,Unknown County,Oregon,-122.588257,44.753509,26,imported,0
@@ -655,6 +655,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48491.0,Williamson,Texas,-97.6004,30.6475,8,local,8
 21239.0,Woodford,Kentucky,-84.7436,38.0424,3,imported,0
 21239.0,Woodford,Kentucky,-84.7436,38.0424,3,local,3
+4025.0,Yavapai,Arizona,-112.5537,34.5998,1,imported,0
+4025.0,Yavapai,Arizona,-112.5537,34.5998,1,local,1
 30111.0,Yellowstone,Montana,-108.2744,45.9373,4,imported,0
 30111.0,Yellowstone,Montana,-108.2744,45.9373,4,local,4
 48501.0,Yoakum,Texas,-102.8278,33.173,20,imported,0

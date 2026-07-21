@@ -163,8 +163,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 16065.0,Madison,Idaho,-111.6592,43.7841,3,local,3
 12081.0,Manatee,Florida,-82.3153,27.4719,3,imported,1
 12081.0,Manatee,Florida,-82.3153,27.4719,3,local,2
-4013.0,Maricopa,Arizona,-112.4915,33.349,18,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,18,local,18
+4013.0,Maricopa,Arizona,-112.4915,33.349,21,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,21,local,21
 37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,3,imported,0
 37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,3,local,3
 17.0,Metro East ,Illinois,-89.9167,38.65,1,imported,1
@@ -229,6 +229,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 37149.0,Polk,North Carolina,-82.1697,35.2793,4,local,4
 44007.0,Providence,Rhode Island,-71.58,41.8721,2,imported,2
 44007.0,Providence,Rhode Island,-71.58,41.8721,2,local,0
+48381.0,Randall,Texas,-101.897,34.9659,1,imported,0
+48381.0,Randall,Texas,-101.897,34.9659,1,local,1
 38073.0,Ransom,North Dakota,-97.6574,46.4562,6,imported,0
 38073.0,Ransom,North Dakota,-97.6574,46.4562,6,local,6
 22071.0,Region 1,Louisiana,-89.999761,29.903565,1,imported,1
@@ -245,8 +247,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8109.0,Saguache,Colorado,-106.2815,38.0805,1,local,1
 49035.0,Salt Lake,Utah,-111.9236,40.6673,60,imported,0
 49035.0,Salt Lake,Utah,-111.9236,40.6673,60,local,60
-45081.0,Saluda,South Carolina,-81.7268,34.0061,1,imported,1
-45081.0,Saluda,South Carolina,-81.7268,34.0061,1,local,0
+45081.0,Saluda,South Carolina,-81.7268,34.0061,2,imported,1
+45081.0,Saluda,South Carolina,-81.7268,34.0061,2,local,1
 6075.0,San Francisco,California,-122.445,37.7556,1,imported,1
 6075.0,San Francisco,California,-122.445,37.7556,1,local,0
 49037.0,San Juan,Utah,-109.8046,37.626,3,imported,0
@@ -301,8 +303,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 27.0,Unknown County,Minnesota,-93.558751,45.18999,17,local,17
 31.0,Unknown County,Nebraska,-97.222143,41.167883,2,imported,0
 31.0,Unknown County,Nebraska,-97.222143,41.167883,2,local,2
-36.0,Unknown County,New York,-74.590827,41.471783,2,imported,0
-36.0,Unknown County,New York,-74.590827,41.471783,2,local,2
+36.0,Unknown County,New York,-74.590827,41.471783,3,imported,0
+36.0,Unknown County,New York,-74.590827,41.471783,3,local,3
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,1,imported,0
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,1,local,1
 41.0,Unknown County,Oregon,-122.588257,44.753509,26,imported,0
@@ -329,5 +331,7 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8123.0,Weld,Colorado,-104.3925,40.5548,5,local,5
 38105.0,Williams,North Dakota,-103.4802,48.3437,1,imported,0
 38105.0,Williams,North Dakota,-103.4802,48.3437,1,local,1
+4025.0,Yavapai,Arizona,-112.5537,34.5998,1,imported,0
+4025.0,Yavapai,Arizona,-112.5537,34.5998,1,local,1
 42133.0,York,Pennsylvania,-76.7265,39.92,2,imported,0
 42133.0,York,Pennsylvania,-76.7265,39.92,2,local,2
