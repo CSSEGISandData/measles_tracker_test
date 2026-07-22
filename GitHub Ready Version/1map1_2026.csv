@@ -57,8 +57,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 13.0,Coastal Health District,Georgia,-81.37,31.81,1,local,0
 4005.0,Coconino,Arizona,-111.7705,35.8387,4,imported,0
 4005.0,Coconino,Arizona,-111.7705,35.8387,4,local,4
-12021.0,Collier,Florida,-81.3474,26.1108,107,imported,3
-12021.0,Collier,Florida,-81.3474,26.1108,107,local,104
+12021.0,Collier,Florida,-81.3474,26.1108,93,imported,3
+12021.0,Collier,Florida,-81.3474,26.1108,93,local,90
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,imported,1
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,local,2
 55025.0,Dane,Wisconsin,-89.4181,43.0673,1,imported,1
@@ -167,10 +167,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 16065.0,Madison,Idaho,-111.6592,43.7841,3,local,3
 12081.0,Manatee,Florida,-82.3153,27.4719,3,imported,1
 12081.0,Manatee,Florida,-82.3153,27.4719,3,local,2
-4013.0,Maricopa,Arizona,-112.4915,33.349,21,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,21,local,21
+4013.0,Maricopa,Arizona,-112.4915,33.349,25,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,25,local,25
 37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,3,imported,0
 37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,3,local,3
+,Memphis-Shelby County Region,Tennessee,-89.8938,35.1843,1,imported,0
+,Memphis-Shelby County Region,Tennessee,-89.8938,35.1843,1,local,1
 17.0,Metro East ,Illinois,-89.9167,38.65,1,imported,1
 17.0,Metro East ,Illinois,-89.9167,38.65,1,local,0
 12086.0,Miami-Dade,Florida,-80.5624,25.615,1,imported,0
@@ -183,6 +185,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 26115.0,Monroe,Michigan,-83.5394,41.9291,1,local,1
 42091.0,Montgomery,Pennsylvania,-75.3673,40.2108,3,imported,0
 42091.0,Montgomery,Pennsylvania,-75.3673,40.2108,3,local,3
+48339.0,Montgomery,Texas,-95.503,30.3002,3,imported,0
+48339.0,Montgomery,Texas,-95.503,30.3002,3,local,3
 6055.0,Napa,California,-122.3306,38.507,1,imported,1
 6055.0,Napa,California,-122.3306,38.507,1,local,0
 37127.0,Nash,North Carolina,-77.9864,35.9673,1,imported,0
@@ -219,8 +223,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 23019.0,Penobscot,Maine,-68.6495,45.4006,5,local,4
 45077.0,Pickens,South Carolina,-82.7253,34.8873,6,imported,0
 45077.0,Pickens,South Carolina,-82.7253,34.8873,6,local,6
-4019.0,Pima,Arizona,-111.7899,32.0974,2,imported,0
-4019.0,Pima,Arizona,-111.7899,32.0974,2,local,2
+4019.0,Pima,Arizona,-111.7899,32.0974,3,imported,0
+4019.0,Pima,Arizona,-111.7899,32.0974,3,local,3
 4021.0,Pinal,Arizona,-111.3448,32.9044,17,imported,0
 4021.0,Pinal,Arizona,-111.3448,32.9044,17,local,17
 12103.0,Pinellas,Florida,-82.7255,27.9198,6,imported,0
@@ -297,8 +301,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 0.0,Tricounty,Utah,-109.8491,40.1599,80,local,80
 37179.0,Union,North Carolina,-80.5307,34.9884,2,imported,0
 37179.0,Union,North Carolina,-80.5307,34.9884,2,local,2
-6.0,Unknown County,California,-119.347852,35.491035,1,imported,0
-6.0,Unknown County,California,-119.347852,35.491035,1,local,1
+6.0,Unknown County,California,-119.347852,35.491035,5,imported,0
+6.0,Unknown County,California,-119.347852,35.491035,5,local,5
 17.0,Unknown County,Illinois,-88.372974,41.312077,3,imported,0
 17.0,Unknown County,Illinois,-88.372974,41.312077,3,local,3
 20.0,Unknown County,Kansas,-96.409286,38.480984,1,imported,0
@@ -313,8 +317,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 36.0,Unknown County,New York,-74.590827,41.471783,3,local,3
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,1,imported,0
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,1,local,1
-41.0,Unknown County,Oregon,-122.588257,44.753509,26,imported,0
-41.0,Unknown County,Oregon,-122.588257,44.753509,26,local,26
+41.0,Unknown County,Oregon,-122.588257,44.753509,27,imported,0
+41.0,Unknown County,Oregon,-122.588257,44.753509,27,local,28
 45.0,Unknown County,South Carolina,-80.996482,34.022471,7,imported,0
 45.0,Unknown County,South Carolina,-80.996482,34.022471,7,local,7
 49049.0,Utah,Utah,-111.6702,40.1199,100,imported,0

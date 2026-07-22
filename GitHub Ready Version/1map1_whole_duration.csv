@@ -117,8 +117,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48079.0,Cochran,Texas,-102.8285,33.6042,14,local,14
 4005.0,Coconino,Arizona,-111.7705,35.8387,5,imported,0
 4005.0,Coconino,Arizona,-111.7705,35.8387,5,local,5
-12021.0,Collier,Florida,-81.3474,26.1108,107,imported,3
-12021.0,Collier,Florida,-81.3474,26.1108,107,local,104
+12021.0,Collier,Florida,-81.3474,26.1108,93,imported,3
+12021.0,Collier,Florida,-81.3474,26.1108,93,local,90
 48085.0,Collin,Texas,-96.5724,33.188,4,imported,0
 48085.0,Collin,Texas,-96.5724,33.188,4,local,4
 6013.0,Contra Costa,California,-121.9275,37.9192,1,imported,0
@@ -339,8 +339,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 16065.0,Madison,Idaho,-111.6592,43.7841,3,local,3
 12081.0,Manatee,Florida,-82.3153,27.4719,3,imported,1
 12081.0,Manatee,Florida,-82.3153,27.4719,3,local,2
-4013.0,Maricopa,Arizona,-112.4915,33.349,21,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,21,local,21
+4013.0,Maricopa,Arizona,-112.4915,33.349,25,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,25,local,25
 26103.0,Marquette,Michigan,-87.6416,46.4313,2,imported,0
 26103.0,Marquette,Michigan,-87.6416,46.4313,2,local,2
 48317.0,Martin,Texas,-101.9513,32.306,3,imported,0
@@ -351,6 +351,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 46093.0,Meade,South Dakota,-102.7169,44.5668,2,local,1
 37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,3,imported,0
 37119.0,Mecklenburg,North Carolina,-80.8328,35.2467,3,local,3
+,Memphis-Shelby County Region,Tennessee,-89.8938,35.1843,1,imported,0
+,Memphis-Shelby County Region,Tennessee,-89.8938,35.1843,1,local,1
 8077.0,Mesa,Colorado,-108.4664,39.0183,11,imported,0
 8077.0,Mesa,Colorado,-108.4664,39.0183,11,local,11
 17.0,Metro East ,Illinois,-89.9167,38.65,1,imported,1
@@ -371,6 +373,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8083.0,Montezuma,Colorado,-108.5966,37.3386,4,local,4
 42091.0,Montgomery,Pennsylvania,-75.3673,40.2108,4,imported,1
 42091.0,Montgomery,Pennsylvania,-75.3673,40.2108,4,local,3
+48339.0,Montgomery,Texas,-95.503,30.3002,3,imported,0
+48339.0,Montgomery,Texas,-95.503,30.3002,3,local,3
 41051.0,Multnomah,Oregon,-122.4149,45.5468,1,imported,1
 41051.0,Multnomah,Oregon,-122.4149,45.5468,1,local,0
 26121.0,Muskegon,Michigan,-86.152,43.2912,3,imported,0
@@ -451,8 +455,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42101.0,Philadelphia,Pennsylvania,-75.1339,40.0077,2,local,0
 45077.0,Pickens,South Carolina,-82.7253,34.8873,6,imported,0
 45077.0,Pickens,South Carolina,-82.7253,34.8873,6,local,6
-4019.0,Pima,Arizona,-111.7899,32.0974,3,imported,0
-4019.0,Pima,Arizona,-111.7899,32.0974,3,local,3
+4019.0,Pima,Arizona,-111.7899,32.0974,4,imported,0
+4019.0,Pima,Arizona,-111.7899,32.0974,4,local,4
 4021.0,Pinal,Arizona,-111.3448,32.9044,17,imported,0
 4021.0,Pinal,Arizona,-111.3448,32.9044,17,local,17
 12103.0,Pinellas,Florida,-82.7255,27.9198,6,imported,0
@@ -589,8 +593,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 27.0,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,10,local,0
 37179.0,Union,North Carolina,-80.5307,34.9884,2,imported,0
 37179.0,Union,North Carolina,-80.5307,34.9884,2,local,2
-6.0,Unknown County,California,-119.347852,35.491035,4,imported,0
-6.0,Unknown County,California,-119.347852,35.491035,4,local,4
+6.0,Unknown County,California,-119.347852,35.491035,8,imported,0
+6.0,Unknown County,California,-119.347852,35.491035,8,local,8
 16.0,Unknown County,Idaho,-115.22461,44.220476,2,imported,0
 16.0,Unknown County,Idaho,-115.22461,44.220476,2,local,2
 17.0,Unknown County,Illinois,-88.372974,41.312077,5,imported,0
@@ -611,8 +615,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 36.0,Unknown County,New York,-74.590827,41.471783,3,local,3
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,18,imported,0
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,18,local,18
-41.0,Unknown County,Oregon,-122.588257,44.753509,26,imported,0
-41.0,Unknown County,Oregon,-122.588257,44.753509,26,local,26
+41.0,Unknown County,Oregon,-122.588257,44.753509,27,imported,0
+41.0,Unknown County,Oregon,-122.588257,44.753509,27,local,28
 42.0,Unknown County,Pennsylvania,-76.965232,40.443486,1,imported,1
 42.0,Unknown County,Pennsylvania,-76.965232,40.443486,1,local,0
 45.0,Unknown County,South Carolina,-80.996482,34.022471,7,imported,0

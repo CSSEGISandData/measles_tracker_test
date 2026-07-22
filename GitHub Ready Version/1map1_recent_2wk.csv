@@ -15,14 +15,16 @@ fips,county,state,longitude,latitude,cases_total,type,count
 10001.0,Kent,Delaware,-75.5686,39.086,1,local,1
 42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,18,imported,0
 42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,18,local,18
-6037.0,Los Angeles,California,-118.2247,34.3219,1,imported,1
-6037.0,Los Angeles,California,-118.2247,34.3219,1,local,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,4,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,4,local,4
+4013.0,Maricopa,Arizona,-112.4915,33.349,8,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,8,local,8
 0.0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,1,imported,0
 0.0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,1,local,1
+48339.0,Montgomery,Texas,-95.503,30.3002,3,imported,0
+48339.0,Montgomery,Texas,-95.503,30.3002,3,local,3
 0.0,Nashville-Davidson County Region,Tennessee,-86.7816,36.1627,1,imported,0
 0.0,Nashville-Davidson County Region,Tennessee,-86.7816,36.1627,1,local,1
+4019.0,Pima,Arizona,-111.7899,32.0974,1,imported,0
+4019.0,Pima,Arizona,-111.7899,32.0974,1,local,1
 4021.0,Pinal,Arizona,-111.3448,32.9044,1,imported,0
 4021.0,Pinal,Arizona,-111.3448,32.9044,1,local,1
 48381.0,Randall,Texas,-101.897,34.9659,1,imported,0
@@ -37,10 +39,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 56039.0,Teton,Wyoming,-110.5898,43.9346,4,local,4
 0.0,Tricounty,Utah,-109.8491,40.1599,2,imported,0
 0.0,Tricounty,Utah,-109.8491,40.1599,2,local,2
+6.0,Unknown County,California,-119.347852,35.491035,4,imported,0
+6.0,Unknown County,California,-119.347852,35.491035,4,local,4
 36.0,Unknown County,New York,-74.590827,41.471783,1,imported,0
 36.0,Unknown County,New York,-74.590827,41.471783,1,local,1
-41.0,Unknown County,Oregon,-122.588257,44.753509,6,imported,0
-41.0,Unknown County,Oregon,-122.588257,44.753509,6,local,6
+41.0,Unknown County,Oregon,-122.588257,44.753509,7,imported,0
+41.0,Unknown County,Oregon,-122.588257,44.753509,7,local,8
 49049.0,Utah,Utah,-111.6702,40.1199,2,imported,0
 49049.0,Utah,Utah,-111.6702,40.1199,2,local,2
 4025.0,Yavapai,Arizona,-112.5537,34.5998,1,imported,0
