@@ -5,6 +5,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 12001.0,Alachua,Florida,-82.3577,29.6747,2,local,1
 8005.0,Arapahoe,Colorado,-104.3393,39.6498,1,imported,0
 8005.0,Arapahoe,Colorado,-104.3393,39.6498,1,local,1
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,2,imported,0
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,2,local,2
 24510.0,Baltimore,Maryland,-76.6144,39.3051,3,imported,3
 24510.0,Baltimore,Maryland,-76.6144,39.3051,3,local,0
 48019.0,Bandera,Texas,-99.2463,29.7472,5,imported,0
@@ -13,8 +15,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 0.0,Bear River,Utah,-112.1381,41.661,10,local,10
 45013.0,Beaufort,South Carolina,-80.7306,32.3857,1,imported,0
 45013.0,Beaufort,South Carolina,-80.7306,32.3857,1,local,1
-42011.0,Berks,Pennsylvania,-75.926,40.4163,3,imported,0
-42011.0,Berks,Pennsylvania,-75.926,40.4163,3,local,3
+42011.0,Berks,Pennsylvania,-75.926,40.4163,4,imported,0
+42011.0,Berks,Pennsylvania,-75.926,40.4163,4,local,4
 48029.0,Bexar,Texas,-98.52,29.4489,1,imported,0
 48029.0,Bexar,Texas,-98.52,29.4489,1,local,1
 46011.0,Brookings,South Dakota,-96.7904,44.3697,3,imported,0
@@ -41,18 +43,18 @@ fips,county,state,longitude,latitude,cases_total,type,count
 19.0,Central,Iowa,-93.40754375,41.84471875,1,local,0
 0.0,Central,Utah,-111.948021,40.385835,105,imported,0
 0.0,Central,Utah,-111.948021,40.385835,105,local,105
-24.0,Central Region,Maryland,-76.6389,39.2764,5,imported,5
-24.0,Central Region,Maryland,-76.6389,39.2764,5,local,0
+24.0,Central Region,Maryland,-76.6389,39.2764,6,imported,5
+24.0,Central Region,Maryland,-76.6389,39.2764,6,local,1
 0.0,Central Region,Virginia,-78.21679447,37.4025616,155,imported,0
 0.0,Central Region,Virginia,-78.21679447,37.4025616,155,local,155
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,imported,0
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,local,36
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,7,imported,1
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,7,local,6
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,11,imported,1
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,11,local,10
 41005.0,Clackamas,Oregon,-122.2208,45.188,2,imported,0
 41005.0,Clackamas,Oregon,-122.2208,45.188,2,local,2
-53011.0,Clark,Washington,-122.4825,45.7792,8,imported,1
-53011.0,Clark,Washington,-122.4825,45.7792,8,local,7
+53011.0,Clark,Washington,-122.4825,45.7792,9,imported,1
+53011.0,Clark,Washington,-122.4825,45.7792,9,local,8
 13.0,Coastal Health District,Georgia,-81.37,31.81,1,imported,1
 13.0,Coastal Health District,Georgia,-81.37,31.81,1,local,0
 4005.0,Coconino,Arizona,-111.7705,35.8387,4,imported,0
@@ -129,8 +131,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 37101.0,Johnston,North Carolina,-78.3657,35.5178,1,local,1
 48259.0,Kendall,Texas,-98.7115,29.9447,1,imported,0
 48259.0,Kendall,Texas,-98.7115,29.9447,1,local,1
-10001.0,Kent,Delaware,-75.5686,39.086,1,imported,0
-10001.0,Kent,Delaware,-75.5686,39.086,1,local,1
+10001.0,Kent,Delaware,-75.5686,39.086,4,imported,0
+10001.0,Kent,Delaware,-75.5686,39.086,4,local,4
 53033.0,King,Washington,-121.8052,47.4902,3,imported,0
 53033.0,King,Washington,-121.8052,47.4902,3,local,3
 53037.0,Kittitas,Washington,-120.6798,47.1244,7,imported,0
@@ -141,8 +143,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8065.0,Lake,Colorado,-106.3448,39.2025,6,local,6
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,imported,0
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,local,1
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,69,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,69,local,69
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,79,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,79,local,79
 8069.0,Larimer,Colorado,-105.4611,40.6664,1,imported,0
 8069.0,Larimer,Colorado,-105.4611,40.6664,1,local,1
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,20,imported,0
@@ -179,6 +181,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 12086.0,Miami-Dade,Florida,-80.5624,25.615,1,local,1
 0.0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,1,imported,0
 0.0,Mid-Cumberland Region,Tennessee,-87.0033,36.2448,1,local,1
+42087.0,Mifflin,Pennsylvania,-77.617,40.6104,1,imported,0
+42087.0,Mifflin,Pennsylvania,-77.617,40.6104,1,local,1
 4015.0,Mohave,Arizona,-113.7579,35.7041,69,imported,0
 4015.0,Mohave,Arizona,-113.7579,35.7041,69,local,69
 26115.0,Monroe,Michigan,-83.5394,41.9291,1,imported,0
@@ -273,6 +277,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42109.0,Snyder,Pennsylvania,-77.0702,40.7698,1,local,1
 0.0,Southeast Health District,Utah,-110.3702,39.3252,2,imported,0
 0.0,Southeast Health District,Utah,-110.3702,39.3252,2,local,2
+24.0,Southern Maryland,Maryland,−76.7789,38.459,2,imported,2
+24.0,Southern Maryland,Maryland,−76.7789,38.459,2,local,0
 0.0,Southwest Health District,Utah,-113.3625,37.449,111,imported,0
 0.0,Southwest Health District,Utah,-113.3625,37.449,111,local,111
 ,Southwest Region,Virginia,-81.21939124,37.03794692,6,imported,0
@@ -343,5 +349,5 @@ fips,county,state,longitude,latitude,cases_total,type,count
 38105.0,Williams,North Dakota,-103.4802,48.3437,1,local,1
 4025.0,Yavapai,Arizona,-112.5537,34.5998,1,imported,0
 4025.0,Yavapai,Arizona,-112.5537,34.5998,1,local,1
-42133.0,York,Pennsylvania,-76.7265,39.92,2,imported,0
-42133.0,York,Pennsylvania,-76.7265,39.92,2,local,2
+42133.0,York,Pennsylvania,-76.7265,39.92,3,imported,0
+42133.0,York,Pennsylvania,-76.7265,39.92,3,local,3
