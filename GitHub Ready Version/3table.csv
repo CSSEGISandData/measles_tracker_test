@@ -1,19 +1,19 @@
 County,Imported,Local,Total,Recent 2 Weeks,2025,2026
-U.S.,248,4360,4607,81,2286,2321
+U.S.,249,4407,4656,93,2286,2370
 "Spartanburg, South Carolina",5,935,940,0,330,610
 "Gaines, Texas",0,414,414,0,414,0
 "Mohave, Arizona",0,285,285,0,216,69
 "Southwest Health District, Utah",0,266,266,0,155,111
 "Central Region, Virginia",0,156,156,0,1,155
 "Hudspeth, Texas",0,136,136,0,0,136
-"Utah, Utah",0,116,116,2,16,100
+"Utah, Utah",0,116,116,0,16,100
 "Central, Utah",0,108,108,2,3,105
+"Lancaster, Pennsylvania",0,99,99,30,1,98
 "Collier, Florida",3,90,93,0,0,93
 "El Paso, Texas",0,85,85,0,61,24
-"Lancaster, Pennsylvania",0,80,80,16,1,79
 "Tricounty, Utah",0,80,80,2,0,80
 "Lea, New Mexico",0,67,67,0,67,0
-"Salt Lake, Utah",0,66,66,2,5,61
+"Salt Lake, Utah",0,66,66,1,5,61
 "Terry, Texas",0,60,60,0,60,0
 "Lubbock, Texas",1,52,53,0,52,1
 "Cherokee, South Carolina",0,36,36,0,0,36
@@ -21,23 +21,25 @@ U.S.,248,4360,4607,81,2286,2321
 "Gray, Kansas",0,29,29,0,29,0
 "Lamar, Texas",0,28,28,0,28,0
 "Unknown County, Minnesota",0,28,28,0,11,17
-"Unknown County, Oregon",0,28,27,7,0,27
+"Unknown County, Oregon",0,27,27,0,0,27
 "Dawson, Texas",0,26,26,0,26,0
 "Luna, New Mexico",0,26,26,0,14,12
 "New York City, New York",0,26,26,0,20,6
-"Maricopa, Arizona",0,25,25,8,0,25
+"Maricopa, Arizona",0,25,25,4,0,25
 "Rockland, New York",2,23,25,0,21,4
 "Gallatin, Montana",5,18,23,0,23,0
 "Pembina, North Dakota",0,23,23,0,0,23
 "Unknown County, Kansas",0,21,21,0,20,1
 "Lebanon, Pennsylvania",0,20,20,0,0,20
 "Yoakum, Texas",0,20,20,0,20,0
+"Ashtabula, Ohio",3,16,19,1,16,3
+"Chester, Pennsylvania",1,18,19,12,0,19
 "Haskell, Kansas",0,19,19,0,19,0
 "Tooele, Utah",0,19,19,0,0,19
 "Williams, North Dakota",1,18,19,0,18,1
-"Ashtabula, Ohio",3,15,18,2,16,2
+"Pinal, Arizona",0,18,18,1,0,18
 "Unknown County, Oklahoma",0,18,18,0,17,1
-"Pinal, Arizona",0,17,17,1,0,17
+"Clark, Washington",1,15,16,8,0,16
 "Snohomish, Washington",7,9,16,0,2,14
 "Davis, Utah",0,15,15,0,2,13
 "Bear River, Utah",0,14,14,0,4,10
@@ -48,17 +50,15 @@ U.S.,248,4360,4607,81,2286,2321
 "Fulton, Georgia",5,8,13,0,10,3
 "Sacramento, California",2,11,13,0,1,12
 "Ector, Texas",0,12,12,0,12,0
+"Harris, Texas",0,12,12,2,5,7
 "Los Angeles, California",11,1,12,0,5,7
 "Wasatch, Utah",0,12,12,0,9,3
-"Chester, Pennsylvania",1,10,11,6,0,11
 "Mesa, Colorado",0,11,11,0,11,0
-"Harris, Texas",0,10,10,0,5,5
 "King, Washington",6,4,10,0,7,3
 "Shasta, California",0,10,10,0,0,10
 "Stevens, Kansas",0,10,10,0,10,0
 "Twin Cities Metro Area, Minnesota",10,0,10,0,10,0
 "Adams, Colorado",1,8,9,0,4,5
-"Clark, Washington",1,8,9,1,0,9
 "McLennan, Texas",0,9,9,0,9,0
 "Northern Region, Virginia",0,9,9,0,0,9
 "Northwest Region, Virginia",2,7,9,0,3,6
@@ -68,9 +68,9 @@ U.S.,248,4360,4607,81,2286,2321
 "Cook, Illinois",2,6,8,0,8,0
 "Erie, Pennsylvania",2,6,8,0,8,0
 "Greenville, South Carolina",0,8,8,0,0,8
+"Kent, Delaware",0,8,8,8,0,8
 "Lincoln, South Dakota",7,1,8,0,8,0
 "Rockwall, Texas",0,8,8,0,2,6
-"Unknown County, California",0,8,8,4,3,5
 "Williamson, Texas",0,8,8,0,8,0
 "Broward, Florida",4,3,7,0,2,5
 "Buncombe, North Carolina",3,4,7,0,0,7
@@ -81,15 +81,17 @@ U.S.,248,4360,4607,81,2286,2321
 "Kittitas, Washington",0,7,7,0,0,7
 "Lewis and Clark, Montana",0,7,7,0,2,5
 "Midland, Texas",0,7,7,0,7,0
+"Northumberland, Pennsylvania",0,7,7,1,0,7
 "Osceola, Michigan",0,7,7,0,7,0
 "Pawnee, Kansas",0,7,7,0,7,0
 "Unknown County, South Carolina",0,7,7,0,0,7
 "Walla Walla, Washington",0,7,7,0,0,7
 "Washtenaw, Michigan",1,6,7,0,0,7
+"York, Pennsylvania",0,7,7,5,0,7
 "Arapahoe, Colorado",4,2,6,0,5,1
 "Boundary, Idaho",0,6,6,0,6,0
 "Canyon, Idaho",0,6,6,0,0,6
-"Central Region, Maryland",5,1,6,6,0,6
+"Central Region, Maryland",5,1,6,1,0,6
 "Eastern, Iowa",1,5,6,0,6,0
 "Faulkner, Arkansas",1,5,6,0,6,0
 "Fayette, Kentucky",0,6,6,0,6,0
@@ -97,7 +99,7 @@ U.S.,248,4360,4607,81,2286,2321
 "Grant, South Dakota",5,1,6,0,0,6
 "Kiowa, Kansas",0,6,6,0,6,0
 "Lake, Colorado",0,6,6,0,0,6
-"Northumberland, Pennsylvania",0,6,6,0,0,6
+"Orange, California",5,1,6,1,2,4
 "Pickens, South Carolina",0,6,6,0,0,6
 "Pinellas, Florida",0,6,6,0,0,6
 "Ransom, North Dakota",0,6,6,0,0,6
@@ -113,14 +115,13 @@ U.S.,248,4360,4607,81,2286,2321
 "Dona Ana, New Mexico",0,5,5,0,2,3
 "Escambia, Florida",1,4,5,0,0,5
 "Hale, Texas",0,5,5,0,5,0
-"Orange, California",4,1,5,0,2,3
 "Parmer, Texas",0,5,5,0,5,0
 "Penobscot, Maine",1,4,5,0,0,5
 "Polk, North Carolina",1,4,5,0,1,4
 "Santa Fe, New Mexico",1,4,5,0,5,0
 "Southeast Health District, Utah",0,5,5,0,3,2
 "Summit, Utah",0,5,5,0,0,5
-"Teton, Wyoming",0,5,5,4,0,5
+"Teton, Wyoming",0,5,5,0,0,5
 "Unknown County, Illinois",0,5,5,0,2,3
 "Upshur, Texas",0,5,5,0,5,0
 "Bergen, New Jersey",1,3,4,0,4,0
@@ -134,7 +135,6 @@ U.S.,248,4360,4607,81,2286,2321
 "Grand Traverse, Michigan",0,4,4,0,4,0
 "Hill, Montana",0,4,4,0,4,0
 "Jessamine, Kentucky",0,4,4,0,0,4
-"Kent, Delaware",0,4,4,4,0,4
 "Kent, Michigan",2,2,4,0,4,0
 "Macomb, Michigan",1,3,4,0,2,2
 "Mid-Cumberland Region, Tennessee",0,4,4,0,3,1
@@ -145,8 +145,9 @@ U.S.,248,4360,4607,81,2286,2321
 "Orange, New York",3,1,4,0,4,0
 "Ottawa, Michigan",1,3,4,0,0,4
 "Pima, Arizona",0,4,4,1,1,3
-"Randall, Texas",0,4,4,1,3,1
+"Randall, Texas",0,4,4,0,3,1
 "Tarrant, Texas",0,4,4,0,4,0
+"Unknown County, California",0,4,4,0,3,1
 "Upper Cumberland Region, Tennessee",0,4,4,0,4,0
 "Williamson, Illinois",0,4,4,0,4,0
 "Yellowstone, Montana",0,4,4,0,4,0
@@ -160,6 +161,7 @@ U.S.,248,4360,4607,81,2286,2321
 "Hillsborough, Florida",0,3,3,0,0,3
 "Honolulu, Hawaii",3,0,3,0,2,1
 "Hudson, New Jersey",1,2,3,0,2,1
+"Indiana, Pennsylvania",0,3,3,3,0,3
 "Lee, Florida",0,3,3,0,0,3
 "Madison, Idaho",0,3,3,0,0,3
 "Manatee, Florida",1,2,3,0,0,3
@@ -182,9 +184,8 @@ U.S.,248,4360,4607,81,2286,2321
 "Travis, Texas",0,3,3,0,2,1
 "Unknown County, Nebraska",0,3,3,0,1,2
 "Unknown County, New Jersey",2,1,3,0,3,0
-"Unknown County, New York",0,3,3,1,0,3
+"Unknown County, New York",0,3,3,0,0,3
 "Woodford, Kentucky",0,3,3,0,3,0
-"York, Pennsylvania",0,3,3,1,0,3
 "Alachua, Florida",1,1,2,0,0,2
 "Bailey, Texas",0,2,2,0,2,0
 "Cabarrus, North Carolina",0,2,2,0,0,2
@@ -225,6 +226,7 @@ U.S.,248,4360,4607,81,2286,2321
 "Tuolumne, California",2,0,2,0,2,0
 "Union, North Carolina",0,2,2,0,0,2
 "Unknown County, Idaho",0,2,2,0,2,0
+"Washington, District of Columbia",1,1,2,0,1,1
 "Weber-Morgan, Utah",0,2,2,0,0,2
 "Whatcom, Washington",2,0,2,0,2,0
 "Allegan, Michigan",0,1,1,0,1,0
@@ -232,6 +234,7 @@ U.S.,248,4360,4607,81,2286,2321
 "Archuleta, Colorado",0,1,1,0,1,0
 "Atascosa, Texas",0,1,1,0,1,0
 "Beaufort, South Carolina",0,1,1,0,0,1
+"Bedford, Pennsylvania",0,1,1,1,0,1
 "Bell, Texas",0,1,1,0,1,0
 "Benton, Arkansas",0,1,1,0,1,0
 "Bonner, Idaho",0,1,1,0,1,0
@@ -270,7 +273,6 @@ U.S.,248,4360,4607,81,2286,2321
 "Hays, Texas",0,1,1,0,1,0
 "Holmes, Ohio",0,1,1,0,1,0
 "Howard, Maryland",1,0,1,0,1,0
-"Indiana, Pennsylvania",0,1,1,1,0,1
 "Ingham, Michigan",1,0,1,0,1,0
 "Jackson, Missouri",0,1,1,0,0,1
 "Johnston, North Carolina",0,1,1,0,0,1
@@ -301,6 +303,7 @@ U.S.,248,4360,4607,81,2286,2321
 "Ottawa, Ohio",1,0,1,0,0,1
 "Park, Wyoming",1,0,1,0,1,0
 "Passaic, New Jersey",1,0,1,0,1,0
+"Perry, Pennsylvania",0,1,1,1,0,1
 "Platte, Nebraska",1,0,1,0,1,0
 "Polk, Florida",0,1,1,0,0,1
 "Potter, Texas",0,1,1,0,1,0
@@ -332,11 +335,10 @@ U.S.,248,4360,4607,81,2286,2321
 "Unknown County, Texas",0,1,1,0,1,0
 "Unknown County, Vermont",0,1,1,0,1,0
 "Walsh, North Dakota",0,1,1,0,0,1
-"Washington, District of Columbia",1,0,1,0,1,0
 "Washington, Minnesota",1,0,1,0,1,0
 "Washington, Vermont",1,0,1,0,0,1
 "Washoe, Nevada",0,1,1,0,1,0
 "Waukesha, Wisconsin",1,0,1,0,0,1
 "Western, Iowa",0,1,1,0,1,0
-"Yavapai, Arizona",0,1,1,1,0,1
+"Yavapai, Arizona",0,1,1,0,0,1
 "Yolo, California",0,1,1,0,1,0
