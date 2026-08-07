@@ -1,49 +1,71 @@
 fips,county,state,longitude,latitude,cases_total,type,count
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,1,imported,0
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,1,local,1
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,5,imported,0
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,5,local,5
+54001.0,Barbour,West Virginia,-80.003,39.133,1,imported,0
+54001.0,Barbour,West Virginia,-80.003,39.133,1,local,1
 42009.0,Bedford,Pennsylvania,-78.4903,40.0065,1,imported,0
 42009.0,Bedford,Pennsylvania,-78.4903,40.0065,1,local,1
-42011.0,Berks,Pennsylvania,-75.926,40.4163,1,imported,0
-42011.0,Berks,Pennsylvania,-75.926,40.4163,1,local,1
 0.0,Central,Utah,-111.948021,40.385835,2,imported,0
 0.0,Central,Utah,-111.948021,40.385835,2,local,2
-24.0,Central Region,Maryland,-76.6389,39.2764,1,imported,0
-24.0,Central Region,Maryland,-76.6389,39.2764,1,local,1
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,12,imported,0
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,12,local,12
-53011.0,Clark,Washington,-122.4825,45.7792,8,imported,0
-53011.0,Clark,Washington,-122.4825,45.7792,8,local,8
-48201.0,Harris,Texas,-95.3938,29.8578,2,imported,0
-48201.0,Harris,Texas,-95.3938,29.8578,2,local,2
-42063.0,Indiana,Pennsylvania,-79.0876,40.652,3,imported,0
-42063.0,Indiana,Pennsylvania,-79.0876,40.652,3,local,3
-10001.0,Kent,Delaware,-75.5686,39.086,8,imported,0
-10001.0,Kent,Delaware,-75.5686,39.086,8,local,8
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,30,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,30,local,30
-4013.0,Maricopa,Arizona,-112.4915,33.349,4,imported,0
-4013.0,Maricopa,Arizona,-112.4915,33.349,4,local,4
-42087.0,Mifflin,Pennsylvania,-77.617,40.6104,1,imported,0
-42087.0,Mifflin,Pennsylvania,-77.617,40.6104,1,local,1
-48339.0,Montgomery,Texas,-95.503,30.3002,3,imported,0
-48339.0,Montgomery,Texas,-95.503,30.3002,3,local,3
+42027.0,Centre,Pennsylvania,-77.8199,40.9189,2,imported,0
+42027.0,Centre,Pennsylvania,-77.8199,40.9189,2,local,2
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,11,imported,0
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,11,local,11
+42031.0,Clarion,Pennsylvania,-79.421,41.1924,1,imported,0
+42031.0,Clarion,Pennsylvania,-79.421,41.1924,1,local,1
+53011.0,Clark,Washington,-122.4825,45.7792,7,imported,0
+53011.0,Clark,Washington,-122.4825,45.7792,7,local,7
+39055.0,Geauga,Ohio,-81.1786,41.4996,13,imported,0
+39055.0,Geauga,Ohio,-81.1786,41.4996,13,local,13
+39075.0,Holmes,Ohio,-81.9293,40.5612,1,imported,0
+39075.0,Holmes,Ohio,-81.9293,40.5612,1,local,1
+42063.0,Indiana,Pennsylvania,-79.0876,40.652,2,imported,0
+42063.0,Indiana,Pennsylvania,-79.0876,40.652,2,local,2
+42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,3,imported,0
+42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,3,local,3
+10001.0,Kent,Delaware,-75.5686,39.086,4,imported,0
+10001.0,Kent,Delaware,-75.5686,39.086,4,local,4
+39083.0,Knox,Ohio,-82.4215,40.3988,1,imported,0
+39083.0,Knox,Ohio,-82.4215,40.3988,1,local,1
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,53,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,53,local,53
+42077.0,Lehigh,Pennsylvania,-75.5923,40.6127,2,imported,0
+42077.0,Lehigh,Pennsylvania,-75.5923,40.6127,2,local,2
+4013.0,Maricopa,Arizona,-112.4915,33.349,1,imported,0
+4013.0,Maricopa,Arizona,-112.4915,33.349,1,local,1
+42087.0,Mifflin,Pennsylvania,-77.617,40.6104,5,imported,0
+42087.0,Mifflin,Pennsylvania,-77.617,40.6104,5,local,5
+48339.0,Montgomery,Texas,-95.503,30.3002,1,imported,0
+48339.0,Montgomery,Texas,-95.503,30.3002,1,local,1
 42097.0,Northumberland,Pennsylvania,-76.7095,40.852,1,imported,0
 42097.0,Northumberland,Pennsylvania,-76.7095,40.852,1,local,1
 6059.0,Orange,California,-117.7609,33.7031,1,imported,1
 6059.0,Orange,California,-117.7609,33.7031,1,local,0
-42099.0,Perry,Pennsylvania,-77.2623,40.3984,1,imported,0
-42099.0,Perry,Pennsylvania,-77.2623,40.3984,1,local,1
-4019.0,Pima,Arizona,-111.7899,32.0974,1,imported,0
-4019.0,Pima,Arizona,-111.7899,32.0974,1,local,1
+26133.0,Osceola,Michigan,-85.3252,43.9898,1,imported,0
+26133.0,Osceola,Michigan,-85.3252,43.9898,1,local,1
+18121.0,Parke,Indiana,-87.2064,39.7736,2,imported,0
+18121.0,Parke,Indiana,-87.2064,39.7736,2,local,2
+42099.0,Perry,Pennsylvania,-77.2623,40.3984,4,imported,0
+42099.0,Perry,Pennsylvania,-77.2623,40.3984,4,local,4
 4021.0,Pinal,Arizona,-111.3448,32.9044,1,imported,0
 4021.0,Pinal,Arizona,-111.3448,32.9044,1,local,1
-49035.0,Salt Lake,Utah,-111.9236,40.6673,1,imported,0
-49035.0,Salt Lake,Utah,-111.9236,40.6673,1,local,1
+48375.0,Potter,Texas,-101.8939,35.4013,1,imported,0
+48375.0,Potter,Texas,-101.8939,35.4013,1,local,1
 42109.0,Snyder,Pennsylvania,-77.0702,40.7698,1,imported,0
 42109.0,Snyder,Pennsylvania,-77.0702,40.7698,1,local,1
-24.0,Southern Maryland,Maryland,−76.7789,38.459,2,imported,2
-24.0,Southern Maryland,Maryland,−76.7789,38.459,2,local,0
-0.0,Tricounty,Utah,-109.8491,40.1599,2,imported,0
-0.0,Tricounty,Utah,-109.8491,40.1599,2,local,2
-42133.0,York,Pennsylvania,-76.7265,39.92,5,imported,0
-42133.0,York,Pennsylvania,-76.7265,39.92,5,local,5
+39155.0,Trumbull,Ohio,-80.7613,41.317,2,imported,0
+39155.0,Trumbull,Ohio,-80.7613,41.317,2,local,2
+39157.0,Tuscarawas,Ohio,-81.4737,40.4409,7,imported,0
+39157.0,Tuscarawas,Ohio,-81.4737,40.4409,7,local,7
+24.0,Unknown County,Maryland,-76.802227,39.136636,4,imported,0
+24.0,Unknown County,Maryland,-76.802227,39.136636,4,local,4
+36.0,Unknown County,New York,-74.590827,41.471783,1,imported,0
+36.0,Unknown County,New York,-74.590827,41.471783,1,local,1
+41.0,Unknown County,Oregon,-122.588257,44.753509,8,imported,0
+41.0,Unknown County,Oregon,-122.588257,44.753509,8,local,8
+48459.0,Upshur,Texas,-94.9415,32.7363,1,imported,0
+48459.0,Upshur,Texas,-94.9415,32.7363,1,local,1
+39169.0,Wayne,Ohio,-81.888,40.8289,2,imported,0
+39169.0,Wayne,Ohio,-81.888,40.8289,2,local,2
+42133.0,York,Pennsylvania,-76.7265,39.92,9,imported,0
+42133.0,York,Pennsylvania,-76.7265,39.92,9,local,9
