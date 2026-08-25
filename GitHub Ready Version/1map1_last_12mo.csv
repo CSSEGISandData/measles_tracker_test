@@ -55,6 +55,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 21033.0,Caldwell,Kentucky,-87.8679,37.1454,1,local,1
 16027.0,Canyon,Idaho,-116.7093,43.6251,6,imported,0
 16027.0,Canyon,Idaho,-116.7093,43.6251,6,local,6
+56007.0,Carbon,Wyoming,-106.9306,41.6944,7,imported,1
+56007.0,Carbon,Wyoming,-106.9306,41.6944,7,local,6
 38017.0,Cass,North Dakota,-97.248,46.933,8,imported,2
 38017.0,Cass,North Dakota,-97.248,46.933,8,local,6
 19.0,Central,Iowa,-93.40754375,41.84471875,3,imported,2
@@ -277,6 +279,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48339.0,Montgomery,Texas,-95.503,30.3002,4,local,4
 26121.0,Muskegon,Michigan,-86.152,43.2912,3,imported,0
 26121.0,Muskegon,Michigan,-86.152,43.2912,3,local,3
+39119.0,Muskingum,Ohio,-81.9444,39.9654,3,imported,0
+39119.0,Muskingum,Ohio,-81.9444,39.9654,3,local,3
 6055.0,Napa,California,-122.3306,38.507,1,imported,1
 6055.0,Napa,California,-122.3306,38.507,1,local,0
 37127.0,Nash,North Carolina,-77.9864,35.9673,1,imported,0
@@ -287,6 +291,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 24.0,National Capital Region,Maryland,-77.0322,38.99,1,local,0
 36061.0,New York City,New York,-73.9668,40.7792,26,imported,0
 36061.0,New York City,New York,-73.9668,40.7792,26,local,26
+1.0,North,Alabama,-86.8529,34.4535,1,imported,1
+1.0,North,Alabama,-86.8529,34.4535,1,local,0
 0.0,Northern Region,Virginia,-77.35213021,38.85513733,9,imported,0
 0.0,Northern Region,Virginia,-77.35213021,38.85513733,9,local,9
 42097.0,Northumberland,Pennsylvania,-76.7095,40.852,7,imported,0
@@ -475,6 +481,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 45.0,Unknown County,South Carolina,-80.996482,34.022471,7,local,7
 48.0,Unknown County,Texas,-97.328656,30.909581,1,imported,0
 48.0,Unknown County,Texas,-97.328656,30.909581,1,local,1
+,Unknown County,Vermont,-72.82424,44.101952,1,imported,0
+,Unknown County,Vermont,-72.82424,44.101952,1,local,1
 48459.0,Upshur,Texas,-94.9415,32.7363,6,imported,0
 48459.0,Upshur,Texas,-94.9415,32.7363,6,local,6
 49049.0,Utah,Utah,-111.6702,40.1199,116,imported,0
