@@ -295,8 +295,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48339.0,Montgomery,Texas,-95.503,30.3002,4,local,4
 26121.0,Muskegon,Michigan,-86.152,43.2912,3,imported,0
 26121.0,Muskegon,Michigan,-86.152,43.2912,3,local,3
-39119.0,Muskingum,Ohio,-81.9444,39.9654,3,imported,0
-39119.0,Muskingum,Ohio,-81.9444,39.9654,3,local,3
 6055.0,Napa,California,-122.3306,38.507,1,imported,1
 6055.0,Napa,California,-122.3306,38.507,1,local,0
 37127.0,Nash,North Carolina,-77.9864,35.9673,1,imported,0
@@ -475,8 +473,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 6.0,Unknown County,California,-119.347852,35.491035,4,local,4
 16.0,Unknown County,Idaho,-115.22461,44.220476,2,imported,0
 16.0,Unknown County,Idaho,-115.22461,44.220476,2,local,2
-17.0,Unknown County,Illinois,-88.372974,41.312077,5,imported,0
-17.0,Unknown County,Illinois,-88.372974,41.312077,5,local,5
+17.0,Unknown County,Illinois,-88.372974,41.312077,6,imported,0
+17.0,Unknown County,Illinois,-88.372974,41.312077,6,local,6
 20.0,Unknown County,Kansas,-96.409286,38.480984,21,imported,0
 20.0,Unknown County,Kansas,-96.409286,38.480984,21,local,21
 25.0,Unknown County,Massachusetts,-71.350366,42.273659,1,imported,1

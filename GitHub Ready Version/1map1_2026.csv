@@ -419,8 +419,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42119.0,Union,Pennsylvania,-77.0622,40.963,2,local,2
 6.0,Unknown County,California,-119.347852,35.491035,1,imported,0
 6.0,Unknown County,California,-119.347852,35.491035,1,local,1
-17.0,Unknown County,Illinois,-88.372974,41.312077,3,imported,0
-17.0,Unknown County,Illinois,-88.372974,41.312077,3,local,3
+17.0,Unknown County,Illinois,-88.372974,41.312077,4,imported,0
+17.0,Unknown County,Illinois,-88.372974,41.312077,4,local,4
 20.0,Unknown County,Kansas,-96.409286,38.480984,1,imported,0
 20.0,Unknown County,Kansas,-96.409286,38.480984,1,local,1
 25.0,Unknown County,Massachusetts,-71.350366,42.273659,1,imported,1

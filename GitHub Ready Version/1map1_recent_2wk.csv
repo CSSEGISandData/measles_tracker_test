@@ -1,6 +1,4 @@
 fips,county,state,longitude,latitude,cases_total,type,count
-36003.0,Allegany,New York,-78.0276,42.2574,1,imported,0
-36003.0,Allegany,New York,-78.0276,42.2574,1,local,1
 39007.0,Ashtabula,Ohio,-80.7482,41.7072,7,imported,0
 39007.0,Ashtabula,Ohio,-80.7482,41.7072,7,local,7
 42009.0,Bedford,Pennsylvania,-78.4903,40.0065,1,imported,0
@@ -101,8 +99,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 ,Southwest Region,Virginia,-81.21939124,37.03794692,2,local,2
 24037.0,St. Mary's,Maryland,-76.6058,38.3024,13,imported,0
 24037.0,St. Mary's,Maryland,-76.6058,38.3024,13,local,13
-36101.0,Steuben,New York,-77.3838,42.2678,2,imported,0
-36101.0,Steuben,New York,-77.3838,42.2678,2,local,2
+36101.0,Steuben,New York,-77.3838,42.2678,1,imported,0
+36101.0,Steuben,New York,-77.3838,42.2678,1,local,1
 18155.0,Switzerland,Indiana,-85.037,38.8262,1,imported,0
 18155.0,Switzerland,Indiana,-85.037,38.8262,1,local,1
 36107.0,Tioga,New York,-76.3063,42.1703,1,imported,0
@@ -117,6 +115,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 39157.0,Tuscarawas,Ohio,-81.4737,40.4409,4,local,4
 42119.0,Union,Pennsylvania,-77.0622,40.963,2,imported,0
 42119.0,Union,Pennsylvania,-77.0622,40.963,2,local,2
+17.0,Unknown County,Illinois,-88.372974,41.312077,1,imported,0
+17.0,Unknown County,Illinois,-88.372974,41.312077,1,local,1
 36.0,Unknown County,New York,-74.590827,41.471783,8,imported,0
 36.0,Unknown County,New York,-74.590827,41.471783,8,local,8
 41.0,Unknown County,Oregon,-122.588257,44.753509,5,imported,0
