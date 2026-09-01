@@ -1,9 +1,9 @@
 State,Imported,Local,Total,Recent 2 Weeks,2025,2026
-U.S.,253,5033,5286,386,2286,3000
+U.S.,252,5081,5333,434,2286,3048
 South Carolina,7,997,1004,0,333,671
 Texas,8,987,995,1,803,192
 Utah,0,715,715,0,197,518
-Pennsylvania,8,468,476,165,16,460
+Pennsylvania,8,502,510,199,16,495
 Arizona,4,340,344,0,222,122
 Virginia,2,182,184,2,5,179
 Ohio,8,144,152,45,45,107
@@ -11,18 +11,18 @@ Florida,13,136,149,1,7,142
 Wisconsin,11,119,130,71,36,94
 New Mexico,1,117,118,0,100,18
 Kansas,0,92,92,0,91,1
+New York,6,83,89,21,48,41
 California,35,49,84,2,25,59
-New York,6,73,79,11,48,31
 North Dakota,6,68,74,0,36,38
 Washington,17,51,68,1,12,56
 Colorado,14,46,60,0,36,24
 Oregon,1,50,51,5,1,50
+Kentucky,3,43,46,27,14,32
 Michigan,8,38,46,0,30,16
-Kentucky,3,40,43,24,14,29
 Minnesota,14,29,43,0,26,17
 Montana,7,34,41,0,36,5
 Maryland,7,27,34,27,3,31
-Iowa,3,26,29,19,9,20
+Iowa,2,26,28,19,9,19
 South Dakota,19,8,27,0,16,11
 Idaho,2,24,26,0,15,11
 North Carolina,5,20,25,0,3,22
@@ -31,7 +31,7 @@ Georgia,7,14,21,6,10,11
 Wyoming,2,19,21,0,15,6
 Illinois,3,17,20,2,14,6
 Oklahoma,0,18,18,0,17,1
-Indiana,1,14,15,2,11,4
+Indiana,1,15,16,3,11,5
 New Jersey,5,7,12,0,11,1
 Tennessee,0,12,12,1,8,4
 Arkansas,2,6,8,0,8,0

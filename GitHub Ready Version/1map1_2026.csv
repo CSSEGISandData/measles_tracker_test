@@ -1,6 +1,8 @@
 fips,county,state,longitude,latitude,cases_total,type,count
 8001.0,Adams,Colorado,-104.3379,39.8736,5,imported,0
 8001.0,Adams,Colorado,-104.3379,39.8736,5,local,5
+42001.0,Adams,Pennsylvania,-77.2178,39.8715,1,imported,0
+42001.0,Adams,Pennsylvania,-77.2178,39.8715,1,local,1
 12001.0,Alachua,Florida,-82.3577,29.6747,2,imported,1
 12001.0,Alachua,Florida,-82.3577,29.6747,2,local,1
 36003.0,Allegany,New York,-78.0276,42.2574,3,imported,0
@@ -53,8 +55,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 38017.0,Cass,North Dakota,-97.248,46.933,1,local,1
 24015.0,Cecil,Maryland,-75.9407,39.5712,5,imported,0
 24015.0,Cecil,Maryland,-75.9407,39.5712,5,local,5
-19.0,Central,Iowa,-93.40754375,41.84471875,1,imported,1
-19.0,Central,Iowa,-93.40754375,41.84471875,1,local,0
 0.0,Central,Utah,-111.948021,40.385835,108,imported,0
 0.0,Central,Utah,-111.948021,40.385835,108,local,108
 0.0,Central Region,Virginia,-78.21679447,37.4025616,155,imported,0
@@ -63,10 +63,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42027.0,Centre,Pennsylvania,-77.8199,40.9189,15,local,15
 24017.0,Charles,Maryland,-76.9922,38.5073,1,imported,0
 24017.0,Charles,Maryland,-76.9922,38.5073,1,local,1
+36013.0,Chautauqua,New York,-79.3663,42.2281,1,imported,0
+36013.0,Chautauqua,New York,-79.3663,42.2281,1,local,1
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,imported,0
 45021.0,Cherokee,South Carolina,-81.6206,35.0481,36,local,36
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,43,imported,1
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,43,local,42
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,50,imported,1
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,50,local,49
 21047.0,Christian,Kentucky,-87.4904,36.8941,14,imported,0
 21047.0,Christian,Kentucky,-87.4904,36.8941,14,local,14
 41005.0,Clackamas,Oregon,-122.2208,45.188,2,imported,0
@@ -75,8 +77,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42031.0,Clarion,Pennsylvania,-79.421,41.1924,2,local,2
 53011.0,Clark,Washington,-122.4825,45.7792,19,imported,1
 53011.0,Clark,Washington,-122.4825,45.7792,19,local,18
-42033.0,Clearfield,Pennsylvania,-78.4742,41.0,9,imported,0
-42033.0,Clearfield,Pennsylvania,-78.4742,41.0,9,local,9
+42033.0,Clearfield,Pennsylvania,-78.4742,41.0,10,imported,0
+42033.0,Clearfield,Pennsylvania,-78.4742,41.0,10,local,10
 42035.0,Clinton,Pennsylvania,-77.6385,41.234,2,imported,0
 42035.0,Clinton,Pennsylvania,-77.6385,41.234,2,local,2
 13.0,Coastal Health District,Georgia,-81.37,31.81,1,imported,1
@@ -181,8 +183,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 55049.0,Iowa,Wisconsin,-90.1354,43.0005,49,local,49
 29095.0,Jackson,Missouri,-94.3461,39.0085,1,imported,0
 29095.0,Jackson,Missouri,-94.3461,39.0085,1,local,1
-42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,16,imported,0
-42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,16,local,16
+42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,18,imported,0
+42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,18,local,18
 21113.0,Jessamine,Kentucky,-84.5809,37.872,4,imported,0
 21113.0,Jessamine,Kentucky,-84.5809,37.872,4,local,4
 37101.0,Johnston,North Carolina,-78.3657,35.5178,1,imported,0
@@ -209,8 +211,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8065.0,Lake,Colorado,-106.3448,39.2025,6,local,6
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,imported,0
 31109.0,Lancaster,Nebraska,-96.6878,40.7842,1,local,1
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,210,imported,0
-42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,210,local,210
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,227,imported,0
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,227,local,227
 8069.0,Larimer,Colorado,-105.4611,40.6664,1,imported,0
 8069.0,Larimer,Colorado,-105.4611,40.6664,1,local,1
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,21,imported,0
@@ -267,6 +269,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42091.0,Montgomery,Pennsylvania,-75.3673,40.2108,3,local,3
 48339.0,Montgomery,Texas,-95.503,30.3002,4,imported,0
 48339.0,Montgomery,Texas,-95.503,30.3002,4,local,4
+42093.0,Montour,Pennsylvania,-76.6586,41.0279,1,imported,0
+42093.0,Montour,Pennsylvania,-76.6586,41.0279,1,local,1
 6055.0,Napa,California,-122.3306,38.507,1,imported,1
 6055.0,Napa,California,-122.3306,38.507,1,local,0
 37127.0,Nash,North Carolina,-77.9864,35.9673,1,imported,0
@@ -365,10 +369,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 6089.0,Shasta,California,-122.0405,40.7637,10,local,10
 53061.0,Snohomish,Washington,-121.6972,48.0474,14,imported,5
 53061.0,Snohomish,Washington,-121.6972,48.0474,14,local,9
-42109.0,Snyder,Pennsylvania,-77.0702,40.7698,21,imported,0
-42109.0,Snyder,Pennsylvania,-77.0702,40.7698,21,local,21
-42111.0,Somerset,Pennsylvania,-79.0283,39.9725,4,imported,0
-42111.0,Somerset,Pennsylvania,-79.0283,39.9725,4,local,4
+42109.0,Snyder,Pennsylvania,-77.0702,40.7698,22,imported,0
+42109.0,Snyder,Pennsylvania,-77.0702,40.7698,22,local,22
+42111.0,Somerset,Pennsylvania,-79.0283,39.9725,5,imported,0
+42111.0,Somerset,Pennsylvania,-79.0283,39.9725,5,local,5
 0.0,Southeast Health District,Utah,-110.3702,39.3252,2,imported,0
 0.0,Southeast Health District,Utah,-110.3702,39.3252,2,local,2
 0.0,Southwest Health District,Utah,-113.3625,37.449,112,imported,0
@@ -383,8 +387,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 12109.0,St. Johns,Florida,-81.4407,29.9016,3,local,3
 24037.0,St. Mary's,Maryland,-76.6058,38.3024,13,imported,0
 24037.0,St. Mary's,Maryland,-76.6058,38.3024,13,local,13
-36101.0,Steuben,New York,-77.3838,42.2678,2,imported,0
-36101.0,Steuben,New York,-77.3838,42.2678,2,local,2
+36101.0,Steuben,New York,-77.3838,42.2678,6,imported,0
+36101.0,Steuben,New York,-77.3838,42.2678,6,local,6
 53065.0,Stevens,Washington,-117.8552,48.3991,3,imported,0
 53065.0,Stevens,Washington,-117.8552,48.3991,3,local,3
 49043.0,Summit,Utah,-110.9557,40.8683,5,imported,0
@@ -407,16 +411,16 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48453.0,Travis,Texas,-97.782,30.3344,1,local,1
 0.0,Tricounty,Utah,-109.8491,40.1599,80,imported,0
 0.0,Tricounty,Utah,-109.8491,40.1599,80,local,80
-21221.0,Trigg,Kentucky,-87.8733,36.8064,3,imported,0
-21221.0,Trigg,Kentucky,-87.8733,36.8064,3,local,3
+21221.0,Trigg,Kentucky,-87.8733,36.8064,6,imported,0
+21221.0,Trigg,Kentucky,-87.8733,36.8064,6,local,6
 39155.0,Trumbull,Ohio,-80.7613,41.317,3,imported,0
 39155.0,Trumbull,Ohio,-80.7613,41.317,3,local,3
 39157.0,Tuscarawas,Ohio,-81.4737,40.4409,12,imported,0
 39157.0,Tuscarawas,Ohio,-81.4737,40.4409,12,local,12
 37179.0,Union,North Carolina,-80.5307,34.9884,2,imported,0
 37179.0,Union,North Carolina,-80.5307,34.9884,2,local,2
-42119.0,Union,Pennsylvania,-77.0622,40.963,2,imported,0
-42119.0,Union,Pennsylvania,-77.0622,40.963,2,local,2
+42119.0,Union,Pennsylvania,-77.0622,40.963,4,imported,0
+42119.0,Union,Pennsylvania,-77.0622,40.963,4,local,4
 6.0,Unknown County,California,-119.347852,35.491035,1,imported,0
 6.0,Unknown County,California,-119.347852,35.491035,1,local,1
 17.0,Unknown County,Illinois,-88.372974,41.312077,4,imported,0
@@ -429,8 +433,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 27.0,Unknown County,Minnesota,-93.558751,45.18999,17,local,17
 31.0,Unknown County,Nebraska,-97.222143,41.167883,2,imported,0
 31.0,Unknown County,Nebraska,-97.222143,41.167883,2,local,2
-36.0,Unknown County,New York,-74.590827,41.471783,12,imported,0
-36.0,Unknown County,New York,-74.590827,41.471783,12,local,12
+36.0,Unknown County,New York,-74.590827,41.471783,17,imported,0
+36.0,Unknown County,New York,-74.590827,41.471783,17,local,17
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,1,imported,0
 40109.0,Unknown County,Oklahoma,-96.854171,35.606866,1,local,1
 41.0,Unknown County,Oregon,-122.588257,44.753509,46,imported,0
@@ -463,6 +467,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 26161.0,Washtenaw,Michigan,-83.8388,42.2532,7,local,6
 55133.0,Waukesha,Wisconsin,-88.3045,43.0182,1,imported,1
 55133.0,Waukesha,Wisconsin,-88.3045,43.0182,1,local,0
+18177.0,Wayne,Indiana,-85.0099,39.8644,1,imported,0
+18177.0,Wayne,Indiana,-85.0099,39.8644,1,local,1
 39169.0,Wayne,Ohio,-81.888,40.8289,6,imported,0
 39169.0,Wayne,Ohio,-81.888,40.8289,6,local,6
 49057.0,Weber-Morgan,Utah,-111.9134,41.2698,2,imported,0
@@ -475,5 +481,5 @@ fips,county,state,longitude,latitude,cases_total,type,count
 38105.0,Williams,North Dakota,-103.4802,48.3437,1,local,1
 4025.0,Yavapai,Arizona,-112.5537,34.5998,1,imported,0
 4025.0,Yavapai,Arizona,-112.5537,34.5998,1,local,1
-42133.0,York,Pennsylvania,-76.7265,39.92,17,imported,0
-42133.0,York,Pennsylvania,-76.7265,39.92,17,local,17
+42133.0,York,Pennsylvania,-76.7265,39.92,19,imported,0
+42133.0,York,Pennsylvania,-76.7265,39.92,19,local,19
