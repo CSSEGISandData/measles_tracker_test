@@ -95,6 +95,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 12021.0,Collier,Florida,-81.3474,26.1108,96,local,93
 42037.0,Columbia,Pennsylvania,-76.4052,41.0486,1,imported,0
 42037.0,Columbia,Pennsylvania,-76.4052,41.0486,1,local,1
+42041.0,Cumberland,Pennsylvania,-77.2655,40.1636,1,imported,0
+42041.0,Cumberland,Pennsylvania,-77.2655,40.1636,1,local,1
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,imported,1
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,local,2
 48113.0,Dallas,Texas,-96.7778,32.7666,1,imported,0

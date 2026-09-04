@@ -161,8 +161,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 6013.0,Contra Costa,California,-121.9275,37.9192,1,local,1
 17031.0,Cook,Illinois,-87.8168,41.8401,8,imported,2
 17031.0,Cook,Illinois,-87.8168,41.8401,8,local,6
-42041.0,Cumberland,Pennsylvania,-77.2655,40.1636,1,imported,0
-42041.0,Cumberland,Pennsylvania,-77.2655,40.1636,1,local,1
+42041.0,Cumberland,Pennsylvania,-77.2655,40.1636,3,imported,0
+42041.0,Cumberland,Pennsylvania,-77.2655,40.1636,3,local,3
 35009.0,Curry,New Mexico,-103.347,34.5742,1,imported,0
 35009.0,Curry,New Mexico,-103.347,34.5742,1,local,1
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,5,imported,2

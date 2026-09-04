@@ -37,6 +37,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42035.0,Clinton,Pennsylvania,-77.6385,41.234,3,local,3
 12021.0,Collier,Florida,-81.3474,26.1108,3,imported,0
 12021.0,Collier,Florida,-81.3474,26.1108,3,local,3
+42041.0,Cumberland,Pennsylvania,-77.2655,40.1636,1,imported,0
+42041.0,Cumberland,Pennsylvania,-77.2655,40.1636,1,local,1
 48113.0,Dallas,Texas,-96.7778,32.7666,1,imported,0
 48113.0,Dallas,Texas,-96.7778,32.7666,1,local,1
 42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,1,imported,0
