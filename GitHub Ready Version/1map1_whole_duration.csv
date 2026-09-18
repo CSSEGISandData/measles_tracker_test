@@ -25,8 +25,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8007.0,Archuleta,Colorado,-107.0483,37.1935,1,local,1
 42005.0,Armstrong,Pennsylvania,-79.4646,40.8121,1,imported,0
 42005.0,Armstrong,Pennsylvania,-79.4646,40.8121,1,local,1
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,46,imported,3
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,46,local,43
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,48,imported,3
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,48,local,45
 48013.0,Atascosa,Texas,-98.5272,28.8935,1,imported,0
 48013.0,Atascosa,Texas,-98.5272,28.8935,1,local,1
 48017.0,Bailey,Texas,-102.8299,34.0686,2,imported,0
@@ -261,8 +261,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 39053.0,Gallia,Ohio,-82.3169,38.8247,3,local,3
 48169.0,Garza,Texas,-101.2984,33.1799,2,imported,0
 48169.0,Garza,Texas,-101.2984,33.1799,2,local,2
-39055.0,Geauga,Ohio,-81.1786,41.4996,33,imported,0
-39055.0,Geauga,Ohio,-81.1786,41.4996,33,local,33
+39055.0,Geauga,Ohio,-81.1786,41.4996,38,imported,0
+39055.0,Geauga,Ohio,-81.1786,41.4996,38,local,38
 38035.0,Grand Forks,North Dakota,-97.4569,47.9219,14,imported,2
 38035.0,Grand Forks,North Dakota,-97.4569,47.9219,14,local,12
 26055.0,Grand Traverse,Michigan,-85.5605,44.6687,4,imported,0
@@ -317,8 +317,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 12057.0,Hillsborough,Florida,-82.3088,27.9292,3,local,3
 48219.0,Hockley,Texas,-102.3432,33.6076,7,imported,0
 48219.0,Hockley,Texas,-102.3432,33.6076,7,local,7
-39075.0,Holmes,Ohio,-81.9293,40.5612,8,imported,0
-39075.0,Holmes,Ohio,-81.9293,40.5612,8,local,8
+39075.0,Holmes,Ohio,-81.9293,40.5612,10,imported,0
+39075.0,Holmes,Ohio,-81.9293,40.5612,10,local,10
 15003.0,Honolulu,Hawaii,-158.0739,21.4899,3,imported,3
 15003.0,Honolulu,Hawaii,-158.0739,21.4899,3,local,0
 24027.0,Howard,Maryland,-76.9312,39.2507,1,imported,1
@@ -471,8 +471,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48339.0,Montgomery,Texas,-95.503,30.3002,4,local,4
 42093.0,Montour,Pennsylvania,-76.6586,41.0279,2,imported,0
 42093.0,Montour,Pennsylvania,-76.6586,41.0279,2,local,2
-39115.0,Morgan,Ohio,-81.8527,39.6204,1,imported,0
-39115.0,Morgan,Ohio,-81.8527,39.6204,1,local,1
+39115.0,Morgan,Ohio,-81.8527,39.6204,3,imported,0
+39115.0,Morgan,Ohio,-81.8527,39.6204,3,local,3
 41051.0,Multnomah,Oregon,-122.4149,45.5468,1,imported,1
 41051.0,Multnomah,Oregon,-122.4149,45.5468,1,local,0
 26121.0,Muskegon,Michigan,-86.152,43.2912,3,imported,0
@@ -711,14 +711,14 @@ fips,county,state,longitude,latitude,cases_total,type,count
 21221.0,Trigg,Kentucky,-87.8733,36.8064,9,local,9
 21223.0,Trimble,Kentucky,-85.3375,38.613,1,imported,0
 21223.0,Trimble,Kentucky,-85.3375,38.613,1,local,1
-39155.0,Trumbull,Ohio,-80.7613,41.317,6,imported,0
-39155.0,Trumbull,Ohio,-80.7613,41.317,6,local,6
+39155.0,Trumbull,Ohio,-80.7613,41.317,7,imported,0
+39155.0,Trumbull,Ohio,-80.7613,41.317,7,local,7
 6107.0,Tulare,California,-118.8005,36.2202,2,imported,0
 6107.0,Tulare,California,-118.8005,36.2202,2,local,2
 6109.0,Tuolumne,California,-119.9548,38.0276,2,imported,2
 6109.0,Tuolumne,California,-119.9548,38.0276,2,local,0
-39157.0,Tuscarawas,Ohio,-81.4737,40.4409,12,imported,0
-39157.0,Tuscarawas,Ohio,-81.4737,40.4409,12,local,12
+39157.0,Tuscarawas,Ohio,-81.4737,40.4409,13,imported,0
+39157.0,Tuscarawas,Ohio,-81.4737,40.4409,13,local,13
 27.0,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,10,imported,10
 27.0,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,10,local,0
 37179.0,Union,North Carolina,-80.5307,34.9884,2,imported,0
@@ -795,8 +795,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 55133.0,Waukesha,Wisconsin,-88.3045,43.0182,1,local,0
 18177.0,Wayne,Indiana,-85.0099,39.8644,6,imported,0
 18177.0,Wayne,Indiana,-85.0099,39.8644,6,local,6
-39169.0,Wayne,Ohio,-81.888,40.8289,9,imported,0
-39169.0,Wayne,Ohio,-81.888,40.8289,9,local,9
+39169.0,Wayne,Ohio,-81.888,40.8289,43,imported,0
+39169.0,Wayne,Ohio,-81.888,40.8289,43,local,43
 49057.0,Weber-Morgan,Utah,-111.9134,41.2698,2,imported,0
 49057.0,Weber-Morgan,Utah,-111.9134,41.2698,2,local,2
 8123.0,Weld,Colorado,-104.3925,40.5548,6,imported,0

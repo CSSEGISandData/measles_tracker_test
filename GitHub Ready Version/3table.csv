@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks,2025,2026
-U.S.,252,5555,5807,294,2286,3521
+U.S.,252,5602,5854,341,2286,3568
 "Spartanburg, South Carolina",5,935,940,0,330,610
 "Gaines, Texas",0,414,414,0,414,0
 "Lancaster, Pennsylvania",0,325,325,78,1,324
@@ -21,11 +21,12 @@ U.S.,252,5555,5807,294,2286,3521
 "Iowa, Wisconsin",0,59,59,0,0,59
 "Unknown County, Oregon",0,54,54,4,0,54
 "Lubbock, Texas",1,52,53,0,52,1
-"Ashtabula, Ohio",3,43,46,3,16,30
+"Ashtabula, Ohio",3,45,48,5,16,32
+"Wayne, Ohio",0,43,43,34,0,43
+"Geauga, Ohio",0,38,38,6,0,38
 "Cherokee, South Carolina",0,36,36,0,0,36
 "Oconto, Wisconsin",9,27,36,0,36,0
 "Snyder, Pennsylvania",0,35,35,11,0,35
-"Geauga, Ohio",0,33,33,1,0,33
 "Jefferson, Pennsylvania",0,32,32,8,0,32
 "Gray, Kansas",0,29,29,0,29,0
 "Unknown County, Minnesota",0,29,29,1,11,18
@@ -67,13 +68,14 @@ U.S.,252,5555,5807,294,2286,3521
 "Sacramento, California",2,11,13,0,1,12
 "Somerset, Pennsylvania",0,13,13,1,0,13
 "St. Mary's, Maryland",0,13,13,0,0,13
+"Tuscarawas, Ohio",0,13,13,1,0,13
 "Ector, Texas",0,12,12,0,12,0
 "Harris, Texas",0,12,12,0,5,7
 "Los Angeles, California",11,1,12,0,5,7
-"Tuscarawas, Ohio",0,12,12,0,0,12
 "Wasatch, Utah",0,12,12,0,9,3
 "Harrison, Ohio",0,11,11,1,0,11
 "Mesa, Colorado",0,11,11,0,11,0
+"Holmes, Ohio",0,10,10,3,1,9
 "King, Washington",6,4,10,0,7,3
 "Shasta, California",0,10,10,0,0,10
 "Steuben, New York",0,10,10,1,0,10
@@ -88,7 +90,6 @@ U.S.,252,5555,5807,294,2286,3521
 "Northwest Region, Virginia",2,7,9,0,3,6
 "Placer, California",1,8,9,0,1,8
 "Trigg, Kentucky",0,9,9,3,0,9
-"Wayne, Ohio",0,9,9,0,0,9
 "Allen, Indiana",0,8,8,0,8,0
 "Carroll, Maryland",0,8,8,0,0,8
 "Cass, North Dakota",2,6,8,0,7,1
@@ -96,7 +97,6 @@ U.S.,252,5555,5807,294,2286,3521
 "Erie, Pennsylvania",2,6,8,0,8,0
 "Greenville, South Carolina",0,8,8,0,0,8
 "HHS District 5, Iowa",0,8,8,3,0,8
-"Holmes, Ohio",0,8,8,1,1,7
 "Lincoln, South Dakota",7,1,8,0,8,0
 "Northumberland, Pennsylvania",0,8,8,1,0,8
 "Orange, California",6,2,8,0,2,6
@@ -116,6 +116,7 @@ U.S.,252,5555,5807,294,2286,3521
 "Mercer, Pennsylvania",0,7,7,3,0,7
 "Midland, Texas",0,7,7,0,7,0
 "Pawnee, Kansas",0,7,7,0,7,0
+"Trumbull, Ohio",0,7,7,2,0,7
 "Union, Pennsylvania",0,7,7,3,0,7
 "Unknown County, South Carolina",0,7,7,0,0,7
 "Walla Walla, Washington",0,7,7,0,0,7
@@ -140,7 +141,6 @@ U.S.,252,5555,5807,294,2286,3521
 "Riverside, California",1,5,6,0,1,5
 "Sandoval, New Mexico",0,6,6,0,6,0
 "Switzerland, Indiana",0,6,6,3,0,6
-"Trumbull, Ohio",0,6,6,1,0,6
 "Upshur, Texas",0,6,6,0,5,1
 "Wayne, Indiana",0,6,6,4,0,6
 "Weld, Colorado",0,6,6,0,1,5
@@ -215,6 +215,7 @@ U.S.,252,5555,5807,294,2286,3521
 "Manatee, Florida",1,2,3,0,0,3
 "Martin, Texas",0,3,3,0,3,0
 "Mecklenburg, North Carolina",0,3,3,0,0,3
+"Morgan, Ohio",0,3,3,2,0,3
 "Muskegon, Michigan",0,3,3,0,3,0
 "Muskingum, Ohio",0,3,3,0,3,0
 "Orange, Florida",0,3,3,0,0,3
@@ -352,7 +353,6 @@ U.S.,252,5555,5807,294,2286,3521
 "Metro East , Illinois",1,0,1,0,0,1
 "Missaukee, Michigan",0,1,1,0,0,1
 "Monroe, Michigan",0,1,1,0,0,1
-"Morgan, Ohio",0,1,1,0,0,1
 "Multnomah, Oregon",1,0,1,0,1,0
 "Napa, California",1,0,1,0,0,1
 "Nash, North Carolina",0,1,1,0,0,1

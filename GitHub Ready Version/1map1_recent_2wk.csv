@@ -1,6 +1,6 @@
 fips,county,state,longitude,latitude,cases_total,type,count
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,3,imported,0
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,3,local,3
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,5,imported,0
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,5,local,5
 42015.0,Bradford,Pennsylvania,-76.5154,41.7887,1,imported,0
 42015.0,Bradford,Pennsylvania,-76.5154,41.7887,1,local,1
 8014.0,Broomfield,Colorado,-105.0527,39.9541,1,imported,0
@@ -33,8 +33,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 13121.0,Fulton,Georgia,-84.467,33.7902,2,local,2
 39053.0,Gallia,Ohio,-82.3169,38.8247,2,imported,0
 39053.0,Gallia,Ohio,-82.3169,38.8247,2,local,2
-39055.0,Geauga,Ohio,-81.1786,41.4996,1,imported,0
-39055.0,Geauga,Ohio,-81.1786,41.4996,1,local,1
+39055.0,Geauga,Ohio,-81.1786,41.4996,6,imported,0
+39055.0,Geauga,Ohio,-81.1786,41.4996,6,local,6
 55043.0,Grant,Wisconsin,-90.7062,42.8675,5,imported,0
 55043.0,Grant,Wisconsin,-90.7062,42.8675,5,local,5
 19.0,HHS District 3,Iowa,-92.5625,42.7727,8,imported,0
@@ -45,8 +45,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 19.0,HHS District 5,Iowa,-93.6479,41.6804,3,local,3
 39067.0,Harrison,Ohio,-81.0911,40.2938,1,imported,0
 39067.0,Harrison,Ohio,-81.0911,40.2938,1,local,1
-39075.0,Holmes,Ohio,-81.9293,40.5612,1,imported,0
-39075.0,Holmes,Ohio,-81.9293,40.5612,1,local,1
+39075.0,Holmes,Ohio,-81.9293,40.5612,3,imported,0
+39075.0,Holmes,Ohio,-81.9293,40.5612,3,local,3
 42061.0,Huntingdon,Pennsylvania,-77.9812,40.4169,1,imported,0
 42061.0,Huntingdon,Pennsylvania,-77.9812,40.4169,1,local,1
 42063.0,Indiana,Pennsylvania,-79.0876,40.652,4,imported,0
@@ -77,6 +77,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42091.0,Montgomery,Pennsylvania,-75.3673,40.2108,3,local,3
 42093.0,Montour,Pennsylvania,-76.6586,41.0279,1,imported,0
 42093.0,Montour,Pennsylvania,-76.6586,41.0279,1,local,1
+39115.0,Morgan,Ohio,-81.8527,39.6204,2,imported,0
+39115.0,Morgan,Ohio,-81.8527,39.6204,2,local,2
 42097.0,Northumberland,Pennsylvania,-76.7095,40.852,1,imported,0
 42097.0,Northumberland,Pennsylvania,-76.7095,40.852,1,local,1
 39133.0,Portage,Ohio,-81.1974,41.1677,1,imported,0
@@ -95,8 +97,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 21221.0,Trigg,Kentucky,-87.8733,36.8064,3,local,3
 21223.0,Trimble,Kentucky,-85.3375,38.613,1,imported,0
 21223.0,Trimble,Kentucky,-85.3375,38.613,1,local,1
-39155.0,Trumbull,Ohio,-80.7613,41.317,1,imported,0
-39155.0,Trumbull,Ohio,-80.7613,41.317,1,local,1
+39155.0,Trumbull,Ohio,-80.7613,41.317,2,imported,0
+39155.0,Trumbull,Ohio,-80.7613,41.317,2,local,2
+39157.0,Tuscarawas,Ohio,-81.4737,40.4409,1,imported,0
+39157.0,Tuscarawas,Ohio,-81.4737,40.4409,1,local,1
 42119.0,Union,Pennsylvania,-77.0622,40.963,3,imported,0
 42119.0,Union,Pennsylvania,-77.0622,40.963,3,local,3
 17.0,Unknown County,Illinois,-88.372974,41.312077,11,imported,0
@@ -115,5 +119,7 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42123.0,Warren,Pennsylvania,-79.2741,41.8145,1,local,1
 18177.0,Wayne,Indiana,-85.0099,39.8644,4,imported,0
 18177.0,Wayne,Indiana,-85.0099,39.8644,4,local,4
+39169.0,Wayne,Ohio,-81.888,40.8289,34,imported,0
+39169.0,Wayne,Ohio,-81.888,40.8289,34,local,34
 42133.0,York,Pennsylvania,-76.7265,39.92,3,imported,0
 42133.0,York,Pennsylvania,-76.7265,39.92,3,local,3

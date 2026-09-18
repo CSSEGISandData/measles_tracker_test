@@ -13,8 +13,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 8005.0,Arapahoe,Colorado,-104.3393,39.6498,1,local,1
 42005.0,Armstrong,Pennsylvania,-79.4646,40.8121,1,imported,0
 42005.0,Armstrong,Pennsylvania,-79.4646,40.8121,1,local,1
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,30,imported,0
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,30,local,30
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,32,imported,0
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,32,local,32
 24510.0,Baltimore,Maryland,-76.6144,39.3051,1,imported,1
 24510.0,Baltimore,Maryland,-76.6144,39.3051,1,local,0
 48019.0,Bandera,Texas,-99.2463,29.7472,5,imported,5
@@ -149,8 +149,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 13121.0,Fulton,Georgia,-84.467,33.7902,14,local,11
 39053.0,Gallia,Ohio,-82.3169,38.8247,3,imported,0
 39053.0,Gallia,Ohio,-82.3169,38.8247,3,local,3
-39055.0,Geauga,Ohio,-81.1786,41.4996,33,imported,0
-39055.0,Geauga,Ohio,-81.1786,41.4996,33,local,33
+39055.0,Geauga,Ohio,-81.1786,41.4996,38,imported,0
+39055.0,Geauga,Ohio,-81.1786,41.4996,38,local,38
 38035.0,Grand Forks,North Dakota,-97.4569,47.9219,4,imported,0
 38035.0,Grand Forks,North Dakota,-97.4569,47.9219,4,local,4
 46051.0,Grant,South Dakota,-96.7677,45.1719,6,imported,5
@@ -183,8 +183,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 35023.0,Hidalgo,New Mexico,-108.7148,31.914,2,local,2
 12057.0,Hillsborough,Florida,-82.3088,27.9292,3,imported,0
 12057.0,Hillsborough,Florida,-82.3088,27.9292,3,local,3
-39075.0,Holmes,Ohio,-81.9293,40.5612,7,imported,0
-39075.0,Holmes,Ohio,-81.9293,40.5612,7,local,7
+39075.0,Holmes,Ohio,-81.9293,40.5612,9,imported,0
+39075.0,Holmes,Ohio,-81.9293,40.5612,9,local,9
 15003.0,Honolulu,Hawaii,-158.0739,21.4899,1,imported,1
 15003.0,Honolulu,Hawaii,-158.0739,21.4899,1,local,0
 34017.0,Hudson,New Jersey,-74.0751,40.7408,1,imported,1
@@ -293,8 +293,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 48339.0,Montgomery,Texas,-95.503,30.3002,4,local,4
 42093.0,Montour,Pennsylvania,-76.6586,41.0279,2,imported,0
 42093.0,Montour,Pennsylvania,-76.6586,41.0279,2,local,2
-39115.0,Morgan,Ohio,-81.8527,39.6204,1,imported,0
-39115.0,Morgan,Ohio,-81.8527,39.6204,1,local,1
+39115.0,Morgan,Ohio,-81.8527,39.6204,3,imported,0
+39115.0,Morgan,Ohio,-81.8527,39.6204,3,local,3
 6055.0,Napa,California,-122.3306,38.507,1,imported,1
 6055.0,Napa,California,-122.3306,38.507,1,local,0
 37127.0,Nash,North Carolina,-77.9864,35.9673,1,imported,0
@@ -443,10 +443,10 @@ fips,county,state,longitude,latitude,cases_total,type,count
 21221.0,Trigg,Kentucky,-87.8733,36.8064,9,local,9
 21223.0,Trimble,Kentucky,-85.3375,38.613,1,imported,0
 21223.0,Trimble,Kentucky,-85.3375,38.613,1,local,1
-39155.0,Trumbull,Ohio,-80.7613,41.317,6,imported,0
-39155.0,Trumbull,Ohio,-80.7613,41.317,6,local,6
-39157.0,Tuscarawas,Ohio,-81.4737,40.4409,12,imported,0
-39157.0,Tuscarawas,Ohio,-81.4737,40.4409,12,local,12
+39155.0,Trumbull,Ohio,-80.7613,41.317,7,imported,0
+39155.0,Trumbull,Ohio,-80.7613,41.317,7,local,7
+39157.0,Tuscarawas,Ohio,-81.4737,40.4409,13,imported,0
+39157.0,Tuscarawas,Ohio,-81.4737,40.4409,13,local,13
 37179.0,Union,North Carolina,-80.5307,34.9884,2,imported,0
 37179.0,Union,North Carolina,-80.5307,34.9884,2,local,2
 42119.0,Union,Pennsylvania,-77.0622,40.963,7,imported,0
@@ -503,8 +503,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 55133.0,Waukesha,Wisconsin,-88.3045,43.0182,1,local,0
 18177.0,Wayne,Indiana,-85.0099,39.8644,6,imported,0
 18177.0,Wayne,Indiana,-85.0099,39.8644,6,local,6
-39169.0,Wayne,Ohio,-81.888,40.8289,9,imported,0
-39169.0,Wayne,Ohio,-81.888,40.8289,9,local,9
+39169.0,Wayne,Ohio,-81.888,40.8289,43,imported,0
+39169.0,Wayne,Ohio,-81.888,40.8289,43,local,43
 49057.0,Weber-Morgan,Utah,-111.9134,41.2698,2,imported,0
 49057.0,Weber-Morgan,Utah,-111.9134,41.2698,2,local,2
 8123.0,Weld,Colorado,-104.3925,40.5548,5,imported,0
