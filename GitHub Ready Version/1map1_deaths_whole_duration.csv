@@ -1,0 +1,5 @@
+fips,county,state,longitude,latitude,deaths_total,type,count
+35025.0,Lea,New Mexico,-103.4125,32.7921,1,death,1
+42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,2,death,2
+42.0,Unknown County,Pennsylvania,-76.965232,40.443486,3,death,3
+48.0,Unknown County,Texas,-97.328656,30.909581,2,death,2
