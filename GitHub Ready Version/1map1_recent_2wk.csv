@@ -39,6 +39,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42033.0,Clearfield,Pennsylvania,-78.4742,41.0,14,local,14
 42035.0,Clinton,Pennsylvania,-77.6385,41.234,19,imported,0
 42035.0,Clinton,Pennsylvania,-77.6385,41.234,19,local,19
+27037.0,Dakota,Minnesota,-93.0654,44.6719,1,imported,0
+27037.0,Dakota,Minnesota,-93.0654,44.6719,1,local,1
 42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,3,imported,0
 42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,3,local,3
 18033.0,DeKalb,Indiana,-84.9991,41.3976,1,imported,0

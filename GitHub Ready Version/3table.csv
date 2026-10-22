@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks,2025,2026
-U.S.,254,6624,6878,527,2286,4592
+U.S.,254,6625,6879,528,2286,4593
 "Spartanburg, South Carolina",5,935,940,0,330,610
 "Lancaster, Pennsylvania",0,453,453,61,1,452
 "Gaines, Texas",0,414,414,0,414,0
@@ -280,6 +280,7 @@ U.S.,254,6624,6878,527,2286,4592
 "Cambria, Pennsylvania",0,2,2,1,0,2
 "Central, Iowa",1,1,2,0,2,0
 "Clackamas, Oregon",0,2,2,0,0,2
+"Dakota, Minnesota",0,2,2,1,1,1
 "Dallas, Texas",0,2,2,0,1,1
 "DeKalb, Indiana",0,2,2,1,0,2
 "Denton, Texas",0,2,2,0,2,0
@@ -366,7 +367,6 @@ U.S.,254,6624,6878,527,2286,4592
 "Coastal Health District, Georgia",1,0,1,0,0,1
 "Contra Costa, California",0,1,1,0,1,0
 "Curry, New Mexico",0,1,1,0,1,0
-"Dakota, Minnesota",0,1,1,0,1,0
 "Dane, Wisconsin",1,0,1,0,0,1
 "Defiance, Ohio",1,0,1,0,1,0
 "Delta, Colorado",0,1,1,0,0,1

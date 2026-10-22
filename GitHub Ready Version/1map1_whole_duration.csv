@@ -197,8 +197,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 35009.0,Curry,New Mexico,-103.347,34.5742,1,local,1
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,5,imported,2
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,5,local,3
-27037.0,Dakota,Minnesota,-93.0654,44.6719,1,imported,0
-27037.0,Dakota,Minnesota,-93.0654,44.6719,1,local,1
+27037.0,Dakota,Minnesota,-93.0654,44.6719,2,imported,0
+27037.0,Dakota,Minnesota,-93.0654,44.6719,2,local,2
 48111.0,Dallam,Texas,-102.6022,36.2779,7,imported,0
 48111.0,Dallam,Texas,-102.6022,36.2779,7,local,7
 48113.0,Dallas,Texas,-96.7778,32.7666,2,imported,0

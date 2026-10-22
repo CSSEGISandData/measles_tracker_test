@@ -141,8 +141,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42041.0,Cumberland,Pennsylvania,-77.2655,40.1636,3,local,3
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,5,imported,2
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,5,local,3
-27037.0,Dakota,Minnesota,-93.0654,44.6719,1,imported,0
-27037.0,Dakota,Minnesota,-93.0654,44.6719,1,local,1
+27037.0,Dakota,Minnesota,-93.0654,44.6719,2,imported,0
+27037.0,Dakota,Minnesota,-93.0654,44.6719,2,local,2
 48113.0,Dallas,Texas,-96.7778,32.7666,2,imported,0
 48113.0,Dallas,Texas,-96.7778,32.7666,2,local,2
 55025.0,Dane,Wisconsin,-89.4181,43.0673,1,imported,1
