@@ -1,23 +1,23 @@
 State,Imported,Local,Total,Recent 2 Weeks,2025,2026
-U.S.,254,6635,6889,574,2286,4603
-Pennsylvania,8,1268,1276,285,16,1260
+U.S.,254,6624,6878,527,2286,4592
+Pennsylvania,8,1268,1276,284,16,1260
 South Carolina,7,997,1004,0,333,671
 Texas,8,987,995,0,803,192
 Utah,0,724,724,0,197,527
 Arizona,4,341,345,0,222,123
 Wisconsin,11,313,324,54,36,288
-Ohio,8,294,302,50,45,257
+Ohio,8,294,302,28,45,257
 Virginia,2,182,184,0,5,179
 Kentucky,3,180,183,75,14,169
-New York,6,175,181,42,48,133
+New York,6,175,181,24,48,133
 Florida,13,142,155,0,7,148
 New Mexico,1,118,119,0,100,19
-Kansas,0,96,96,1,91,5
-California,35,50,85,1,25,60
-Minnesota,14,65,79,21,26,53
+Kansas,0,96,96,0,91,5
+California,35,50,85,0,25,60
 North Dakota,6,68,74,0,36,38
 Washington,17,53,70,0,12,58
-Maryland,7,58,65,7,3,62
+Minnesota,14,54,68,19,26,42
+Maryland,7,58,65,6,3,62
 Colorado,14,47,61,0,36,25
 Oregon,1,60,61,0,1,60
 Indiana,1,55,56,20,11,45
@@ -34,7 +34,7 @@ Missouri,1,20,21,12,7,14
 Wyoming,2,19,21,0,15,6
 Oklahoma,0,18,18,0,17,1
 Tennessee,0,17,17,0,8,9
-New Jersey,5,8,13,1,11,2
+New Jersey,5,8,13,0,11,2
 Arkansas,2,6,8,0,8,0
 Maine,1,5,6,0,0,6
 Nebraska,2,4,6,0,3,3

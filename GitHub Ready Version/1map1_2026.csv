@@ -131,8 +131,6 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42041.0,Cumberland,Pennsylvania,-77.2655,40.1636,1,local,1
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,imported,1
 39035.0,Cuyahoga,Ohio,-81.6586,41.4243,3,local,2
-27037.0,Dakota,Minnesota,-93.0654,44.6719,1,imported,0
-27037.0,Dakota,Minnesota,-93.0654,44.6719,1,local,1
 48113.0,Dallas,Texas,-96.7778,32.7666,1,imported,0
 48113.0,Dallas,Texas,-96.7778,32.7666,1,local,1
 55025.0,Dane,Wisconsin,-89.4181,43.0673,1,imported,1
@@ -487,6 +485,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 6085.0,Santa Clara,California,-121.6951,37.2318,2,local,1
 42107.0,Schuylkill,Pennsylvania,-76.216,40.7058,3,imported,0
 42107.0,Schuylkill,Pennsylvania,-76.216,40.7058,3,local,3
+27139.0,Scott,Minnesota,-93.5359,44.6485,1,imported,0
+27139.0,Scott,Minnesota,-93.5359,44.6485,1,local,1
 36099.0,Seneca,New York,-76.8238,42.7811,22,imported,0
 36099.0,Seneca,New York,-76.8238,42.7811,22,local,22
 6089.0,Shasta,California,-122.0405,40.7637,10,imported,0
@@ -533,8 +533,8 @@ fips,county,state,longitude,latitude,cases_total,type,count
 36107.0,Tioga,New York,-76.3063,42.1703,1,local,1
 21219.0,Todd,Kentucky,-87.1792,36.8357,1,imported,0
 21219.0,Todd,Kentucky,-87.1792,36.8357,1,local,1
-27153.0,Todd,Minnesota,-94.8976,46.0706,31,imported,0
-27153.0,Todd,Minnesota,-94.8976,46.0706,31,local,31
+27153.0,Todd,Minnesota,-94.8976,46.0706,20,imported,0
+27153.0,Todd,Minnesota,-94.8976,46.0706,20,local,20
 49045.0,Tooele,Utah,-113.1311,40.4487,19,imported,0
 49045.0,Tooele,Utah,-113.1311,40.4487,19,local,19
 38097.0,Traill,North Dakota,-97.1616,47.4542,1,imported,0
