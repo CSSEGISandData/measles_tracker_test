@@ -551,38 +551,38 @@ fips,county,state,longitude,latitude,recent_two_weeks_cases_total,type,count_2wk
 ,Twin Cities Metro Area,Minnesota,-93.2903,44.9708,0,local,0.0
 ,Union,North Carolina,-80.5307,34.9884,0,imported,0.0
 ,Union,North Carolina,-80.5307,34.9884,0,local,0.0
-,Unknown County,California,-119.347852,35.491035,1,imported,0.0
-,Unknown County,California,-119.347852,35.491035,1,local,1.0
-,Unknown County,Idaho,-115.22461,44.220476,0,imported,0.0
-,Unknown County,Idaho,-115.22461,44.220476,0,local,0.0
-,Unknown County,Illinois,-88.372974,41.312077,0,imported,0.0
-,Unknown County,Illinois,-88.372974,41.312077,0,local,0.0
-,Unknown County,Kansas,-96.409286,38.480984,0,imported,0.0
-,Unknown County,Kansas,-96.409286,38.480984,0,local,0.0
-,Unknown County,Kentucky,-85.261296,37.838308,0,imported,0.0
-,Unknown County,Kentucky,-85.261296,37.838308,0,local,0.0
-,Unknown County,Massachusetts,-71.350366,42.273659,0,imported,0.0
-,Unknown County,Massachusetts,-71.350366,42.273659,0,local,0.0
-,Unknown County,Minnesota,-93.558751,45.18999,1,imported,0.0
-,Unknown County,Minnesota,-93.558751,45.18999,1,local,1.0
-,Unknown County,Nebraska,-97.222143,41.167883,0,imported,0.0
-,Unknown County,Nebraska,-97.222143,41.167883,0,local,0.0
-,Unknown County,New Jersey,-74.424465,40.438248,0,imported,0.0
-,Unknown County,New Jersey,-74.424465,40.438248,0,local,0.0
-,Unknown County,New York,-74.590827,41.471783,1,imported,0.0
-,Unknown County,New York,-74.590827,41.471783,1,local,1.0
-,Unknown County,Oklahoma,-96.854171,35.606866,0,imported,0.0
-,Unknown County,Oklahoma,-96.854171,35.606866,0,local,0.0
-,Unknown County,Oregon,-122.588257,44.753509,2,imported,0.0
-,Unknown County,Oregon,-122.588257,44.753509,2,local,2.0
-,Unknown County,Pennsylvania,-76.965232,40.443486,0,imported,0.0
-,Unknown County,Pennsylvania,-76.965232,40.443486,0,local,0.0
-,Unknown County,South Carolina,-80.996482,34.022471,0,imported,0.0
-,Unknown County,South Carolina,-80.996482,34.022471,0,local,0.0
-,Unknown County,Texas,-97.328656,30.909581,0,imported,0.0
-,Unknown County,Texas,-97.328656,30.909581,0,local,0.0
-,Unknown County,Vermont,-72.82424,44.101952,0,imported,0.0
-,Unknown County,Vermont,-72.82424,44.101952,0,local,0.0
+,Unknown County,California,-119.571346,37.162664,1,imported,0.0
+,Unknown County,California,-119.571346,37.162664,1,local,1.0
+,Unknown County,Idaho,-114.597875,44.352007,0,imported,0.0
+,Unknown County,Idaho,-114.597875,44.352007,0,local,0.0
+,Unknown County,Illinois,-89.152611,40.102875,0,imported,0.0
+,Unknown County,Illinois,-89.152611,40.102875,0,local,0.0
+,Unknown County,Kansas,-98.383430,38.498546,0,imported,0.0
+,Unknown County,Kansas,-98.383430,38.498546,0,local,0.0
+,Unknown County,Kentucky,-85.292980,37.533684,0,imported,0.0
+,Unknown County,Kentucky,-85.292980,37.533684,0,local,0.0
+,Unknown County,Massachusetts,-71.489592,42.156520,0,imported,0.0
+,Unknown County,Massachusetts,-71.489592,42.156520,0,local,0.0
+,Unknown County,Minnesota,-94.199604,46.315957,1,imported,0.0
+,Unknown County,Minnesota,-94.199604,46.315957,1,local,1.0
+,Unknown County,Nebraska,-99.811864,41.543305,0,imported,0.0
+,Unknown County,Nebraska,-99.811864,41.543305,0,local,0.0
+,Unknown County,New Jersey,-74.665201,40.107274,0,imported,0.0
+,Unknown County,New Jersey,-74.665201,40.107274,0,local,0.0
+,Unknown County,New York,-75.596272,42.913397,1,imported,0.0
+,Unknown County,New York,-75.596272,42.913397,1,local,1.0
+,Unknown County,Oklahoma,-97.486779,35.590081,0,imported,0.0
+,Unknown County,Oklahoma,-97.486779,35.590081,0,local,0.0
+,Unknown County,Oregon,-120.622958,43.971712,2,imported,0.0
+,Unknown County,Oregon,-120.622958,43.971712,2,local,2.0
+,Unknown County,Pennsylvania,-77.827523,40.904604,0,imported,0.0
+,Unknown County,Pennsylvania,-77.827523,40.904604,0,local,0.0
+,Unknown County,South Carolina,-80.854264,33.874178,0,imported,0.0
+,Unknown County,South Carolina,-80.854264,33.874178,0,local,0.0
+,Unknown County,Texas,-99.281824,31.434703,0,imported,0.0
+,Unknown County,Texas,-99.281824,31.434703,0,local,0.0
+,Unknown County,Vermont,-72.671017,44.058954,0,imported,0.0
+,Unknown County,Vermont,-72.671017,44.058954,0,local,0.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,imported,0.0
 ,Upper Cumberland Region,Tennessee,-85.5394,36.1541,0,local,0.0
 ,Upshur,Texas,-94.9415,32.7363,0,imported,0.0

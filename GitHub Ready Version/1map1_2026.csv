@@ -619,28 +619,28 @@ fips,county,state,longitude,latitude,cases_total,type,count
 37179.0,Union,North Carolina,-80.5307,34.9884,2,local,2
 42119.0,Union,Pennsylvania,-77.0622,40.963,19,imported,0
 42119.0,Union,Pennsylvania,-77.0622,40.963,19,local,19
-6.0,Unknown County,California,-119.347852,35.491035,1,imported,0
-6.0,Unknown County,California,-119.347852,35.491035,1,local,1
-13.0,Unknown County,Georgia,-83.891248,33.410677,1,imported,0
-13.0,Unknown County,Georgia,-83.891248,33.410677,1,local,1
-17.0,Unknown County,Illinois,-88.372974,41.312077,16,imported,0
-17.0,Unknown County,Illinois,-88.372974,41.312077,16,local,16
-20.0,Unknown County,Kansas,-96.409286,38.480984,9,imported,0
-20.0,Unknown County,Kansas,-96.409286,38.480984,9,local,9
-23.0,Unknown County,Maryland,-76.802227,39.136636,36,imported,0
-23.0,Unknown County,Maryland,-76.802227,39.136636,36,local,36
-25.0,Unknown County,Massachusetts,-71.350366,42.273659,1,imported,1
-25.0,Unknown County,Massachusetts,-71.350366,42.273659,1,local,0
-31.0,Unknown County,Nebraska,-97.222143,41.167883,2,imported,0
-31.0,Unknown County,Nebraska,-97.222143,41.167883,2,local,2
-34.0,Unknown County,New Jersey,-74.424465,40.438248,1,imported,0
-34.0,Unknown County,New Jersey,-74.424465,40.438248,1,local,1
-40109.0,Unknown County,Oklahoma,-96.854171,35.606866,1,imported,0
-40109.0,Unknown County,Oklahoma,-96.854171,35.606866,1,local,1
-41.0,Unknown County,Oregon,-122.588257,44.753509,56,imported,0
-41.0,Unknown County,Oregon,-122.588257,44.753509,56,local,56
-45.0,Unknown County,South Carolina,-80.996482,34.022471,7,imported,0
-45.0,Unknown County,South Carolina,-80.996482,34.022471,7,local,7
+6.0,Unknown County,California,-119.571346,37.162664,1,imported,0
+6.0,Unknown County,California,-119.571346,37.162664,1,local,1
+13.0,Unknown County,Georgia,-83.423511,32.629579,1,imported,0
+13.0,Unknown County,Georgia,-83.423511,32.629579,1,local,1
+17.0,Unknown County,Illinois,-89.152611,40.102875,16,imported,0
+17.0,Unknown County,Illinois,-89.152611,40.102875,16,local,16
+20.0,Unknown County,Kansas,-98.383430,38.498546,9,imported,0
+20.0,Unknown County,Kansas,-98.383430,38.498546,9,local,9
+23.0,Unknown County,Maryland,-76.674494,38.946658,36,imported,0
+23.0,Unknown County,Maryland,-76.674494,38.946658,36,local,36
+25.0,Unknown County,Massachusetts,-71.489592,42.156520,1,imported,1
+25.0,Unknown County,Massachusetts,-71.489592,42.156520,1,local,0
+31.0,Unknown County,Nebraska,-99.811864,41.543305,2,imported,0
+31.0,Unknown County,Nebraska,-99.811864,41.543305,2,local,2
+34.0,Unknown County,New Jersey,-74.665201,40.107274,1,imported,0
+34.0,Unknown County,New Jersey,-74.665201,40.107274,1,local,1
+40109.0,Unknown County,Oklahoma,-97.486779,35.590081,1,imported,0
+40109.0,Unknown County,Oklahoma,-97.486779,35.590081,1,local,1
+41.0,Unknown County,Oregon,-120.622958,43.971712,56,imported,0
+41.0,Unknown County,Oregon,-120.622958,43.971712,56,local,56
+45.0,Unknown County,South Carolina,-80.854264,33.874178,7,imported,0
+45.0,Unknown County,South Carolina,-80.854264,33.874178,7,local,7
 48459.0,Upshur,Texas,-94.9415,32.7363,1,imported,0
 48459.0,Upshur,Texas,-94.9415,32.7363,1,local,1
 49049.0,Utah,Utah,-111.6702,40.1199,100,imported,0

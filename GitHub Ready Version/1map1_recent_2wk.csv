@@ -163,12 +163,12 @@ fips,county,state,longitude,latitude,cases_total,type,count
 39155.0,Trumbull,Ohio,-80.7613,41.317,3,local,3
 42119.0,Union,Pennsylvania,-77.0622,40.963,1,imported,0
 42119.0,Union,Pennsylvania,-77.0622,40.963,1,local,1
-13.0,Unknown County,Georgia,-83.891248,33.410677,1,imported,0
-13.0,Unknown County,Georgia,-83.891248,33.410677,1,local,1
-20.0,Unknown County,Kansas,-96.409286,38.480984,4,imported,0
-20.0,Unknown County,Kansas,-96.409286,38.480984,4,local,4
-23.0,Unknown County,Maryland,-76.802227,39.136636,4,imported,0
-23.0,Unknown County,Maryland,-76.802227,39.136636,4,local,4
+13.0,Unknown County,Georgia,-83.423511,32.629579,1,imported,0
+13.0,Unknown County,Georgia,-83.423511,32.629579,1,local,1
+20.0,Unknown County,Kansas,-98.383430,38.498546,4,imported,0
+20.0,Unknown County,Kansas,-98.383430,38.498546,4,local,4
+23.0,Unknown County,Maryland,-76.674494,38.946658,4,imported,0
+23.0,Unknown County,Maryland,-76.674494,38.946658,4,local,4
 39161.0,Van Wert,Ohio,-84.5861,40.8554,2,imported,0
 39161.0,Van Wert,Ohio,-84.5861,40.8554,2,local,2
 55123.0,Vernon,Wisconsin,-90.8344,43.5939,2,imported,0
