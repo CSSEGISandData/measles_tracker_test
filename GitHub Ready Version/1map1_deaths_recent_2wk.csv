@@ -1,4 +1,5 @@
 fips,county,state,longitude,latitude,deaths_total,type,count
 36.0,Unknown County,New York,-75.596272,42.913397,1,death,1
-42.0,Unknown County,Pennsylvania,-77.827523,40.904604,1,death,1
+42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,1,death,1
+42093.0,Montour,Pennsylvania,-76.6586,41.0279,1,death,1
 55.0,Unknown County,Wisconsin,-89.709392,44.630907,1,death,1

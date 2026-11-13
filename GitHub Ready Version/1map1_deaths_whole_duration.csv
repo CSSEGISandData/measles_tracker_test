@@ -1,9 +1,10 @@
 fips,county,state,longitude,latitude,deaths_total,type,count
 35025.0,Lea,New Mexico,-103.4125,32.7921,1,death,1
 36.0,Unknown County,New York,-75.596272,42.913397,1,death,1
-42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,1,death,1
+42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,2,death,2
 42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,2,death,2
 42087.0,Mifflin,Pennsylvania,-77.617,40.6104,1,death,1
-42.0,Unknown County,Pennsylvania,-77.827523,40.904604,2,death,2
+42093.0,Montour,Pennsylvania,-76.6586,41.0279,1,death,1
+42.0,Unknown County,Pennsylvania,-77.827523,40.904604,1,death,1
 48.0,Unknown County,Texas,-99.281824,31.434703,2,death,2
 55.0,Unknown County,Wisconsin,-89.709392,44.630907,1,death,1
