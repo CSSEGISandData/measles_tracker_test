@@ -5,4 +5,4 @@ fips,county,state,longitude,latitude,deaths_total,type,count
 42087.0,Mifflin,Pennsylvania,-77.617,40.6104,1,death,1
 42093.0,Montour,Pennsylvania,-76.6586,41.0279,1,death,1
 42.0,Unknown County,Pennsylvania,-77.827523,40.904604,1,death,1
-55.0,Unknown County,Wisconsin,-89.709392,44.630907,1,death,1
+55.0,Unknown County,Wisconsin,-89.709392,44.630907,2,death,2
