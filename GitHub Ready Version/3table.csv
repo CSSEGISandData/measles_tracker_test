@@ -1,5 +1,5 @@
 County,Imported,Local,Total,Recent 2 Weeks,2025,2026
-U.S.,254,8115,8369,678,2286,6083
+U.S.,254,8115,8369,640,2286,6083
 "Spartanburg, South Carolina",5,935,940,0,330,610
 "Lancaster, Pennsylvania",0,558,558,49,1,557
 "Gaines, Texas",0,414,414,0,414,0
@@ -18,7 +18,7 @@ U.S.,254,8115,8369,678,2286,6083
 "Collier, Florida",3,96,99,0,0,99
 "Iowa, Wisconsin",0,97,97,0,0,97
 "El Paso, Texas",0,85,85,0,61,24
-"Seneca, New York",0,81,81,33,0,81
+"Seneca, New York",0,81,81,11,0,81
 "Tricounty, Utah",0,80,80,0,0,80
 "Ashtabula, Ohio",3,71,74,11,16,58
 "Christian, Kentucky",0,68,68,2,0,68
@@ -62,7 +62,7 @@ U.S.,254,8115,8369,678,2286,6083
 "Bath, Kentucky",0,23,23,8,0,23
 "Gallatin, Montana",5,18,23,0,23,0
 "Lebanon, Pennsylvania",0,23,23,1,0,23
-"Oswego, New York",0,23,23,1,0,23
+"Oswego, New York",0,23,23,0,0,23
 "Pembina, North Dakota",0,23,23,0,0,23
 "Wayne, Indiana",0,23,23,6,0,23
 "Warren, Pennsylvania",0,22,22,3,0,22
@@ -85,7 +85,7 @@ U.S.,254,8115,8369,678,2286,6083
 "Pinal, Arizona",0,18,18,0,0,18
 "Unknown County, Oklahoma",0,18,18,0,17,1
 "Allen, Indiana",0,16,16,0,8,8
-"Lewis, New York",0,16,16,1,0,16
+"Lewis, New York",0,16,16,0,0,16
 "Sauk, Wisconsin",0,16,16,16,0,16
 "Snohomish, Washington",7,9,16,0,2,14
 "Trumbull, Ohio",0,16,16,3,0,16
@@ -112,10 +112,10 @@ U.S.,254,8115,8369,678,2286,6083
 "Wasatch, Utah",0,12,12,0,9,3
 "Douglas, Illinois",0,11,11,0,0,11
 "Mesa, Colorado",0,11,11,0,11,0
-"Montgomery, New York",0,11,11,4,0,11
+"Montgomery, New York",0,11,11,0,0,11
 "Unknown County, Minnesota",0,11,11,0,11,0
 "Berks, Pennsylvania",0,10,10,1,0,10
-"Chautauqua, New York",0,10,10,3,0,10
+"Chautauqua, New York",0,10,10,2,0,10
 "Crawford, Pennsylvania",0,10,10,9,0,10
 "Elk, Pennsylvania",0,10,10,0,0,10
 "Jennings, Indiana",0,10,10,2,0,10
@@ -127,7 +127,7 @@ U.S.,254,8115,8369,678,2286,6083
 "Shasta, California",0,10,10,0,0,10
 "Stevens, Kansas",0,10,10,0,10,0
 "Twin Cities Metro Area, Minnesota",10,0,10,0,10,0
-"Wayne, New York",0,10,10,1,0,10
+"Wayne, New York",0,10,10,0,0,10
 "Adams, Colorado",1,8,9,0,4,5
 "Cook, Illinois",2,7,9,0,8,1
 "HHS District 5, Iowa",0,9,9,1,0,9
@@ -136,7 +136,7 @@ U.S.,254,8115,8369,678,2286,6083
 "Northern Region, Virginia",0,9,9,0,0,9
 "Placer, California",1,8,9,0,1,8
 "Ashland, Ohio",0,8,8,0,0,8
-"Broward, Florida",5,3,8,1,2,6
+"Broward, Florida",5,3,8,0,2,6
 "Carroll, Maryland",0,8,8,0,0,8
 "Cass, North Dakota",2,6,8,0,7,1
 "Duval, Florida",0,8,8,0,1,7
@@ -176,7 +176,7 @@ U.S.,254,8115,8369,678,2286,6083
 "Boundary, Idaho",0,6,6,0,6,0
 "Cambria, Pennsylvania",0,6,6,0,0,6
 "Canyon, Idaho",0,6,6,0,0,6
-"Cayuga, New York",0,6,6,3,0,6
+"Cayuga, New York",0,6,6,1,0,6
 "Eastern, Iowa",1,5,6,0,6,0
 "Faulkner, Arkansas",1,5,6,0,6,0
 "Fayette, Kentucky",0,6,6,0,6,0
@@ -195,7 +195,7 @@ U.S.,254,8115,8369,678,2286,6083
 "Riverside, California",1,5,6,0,1,5
 "Sandoval, New Mexico",0,6,6,0,6,0
 "St. Joseph, Michigan",0,6,6,6,0,6
-"St. Lawrence, New York",0,6,6,5,0,6
+"St. Lawrence, New York",0,6,6,0,0,6
 "Switzerland, Indiana",0,6,6,0,0,6
 "Upshur, Texas",0,6,6,0,5,1
 "Bandera, Texas",5,0,5,0,0,5
