@@ -5,16 +5,16 @@ fips,county,state,longitude,latitude,cases_total,type,count
 18001.0,Adams,Indiana,-84.9367,40.7457,2,local,2
 21003.0,Allen,Kentucky,-86.1904,36.7513,1,imported,0
 21003.0,Allen,Kentucky,-86.1904,36.7513,1,local,1
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,11,imported,0
-39007.0,Ashtabula,Ohio,-80.7482,41.7072,11,local,11
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,5,imported,0
+39007.0,Ashtabula,Ohio,-80.7482,41.7072,5,local,5
 55005.0,Barron,Wisconsin,-91.8483,45.4237,1,imported,0
 55005.0,Barron,Wisconsin,-91.8483,45.4237,1,local,1
 21011.0,Bath,Kentucky,-83.7427,38.145,8,imported,0
 21011.0,Bath,Kentucky,-83.7427,38.145,8,local,8
 42011.0,Berks,Pennsylvania,-75.926,40.4163,3,imported,0
 42011.0,Berks,Pennsylvania,-75.926,40.4163,3,local,3
-12011.0,Broward,Florida,-80.4871,26.1523,1,imported,1
-12011.0,Broward,Florida,-80.4871,26.1523,1,local,0
+42013.0,Blair,Pennsylvania,-78.3483,40.4811,1,imported,0
+42013.0,Blair,Pennsylvania,-78.3483,40.4811,1,local,1
 42017.0,Bucks,Pennsylvania,-75.1069,40.337,1,imported,0
 42017.0,Bucks,Pennsylvania,-75.1069,40.337,1,local,1
 55011.0,Buffalo,Wisconsin,-91.7545,44.3798,1,imported,0
@@ -23,36 +23,38 @@ fips,county,state,longitude,latitude,cases_total,type,count
 30009.0,Carbon,Montana,-109.0281,45.2274,2,local,2
 36009.0,Cattaraugus,New York,-78.6788,42.2486,3,imported,0
 36009.0,Cattaraugus,New York,-78.6788,42.2486,3,local,3
-36011.0,Cayuga,New York,-76.5545,42.9175,3,imported,0
-36011.0,Cayuga,New York,-76.5545,42.9175,3,local,3
-0.0,Central Region,Virginia,-78.21679447,37.4025616,37,imported,0
-0.0,Central Region,Virginia,-78.21679447,37.4025616,37,local,37
+36011.0,Cayuga,New York,-76.5545,42.9175,2,imported,0
+36011.0,Cayuga,New York,-76.5545,42.9175,2,local,2
+0.0,Central Region,Virginia,-78.21679447,37.4025616,45,imported,0
+0.0,Central Region,Virginia,-78.21679447,37.4025616,45,local,45
 42027.0,Centre,Pennsylvania,-77.8199,40.9189,9,imported,0
 42027.0,Centre,Pennsylvania,-77.8199,40.9189,9,local,9
-36013.0,Chautauqua,New York,-79.3663,42.2281,3,imported,0
-36013.0,Chautauqua,New York,-79.3663,42.2281,3,local,3
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,6,imported,0
-42029.0,Chester,Pennsylvania,-75.7484,39.9731,6,local,6
-55017.0,Chippewa,Wisconsin,-91.2799,45.0694,1,imported,0
-55017.0,Chippewa,Wisconsin,-91.2799,45.0694,1,local,1
-21047.0,Christian,Kentucky,-87.4904,36.8941,2,imported,0
-21047.0,Christian,Kentucky,-87.4904,36.8941,2,local,2
+36013.0,Chautauqua,New York,-79.3663,42.2281,4,imported,0
+36013.0,Chautauqua,New York,-79.3663,42.2281,4,local,4
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,7,imported,0
+42029.0,Chester,Pennsylvania,-75.7484,39.9731,7,local,7
+55017.0,Chippewa,Wisconsin,-91.2799,45.0694,3,imported,0
+55017.0,Chippewa,Wisconsin,-91.2799,45.0694,3,local,3
+21047.0,Christian,Kentucky,-87.4904,36.8941,3,imported,0
+21047.0,Christian,Kentucky,-87.4904,36.8941,3,local,3
 42031.0,Clarion,Pennsylvania,-79.421,41.1924,2,imported,0
 42031.0,Clarion,Pennsylvania,-79.421,41.1924,2,local,2
 18019.0,Clark,Indiana,-85.7073,38.4772,2,imported,0
 18019.0,Clark,Indiana,-85.7073,38.4772,2,local,2
-55019.0,Clark,Wisconsin,-90.6121,44.7347,5,imported,0
-55019.0,Clark,Wisconsin,-90.6121,44.7347,5,local,5
+55019.0,Clark,Wisconsin,-90.6121,44.7347,11,imported,0
+55019.0,Clark,Wisconsin,-90.6121,44.7347,11,local,11
 42035.0,Clinton,Pennsylvania,-77.6385,41.234,13,imported,0
 42035.0,Clinton,Pennsylvania,-77.6385,41.234,13,local,13
 17029.0,Coles,Illinois,-88.2218,39.5203,2,imported,0
 17029.0,Coles,Illinois,-88.2218,39.5203,2,local,2
-55021.0,Columbia,Wisconsin,-89.3337,43.4666,14,imported,0
-55021.0,Columbia,Wisconsin,-89.3337,43.4666,14,local,14
-42039.0,Crawford,Pennsylvania,-80.1062,41.6847,9,imported,0
-42039.0,Crawford,Pennsylvania,-80.1062,41.6847,9,local,9
-55023.0,Crawford,Wisconsin,-90.931,43.2395,1,imported,0
-55023.0,Crawford,Wisconsin,-90.931,43.2395,1,local,1
+55021.0,Columbia,Wisconsin,-89.3337,43.4666,68,imported,0
+55021.0,Columbia,Wisconsin,-89.3337,43.4666,68,local,68
+36023.0,Cortland,New York,-76.0703,42.595,1,imported,0
+36023.0,Cortland,New York,-76.0703,42.595,1,local,1
+42039.0,Crawford,Pennsylvania,-80.1062,41.6847,10,imported,0
+42039.0,Crawford,Pennsylvania,-80.1062,41.6847,10,local,10
+55023.0,Crawford,Wisconsin,-90.931,43.2395,13,imported,0
+55023.0,Crawford,Wisconsin,-90.931,43.2395,13,local,13
 42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,5,imported,0
 42043.0,Dauphin,Pennsylvania,-76.7794,40.4155,5,local,5
 18027.0,Daviess,Indiana,-87.072,38.7024,4,imported,0
@@ -61,18 +63,20 @@ fips,county,state,longitude,latitude,cases_total,type,count
 26041.0,Delta,Michigan,-86.9241,45.9193,1,local,1
 55033.0,Dunn,Wisconsin,-91.8964,44.9466,1,imported,0
 55033.0,Dunn,Wisconsin,-91.8964,44.9466,1,local,1
+55035.0,Eau Claire,Wisconsin,-91.286,44.7268,2,imported,0
+55035.0,Eau Claire,Wisconsin,-91.286,44.7268,2,local,2
 18039.0,Elkhart,Indiana,-85.8587,41.5974,4,imported,0
 18039.0,Elkhart,Indiana,-85.8587,41.5974,4,local,4
 18041.0,Fayette,Indiana,-85.1788,39.64,2,imported,0
 18041.0,Fayette,Indiana,-85.1788,39.64,2,local,2
 42055.0,Franklin,Pennsylvania,-77.7213,39.9274,2,imported,0
 42055.0,Franklin,Pennsylvania,-77.7213,39.9274,2,local,2
-39055.0,Geauga,Ohio,-81.1786,41.4996,11,imported,0
-39055.0,Geauga,Ohio,-81.1786,41.4996,11,local,11
-55043.0,Grant,Wisconsin,-90.7062,42.8675,90,imported,0
-55043.0,Grant,Wisconsin,-90.7062,42.8675,90,local,90
-55047.0,Green Lake,Wisconsin,-89.0449,43.8004,9,imported,0
-55047.0,Green Lake,Wisconsin,-89.0449,43.8004,9,local,9
+39055.0,Geauga,Ohio,-81.1786,41.4996,9,imported,0
+39055.0,Geauga,Ohio,-81.1786,41.4996,9,local,9
+55043.0,Grant,Wisconsin,-90.7062,42.8675,91,imported,0
+55043.0,Grant,Wisconsin,-90.7062,42.8675,91,local,91
+55047.0,Green Lake,Wisconsin,-89.0449,43.8004,30,imported,0
+55047.0,Green Lake,Wisconsin,-89.0449,43.8004,30,local,30
 19.0,HHS District 3,Iowa,-92.5625,42.7727,2,imported,0
 19.0,HHS District 3,Iowa,-92.5625,42.7727,2,local,2
 19.0,HHS District 5,Iowa,-93.6479,41.6804,1,imported,0
@@ -87,50 +91,46 @@ fips,county,state,longitude,latitude,cases_total,type,count
 26059.0,Hillsdale,Michigan,-84.5929,41.8878,4,local,4
 39075.0,Holmes,Ohio,-81.9293,40.5612,4,imported,0
 39075.0,Holmes,Ohio,-81.9293,40.5612,4,local,4
-42063.0,Indiana,Pennsylvania,-79.0876,40.652,6,imported,0
-42063.0,Indiana,Pennsylvania,-79.0876,40.652,6,local,6
+42063.0,Indiana,Pennsylvania,-79.0876,40.652,7,imported,0
+42063.0,Indiana,Pennsylvania,-79.0876,40.652,7,local,7
 39079.0,Jackson,Ohio,-82.6184,39.0196,1,imported,0
 39079.0,Jackson,Ohio,-82.6184,39.0196,1,local,1
-55053.0,Jackson,Wisconsin,-90.8052,44.3192,47,imported,0
-55053.0,Jackson,Wisconsin,-90.8052,44.3192,47,local,47
+55053.0,Jackson,Wisconsin,-90.8052,44.3192,81,imported,0
+55053.0,Jackson,Wisconsin,-90.8052,44.3192,81,local,81
 18075.0,Jay,Indiana,-85.0056,40.4379,1,imported,0
 18075.0,Jay,Indiana,-85.0056,40.4379,1,local,1
-42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,18,imported,0
-42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,18,local,18
+42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,20,imported,0
+42065.0,Jefferson,Pennsylvania,-78.9994,41.1282,20,local,20
 18079.0,Jennings,Indiana,-85.6281,38.9969,2,imported,0
 18079.0,Jennings,Indiana,-85.6281,38.9969,2,local,2
 27065.0,Kanabec,Minnesota,-93.2934,45.9452,1,imported,0
 27065.0,Kanabec,Minnesota,-93.2934,45.9452,1,local,1
+10001.0,Kent,Delaware,-75.5686,39.086,1,imported,0
+10001.0,Kent,Delaware,-75.5686,39.086,1,local,1
 18085.0,Kosciusko,Indiana,-85.8607,41.2441,1,imported,0
 18085.0,Kosciusko,Indiana,-85.8607,41.2441,1,local,1
 18087.0,LaGrange,Indiana,-85.4265,41.6426,7,imported,0
 18087.0,LaGrange,Indiana,-85.4265,41.6426,7,local,7
-55065.0,Lafayette,Wisconsin,-90.1317,42.6605,2,imported,0
-55065.0,Lafayette,Wisconsin,-90.1317,42.6605,2,local,2
+55065.0,Lafayette,Wisconsin,-90.1317,42.6605,14,imported,0
+55065.0,Lafayette,Wisconsin,-90.1317,42.6605,14,local,14
 42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,49,imported,0
 42071.0,Lancaster,Pennsylvania,-76.2477,40.0424,49,local,49
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,1,imported,0
 42075.0,Lebanon,Pennsylvania,-76.4577,40.3672,1,local,1
-36049.0,Lewis,New York,-75.4486,43.7851,1,imported,0
-36049.0,Lewis,New York,-75.4486,43.7851,1,local,1
 42081.0,Lycoming,Pennsylvania,-77.0645,41.3434,5,imported,0
 42081.0,Lycoming,Pennsylvania,-77.0645,41.3434,5,local,5
-13193.0,Macon,Georgia,-84.0425,32.3584,3,imported,0
-13193.0,Macon,Georgia,-84.0425,32.3584,3,local,3
-39099.0,Mahoning,Ohio,-80.7763,41.0146,2,imported,0
-39099.0,Mahoning,Ohio,-80.7763,41.0146,2,local,2
-55077.0,Marquette,Wisconsin,-89.3987,43.8196,28,imported,0
-55077.0,Marquette,Wisconsin,-89.3987,43.8196,28,local,28
-39103.0,Medina,Ohio,-81.8997,41.1176,1,imported,0
-39103.0,Medina,Ohio,-81.8997,41.1176,1,local,1
+39099.0,Mahoning,Ohio,-80.7763,41.0146,1,imported,0
+39099.0,Mahoning,Ohio,-80.7763,41.0146,1,local,1
+55073.0,Marathon,Wisconsin,-89.7591,44.8983,2,imported,0
+55073.0,Marathon,Wisconsin,-89.7591,44.8983,2,local,2
+55077.0,Marquette,Wisconsin,-89.3987,43.8196,68,imported,0
+55077.0,Marquette,Wisconsin,-89.3987,43.8196,68,local,68
 42085.0,Mercer,Pennsylvania,-80.2577,41.3022,3,imported,0
 42085.0,Mercer,Pennsylvania,-80.2577,41.3022,3,local,3
-55081.0,Monroe,Wisconsin,-90.6178,43.9457,1,imported,0
-55081.0,Monroe,Wisconsin,-90.6178,43.9457,1,local,1
+55081.0,Monroe,Wisconsin,-90.6178,43.9457,6,imported,0
+55081.0,Monroe,Wisconsin,-90.6178,43.9457,6,local,6
 18107.0,Montgomery,Indiana,-86.8933,40.0404,1,imported,0
 18107.0,Montgomery,Indiana,-86.8933,40.0404,1,local,1
-36057.0,Montgomery,New York,-74.4397,42.9023,4,imported,0
-36057.0,Montgomery,New York,-74.4397,42.9023,4,local,4
 17139.0,Moultrie,Illinois,-88.6193,39.6415,3,imported,0
 17139.0,Moultrie,Illinois,-88.6193,39.6415,3,local,3
 21181.0,Nicholas,Kentucky,-84.0153,38.3356,4,imported,0
@@ -141,64 +141,64 @@ fips,county,state,longitude,latitude,cases_total,type,count
 42097.0,Northumberland,Pennsylvania,-76.7095,40.852,1,local,1
 20139.0,Osage,Kansas,-95.7269,38.6523,11,imported,0
 20139.0,Osage,Kansas,-95.7269,38.6523,11,local,11
-36075.0,Oswego,New York,-76.1413,43.4269,1,imported,0
-36075.0,Oswego,New York,-76.1413,43.4269,1,local,1
 36077.0,Otsego,New York,-75.0326,42.6338,8,imported,0
 36077.0,Otsego,New York,-75.0326,42.6338,8,local,8
 18121.0,Parke,Indiana,-87.2064,39.7736,2,imported,0
 18121.0,Parke,Indiana,-87.2064,39.7736,2,local,2
 39125.0,Paulding,Ohio,-84.5802,41.1166,1,imported,0
 39125.0,Paulding,Ohio,-84.5802,41.1166,1,local,1
+55091.0,Pepin,Wisconsin,-92.0016,44.5829,2,imported,0
+55091.0,Pepin,Wisconsin,-92.0016,44.5829,2,local,2
 42099.0,Perry,Pennsylvania,-77.2623,40.3984,1,imported,0
 42099.0,Perry,Pennsylvania,-77.2623,40.3984,1,local,1
-39131.0,Pike,Ohio,-83.0668,39.0773,3,imported,0
-39131.0,Pike,Ohio,-83.0668,39.0773,3,local,3
+39131.0,Pike,Ohio,-83.0668,39.0773,2,imported,0
+39131.0,Pike,Ohio,-83.0668,39.0773,2,local,2
+55099.0,Price,Wisconsin,-90.3614,45.6804,21,imported,0
+55099.0,Price,Wisconsin,-90.3614,45.6804,21,local,21
 27123.0,Ramsey,Minnesota,-93.0996,45.0171,1,imported,0
 27123.0,Ramsey,Minnesota,-93.0996,45.0171,1,local,1
 18135.0,Randolph,Indiana,-85.0113,40.1576,2,imported,0
 18135.0,Randolph,Indiana,-85.0113,40.1576,2,local,2
 26151.0,Sanilac,Michigan,-82.8203,43.4236,2,imported,0
 26151.0,Sanilac,Michigan,-82.8203,43.4236,2,local,2
-55111.0,Sauk,Wisconsin,-89.9482,43.4267,16,imported,0
-55111.0,Sauk,Wisconsin,-89.9482,43.4267,16,local,16
+55111.0,Sauk,Wisconsin,-89.9482,43.4267,17,imported,0
+55111.0,Sauk,Wisconsin,-89.9482,43.4267,17,local,17
 36097.0,Schuyler,New York,-76.8752,42.3938,1,imported,0
 36097.0,Schuyler,New York,-76.8752,42.3938,1,local,1
 42107.0,Schuylkill,Pennsylvania,-76.216,40.7058,1,imported,0
 42107.0,Schuylkill,Pennsylvania,-76.216,40.7058,1,local,1
 27139.0,Scott,Minnesota,-93.5359,44.6485,1,imported,0
 27139.0,Scott,Minnesota,-93.5359,44.6485,1,local,1
-36099.0,Seneca,New York,-76.8238,42.7811,33,imported,0
-36099.0,Seneca,New York,-76.8238,42.7811,33,local,33
-55115.0,Shawano,Wisconsin,-88.7654,44.7892,1,imported,0
-55115.0,Shawano,Wisconsin,-88.7654,44.7892,1,local,1
+36099.0,Seneca,New York,-76.8238,42.7811,43,imported,0
+36099.0,Seneca,New York,-76.8238,42.7811,43,local,43
+55115.0,Shawano,Wisconsin,-88.7654,44.7892,6,imported,0
+55115.0,Shawano,Wisconsin,-88.7654,44.7892,6,local,6
+,Southwest Region,Virginia,-81.21939124,37.03794692,2,imported,0
+,Southwest Region,Virginia,-81.21939124,37.03794692,2,local,2
 26149.0,St. Joseph,Michigan,-85.5278,41.9144,6,imported,0
 26149.0,St. Joseph,Michigan,-85.5278,41.9144,6,local,6
-36089.0,St. Lawrence,New York,-75.0691,44.4964,5,imported,0
-36089.0,St. Lawrence,New York,-75.0691,44.4964,5,local,5
 18151.0,Steuben,Indiana,-85.0008,41.6439,2,imported,0
 18151.0,Steuben,Indiana,-85.0008,41.6439,2,local,2
+36101.0,Steuben,New York,-77.3838,42.2678,1,imported,0
+36101.0,Steuben,New York,-77.3838,42.2678,1,local,1
 21219.0,Todd,Kentucky,-87.1792,36.8357,1,imported,0
 21219.0,Todd,Kentucky,-87.1792,36.8357,1,local,1
 27153.0,Todd,Minnesota,-94.8976,46.0706,62,imported,0
 27153.0,Todd,Minnesota,-94.8976,46.0706,62,local,62
-21221.0,Trigg,Kentucky,-87.8733,36.8064,1,imported,0
-21221.0,Trigg,Kentucky,-87.8733,36.8064,1,local,1
-39155.0,Trumbull,Ohio,-80.7613,41.317,3,imported,0
-39155.0,Trumbull,Ohio,-80.7613,41.317,3,local,3
-39157.0,Tuscarawas,Ohio,-81.4737,40.4409,2,imported,0
-39157.0,Tuscarawas,Ohio,-81.4737,40.4409,2,local,2
+21221.0,Trigg,Kentucky,-87.8733,36.8064,7,imported,0
+21221.0,Trigg,Kentucky,-87.8733,36.8064,7,local,7
+39155.0,Trumbull,Ohio,-80.7613,41.317,1,imported,0
+39155.0,Trumbull,Ohio,-80.7613,41.317,1,local,1
 42119.0,Union,Pennsylvania,-77.0622,40.963,1,imported,0
 42119.0,Union,Pennsylvania,-77.0622,40.963,1,local,1
-39.0,Unknown County,Ohio,-82.711997,40.414930,1,imported,0
-39.0,Unknown County,Ohio,-82.711997,40.414930,1,local,1
 42123.0,Warren,Pennsylvania,-79.2741,41.8145,3,imported,0
 42123.0,Warren,Pennsylvania,-79.2741,41.8145,3,local,3
+55135.0,Waupaca,Wisconsin,-88.9648,44.4705,5,imported,0
+55135.0,Waupaca,Wisconsin,-88.9648,44.4705,5,local,5
 18177.0,Wayne,Indiana,-85.0099,39.8644,6,imported,0
 18177.0,Wayne,Indiana,-85.0099,39.8644,6,local,6
-36117.0,Wayne,New York,-77.0294,43.1566,1,imported,0
-36117.0,Wayne,New York,-77.0294,43.1566,1,local,1
-39169.0,Wayne,Ohio,-81.888,40.8289,9,imported,0
-39169.0,Wayne,Ohio,-81.888,40.8289,9,local,9
+39169.0,Wayne,Ohio,-81.888,40.8289,8,imported,0
+39169.0,Wayne,Ohio,-81.888,40.8289,8,local,8
 29229.0,Wright,Missouri,-92.4687,37.2702,3,imported,0
 29229.0,Wright,Missouri,-92.4687,37.2702,3,local,3
 42133.0,York,Pennsylvania,-76.7265,39.92,5,imported,0
